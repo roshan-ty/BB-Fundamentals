@@ -1,0 +1,984 @@
+{
+  "meta": {
+    "source": "Financial Modeling Prep, Alpha Vantage, Finnhub",
+    "last_updated": "2026-07-12T16:14:59.546208+00:00",
+    "total_events": 97,
+    "breakdown_by_impact": {
+      "high_impact_events": 97,
+      "medium_impact_events": 0,
+      "low_impact_events": 0
+    }
+  },
+  "events": [
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2025-01-01",
+      "actual": 23850.442,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2024-01-01",
+      "actual": 23358.435,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2023-01-01",
+      "actual": 22723.719,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2022-01-01",
+      "actual": 22075.931,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2021-01-01",
+      "actual": 21532.407,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2020-01-01",
+      "actual": 20284.5,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2019-01-01",
+      "actual": 20715.671,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2018-01-01",
+      "actual": 20193.896,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2017-01-01",
+      "actual": 19612.102,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2016-01-01",
+      "actual": 19141.672,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2015-01-01",
+      "actual": 18799.622,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2014-01-01",
+      "actual": 18261.714,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2013-01-01",
+      "actual": 17812.167,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2012-01-01",
+      "actual": 17442.759,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2011-01-01",
+      "actual": 17052.41,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2010-01-01",
+      "actual": 16789.75,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2009-01-01",
+      "actual": 16349.11,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2008-01-01",
+      "actual": 16781.485,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2007-01-01",
+      "actual": 16762.445,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2006-01-01",
+      "actual": 16433.148,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2005-01-01",
+      "actual": 15987.957,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2004-01-01",
+      "actual": 15449.757,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2003-01-01",
+      "actual": 14877.312,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2002-01-01",
+      "actual": 14472.712,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2001-01-01",
+      "actual": 14230.726,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "2000-01-01",
+      "actual": 14096.033,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1999-01-01",
+      "actual": 13543.774,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1998-01-01",
+      "actual": 12924.876,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1997-01-01",
+      "actual": 12370.299,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1996-01-01",
+      "actual": 11843.599,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1995-01-01",
+      "actual": 11413.012,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1994-01-01",
+      "actual": 11114.647,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1993-01-01",
+      "actual": 10684.179,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1992-01-01",
+      "actual": 10398.046,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1991-01-01",
+      "actual": 10044.238,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1990-01-01",
+      "actual": 10055.129,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1989-01-01",
+      "actual": 9869.003,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1988-01-01",
+      "actual": 9519.427,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1987-01-01",
+      "actual": 9137.745,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1986-01-01",
+      "actual": 8832.611,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1985-01-01",
+      "actual": 8537.004,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1984-01-01",
+      "actual": 8195.295,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1983-01-01",
+      "actual": 7642.266,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1982-01-01",
+      "actual": 7307.314,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1981-01-01",
+      "actual": 7441.485,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1980-01-01",
+      "actual": 7257.316,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1979-01-01",
+      "actual": 7275.999,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1978-01-01",
+      "actual": 7052.711,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1977-01-01",
+      "actual": 6682.804,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1976-01-01",
+      "actual": 6387.437,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1975-01-01",
+      "actual": 6060.875,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1974-01-01",
+      "actual": 6073.363,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1973-01-01",
+      "actual": 6106.371,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1972-01-01",
+      "actual": 5780.048,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1971-01-01",
+      "actual": 5491.445,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1970-01-01",
+      "actual": 5316.391,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1969-01-01",
+      "actual": 5306.594,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1968-01-01",
+      "actual": 5145.914,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1967-01-01",
+      "actual": 4904.864,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1966-01-01",
+      "actual": 4773.931,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1965-01-01",
+      "actual": 4478.555,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1964-01-01",
+      "actual": 4205.277,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1963-01-01",
+      "actual": 3976.142,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1962-01-01",
+      "actual": 3810.124,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1961-01-01",
+      "actual": 3590.066,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1960-01-01",
+      "actual": 3500.272,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1959-01-01",
+      "actual": 3412.421,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1958-01-01",
+      "actual": 3191.216,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1957-01-01",
+      "actual": 3215.065,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1956-01-01",
+      "actual": 3148.765,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1955-01-01",
+      "actual": 3083.026,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1954-01-01",
+      "actual": 2877.708,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1953-01-01",
+      "actual": 2894.411,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1952-01-01",
+      "actual": 2764.803,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1951-01-01",
+      "actual": 2656.32,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1950-01-01",
+      "actual": 2458.532,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1949-01-01",
+      "actual": 2261.928,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1948-01-01",
+      "actual": 2274.627,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1947-01-01",
+      "actual": 2184.614,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1946-01-01",
+      "actual": 2209.911,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1945-01-01",
+      "actual": 2500.057,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1944-01-01",
+      "actual": 2524.752,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1943-01-01",
+      "actual": 2338.761,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1942-01-01",
+      "actual": 1998.542,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1941-01-01",
+      "actual": 1681.049,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1940-01-01",
+      "actual": 1428.075,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1939-01-01",
+      "actual": 1312.365,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1938-01-01",
+      "actual": 1214.869,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1937-01-01",
+      "actual": 1256.503,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1936-01-01",
+      "actual": 1195.251,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1935-01-01",
+      "actual": 1058.836,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1934-01-01",
+      "actual": 972.263,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1933-01-01",
+      "actual": 877.431,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1932-01-01",
+      "actual": 888.414,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1931-01-01",
+      "actual": 1019.977,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1930-01-01",
+      "actual": 1089.785,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    },
+    {
+      "event_name": "Real Gross Domestic Product",
+      "country": "United States",
+      "timestamp": "1929-01-01",
+      "actual": 1191.124,
+      "consensus": null,
+      "previous": null,
+      "impact_level": "High",
+      "source": "alphavantage"
+    }
+  ]
+}
