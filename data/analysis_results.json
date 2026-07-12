@@ -1,0 +1,2265 @@
+{
+  "meta": {
+    "application": "Bulls & Bears Fundamentals",
+    "engine": "Quantitative Institutional Analysis Engine",
+    "version": "1.0.0",
+    "last_updated": "2026-07-12T16:16:39.246424+00:00",
+    "total_instruments_analyzed": 83,
+    "reference_fed_funds_rate": 3.63
+  },
+  "market_summary": {
+    "average_composite_score": 5.7145,
+    "median_composite_score": 5.375,
+    "standard_deviation_of_scores": 0.8631,
+    "bias_distribution_across_all_instruments": {
+      "Very Bearish": 0,
+      "Bearish": 6,
+      "Neutral": 0,
+      "Bullish": 77,
+      "Very Bullish": 0
+    }
+  },
+  "instruments": [
+    {
+      "symbol": "EURUSD=X",
+      "display_name": "Euro / United States Dollar (EUR/USD)",
+      "asset_class": "forex_majors",
+      "current_spot_pricing": 1.141944,
+      "twenty_four_hour_percentage_price_variance": -0.0228,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.00% = 359.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "GBPUSD=X",
+      "display_name": "British Pound Sterling / United States Dollar (GBP/USD)",
+      "asset_class": "forex_majors",
+      "current_spot_pricing": 1.340141,
+      "twenty_four_hour_percentage_price_variance": -0.1059,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 5.25% = 357.75%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDJPY=X",
+      "display_name": "United States Dollar / Japanese Yen (USD/JPY)",
+      "asset_class": "forex_majors",
+      "current_spot_pricing": 161.671997,
+      "twenty_four_hour_percentage_price_variance": -0.5334,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 0.10% = 362.90%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "AUDUSD=X",
+      "display_name": "Australian Dollar / United States Dollar (AUD/USD)",
+      "asset_class": "forex_majors",
+      "current_spot_pricing": 0.695507,
+      "twenty_four_hour_percentage_price_variance": 0.1536,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.50% = 358.50%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDCAD=X",
+      "display_name": "United States Dollar / Canadian Dollar (USD/CAD)",
+      "asset_class": "forex_majors",
+      "current_spot_pricing": 1.4153,
+      "twenty_four_hour_percentage_price_variance": -0.0664,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 3.50% = 359.50%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDCHF=X",
+      "display_name": "United States Dollar / Swiss Franc (USD/CHF)",
+      "asset_class": "forex_majors",
+      "current_spot_pricing": 0.8078,
+      "twenty_four_hour_percentage_price_variance": 0.1562,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 3.50% = 359.50%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "NZDUSD=X",
+      "display_name": "New Zealand Dollar / United States Dollar (NZD/USD)",
+      "asset_class": "forex_majors",
+      "current_spot_pricing": 0.576302,
+      "twenty_four_hour_percentage_price_variance": 0.0127,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.50% = 358.50%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "EURGBP=X",
+      "display_name": "Euro / British Pound Sterling (EUR/GBP)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 0.85167,
+      "twenty_four_hour_percentage_price_variance": -0.0962,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.00% = 359.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "EURJPY=X",
+      "display_name": "Euro / Japanese Yen (EUR/JPY)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 184.554001,
+      "twenty_four_hour_percentage_price_variance": -0.5813,
+      "calculated_comprehensive_fundamental_bias": "Bearish",
+      "final_composite_score": 3.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 1.0,
+          "reasoning": "Rate differential: 0.10% - 363.00% = -362.90%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "EURCHF=X",
+      "display_name": "Euro / Swiss Franc (EUR/CHF)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 0.9224,
+      "twenty_four_hour_percentage_price_variance": -0.0574,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.00% = 359.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "EURNZD=X",
+      "display_name": "Euro / New Zealand Dollar (EUR/NZD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 1.98049,
+      "twenty_four_hour_percentage_price_variance": -0.8516,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.00% = 359.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "EURAUD=X",
+      "display_name": "Euro / Australian Dollar (EUR/AUD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 1.64114,
+      "twenty_four_hour_percentage_price_variance": -0.3322,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.00% = 359.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "GBPJPY=X",
+      "display_name": "British Pound Sterling / Japanese Yen (GBP/JPY)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 216.688004,
+      "twenty_four_hour_percentage_price_variance": -0.4617,
+      "calculated_comprehensive_fundamental_bias": "Bearish",
+      "final_composite_score": 3.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 1.0,
+          "reasoning": "Rate differential: 0.10% - 363.00% = -362.90%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "GBPCHF=X",
+      "display_name": "British Pound Sterling / Swiss Franc (GBP/CHF)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 1.0831,
+      "twenty_four_hour_percentage_price_variance": 0.0933,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 5.25% = 357.75%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "GBPAUD=X",
+      "display_name": "British Pound Sterling / Australian Dollar (GBP/AUD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 1.92839,
+      "twenty_four_hour_percentage_price_variance": -0.177,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 5.25% = 357.75%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "GBPNZD=X",
+      "display_name": "British Pound Sterling / New Zealand Dollar (GBP/NZD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 2.32658,
+      "twenty_four_hour_percentage_price_variance": -0.0464,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 5.25% = 357.75%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "AUDJPY=X",
+      "display_name": "Australian Dollar / Japanese Yen (AUD/JPY)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 112.417,
+      "twenty_four_hour_percentage_price_variance": -0.2785,
+      "calculated_comprehensive_fundamental_bias": "Bearish",
+      "final_composite_score": 3.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 1.0,
+          "reasoning": "Rate differential: 0.10% - 363.00% = -362.90%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "AUDCHF=X",
+      "display_name": "Australian Dollar / Swiss Franc (AUD/CHF)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 0.5602,
+      "twenty_four_hour_percentage_price_variance": 0.0323,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.50% = 358.50%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "AUDNZD=X",
+      "display_name": "Australian Dollar / New Zealand Dollar (AUD/NZD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 1.20622,
+      "twenty_four_hour_percentage_price_variance": 0.1062,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.50% = 358.50%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "CADJPY=X",
+      "display_name": "Canadian Dollar / Japanese Yen (CAD/JPY)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 114.213997,
+      "twenty_four_hour_percentage_price_variance": -0.4411,
+      "calculated_comprehensive_fundamental_bias": "Bearish",
+      "final_composite_score": 3.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 1.0,
+          "reasoning": "Rate differential: 0.10% - 363.00% = -362.90%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "CHFJPY=X",
+      "display_name": "Swiss Franc / Japanese Yen (CHF/JPY)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 199.973007,
+      "twenty_four_hour_percentage_price_variance": -0.5672,
+      "calculated_comprehensive_fundamental_bias": "Bearish",
+      "final_composite_score": 3.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 1.0,
+          "reasoning": "Rate differential: 0.10% - 363.00% = -362.90%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "NZDJPY=X",
+      "display_name": "New Zealand Dollar / Japanese Yen (NZD/JPY)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 93.157997,
+      "twenty_four_hour_percentage_price_variance": 0.3079,
+      "calculated_comprehensive_fundamental_bias": "Bearish",
+      "final_composite_score": 3.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 1.0,
+          "reasoning": "Rate differential: 0.10% - 363.00% = -362.90%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "EURNOK=X",
+      "display_name": "Euro / Norwegian Krone (EUR/NOK)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 11.16298,
+      "twenty_four_hour_percentage_price_variance": 0.1479,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.00% = 359.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "EURSEK=X",
+      "display_name": "Euro / Swedish Krona (EUR/SEK)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 11.02775,
+      "twenty_four_hour_percentage_price_variance": -0.369,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 7.075,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 10.0,
+          "reasoning": "Rate differential: 363.00% - 4.00% = 359.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDNOK=X",
+      "display_name": "United States Dollar / Norwegian Krone (USD/NOK)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 9.7703,
+      "twenty_four_hour_percentage_price_variance": 0.6001,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDSEK=X",
+      "display_name": "United States Dollar / Swedish Krona (USD/SEK)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 9.65892,
+      "twenty_four_hour_percentage_price_variance": -0.3232,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDSGD=X",
+      "display_name": "United States Dollar / Singapore Dollar (USD/SGD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 1.2914,
+      "twenty_four_hour_percentage_price_variance": -0.0464,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDHKD=X",
+      "display_name": "United States Dollar / Hong Kong Dollar (USD/HKD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 7.8396,
+      "twenty_four_hour_percentage_price_variance": 0.0485,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDKRW=X",
+      "display_name": "United States Dollar / South Korean Won (USD/KRW)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 1498.869995,
+      "twenty_four_hour_percentage_price_variance": -0.4675,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDTWD=X",
+      "display_name": "United States Dollar / Taiwan Dollar (USD/TWD)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 32.098999,
+      "twenty_four_hour_percentage_price_variance": 0.0056,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDINR=X",
+      "display_name": "United States Dollar / Indian Rupee (USD/INR)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 95.370003,
+      "twenty_four_hour_percentage_price_variance": -0.0212,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDBRL=X",
+      "display_name": "United States Dollar / Brazilian Real (USD/BRL)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 5.1075,
+      "twenty_four_hour_percentage_price_variance": -1.0845,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDMXN=X",
+      "display_name": "United States Dollar / Mexican Peso (USD/MXN)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 17.462,
+      "twenty_four_hour_percentage_price_variance": -0.4345,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDZAR=X",
+      "display_name": "United States Dollar / South African Rand (USD/ZAR)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 16.346701,
+      "twenty_four_hour_percentage_price_variance": 0.1943,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDTRY=X",
+      "display_name": "United States Dollar / Turkish Lira (USD/TRY)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 46.9627,
+      "twenty_four_hour_percentage_price_variance": 0.0319,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "USDPLN=X",
+      "display_name": "United States Dollar / Polish Zloty (USD/PLN)",
+      "asset_class": "forex_crosses",
+      "current_spot_pricing": 3.7851,
+      "twenty_four_hour_percentage_price_variance": -0.0061,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.325,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Rate differential: 363.00% - 363.00% = 0.00%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.3,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat yield curve (0.35%) - neutral for currencies"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'currencies'"
+        }
+      }
+    },
+    {
+      "symbol": "^DJI",
+      "display_name": "Industrial Average Dow Jones 30 Index (^DJI)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 52637.011719,
+      "twenty_four_hour_percentage_price_variance": 0.285,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^GSPC",
+      "display_name": "Standard & Poor's 500 Index (^GSPC)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 7575.390137,
+      "twenty_four_hour_percentage_price_variance": 0.4209,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^IXIC",
+      "display_name": "NASDAQ Composite 100 Index (^IXIC)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 26281.609375,
+      "twenty_four_hour_percentage_price_variance": 0.2851,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^RUT",
+      "display_name": "Russell 2000 Small-Cap Index (^RUT)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 2977.810059,
+      "twenty_four_hour_percentage_price_variance": -0.4922,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^VIX",
+      "display_name": "CBOE Volatility Index (^VIX)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 15.03,
+      "twenty_four_hour_percentage_price_variance": -5.1136,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^FTSE",
+      "display_name": "Financial Times Stock Exchange 100 Index (^FTSE)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 10497.299805,
+      "twenty_four_hour_percentage_price_variance": 0.2368,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^N225",
+      "display_name": "Nikkei 225 Stock Average Index (^N225)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 68557.726562,
+      "twenty_four_hour_percentage_price_variance": 1.2014,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^AXJO",
+      "display_name": "S&P/ASX 200 Australian Index (^AXJO)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 8806.0,
+      "twenty_four_hour_percentage_price_variance": 0.4964,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^HSI",
+      "display_name": "Hang Seng Hong Kong Index (^HSI)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 24175.119141,
+      "twenty_four_hour_percentage_price_variance": 0.6032,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^STOXX50E",
+      "display_name": "EURO STOXX 50 Index (^STOXX50E)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 6269.970215,
+      "twenty_four_hour_percentage_price_variance": -0.2275,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^FCHI",
+      "display_name": "CAC 40 French Index (^FCHI)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 8338.969727,
+      "twenty_four_hour_percentage_price_variance": 0.1483,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^GDAXI",
+      "display_name": "DAX 30 German Index (^GDAXI)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 25067.089844,
+      "twenty_four_hour_percentage_price_variance": -0.2038,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^BSESN",
+      "display_name": "BSE SENSEX Indian Index (^BSESN)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 77569.390625,
+      "twenty_four_hour_percentage_price_variance": 1.0784,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^NSEI",
+      "display_name": "NIFTY 50 Indian Index (^NSEI)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 24206.900391,
+      "twenty_four_hour_percentage_price_variance": 1.0187,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^KS11",
+      "display_name": "KOSPI South Korean Index (^KS11)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 7475.939941,
+      "twenty_four_hour_percentage_price_variance": 2.5238,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^TWII",
+      "display_name": "TSEC Weighted Taiwan Index (^TWII)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 45354.609375,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^BVSP",
+      "display_name": "IBOVESPA Brazilian Index (^BVSP)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 177866.0,
+      "twenty_four_hour_percentage_price_variance": 2.9663,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^MXX",
+      "display_name": "IPC Mexican Index (^MXX)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 66496.101562,
+      "twenty_four_hour_percentage_price_variance": 0.5882,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "^IPSA",
+      "display_name": "IPSA Chilean Index (^IPSA)",
+      "asset_class": "global_indices",
+      "current_spot_pricing": 11056.870117,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.925,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.5,
+          "reasoning": "Yield curve normalizing: 0.35%"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 6.5,
+          "reasoning": "Normal positive curve (0.35%) - supportive"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'indices'"
+        }
+      }
+    },
+    {
+      "symbol": "GC=F",
+      "display_name": "Gold Futures (GC=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 4113.700195,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "SI=F",
+      "display_name": "Silver Futures (SI=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 60.165001,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "CL=F",
+      "display_name": "Crude Oil West Texas Intermediate Futures (CL=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 71.410004,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "BZ=F",
+      "display_name": "Brent Crude Oil Futures (BZ=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 76.010002,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "NG=F",
+      "display_name": "Natural Gas Futures (NG=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 2.94,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "HG=F",
+      "display_name": "Copper Futures (HG=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 6.282,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "PL=F",
+      "display_name": "Platinum Futures (PL=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 1629.0,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "PA=F",
+      "display_name": "Palladium Futures (PA=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 1276.300049,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "ZC=F",
+      "display_name": "Corn Futures (ZC=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 461.0,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "ZW=F",
+      "display_name": "Wheat Futures (ZW=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 640.25,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "ZS=F",
+      "display_name": "Soybean Futures (ZS=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 1190.75,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "KC=F",
+      "display_name": "Coffee C Futures (KC=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 318.600006,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "CT=F",
+      "display_name": "Cotton Futures (CT=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 79.919998,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "SB=F",
+      "display_name": "Sugar Futures (SB=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 14.86,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "CC=F",
+      "display_name": "Cocoa Futures (CC=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 6100.0,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.5,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
+      "symbol": "BTC-USD",
+      "display_name": "Bitcoin / United States Dollar (BTC-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 64064.441406,
+      "twenty_four_hour_percentage_price_variance": 0.4113,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "ETH-USD",
+      "display_name": "Ethereum / United States Dollar (ETH-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 1818.699951,
+      "twenty_four_hour_percentage_price_variance": 1.7113,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "SOL-USD",
+      "display_name": "Solana / United States Dollar (SOL-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 77.419998,
+      "twenty_four_hour_percentage_price_variance": 0.7756,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "BNB-USD",
+      "display_name": "BNB / United States Dollar (BNB-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 581.140015,
+      "twenty_four_hour_percentage_price_variance": 1.0873,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "XRP-USD",
+      "display_name": "XRP / United States Dollar (XRP-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 1.1004,
+      "twenty_four_hour_percentage_price_variance": 0.2568,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "ADA-USD",
+      "display_name": "Cardano / United States Dollar (ADA-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 0.1643,
+      "twenty_four_hour_percentage_price_variance": -1.0044,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "DOGE-USD",
+      "display_name": "Dogecoin / United States Dollar (DOGE-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 0.07354,
+      "twenty_four_hour_percentage_price_variance": 0.3699,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "DOT-USD",
+      "display_name": "Polkadot / United States Dollar (DOT-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 0.843,
+      "twenty_four_hour_percentage_price_variance": -1.3038,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "AVAX-USD",
+      "display_name": "Avalanche / United States Dollar (AVAX-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 6.39,
+      "twenty_four_hour_percentage_price_variance": -2.4815,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "LINK-USD",
+      "display_name": "Chainlink / United States Dollar (LINK-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 8.051,
+      "twenty_four_hour_percentage_price_variance": 1.6042,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "ATOM-USD",
+      "display_name": "Cosmos / United States Dollar (ATOM-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 1.585,
+      "twenty_four_hour_percentage_price_variance": 0.2743,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "LTC-USD",
+      "display_name": "Litecoin / United States Dollar (LTC-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 44.73,
+      "twenty_four_hour_percentage_price_variance": 0.0769,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    },
+    {
+      "symbol": "BCH-USD",
+      "display_name": "Bitcoin Cash / United States Dollar (BCH-USD)",
+      "asset_class": "crypto",
+      "current_spot_pricing": 244.419998,
+      "twenty_four_hour_percentage_price_variance": 0.0055,
+      "calculated_comprehensive_fundamental_bias": "Bullish",
+      "final_composite_score": 5.1,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 4.0,
+          "reasoning": "Restrictive rates (3.63%) - bearish for crypto"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 6.8,
+          "reasoning": "CPI: Inflation decelerating (+0.47%) - modestly supportive | GDP: Strong GDP growth (+0.52%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.35%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "Neutral net positioning (0.0% of OI)"
+        }
+      }
+    }
+  ]
+}
