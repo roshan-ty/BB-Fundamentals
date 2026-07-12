@@ -1019,6 +1019,140 @@ a:hover {
 .text-secondary { color: var(--text-secondary); }
 
 /* ------------------------------------------------------------------- */
+/* Skeleton Loading States                                              */
+/* ------------------------------------------------------------------- */
+@keyframes skeletonPulse {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 0.8; }
+}
+.skeleton-cell {
+    background: var(--border-color);
+    border-radius: 3px;
+    animation: skeletonPulse 1.5s ease-in-out infinite;
+}
+.skeleton-card {
+    min-height: 120px;
+}
+.skeleton-card .skeleton-cell {
+    margin-bottom: 8px;
+}
+
+/* ------------------------------------------------------------------- */
+/* Error & Empty States                                                 */
+/* ------------------------------------------------------------------- */
+.error-state {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-muted);
+}
+.error-icon {
+    font-size: 2rem;
+    margin-bottom: 12px;
+    color: var(--accent-amber);
+}
+.error-message {
+    font-size: 0.9rem;
+    margin-bottom: 16px;
+    line-height: 1.5;
+}
+.error-retry-btn {
+    padding: 8px 20px;
+    background: var(--accent-blue);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: background var(--transition-fast);
+}
+.error-retry-btn:hover {
+    background: var(--accent-emerald);
+}
+
+.empty-state {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+/* ------------------------------------------------------------------- */
+/* Freshness Indicator                                                  */
+/* ------------------------------------------------------------------- */
+.freshness-indicator {
+    font-size: 0.65rem;
+    color: var(--text-muted);
+    font-family: var(--font-mono);
+    padding: 2px 8px;
+    background: var(--bg-tertiary);
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--border-color);
+    white-space: nowrap;
+}
+
+/* ------------------------------------------------------------------- */
+/* Table Summary Row                                                    */
+/* ------------------------------------------------------------------- */
+.table-summary {
+    padding: 8px 12px;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border-color);
+    font-family: var(--font-mono);
+}
+
+/* ------------------------------------------------------------------- */
+/* CFTC Class Header                                                    */
+/* ------------------------------------------------------------------- */
+.cftc-class-header {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    padding: 8px 12px;
+    background: var(--bg-secondary);
+    border-radius: var(--radius-sm);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cftc-count {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+
+/* ------------------------------------------------------------------- */
+/* Heatmap Section Title                                                */
+/* ------------------------------------------------------------------- */
+.heatmap-section-title {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* ------------------------------------------------------------------- */
+/* Table Container Scroll Wrapper                                       */
+/* ------------------------------------------------------------------- */
+.table-container-scroll {
+    overflow-x: auto;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+}
+
+/* ------------------------------------------------------------------- */
+/* Text Wrap Utility                                                    */
+/* ------------------------------------------------------------------- */
+.td-wrap {
+    white-space: normal !important;
+    word-break: break-word;
+    max-width: 200px;
+}
+
+/* ------------------------------------------------------------------- */
 /* Print Styles                                                         */
 /* ------------------------------------------------------------------- */
 @media print {

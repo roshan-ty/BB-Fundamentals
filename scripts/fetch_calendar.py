@@ -35,6 +35,7 @@ OUTPUT_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "
 # API Endpoints
 FMP_BASE_URL = "https://financialmodelingprep.com/api/v3"
 ALPHAVANTAGE_BASE_URL = "https://www.alphavantage.co/query"
+FINNHUB_BASE_URL = "https://finnhub.io/api/v1"
 
 # Retry configuration
 MAX_RETRIES = 3
@@ -170,6 +171,75 @@ def fetch_fmp_calendar(api_key: str, days_ahead: int = 14) -> List[Dict[str, Any
 
     except Exception as e:
         logger.error(f"Unexpected error fetching FMP calendar: {e}")
+
+    return events
+
+
+def fetch_finnhub_calendar(api_key: str) -> List[Dict[str, Any]]:
+    """
+    Fetch economic calendar events from Finnhub API.
+    Finnhub provides a dedicated economic calendar endpoint.
+    """
+    events: List[Dict[str, Any]] = []
+    if not api_key:
+        logger.warning("No Finnhub API key provided. Skipping Finnhub calendar fetch.")
+        return events
+
+    try:
+        url = f"{FINNHUB_BASE_URL}/calendar/economic"
+        params = {"token": api_key}
+
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                logger.info(f"Fetching economic calendar from Finnhub - Attempt {attempt}/{MAX_RETRIES}")
+                response = requests.get(url, params=params, timeout=REQUEST_TIMEOUT)
+                response.raise_for_status()
+                data = response.json()
+
+                economic_calendar = data.get("economicCalendar", [])
+                if not economic_calendar:
+                    logger.warning("No economic calendar data returned from Finnhub")
+                    return events
+
+                for entry in economic_calendar:
+                    try:
+                        event_name = entry.get("event", "") or entry.get("name", "")
+                        if not event_name:
+                            continue
+
+                        event_date = entry.get("time", "") or entry.get("date", "") or ""
+                        actual_val = entry.get("actual", "")
+                        consensus_val = entry.get("estimate", "") or entry.get("consensus", "") or ""
+                        previous_val = entry.get("previous", "") or ""
+                        country = entry.get("country", "") or "Global"
+
+                        events.append({
+                            "event_name": event_name.strip(),
+                            "country": country,
+                            "timestamp": event_date,
+                            "actual": safe_float(actual_val),
+                            "consensus": safe_float(consensus_val),
+                            "previous": safe_float(previous_val),
+                            "impact_level": classify_impact_level(event_name),
+                            "source": "finnhub",
+                        })
+                    except (KeyError, ValueError, TypeError) as e:
+                        logger.debug(f"Error parsing Finnhub entry: {e}")
+                        continue
+
+                logger.info(f"Fetched {len(events)} events from Finnhub")
+                return events
+
+            except requests.exceptions.RequestException as e:
+                logger.warning(f"Finnhub request failed: {e}")
+                if attempt < MAX_RETRIES:
+                    wait_time = RETRY_DELAY_SECONDS * (2 ** (attempt - 1))
+                    time.sleep(wait_time)
+
+        logger.error("All Finnhub attempts failed.")
+
+    except Exception as e:
+        logger.error(f"Unexpected error fetching Finnhub calendar: {e}")
 
     return events
 
@@ -334,12 +404,13 @@ def main() -> None:
 
     api_keys = load_environment_variables()
 
-    # Fetch from multiple sources in parallel (sequential due to simplicity)
+    # Fetch from multiple sources
     fmp_events = fetch_fmp_calendar(api_keys.get("fmp_key", ""))
     av_events = fetch_alphavantage_calendar(api_keys.get("alphavantage_key", ""))
+    finnhub_events = fetch_finnhub_calendar(api_keys.get("finnhub_key", ""))
 
     # Merge all event sources
-    all_events = merge_and_deduplicate([fmp_events, av_events])
+    all_events = merge_and_deduplicate([fmp_events, av_events, finnhub_events])
 
     if not all_events:
         logger.warning("No economic calendar events were fetched. Writing empty dataset.")

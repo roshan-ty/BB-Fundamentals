@@ -24,6 +24,14 @@ const AppState = {
         newsData: null,
         analysisResults: null,
     },
+    dataTimestamps: {
+        marketBias: null,
+        macroData: null,
+        cftcData: null,
+        calendarData: null,
+        newsData: null,
+        analysisResults: null,
+    },
     filters: {
         bias: { assetClass: 'all', sort: 'asset_class', search: '' },
         cftc: { classFilter: 'all' },
@@ -32,13 +40,12 @@ const AppState = {
         news: { tag: 'all' },
         cot: { symbolClass: '' },
     },
-    // Canvas chart instances
     charts: {
         cotCanvas: null,
         drawerChart: null,
     },
-    // Data loading promises
     loadingPromises: {},
+    resizeObservers: [],
 };
 
 // =====================================================================
@@ -191,6 +198,67 @@ const Utils = {
     },
 
     /**
+     * Get a relative time string (e.g., "5m ago", "2h ago")
+     */
+    timeAgo(dateStr) {
+        if (!dateStr) return 'unknown';
+        try {
+            const date = new Date(dateStr);
+            if (isNaN(date.getTime())) return 'unknown';
+            const diff = Date.now() - date.getTime();
+            const mins = Math.floor(diff / 60000);
+            if (mins < 1) return 'just now';
+            if (mins < 60) return `${mins}m ago`;
+            const hours = Math.floor(mins / 60);
+            if (hours < 24) return `${hours}h ago`;
+            const days = Math.floor(hours / 24);
+            return `${days}d ago`;
+        } catch (e) {
+            return 'unknown';
+        }
+    },
+
+    /**
+     * Get data freshness label for display.
+     */
+    getDataFreshnessLabel(key) {
+        const ts = AppState.dataTimestamps[key];
+        if (!ts) return 'Waiting for pipeline...';
+        return `Last updated: ${this.timeAgo(ts)}`;
+    },
+
+    /**
+     * Create skeleton loading rows for tables.
+     */
+    createSkeletonRows(count = 8, cols = 9) {
+        let html = '';
+        for (let r = 0; r < count; r++) {
+            html += '<tr>';
+            for (let c = 0; c < cols; c++) {
+                html += `<td><div class="skeleton-cell" style="width:${40 + Math.random() * 50}px;height:12px;"></div></td>`;
+            }
+            html += '</tr>';
+        }
+        return html;
+    },
+
+    /**
+     * Create skeleton loading cards.
+     */
+    createSkeletonCards(count = 6) {
+        let html = '';
+        for (let i = 0; i < count; i++) {
+            html += `
+            <div class="macro-card skeleton-card">
+                <div class="skeleton-cell" style="width:70%;height:14px;margin-bottom:12px;"></div>
+                <div class="skeleton-cell" style="width:40%;height:24px;margin-bottom:8px;"></div>
+                <div class="skeleton-cell" style="width:90%;height:10px;"></div>
+            </div>`;
+        }
+        return html;
+    },
+
+    /**
      * Check if a date falls within a specific range from today.
      */
     isDateInRange(dateStr, range) {
@@ -271,6 +339,7 @@ const DataLoader = {
             if (!AppState.loadingPromises[key]) {
                 AppState.loadingPromises[key] = this.fetchJSON(path).then(data => {
                     AppState.data[key] = data;
+                    AppState.dataTimestamps[key] = new Date().toISOString();
                     AppState.loadingPromises[key] = null;
                     return data;
                 }).catch(err => {
@@ -1395,27 +1464,32 @@ const DetailDrawer = {
 
         body.innerHTML = html;
 
-        // Draw mini chart
+        // Historical performance context - uses real data from pipeline
         const chartCanvas = document.getElementById('drawerMiniChart');
         if (chartCanvas) {
-            // Generate some synthetic historical data for visualization
-            const basePrice = instrument.current_spot_pricing || 100;
-            const points = 30;
-            const data = [];
-            let price = basePrice * 0.95;
-            for (let i = 0; i < points; i++) {
-                price += (Math.random() - 0.48) * basePrice * 0.02;
-                data.push({
-                    label: `D-${points - i}`,
-                    value: price,
-                });
-            }
-
-            ChartEngine.drawBarChart(chartCanvas, data.map((d, idx) => ({
-                label: idx % 5 === 0 ? d.label : '',
-                value: d.value - basePrice,
-                displayValue: d.value.toFixed(2),
-            })), { title: `Recent Price Action` });
+            const ctx = chartCanvas.getContext('2d');
+            const dpr = window.devicePixelRatio || 1;
+            const parent = chartCanvas.parentElement;
+            const rect = parent.getBoundingClientRect();
+            chartCanvas.width = rect.width * dpr;
+            chartCanvas.height = rect.height * dpr;
+            chartCanvas.style.width = rect.width + 'px';
+            chartCanvas.style.height = rect.height + 'px';
+            ctx.scale(dpr, dpr);
+            
+            // Clear canvas
+            ctx.clearRect(0, 0, rect.width, rect.height);
+            ctx.fillStyle = getComputedStyle(chartCanvas).backgroundColor || '#1e293b';
+            ctx.fillRect(0, 0, rect.width, rect.height);
+            
+            // Show pending message - real historical data requires yfinance multi-day fetch
+            ctx.fillStyle = '#64748b';
+            ctx.font = '12px Inter, sans-serif';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText('Historical price data pending', rect.width / 2, rect.height / 2 - 8);
+            ctx.font = '10px Inter, sans-serif';
+            ctx.fillText('Multi-day data will appear after 2+ pipeline runs', rect.width / 2, rect.height / 2 + 14);
         }
 
         // Load related news

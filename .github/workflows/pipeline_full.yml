@@ -2,15 +2,12 @@ name: Full Data Pipeline (30-60 min cycle)
 
 on:
   schedule:
-    # Run every 30 minutes during market hours, every 60 minutes otherwise
-    - cron: '*/30 * * * 1-5'   # Weekdays: every 30 minutes
-    - cron: '0 * * * 0,6'      # Weekends: every 60 minutes
-  workflow_dispatch:           # Allow manual trigger
+    - cron: '*/30 * * * 1-5'
+    - cron: '0 * * * 0,6'
+  workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   full-pipeline:
@@ -47,16 +44,15 @@ jobs:
         run: python scripts/fetch_cftc.py
 
       - name: Run Yahoo Finance Prices Pipeline
-        env:
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
         run: python scripts/fetch_yfinance.py
 
       - name: Run Quantitative Analysis Engine
         run: python scripts/analysis_engine.py
 
-      - name: Force-add updated JSON files
+      - name: Force-add all generated data files
         run: |
-          git add --force data/*.json scripts/*.py .github/workflows/*.yml
+          git add --force data/*.json
+          git add scripts/*.py .github/workflows/*.yml index.html style.css app.js
           git status
 
       - name: Commit and push changes
@@ -68,15 +64,3 @@ jobs:
             git pull origin main --rebase --autostash || true
             git push origin main
           )
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5

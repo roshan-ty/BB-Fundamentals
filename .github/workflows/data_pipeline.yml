@@ -2,15 +2,12 @@ name: High-Frequency Data Pipeline (5-15 min cycle)
 
 on:
   schedule:
-    # Run every 10 minutes during weekdays, every 15 minutes weekends
-    - cron: '*/10 * * * 1-5'   # Weekdays: every 10 minutes
-    - cron: '*/15 * * * 0,6'   # Weekends: every 15 minutes
-  workflow_dispatch:           # Allow manual trigger
+    - cron: '*/10 * * * 1-5'
+    - cron: '*/15 * * * 0,6'
+  workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   high-frequency-pipeline:
@@ -64,15 +61,3 @@ jobs:
             git pull origin main --rebase --autostash || true
             git push origin main
           )
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
