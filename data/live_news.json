@@ -1,18 +1,60 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-12T20:10:16.947198+00:00",
+    "last_updated": "2026-07-12T23:14:02.123967+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 57,
-      "macro": 32,
-      "general": 98,
-      "forex": 19,
-      "equities": 40,
+      "macro": 36,
+      "equities": 41,
+      "crypto": 56,
+      "general": 97,
+      "forex": 18,
       "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "Economic and event calendar in Asia Monday, July 13, 2026 - empty ahead",
+      "description": "<p>We just had the one data point on the agenda today:</p><p><a href=\"https://investinglive.com/news/nz-services-sector-returns-to-growth-as-psi-hits-50-6-in-june/\" rel=\"follow\">NZ services sector returns to growth as PSI hits 50.6 in June</a></p><ul><li>NZ's BNZ-BusinessNZ Performance of Services I",
+      "source": "Forexlive",
+      "publication_date": "2026-07-12T22:44:30+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-monday-july-13-2026-empty-ahead",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "NZ services sector returns to growth as PSI hits 50.6 in June",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\">June's move back above the 50.0 breakeven line offers the first tangible sign that New Zealand's services sector, which makes up the bulk of the economy, is stabilising after a prolonged soft patch, and combined with the reported sur",
+      "source": "Forexlive",
+      "publication_date": "2026-07-12T22:36:16+00:00",
+      "article_url": "https://investinglive.com/news/nz-services-sector-returns-to-growth-as-psi-hits-50-6-in-june",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Incoming UK PM Burnham eyes expansive autumn budget, may merge fiscal statement with spending review - reports",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\">A combined autumn fiscal statement covering both tax measures and departmental budgets would represent a significant shift in UK fiscal signalling, potentially giving gilt markets and sterling traders a single, higher-stakes event to",
+      "source": "Forexlive",
+      "publication_date": "2026-07-12T21:35:34+00:00",
+      "article_url": "https://investinglive.com/news/incoming-uk-pm-burnham-eyes-expansive-autumn-budget-may-merge-fiscal-statement-with-spending-review-reports",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Weeknd ICYMI: Iran closes Strait of Hormuz, expands Gulf strikes after US hits Iranian targets",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\">The widening of Iranian strikes to Qatar and the UAE, states that had avoided attack for months, signals a material escalation that traders will read as a fresh supply-risk premium event rather than a contained flare-up. With Tehran ",
+      "source": "Forexlive",
+      "publication_date": "2026-07-12T20:32:43+00:00",
+      "article_url": "https://investinglive.com/news/weeknd-icymi-iran-closes-strait-of-hormuz-expands-gulf-strikes-after-us-hits-iranian-targets",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Signs of life?: State of Crypto",
       "description": "",
@@ -126,6 +168,16 @@
       "source": "Reuters",
       "publication_date": "2026-07-12T13:30:09+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM04zYVJRb2pfTkwzT0lIUm8wWHpKRkc4WE9TazFxdGQ4RktValc5UXhBbmM3ZGlHaFNBZm5MVDI4a3dDMG8zX2pza3NSb2o5dS1RYVNLUzFhd0wtOFZucWdhcHMzZFgyRWRaNUJUOUJ6VXp2ZEl4NXFmeXFiRWQzZDNQbWFqRDRpVnZXNmNwWmQ0a3RMeDRkTUQ0NkZXUUhZUHc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Gulf bourses subdued as US and Iran exchange strikes - Reuters",
+      "description": "Gulf bourses subdued as US and Iran exchange strikes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-12T13:07:13+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1pXOXRCNmZyZWlJV04zUzZFZmtwSG01b1IwN3VENmRyaTRoOThIR3hHbmJVTWNpU1NVTVNtRUMzTmNWXzg1WGdfeEFnZUNEQ3BUdUwyTVdickl6aFdqRzRUOHJ2VXA4Wk9oazhIdnFoczZwa2Jld1hPOEZIRlprYk9SWndKdEU3Z3RTSWhSZWF5MnZYRzNxWVEtRUlpakhU?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -575,7 +627,7 @@
       "headline": "Trump says missiles aimed at Iran if Tehran targets US president - Reuters",
       "description": "Trump says missiles aimed at Iran if Tehran targets US president Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-11T03:35:00+00:00",
+      "publication_date": "2026-07-11T03:45:58+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzc3RWxTLVZuRllmY19VQ244ZjcxcjY2TVRNWnh1WkI1ck5qUkFyMzBZNTZTYUZqbTVRSmc4V3BqMl9zY21GdnJmSGU0OTNRd0Q4ekxDMnlGQ0I1UEJScFZhUGZoZ1A1aEdZTWRYZ0FGazJ3aXpJd2Zad044SzhMWXFETXRmQnBvTnMxSjhzdXVjZnp1YmRkNWJlVWdqWWdFdnRKeHlrOFQtdjZqRk9mMFhMbFFHUQ?oc=5",
       "asset_tags": [
         "general"
@@ -1275,16 +1327,6 @@
       ]
     },
     {
-      "headline": "Traffic slows through Strait of Hormuz as Iran tensions flare - Reuters",
-      "description": "Traffic slows through Strait of Hormuz as Iran tensions flare Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-10T11:42:32+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzU4SVRwMVVlZ2pOM2Z2YWdjVGhfR01qSU5GbXB5R0JlT2JuLTRaTWMyRzZsOUdOeDV2OVM3SEpteHFrajBWUHdVdXdmZTREbXh3MFFvSEFNNXNyMGZXbThNRXVWazhhQklGcHZNWDREcjVIclUyVDduRWpQaV9pWlphcVJVbUViMFN1Q0NiZ1dLczdqZzh5VzRYakk3WUJyMnVUOWRiVUpYaTlPc2luNFVzeTRQMkVHQ3lfdjVrRHhFT3NESXAwWQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Circle soars after securing U.S. trust bank approval in crypto expansion",
       "description": "",
       "source": "CoinDesk",
@@ -1292,6 +1334,16 @@
       "article_url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Traffic slows through Strait of Hormuz as Iran tensions flare - Reuters",
+      "description": "Traffic slows through Strait of Hormuz as Iran tensions flare Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-10T11:39:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzU4SVRwMVVlZ2pOM2Z2YWdjVGhfR01qSU5GbXB5R0JlT2JuLTRaTWMyRzZsOUdOeDV2OVM3SEpteHFrajBWUHdVdXdmZTREbXh3MFFvSEFNNXNyMGZXbThNRXVWazhhQklGcHZNWDREcjVIclUyVDduRWpQaV9pWlphcVJVbUViMFN1Q0NiZ1dLczdqZzh5VzRYakk3WUJyMnVUOWRiVUpYaTlPc2luNFVzeTRQMkVHQ3lfdjVrRHhFT3NESXAwWQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2022,56 +2074,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/09/3325175/0/en/FinTech-Publication-Treasury-Launches-to-Bring-Plain-Sourced-Reporting-to-Investors.html",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Deutz strikes $1.8B deal for FFG, expanding defense business amid European rearmament",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-09T19:49:33+00:00",
-      "article_url": "https://seekingalpha.com/news/4612746-deutz-strikes-1_8b-deal-for-ffg-expanding-defense-business-amid-european-rearmament?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "White House says it received no Democratic nominees for SEC, CFTC vacancies",
-      "description": "Both US financial regulators are understaffed at the leadership level and lacking Democratic commissioners, with no announcement from President Donald Trump on filling the roles.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-09T19:48:37+00:00",
-      "article_url": "https://cointelegraph.com/news/white-house-request-cftc-sec-nominations-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Forget TACO. Trump's best Mexican food acronym is TAMALES - Reuters",
-      "description": "Forget TACO. Trump's best Mexican food acronym is TAMALES Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-09T19:44:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVlCTE1xSndQd2lBWjRreFBZa1JLTGliSWlweWprR2xYMS1OeE5pc2ZCLUE5VzJadUIwUWRhdXpya3dFYkFGMmY1eDB1cDV6ZkFXZnNOZFVGSGlvNmRMSEtTVC1PRmx5TWoxU1dkRDVtLWc5SWdOb0RvTENKR3N1a2FETVlUY3ZTS0ZQa0lNb0VtMnE1VEdUa1lzOVBfMXR4ZzI1VVhCQUtIbTRCX1lpZjJIMDREcm02WmR2M2ppSjdKUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Phantom, Hyperliquid ask CFTC to modernize rules for onchain derivatives",
-      "description": "The companies urged the regulator to exempt blockchain developers and non-custodial wallet providers from rules designed for traditional financial intermediaries.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-09T19:36:52+00:00",
-      "article_url": "https://cointelegraph.com/news/phantom-hyperliquid-ask-cftc-to-modernize-rules-for-onchain-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-09T19:34:24+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
