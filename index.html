@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bulls & Bears Fundamentals</title>
+    <meta name="description" content="Premium institutional-grade financial terminal with quantitative fundamental analysis">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- ------------------------------------------------------------------ -->
+    <!-- Top Bar: Partner Banner + Theme Toggle + Status Indicator          -->
+    <!-- ------------------------------------------------------------------ -->
+    <header class="top-bar" id="topBar">
+        <div class="top-bar-left">
+            <div class="partner-badge">
+                <span class="partner-text">Partnered with TradersYard Prop Firm</span>
+                <span class="promo-code" id="promoCode" title="Click to copy promo code">ROSHAN</span>
+                <a href="https://shop.tradersyard.com/ref/1486/" target="_blank" rel="noopener noreferrer" class="partner-link">
+                    Visit TradersYard &#8599;
+                </a>
+            </div>
+        </div>
+        <div class="top-bar-center">
+            <div class="app-title">
+                <span class="app-icon">&#x1F4C8;</span>
+                <h1>Bulls & Bears Fundamentals</h1>
+            </div>
+        </div>
+        <div class="top-bar-right">
+            <div class="status-indicator" id="statusIndicator">
+                <span class="status-dot pulse" id="statusDot"></span>
+                <span class="status-text" id="statusText">Live</span>
+            </div>
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                <span class="theme-icon" id="themeIcon">&#x2600;</span>
+            </button>
+        </div>
+    </header>
+
+    <!-- ------------------------------------------------------------------ -->
+    <!-- Navigation Tabs                                                     -->
+    <!-- ------------------------------------------------------------------ -->
+    <nav class="tab-navigation" id="tabNavigation">
+        <button class="tab-button active" data-tab="bias" title="Market Bias Distribution Engine">
+            Market Bias Distribution Engine
+        </button>
+        <button class="tab-button" data-tab="macro" title="Macroeconomic Foundation Indicators">
+            Macroeconomic Foundation Indicators
+        </button>
+        <button class="tab-button" data-tab="cftc" title="Commitment of Traders Data Matrix">
+            Commitment of Traders Data Matrix
+        </button>
+        <button class="tab-button" data-tab="heatmap" title="Multi-Timeframe Asset Heatmap">
+            Multi-Timeframe Asset Heatmap
+        </button>
+        <button class="tab-button" data-tab="cotgraph" title="Commitment of Traders Historical Analytics">
+            Commitment of Traders Historical Analytics
+        </button>
+        <button class="tab-button" data-tab="calendar" title="Real-Time Economic Release Calendar">
+            Real-Time Economic Release Calendar
+        </button>
+        <button class="tab-button" data-tab="news" title="Live Global Market Intelligence Feed">
+            Live Global Market Intelligence Feed
+        </button>
+    </nav>
+
+    <!-- ------------------------------------------------------------------ -->
+    <!-- Main Content Area                                                   -->
+    <!-- ------------------------------------------------------------------ -->
+    <main class="main-content" id="mainContent">
+
+        <!-- ==================== TAB: Market Bias ======================== -->
+        <section class="tab-panel active" id="tab-bias">
+            <div class="panel-header">
+                <h2>Market Bias Distribution Engine</h2>
+                <div class="panel-controls">
+                    <select id="biasFilter" class="filter-select">
+                        <option value="all">All Asset Classes</option>
+                        <option value="forex_majors">Forex Majors</option>
+                        <option value="forex_crosses">Forex Crosses</option>
+                        <option value="global_indices">Global Indices</option>
+                        <option value="commodities">Commodities</option>
+                        <option value="crypto">Cryptocurrencies</option>
+                    </select>
+                    <select id="biasSort" class="filter-select">
+                        <option value="asset_class">Sort by Asset Class</option>
+                        <option value="score_desc">Score: High to Low</option>
+                        <option value="score_asc">Score: Low to High</option>
+                        <option value="name">Name (A-Z)</option>
+                    </select>
+                    <input type="text" id="biasSearch" class="filter-search" placeholder="Search symbol or name..." />
+                </div>
+            </div>
+            <div class="table-container" id="biasTableContainer">
+                <div class="loading-state">Loading market data...</div>
+            </div>
+        </section>
+
+        <!-- ==================== TAB: Macro ============================== -->
+        <section class="tab-panel" id="tab-macro">
+            <div class="panel-header">
+                <h2>Macroeconomic Foundation Indicators</h2>
+            </div>
+            <div class="macro-grid" id="macroGrid">
+                <div class="loading-state">Loading macroeconomic data...</div>
+            </div>
+        </section>
+
+        <!-- ==================== TAB: CFTC =============================== -->
+        <section class="tab-panel" id="tab-cftc">
+            <div class="panel-header">
+                <h2>Commitment of Traders Data Matrix</h2>
+                <div class="panel-controls">
+                    <select id="cftcClassFilter" class="filter-select">
+                        <option value="all">All Asset Classes</option>
+                        <option value="currencies">Currency Futures</option>
+                        <option value="commodities">Commodity Futures</option>
+                        <option value="indices">Equity Index Futures</option>
+                        <option value="fixed_income">Fixed Income Futures</option>
+                    </select>
+                </div>
+            </div>
+            <div class="table-container" id="cftcTableContainer">
+                <div class="loading-state">Loading CFTC positioning data...</div>
+            </div>
+        </section>
+
+        <!-- ==================== TAB: Heatmap ============================ -->
+        <section class="tab-panel" id="tab-heatmap">
+            <div class="panel-header">
+                <h2>Multi-Timeframe Asset Heatmap</h2>
+                <div class="panel-controls">
+                    <select id="heatmapFilter" class="filter-select">
+                        <option value="all">All Sectors</option>
+                        <option value="forex_majors">Forex Majors</option>
+                        <option value="forex_crosses">Forex Crosses</option>
+                        <option value="global_indices">Global Indices</option>
+                        <option value="commodities">Commodities</option>
+                        <option value="crypto">Cryptocurrencies</option>
+                    </select>
+                </div>
+            </div>
+            <div class="heatmap-container" id="heatmapContainer">
+                <div class="loading-state">Generating heatmap visualization...</div>
+            </div>
+        </section>
+
+        <!-- ==================== TAB: COT Graph ========================== -->
+        <section class="tab-panel" id="tab-cotgraph">
+            <div class="panel-header">
+                <h2>Commitment of Traders Historical Analytics</h2>
+                <div class="panel-controls">
+                    <select id="cotSymbolFilter" class="filter-select">
+                        <option value="">Select an asset class...</option>
+                        <option value="currencies">Currency Futures</option>
+                        <option value="commodities">Commodity Futures</option>
+                        <option value="indices">Equity Index Futures</option>
+                        <option value="fixed_income">Fixed Income Futures</option>
+                    </select>
+                </div>
+            </div>
+            <div class="chart-area" id="cotChartArea">
+                <canvas id="cotChartCanvas"></canvas>
+            </div>
+            <div class="chart-legend" id="cotChartLegend"></div>
+        </section>
+
+        <!-- ==================== TAB: Calendar =========================== -->
+        <section class="tab-panel" id="tab-calendar">
+            <div class="panel-header">
+                <h2>Real-Time Economic Release Calendar</h2>
+                <div class="panel-controls">
+                    <div class="date-filter-group">
+                        <button class="date-filter-btn active" data-range="today">Today</button>
+                        <button class="date-filter-btn" data-range="tomorrow">Tomorrow</button>
+                        <button class="date-filter-btn" data-range="week">This Week</button>
+                        <button class="date-filter-btn" data-range="nextweek">Next Week</button>
+                    </div>
+                    <select id="impactFilter" class="filter-select">
+                        <option value="all">All Impact Levels</option>
+                        <option value="High">High Impact Only</option>
+                        <option value="Medium">Medium & Above</option>
+                        <option value="Low">Low Impact</option>
+                    </select>
+                    <input type="text" id="calendarSearch" class="filter-search" placeholder="Search events..." />
+                </div>
+            </div>
+            <div class="table-container" id="calendarTableContainer">
+                <div class="loading-state">Loading economic calendar...</div>
+            </div>
+        </section>
+
+        <!-- ==================== TAB: News =============================== -->
+        <section class="tab-panel" id="tab-news">
+            <div class="panel-header">
+                <h2>Live Global Market Intelligence Feed</h2>
+                <div class="panel-controls">
+                    <select id="newsFilter" class="filter-select">
+                        <option value="all">All Headlines</option>
+                        <option value="forex">Forex</option>
+                        <option value="equities">Equities</option>
+                        <option value="commodities">Commodities</option>
+                        <option value="crypto">Crypto</option>
+                        <option value="macro">Macro</option>
+                    </select>
+                </div>
+            </div>
+            <div class="news-ticker-bar" id="newsTickerBar">
+                <div class="ticker-scroll" id="tickerScroll"></div>
+            </div>
+            <div class="news-grid" id="newsGrid">
+                <div class="loading-state">Loading news feed...</div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- ------------------------------------------------------------------ -->
+    <!-- Interactive Inspection Overlay (Detail Drawer)                     -->
+    <!-- ------------------------------------------------------------------ -->
+    <aside class="detail-drawer" id="detailDrawer">
+        <div class="drawer-backdrop" id="drawerBackdrop"></div>
+        <div class="drawer-panel" id="drawerPanel">
+            <div class="drawer-header">
+                <h3 id="drawerTitle">Asset Detail</h3>
+                <button class="drawer-close" id="drawerClose" aria-label="Close detail panel">&times;</button>
+            </div>
+            <div class="drawer-body" id="drawerBody">
+                <div class="loading-state">Loading asset details...</div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- ------------------------------------------------------------------ -->
+    <!-- Scripts                                                             -->
+    <!-- ------------------------------------------------------------------ -->
+    <script src="app.js"></script>
+</body>
+</html>
