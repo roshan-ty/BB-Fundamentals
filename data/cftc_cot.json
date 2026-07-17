@@ -2,13 +2,13 @@
   "meta": {
     "source": "U.S. Commodity Futures Trading Commission (CFTC)",
     "report_type": "Traders in Financial Futures - Legacy & Disaggregated",
-    "last_updated": "2026-07-17T16:42:58.977189+00:00",
-    "total_records": 6007
+    "last_updated": "2026-07-17T20:16:33.869088+00:00",
+    "total_records": 6096
   },
   "asset_classes": {
     "other": {
       "display_name": "Other Futures",
-      "record_count": 6007,
+      "record_count": 6096,
       "aggregate_metrics": {
         "total_noncommercial_longs": 0.0,
         "total_noncommercial_shorts": 0.0,
@@ -503,6 +503,42 @@
           "open_interest": 0.0
         },
         {
+          "contract_name": "090",
+          "report_date": "",
+          "non_commercial_speculative_long_contracts": 0.0,
+          "non_commercial_speculative_short_contracts": 0.0,
+          "net_speculative_market_positioning": 0.0,
+          "dealer_long_contracts": 0.0,
+          "dealer_short_contracts": 0.0,
+          "asset_manager_long_contracts": 0.0,
+          "asset_manager_short_contracts": 0.0,
+          "leveraged_funds_long_contracts": 0.0,
+          "leveraged_funds_short_contracts": 0.0,
+          "open_interest_distribution_percentage": {
+            "non_commercial_long": 0.0,
+            "non_commercial_short": 0.0
+          },
+          "open_interest": 0.0
+        },
+        {
+          "contract_name": "092",
+          "report_date": "",
+          "non_commercial_speculative_long_contracts": 0.0,
+          "non_commercial_speculative_short_contracts": 0.0,
+          "net_speculative_market_positioning": 0.0,
+          "dealer_long_contracts": 0.0,
+          "dealer_short_contracts": 0.0,
+          "asset_manager_long_contracts": 0.0,
+          "asset_manager_short_contracts": 0.0,
+          "leveraged_funds_long_contracts": 0.0,
+          "leveraged_funds_short_contracts": 0.0,
+          "open_interest_distribution_percentage": {
+            "non_commercial_long": 0.0,
+            "non_commercial_short": 0.0
+          },
+          "open_interest": 0.0
+        },
+        {
           "contract_name": "092",
           "report_date": "",
           "non_commercial_speculative_long_contracts": 0.0,
@@ -1475,43 +1511,7 @@
           "open_interest": 0.0
         },
         {
-          "contract_name": "097",
-          "report_date": "",
-          "non_commercial_speculative_long_contracts": 0.0,
-          "non_commercial_speculative_short_contracts": 0.0,
-          "net_speculative_market_positioning": 0.0,
-          "dealer_long_contracts": 0.0,
-          "dealer_short_contracts": 0.0,
-          "asset_manager_long_contracts": 0.0,
-          "asset_manager_short_contracts": 0.0,
-          "leveraged_funds_long_contracts": 0.0,
-          "leveraged_funds_short_contracts": 0.0,
-          "open_interest_distribution_percentage": {
-            "non_commercial_long": 0.0,
-            "non_commercial_short": 0.0
-          },
-          "open_interest": 0.0
-        },
-        {
-          "contract_name": "097",
-          "report_date": "",
-          "non_commercial_speculative_long_contracts": 0.0,
-          "non_commercial_speculative_short_contracts": 0.0,
-          "net_speculative_market_positioning": 0.0,
-          "dealer_long_contracts": 0.0,
-          "dealer_short_contracts": 0.0,
-          "asset_manager_long_contracts": 0.0,
-          "asset_manager_short_contracts": 0.0,
-          "leveraged_funds_long_contracts": 0.0,
-          "leveraged_funds_short_contracts": 0.0,
-          "open_interest_distribution_percentage": {
-            "non_commercial_long": 0.0,
-            "non_commercial_short": 0.0
-          },
-          "open_interest": 0.0
-        },
-        {
-          "contract_name": "097",
+          "contract_name": "096",
           "report_date": "",
           "non_commercial_speculative_long_contracts": 0.0,
           "non_commercial_speculative_short_contracts": 0.0,
