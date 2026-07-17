@@ -1,18 +1,84 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-17T20:16:00.361993+00:00",
+    "last_updated": "2026-07-17T23:13:36.288555+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 21,
-      "equities": 45,
+      "equities": 46,
+      "commodities": 18,
       "general": 91,
       "crypto": 64,
-      "macro": 38,
-      "commodities": 17
+      "forex": 21,
+      "macro": 38
     }
   },
   "articles": [
+    {
+      "headline": "Goldgroup Mining and Gold Resource Corporation Announce Closing of Business Combination and Goldgroup’s Anticipated Listing on the NYSE American",
+      "description": "VANCOUVER, British Columbia & DENVER--(BUSINESS WIRE)--Goldgroup Mining Inc. (TSX-V: GGA; OTC: GGAZD) (“Goldgroup” or the “Company”) and Gold Resource Corporation (NYSE American: GORO) (“GRC”) are pleased to announce that they have closed the previously announced merger (the “Merger”) pursuant to th",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-17T22:37:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260717529862/en/Goldgroup-Mining-and-Gold-Resource-Corporation-Announce-Closing-of-Business-Combination-and-Goldgroup%E2%80%99s-Anticipated-Listing-on-the-NYSE-American/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "United Flow Technologies Expands Midwest Presence with Acquisition of Peterson and Matz",
+      "description": "Irving, TX, July 17, 2026 (GLOBE NEWSWIRE) -- United Flow Technologies (UFT), a leading technical distributor and solutions provider serving the municipal and industrial water and wastewater treatment markets and a portfolio company of Berkshire Partners, today announced the strategic acquisition of",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-17T22:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329320/0/en/United-Flow-Technologies-Expands-Midwest-Presence-with-Acquisition-of-Peterson-and-Matz.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "FLUENT Provides Update and Supplemental Disclosure on Circular to Approve All-Stock Transaction With Vireo Growth Inc.",
+      "description": "TORONTO, July 17, 2026 (GLOBE NEWSWIRE) -- FLUENT Corp. (CSE: FNT.U) (OTCQB: CNTMF) (“FLUENT” or the “Company”), a vertically-integrated, multi-state cannabis company, announces that, further to its news release dated April 30, 2026, it has mailed (or mailed a notice of internet availability with re",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-17T22:17:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329319/0/en/FLUENT-Provides-Update-and-Supplemental-Disclosure-on-Circular-to-Approve-All-Stock-Transaction-With-Vireo-Growth-Inc.html",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "FTX to distribute $900M to creditors in fifth payment round",
+      "description": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-17T21:40:18+00:00",
+      "article_url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "investingLive Americas market news wrap: Stock markets struggle on Kimi, higher oil and NFLX",
+      "description": "<ul><li><a href=\"https://investinglive.com:443/news/us-june-import-prices-0-3-vs-0-7-expected\" rel=\"follow\">US June import prices +0.3% vs -0.7% expected</a></li><li><a href=\"https://investinglive.com:443/news/us-housing-starts-for-june-1-427-million-versus-1-310-million-estimate\" rel=\"follow\">US ho",
+      "source": "Forexlive",
+      "publication_date": "2026-07-17T20:11:03+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-stock-markets-struggle-into-the-close-as-chipmakers-higher-oil-and-nflx-weigh",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
+      "description": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-17T20:03:32+00:00",
+      "article_url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Trump says he will add to Canadian tariffs due to wildfire smoke as two Minnesota fires cross into Canada",
       "description": "<p>Trump now says he is going to war against smoke from Canada:</p><blockquote>We are holding Canada responsible for the fact that they are not properly maintaining their Forests, and Brush therein, and the United States is being unnecessarily invaded by filthy, polluted, and unhealthy air, the qual",
@@ -63,6 +129,17 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329255/0/en/Acquisition-of-Aeronautical-Assets-from-AFD-For-25-6-Million-Name-Change-Consolidation-Announcement-of-a-Concurrent-Private-Placement-of-Up-to-4-75-Million.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
+      "description": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T18:44:30+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
       ]
     },
     {
@@ -210,16 +287,6 @@
         "commodities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Generational Group Advises Vets Septic Service, Inc. in its Sale to Rice Septic Solutions, LLC",
-      "description": "DALLAS--(BUSINESS WIRE)--Generational Group, a leading mergers and acquisitions advisory firm for privately held businesses, is pleased to announce the sale of Vets Septic Service, Inc. to Rice Septic Solutions, LLC. The acquisition closed May 29, 2026. Located in Oklahoma City, Oklahoma, Vets Septi",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-17T16:07:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260717760300/en/Generational-Group-Advises-Vets-Septic-Service-Inc.-in-its-Sale-to-Rice-Septic-Solutions-LLC/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -921,7 +988,7 @@
       "headline": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf - Reuters",
       "description": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-17T07:22:38+00:00",
+      "publication_date": "2026-07-17T06:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVQyMmFIM0hOUXlUZjI0ZE1HNGRxWVVXS08yYmpuQkM5MXZ3YkMtLUhNWnZaejFRa3E2N0ltUzJuN1dtaWlRZDJpdFRBclIwRHlrNjRLbE9EYzlCQnNWZENmRk5XWmVFN3o0ZDBXaGh5R09rN2lWTHBBcFBFUzlWTzRaY3UySkZqR0g5VzNVUGY3MUZwc3k3R09ielFjZ21hVHV2bHRuUHl6V3YzcHdBZnFLdjhkY0M2Mmc?oc=5",
       "asset_tags": [
         "general"
@@ -1057,17 +1124,6 @@
       ]
     },
     {
-      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
-      "description": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T03:34:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
       "headline": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
       "description": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks Reuters",
       "source": "Reuters",
@@ -1120,8 +1176,8 @@
       ]
     },
     {
-      "headline": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
-      "description": "Oil heads for weekly gain on renewed US-Iran hostilities and threat of Red Sea closure Reuters",
+      "headline": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
+      "description": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-17T01:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5",
@@ -1268,6 +1324,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-07-16T21:59:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328860/0/en/IPG-Photonics-Announces-Binding-Offer-to-Acquire-Lumibird-Medical-Expanding-IPG-s-Medical-Laser-Growth-Platform.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters",
+      "description": "Oil settles lower, but remains near one-month high on U.S.-Iran tension Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-16T21:51:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2023,70 +2089,6 @@
       "article_url": "https://seekingalpha.com/news/4614441-twin-vee-to-merge-with-greenland-focused-miner-usfm?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "investingLive European session wrap: Dollar steady, equities dip lower as markets stay cautious",
-      "description": "<p>Headlines:</p><ul><li><a href=\"https://investinglive.com:443/stocks/us-futures-keep-more-mixed-ahead-of-the-open-later\" rel=\"follow\">US futures keep more mixed ahead of the open later</a></li><li><a href=\"https://investinglive.com:443/commodities/oil-prices-remain-skewed-to-the-upside-heading-int",
-      "source": "Forexlive",
-      "publication_date": "2026-07-16T11:52:04+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-european-session-wrap-dollar-steady-equities-dip-lower-as-markets-stay-cautious",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "ARK pushes back against a16z’s ‘TradFi wants blockchain, not DeFi’ claim",
-      "description": "ARK Invest’s director of research disputed a16z crypto’s thesis that traditional finance will adopt permissioned blockchain infrastructure instead of decentralized finance, saying institutions will increasingly rely on DeFi rails.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T11:35:30+00:00",
-      "article_url": "https://cointelegraph.com/news/ark-sentora-a16zs-tradfi-blockchain-defi-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "ZenaTech Closes 25th Acquisition with Alberta, Canada-based Velocity Geomatics Inc. Expanding Drone as a Service into Environmental and Regulatory Services in the Oil and Gas Sector",
-      "description": "ZenaTech Closes 25th Acquisition with Alberta, Canada-based Velocity Geomatics Inc. Expanding Drone as a Service into Environmental and Regulatory Services",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-16T11:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328358/0/en/ZenaTech-Closes-25th-Acquisition-with-Alberta-Canada-based-Velocity-Geomatics-Inc-Expanding-Drone-as-a-Service-into-Environmental-and-Regulatory-Services-in-the-Oil-and-Gas-Sector.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "The most popular bitcoin call option has slipped by $10,000",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T11:27:53+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/07/16/the-most-popular-bitcoin-call-option-has-slipped-by-usd10-000",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Rebooting the internet: inside the open-source project to let AI programs pay each other",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T11:22:37+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "41/2026・Trifork Group announces partial divestment of Trifork Labs portfolio assets to Verdane, and proposes an extraordinary dividend of DKK 3.00 per share, subject to transaction completion",
-      "description": "Schindellegi, Switzerland – 16 July 2026",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-16T11:09:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328347/0/en/41-2026-Trifork-Group-announces-partial-divestment-of-Trifork-Labs-portfolio-assets-to-Verdane-and-proposes-an-extraordinary-dividend-of-DKK-3-00-per-share-subject-to-transaction-c.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
