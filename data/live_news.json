@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-18T07:13:17.492051+00:00",
+    "last_updated": "2026-07-18T11:18:56.870065+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 93,
-      "equities": 46,
-      "commodities": 20,
-      "crypto": 60,
+      "general": 95,
+      "equities": 48,
+      "commodities": 19,
+      "crypto": 57,
       "forex": 21,
       "macro": 36
     }
   },
   "articles": [
+    {
+      "headline": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+      "description": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.",
+      "source": "CNBC",
+      "publication_date": "2026-07-18T11:10:25+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "French gambling regulator orders ISPs to block Polymarket",
+      "description": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-18T09:58:55+00:00",
+      "article_url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Iran renews attacks on Gulf states after another night of US strikes - Reuters",
       "description": "Iran renews attacks on Gulf states after another night of US strikes Reuters",
@@ -777,6 +797,16 @@
       ]
     },
     {
+      "headline": "Zepto is said to face sharply lower valuation for IPO",
+      "description": "Foreign investors value the company at around $4.5 billion, while some domestic institutional investors estimate it between $3 billion and $3.5 billion",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-17T10:27:17+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-17/zepto-is-said-to-face-sharply-lower-valuation-for-india-ipo",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Risk-off wave drags bitcoin below $63,000 as AI selloff spreads from stocks to crypto",
       "description": "",
       "source": "CoinDesk",
@@ -902,6 +932,16 @@
       ]
     },
     {
+      "headline": "India visa services disrupted in Australia, Singapore after tender dispute",
+      "description": "India's visa services face disruptions in Australia and Singapore after a court ordered fresh bidding due to evaluation flaws.",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-17T09:06:30+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-16/india-court-voids-visa-services-tenders-in-australia-singapore",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
       "description": "",
       "source": "CoinDesk",
@@ -988,6 +1028,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-07-17T08:25:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3328943/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-SEGRO-PLC-Ordinary-Shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Manipal Hospitals said to cut valuation to $8.3 billion in IPO",
+      "description": "The Temasek Holdings-backed company is planning to raise as much as ₹11,000 crore through a share sale that’s likely to be launched in the week starting July 27",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-17T08:03:03+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-17/manipal-hospitals-said-to-cut-valuation-to-8-3-billion-in-ipo",
       "asset_tags": [
         "equities"
       ]
@@ -2037,56 +2087,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TbDhVdW9ZdmctRkd3MGQtMmlmVHFhbklISzJfTFNwYTJQamRyUXl1MTh6a2tQNjBuM0l5dEpTSWRfNXRIUUh6dm1mZDhhMmZnaXdIeXdJWjl0RGdnSUpYdmZtSHQ0R1E?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Alpaca raises $135M to fund tokenized agent-first infrastructure",
-      "description": "The BNP-backed brokerage infrastructure provider is expanding into tokenized markets and AI-native financial services as both DeFi and TradFi companies pursue onchain business.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T13:34:19+00:00",
-      "article_url": "https://cointelegraph.com/news/alpaca-raises-135m-to-fund-tokenized-agent-first-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Gambling on random Pokémon cards: Onchain gagcha hits record high as crypto sinks",
-      "description": "Users spent a record $324 million on onchain gacha in June, even as Bitcoin hit a 21-month low. The thrill of scoring a top Pokemon card from a random pack is becoming big business",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T13:30:00+00:00",
-      "article_url": "https://cointelegraph.com/features/pokemon-cards-as-rwas-gacha-spending-hits-records-as-crypto-sinks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Iraqi oil loadings briefly suspended after drone hits tanker at Basra, sources say - Reuters",
-      "description": "Iraqi oil loadings briefly suspended after drone hits tanker at Basra, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T13:24:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDJBcVRRQUtnWnRHWTd3MENKUERJUEl5Qm5BRmlYTW5vSHNYUnVPNTVJc2pJQlRrVTBNT09MRTMwbC1scXFoclJTaUY4U0RfVUwtUXlPV24xQ3dnQTVRR1RORE1GalpWSkxGX3EtRXlseXJjb3JUeWw2azJlUlZtaHJkZWFtOUVJMThoTTZoYnZGZHBzZ2MwdjJZN1FzNkRSNEJXdWdsUTRwTkp0M3RrMFJNakxicTRlUDFnZVBuVktXUW5zd2R1WEpfTTE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - NextEnergy Solar Fund Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-16T13:13:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328520/0/en/Form-8-3-NextEnergy-Solar-Fund-Limited.html",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Prediction markets defy crypto downturn with record Q2 volume: CoinGecko",
-      "description": "Prediction markets reached a record $113.8 billion in notional volume in Q2 as spot CEX trading, derivatives volume and stablecoin market cap declined.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T13:05:09+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-cool-q2-prediction-markets-hit-records-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
