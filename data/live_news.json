@@ -1,18 +1,58 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-18T17:45:23.419901+00:00",
+    "last_updated": "2026-07-18T20:28:52.859809+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 47,
       "crypto": 60,
+      "general": 94,
+      "equities": 46,
       "forex": 23,
-      "general": 93,
       "commodities": 19,
-      "macro": 34
+      "macro": 33
     }
   },
   "articles": [
+    {
+      "headline": "Crypto executives say digital native generations may never need a bank account",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-18T18:30:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Two US service members in Jordan killed in Iranian attack, US says - Reuters",
+      "description": "Two US service members in Jordan killed in Iranian attack, US says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T17:27:35+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORC1tbUY3UU5OWWVubE9NZzhlTjZDNGNxMERBSUwxZ0d2clRBaldEZWtTUXhjZmVzb182N1M4T0VCY1JnQWhqNW5oM3ZIUV8wbno1TkdYbFM2RGNsYklHVFJ4VTZpVDdHOHcyY1BZUWNLaGxBMFBTQUJVanMxellKenFwazlMQWVYeERKa2dDVFZ3a2JBaElnRHVJcGdVc0RtVGZhM3hsRjF3REZvRzZCeFlFUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "DOG Mode explains Bitcoin's next governance fight",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-18T17:00:00+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
+      "description": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T16:59:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Canaan Inc. Provides June 2026 Bitcoin Production and Mining Operation Updates",
       "description": "Joint venture hashrate recovers significantly, approaches full-installed capacity SINGAPORE, July 14, 2026 /PRNewswire/ — Canaan Inc. (NASDAQ: CAN) (“Canaan” or the “Company”), an innovator in crypto mining, today released its unaudited bitcoin mining update for the month ending June 30, 2026. Manag",
@@ -106,21 +146,21 @@
       ]
     },
     {
-      "headline": "Iran hits Gulf states and Jordan after seventh night of US strikes - Reuters",
-      "description": "Iran hits Gulf states and Jordan after seventh night of US strikes Reuters",
+      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
+      "description": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-18T03:55:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "publication_date": "2026-07-18T04:59:24+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
-      "description": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks Reuters",
+      "headline": "US says two military personnel killed in Jordan - Reuters",
+      "description": "US says two military personnel killed in Jordan Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-18T02:40:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
+      "publication_date": "2026-07-18T03:55:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -781,6 +821,16 @@
       "asset_tags": [
         "forex",
         "equities"
+      ]
+    },
+    {
+      "headline": "Spain's Sanchez to attend World Cup final alongside Trump amid tensions - Reuters",
+      "description": "Spain's Sanchez to attend World Cup final alongside Trump amid tensions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T11:49:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS2dEWE5NZURyUlE1c0o5d0ZEalBXRTZZaWZ5cGdNakg3cG04c0FuOXdELXVOV21BVnk0LXZvQ1BiT0pfeDE3MDZXVE5pMnIwRjJCaWJmWDgwZnZjRUNlMEg0aC1Pa2pwYzlKb3pPYm1fR201RzJGYU9ZOE1OUkpweTBGc2ZiVGFZSGdUaEgyaEpjVzE5N0ZLMUgzTDJuMDRoR1FTU25PeEdDeUlQMGc?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2036,57 +2086,6 @@
       "article_url": "https://seekingalpha.com/news/4614581-lilly-deal-buy-ataibeckley-boosts-psychedelics?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Keyrock acquires BlockFills trading assets to expand institutional crypto business",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T15:26:15+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/16/keyrock-acquires-blockfills-trading-assets-to-expand-institutional-crypto-business",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "The Clarity Act is the most important consumer protection effort in years",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T15:07:30+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/07/16/the-clarity-act-is-the-most-important-consumer-protection-effort-in-years",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Aptorum Group Provides Update on DiamiR Biosciences Merger",
-      "description": "Post-Merger company, Niki BioSolutions, Inc., to Trade on Nasdaq Under Ticker “NIKI”",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-16T15:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328636/0/en/Aptorum-Group-Provides-Update-on-DiamiR-Biosciences-Merger.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Crypto for Advisors: Strengthening defenses against AI fraud",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T14:54:11+00:00",
-      "article_url": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Pakistan worries about being drawn into US-Iran conflict after Houthis attack Saudi Arabia - Reuters",
-      "description": "Pakistan worries about being drawn into US-Iran conflict after Houthis attack Saudi Arabia Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T14:25:14+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFhQU183WFFqVnZ6Z2VtXzc2LUk0eW9kSzZ4d3Y2Mk9fMkFmQTYteGFkeGZKMW1LYzFOclEzWWRQdDFZVFUxcDYzd1hGanh3WWJoZ0tDc2ljNmZ4aVN2cURsMFVtbXh1YnhaeG9pU0hscWFYclR3QWVDRUtobUhGQ2Q4ZkVfV1Y1STVsdk5QYnhHUy16UjFpMmhFRWV1V1FQRXhuTXdNOXdIVXB6b0tGV2dyMkNTVUJZVDNSeWR5VGdidFYwWGQ0cm5Eb1I?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
