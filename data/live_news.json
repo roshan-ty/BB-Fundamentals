@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-19T18:44:52.114709+00:00",
+    "last_updated": "2026-07-19T21:38:01.567999+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 39,
-      "crypto": 56,
-      "macro": 30,
-      "general": 101,
-      "commodities": 18,
-      "forex": 22
+      "general": 103,
+      "crypto": 55,
+      "equities": 38,
+      "macro": 29,
+      "commodities": 17,
+      "forex": 21
     }
   },
   "articles": [
+    {
+      "headline": "US service member killed in northern Iraq, U.S. Central Command says - Reuters",
+      "description": "US service member killed in northern Iraq, U.S. Central Command says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-19T19:31:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWhlMjhBVDQ5MWpFeHNXcUZOcHF4S2NYVzlRRXo4WFhOTmRyWHI1elU3aGRKN21pVzJMTFpvQkIwak9yWnNVbERyNFpuUUhZYTR1SHA3UUJYSlc2MDNDSjhkaXROVFBuelhQbV8xSnlSYTl2Um5VOXNHQ0VqdXRzaEo2djloRWNuSXNaUm1kS2J5VkhvTC1qMDdkWmdmZlo4c3RVRjZ2WlVPUV9SR08yZktIYkNneHc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The GENIUS Act turns 1: State of Crypto",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-19T18:30:00+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea",
       "description": "The man in control of the biggest Bitcoin corporate treasury said he shares the objectives but disagrees about the remedy detailed in the proposed temporary fork.",
@@ -43,6 +63,16 @@
       "article_url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "26-year-old quit her corporate job to become a seamstress at Yellowstone National Park for $19.25/hour",
+      "description": "Zoe De La Paz made her own luck to transition from her corporate engineering job to pursue sewing full-time.",
+      "source": "CNBC",
+      "publication_date": "2026-07-19T14:30:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/19/26-year-old-quit-her-corporate-job-to-become-a-seamstress-at-yellowstone.html",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -237,8 +267,8 @@
       ]
     },
     {
-      "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
-      "description": "US renews strikes on Iran after two military personnel killed by Iranian attack Reuters",
+      "headline": "US renews strikes on Iran after at least two military personnel killed by Iranian attack - Reuters",
+      "description": "US renews strikes on Iran after at least two military personnel killed by Iranian attack Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-18T23:21:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
@@ -357,6 +387,16 @@
       ]
     },
     {
+      "headline": "Trump threatens new Iran escalation and risks repeating old mistakes - Reuters",
+      "description": "Trump threatens new Iran escalation and risks repeating old mistakes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T12:06:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnIySy12MVk2eUt1V3poZUtIbERIR0pMcHcwVGFUbW5CRlllQnFHU1FHYWNoNmh5YThaZGc1NHpId0pOVXZ0Z0Npb2xvZEZJaEJlaUlwSjBVaGw5WkJNWWlfckZfWVdNMGFucGVJUUE0Z1RzNXhRVklRUlhtUjgyYTMxY19DSEl2bkNiRTRjMjBKa0huQmVTUmtyNHZZNkdOdTJmY2daYVNMaTlJUEVEZC1LMFAxMjR1Tnc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Kaspersky identifies malware framework targeting crypto investors",
       "description": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps.",
       "source": "Cointelegraph",
@@ -413,16 +453,6 @@
       "source": "Reuters",
       "publication_date": "2026-07-18T02:40:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
-      "description": "US and Iran target infrastructure as strait shipping comes under further attack Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-18T01:03:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -611,7 +641,7 @@
       "description": "<p>The escalation is showing no signs of stopping in the Middle East. There were reports that Iran targeted Kuwait yesterday and hit a desalization plant and now Iran's semi-official Tasnim says that the Revolutionary Guard targeted a ship that ignored warning and tried to pass through Hormuz.</p><p",
       "source": "Forexlive",
       "publication_date": "2026-07-17T17:47:27+00:00",
-      "article_url": "https://investinglive.com/news/iran-targeted-a-ship-trying-to-pass-through-hormuz-tasnim",
+      "article_url": "https://investinglive.com/news/iran-targeted-a-ship-trying-to-pass-through-hormuz-tasnim/",
       "asset_tags": [
         "general"
       ]
@@ -654,6 +684,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329243/0/en/E-F-Hutton-Co-Serves-as-Exclusive-Financial-Advisor-on-Strategic-Business-Combination-Between-Glucotrack-and-L%C5%8Dkahi-Therapeutics-and-Exclusive-Placement-Agent-for-Approximately-5-7.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Back to square one: Five questions for the ECB - Reuters",
+      "description": "Back to square one: Five questions for the ECB Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T17:15:47+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlo3cmJOUVdWTVc5cUszQU1lX0czLTh6NnhGSkg0cWZOTmYxMTRxYjU0c3lyREFUdEpvSWRjQ2hCTGdHSGxKUFU3SE1mVV9yd1dyRE5MM2xrV3lPV0NYV1JfaFMwTWU1bTdCMGxyZl9ZbnZWM2xXOUVKSTZfNVNLNjBDc21Qa09KVnBwTnB3S2I?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -704,7 +744,7 @@
       "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Meta Platforms is reportedly in discussions to lease AI computing capacity from its data center infrastructure to Anthropic in a deal that could be worth as much as $10 billion over two years, according to a report from The New York Times, citing people fam",
       "source": "Forexlive",
       "publication_date": "2026-07-17T16:46:11+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/meta-weighs-multibillion-dollar-ai-infrastructure-deal-with-anthropic/",
+      "article_url": "https://investinglive.com/technical-analysis/meta-weighs-multibillion-dollar-ai-infrastructure-deal-with-anthropic",
       "asset_tags": [
         "forex",
         "macro"
@@ -1681,6 +1721,16 @@
       ]
     },
     {
+      "headline": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
+      "description": "US and Iran target infrastructure as strait shipping comes under further attack Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T03:50:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Gold is set for weekly fall amid West Asia tensions. What’s ahead?",
       "description": "Gold prices face weekly losses amid rising Fed-hike bets, driven by renewed Middle East tensions and inflation concerns.",
       "source": "Bloomberg",
@@ -1721,6 +1771,16 @@
         "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "US launches new wave of strikes against Iran, military says - Reuters",
+      "description": "US launches new wave of strikes against Iran, military says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T01:56:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2014,69 +2074,6 @@
       "article_url": "https://cointelegraph.com/news/trump-teleprompter-operator-made-100k-betting-kalshi-markets-tied-to-speeches-abc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "ARRAY Technologies to Acquire Affordable Wire Management (AWM), Creating New Growth Platform in Balance-of-System Solutions",
-      "description": "Strategic acquisition adds high-margin cable management products and extends ARRAY’s reach across utility-scale solar, distributed generation, BESS, and datacenter applications Strategic acquisition adds high-margin cable management products and extends ARRAY’s reach across utility-scale solar, dist",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-16T20:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328824/0/en/ARRAY-Technologies-to-Acquire-Affordable-Wire-Management-AWM-Creating-New-Growth-Platform-in-Balance-of-System-Solutions.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin outlook improves amid 6% weekly gain: Can BTC bulls push higher?",
-      "description": "Bitcoin buyers have returned to spot, futures and ETF markets but geopolitical headwinds could quickly unravel the progress of the past two weeks.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T20:29:20+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-outlook-improves-amid-6-weekly-gain-can-btc-bulls-push-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Trump threatens new Iran escalation and risks repeating old mistakes - Reuters",
-      "description": "Trump threatens new Iran escalation and risks repeating old mistakes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T20:25:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnIySy12MVk2eUt1V3poZUtIbERIR0pMcHcwVGFUbW5CRlllQnFHU1FHYWNoNmh5YThaZGc1NHpId0pOVXZ0Z0Npb2xvZEZJaEJlaUlwSjBVaGw5WkJNWWlfckZfWVdNMGFucGVJUUE0Z1RzNXhRVklRUlhtUjgyYTMxY19DSEl2bkNiRTRjMjBKa0huQmVTUmtyNHZZNkdOdTJmY2daYVNMaTlJUEVEZC1LMFAxMjR1Tnc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Cellution Biologics Inc. Signs Definitive Agreement to Acquire SimpliDerm® Human Hydrated Acellular Dermal Matrix Business from Elutia Inc., Expanding its Allograft Portfolio",
-      "description": "Cellution Biologics signs definitive agreement to acquire SimpliDerm®, expanding its allograft portfolio and entering the U.S. breast reconstruction market",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-16T20:21:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328819/0/en/Cellution-Biologics-Inc-Signs-Definitive-Agreement-to-Acquire-SimpliDerm-Human-Hydrated-Acellular-Dermal-Matrix-Business-from-Elutia-Inc-Expanding-its-Allograft-Portfolio.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "investingLive Americas FX news wrap: US retail sales match estimates but tech slumps",
-      "description": "<ul><li><a href=\"https://investinglive.com:443/stocks/trump-to-sell-faster-access-to-his-truth-social-posts\" rel=\"follow\">Trump to sell faster access to his Truth Social posts</a></li><li><a href=\"https://investinglive.com:443/stocks/google-gemini-launch-delayed-as-tech-falls-short-of-goals-report\" ",
-      "source": "Forexlive",
-      "publication_date": "2026-07-16T20:11:47+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-us-retail-sales-match-estimates-but-tech-slumps",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "1inch co-founder says he was fired, announces new venture",
-      "description": "Anton Bukov said that he no longer took an active role at 1inch and had been “fired” in 2025 after pushing for changes to the company’s management and operations.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T20:05:45+00:00",
-      "article_url": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
