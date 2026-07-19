@@ -1,34 +1,54 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-18T23:37:55.624827+00:00",
+    "last_updated": "2026-07-19T07:50:29.523708+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 95,
-      "crypto": 60,
-      "equities": 45,
-      "forex": 23,
-      "commodities": 19,
-      "macro": 33
+      "general": 99,
+      "crypto": 58,
+      "equities": 43,
+      "forex": 22,
+      "commodities": 18,
+      "macro": 32
     }
   },
   "articles": [
+    {
+      "headline": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-19T05:37:34+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
+      "description": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T23:35:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US renews strikes on Iran after two military personnel killed by Iranian attack - Reuters",
+      "description": "US renews strikes on Iran after two military personnel killed by Iranian attack Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T23:21:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcmZSOG9seXNyMUFGTW1NMF9XWUVNYUZLczBFRWFTTDZZYnRjX081R3pnUzl6NTFVM053aG50T09hb2pMSlFxTGV6T2V0ZEZaRUFtNjVTSk01MWFrb05KcHdVdHZHMktERXlFVEdKTGFrTlo0cl9SY0hjb0dpb01rMDh6Z2l5MFoyWGI2VjA3cGx1UTN1T1RqU0RCeHVLdVlWUEJIU0dHaFl2SEpKN1AySUlMeUJPQVBtWUtPY1BHUUw5bGZxTEpCRQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "France orders country's internet service providers to block Polymarket",
       "description": "",
       "source": "CoinDesk",
       "publication_date": "2026-07-18T21:52:18+00:00",
       "article_url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
-      "description": "US says two military personnel killed by Iranian attack in Jordan Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-18T21:30:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -64,11 +84,11 @@
       ]
     },
     {
-      "headline": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' - Reuters",
-      "description": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless' Reuters",
+      "headline": "Israeli military says it struck Hezbollah fighters after drone spotted in southern Lebanon - Reuters",
+      "description": "Israeli military says it struck Hezbollah fighters after drone spotted in southern Lebanon Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-18T16:59:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
+      "publication_date": "2026-07-18T16:22:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQazdUZDlCcTM4RDlDTThjdnhKdU1rLU9WQzRDbWxrQWpIb2hjUU91V1VicGRSYjdQbkI4Qkw3c05aOW5faUZHeHlhaTdGd0pRWFhxeGtBYW1FcDhLVzNJV0NzQnRuMEpuNE5HOTZZVnN0OVkzSDRKZWJUZlZFWW83T3YzTGtYdHd4QS0tZ3ctai1TUUNTdGtHQ01PQzltSnJiY25PaDdxLWJTSWJHTHF4c0JLbE15NVVVUUUyR2ZoQ3c3VmlYZTVXcmFTdXVJdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -166,11 +186,41 @@
       ]
     },
     {
+      "headline": "PODCAST: Data centers: Small town politics turn into a national fight - Reuters",
+      "description": "PODCAST: Data centers: Small town politics turn into a national fight Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T05:01:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaS1ua0dnQWM0aHRKWG5lSXFCWGp2M05xT0ZhSHlNS0M0UnV1YV83QXR4MkozNUhGd1BHUzFNWTRBZHdEUE52UWdJRTBLX21Ud1lvQXczM1EtU2JPeE9fNlA2V0hfNWZ4VExxbGVYdmUyU0NrLU91WWN1aWVmMjUzU1k3bEhHRDBfeTMxTndFMUFoVWZRRzJtTWczSFI3TUl0UWxjRw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
+      "description": "US says two military personnel killed by Iranian attack in Jordan Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T03:55:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
       "description": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-18T02:40:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
+      "description": "US and Iran target infrastructure as strait shipping comes under further attack Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T01:03:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -235,6 +285,17 @@
       "article_url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
+      "description": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T21:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
       ]
     },
     {
@@ -311,17 +372,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329255/0/en/Acquisition-of-Aeronautical-Assets-from-AFD-For-25-6-Million-Name-Change-Consolidation-Announcement-of-a-Concurrent-Private-Placement-of-Up-to-4-75-Million.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
-      "description": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T18:44:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -497,16 +547,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-07-17T15:36:39+00:00",
       "article_url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran strikes eastern Syria, in first such attack during current war - Reuters",
-      "description": "Iran strikes eastern Syria, in first such attack during current war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T15:21:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXVvLTBxWklNRDU2M0l1QTZhUmloM0xqbFM2RWwxaS0yckJVNXZTbkFlZDBQUHZHbDVfOGRDdlNlSDJQNUg5VnZodUs5MzdsUjQxZjFyZl9LaTdBbGhxWU16dk9kRXFKZm9OblFOX0NKNWdweGI4UXNLb0daSjNzdGVmZFJzRjZHUzZFWW51OFhXVjNpeHk2SUs2cGhNeC1VMWxsQVNjWkIzTlFBTjhiRUlrS3o2aDBWb2dCOFlHMWVBMFdt?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -707,6 +747,16 @@
       ]
     },
     {
+      "headline": "Iran strikes eastern Syria, in first such attack during current war - Reuters",
+      "description": "Iran strikes eastern Syria, in first such attack during current war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T13:17:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXVvLTBxWklNRDU2M0l1QTZhUmloM0xqbFM2RWwxaS0yckJVNXZTbkFlZDBQUHZHbDVfOGRDdlNlSDJQNUg5VnZodUs5MzdsUjQxZjFyZl9LaTdBbGhxWU16dk9kRXFKZm9OblFOX0NKNWdweGI4UXNLb0daSjNzdGVmZFJzRjZHUzZFWW51OFhXVjNpeHk2SUs2cGhNeC1VMWxsQVNjWkIzTlFBTjhiRUlrS3o2aDBWb2dCOFlHMWVBMFdt?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "The Club's 10 things to watch in the stock market Friday",
       "description": "Stocks are pointing to a lower open as the sell-off in chip stocks continues. Plus, Netflix delivers a disappointing quarter.",
       "source": "CNBC",
@@ -765,6 +815,16 @@
       "article_url": "https://seekingalpha.com/news/4614891-personalis-draws-takeover-interest-merck?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Burberry's Europe sales hit by Iran war while US and China grow - Reuters",
+      "description": "Burberry's Europe sales hit by Iran war while US and China grow Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T12:34:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3dVQnNDTmJrTkhvbFNHSFpYWVhnRmx4TXBSSU1PeHRKTGhwWktLMU40MTlxd1VyWGlSZ196bnVTcjlVR0hEMUJDdWQwbHdMRkwyVENZRlFLUEdBSU1NQ2h4c3NZQ2hDR1pZMTJHRDNlX2h4STFOZjBPOTNxU2NzVkNKaGJzV041TmRuM1RzTlM5YTFGSzhQNDVybjhmZjZEU3Nma0RmX0NmUTNBOTM3cURYOUpUX2F5cThSTlJNM2p4RG5Penc?oc=5",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
@@ -841,6 +901,16 @@
       "asset_tags": [
         "forex",
         "equities"
+      ]
+    },
+    {
+      "headline": "Trump could get a lesson on Iran from an unlikely source — emus - Reuters",
+      "description": "Trump could get a lesson on Iran from an unlikely source — emus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T12:01:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjdTVU1SRUJFdUZKRS15aVpWZHc2MXNGU1ExNFUtcnY0S3NWbHNNOG83VGQ3c2hwTEdtRnV0Y2FyLTlBWXNuOHhwQ0d0RFZBb2J1VC1aZE95aURNWVNFTVpSdTJKMVlndXBTSVBGeVoxMTFsTDVJZ1lnRU5qdnZiWUluQmJSRElmNDBjblBJcFhtd2VSN1RZSHFMZE40c0o3QTFMQWFvMUFQT215STVuVEc5ZGxQSnJDbnM2Sg?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1227,10 +1297,20 @@
       ]
     },
     {
+      "headline": "Airlines resume some Middle East flights but disruption continues - Reuters",
+      "description": "Airlines resume some Middle East flights but disruption continues Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T07:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVBHYURuSll6bWQyVXFGNTZNTFhJU1I5OF9ScFJ6eEtQcGFfTmI1NlJWekR4bjFmc3F3cDg1WEo4LTBMVFBIOEdiNjMxUjNKTWpnWnlISF9FZmZ2WGtVbXRXS29LOHUxYlJYbkpzeVpaUVhFSmFQcG5OOTY3VGFGNGdfN2ZpNkF6bjZ4MGg3bllnZ1M2YVA5czFIY0J6NWhxMWZmWm1EcHRFbWJGZzZlQjFhS0xRdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf - Reuters",
       "description": "Strait of Hormuz transits drop as US and Iran escalate attacks across Gulf Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-17T06:31:00+00:00",
+      "publication_date": "2026-07-17T06:43:46+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVQyMmFIM0hOUXlUZjI0ZE1HNGRxWVVXS08yYmpuQkM5MXZ3YkMtLUhNWnZaejFRa3E2N0ltUzJuN1dtaWlRZDJpdFRBclIwRHlrNjRLbE9EYzlCQnNWZENmRk5XWmVFN3o0ZDBXaGh5R09rN2lWTHBBcFBFUzlWTzRaY3UySkZqR0g5VzNVUGY3MUZwc3k3R09ielFjZ21hVHV2bHRuUHl6V3YzcHdBZnFLdjhkY0M2Mmc?oc=5",
       "asset_tags": [
         "general"
@@ -1258,16 +1338,6 @@
         "forex",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Burberry's Europe sales hit by Iran war while US and China grow - Reuters",
-      "description": "Burberry's Europe sales hit by Iran war while US and China grow Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T06:12:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3dVQnNDTmJrTkhvbFNHSFpYWVhnRmx4TXBSSU1PeHRKTGhwWktLMU40MTlxd1VyWGlSZ196bnVTcjlVR0hEMUJDdWQwbHdMRkwyVENZRlFLUEdBSU1NQ2h4c3NZQ2hDR1pZMTJHRDNlX2h4STFOZjBPOTNxU2NzVkNKaGJzV041TmRuM1RzTlM5YTFGSzhQNDVybjhmZjZEU3Nma0RmX0NmUTNBOTM3cURYOUpUX2F5cThSTlJNM2p4RG5Penc?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     },
     {
@@ -1389,16 +1459,6 @@
       ]
     },
     {
-      "headline": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
-      "description": "US and Iran target infrastructure as strait shipping comes under further attack Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T03:50:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Gold is set for weekly fall amid West Asia tensions. What’s ahead?",
       "description": "Gold prices face weekly losses amid rising Fed-hike bets, driven by renewed Middle East tensions and inflation concerns.",
       "source": "Bloomberg",
@@ -1439,16 +1499,6 @@
         "commodities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "US launches new wave of strikes against Iran, military says - Reuters",
-      "description": "US launches new wave of strikes against Iran, military says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T01:56:05+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1645,6 +1695,16 @@
       ]
     },
     {
+      "headline": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters",
+      "description": "Oil settles lower, but remains near one-month high on U.S.-Iran tension Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-16T21:51:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Jasper Therapeutics Announces Merger with Kira Pharmaceuticals",
       "description": "Combined company positioned to advance portfolio of biologic agents designed to improve outcomes in patients with numerous immunologically-driven disorders",
       "source": "GlobalNewswire",
@@ -1755,16 +1815,6 @@
       ]
     },
     {
-      "headline": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters",
-      "description": "Oil settles lower, but remains near one-month high on U.S.-Iran tension Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T20:28:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Trump threatens new Iran escalation and risks repeating old mistakes - Reuters",
       "description": "Trump threatens new Iran escalation and risks repeating old mistakes Reuters",
       "source": "Reuters",
@@ -1803,6 +1853,16 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-16T20:05:45+00:00",
       "article_url": "https://cointelegraph.com/news/1inch-co-founder-not-involved-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "NEWSLETTER: Trump seeks to regain control of the midterms narrative with focus on election security - Reuters",
+      "description": "NEWSLETTER: Trump seeks to regain control of the midterms narrative with focus on election security Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-16T20:02:25+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VYzd4UWFSd1drTi1IdWt0ZHZza1ZsS0JuVE9VR2lxekExTDJiUWg2VXc4amQxVjZFT1dIbTdoMjU3UUlvS3pNM2ZETDBoVWM0OFBmOHFINXlBSTBhVnZJOHgyeHRiZDRwTzByUQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1913,6 +1973,16 @@
       ]
     },
     {
+      "headline": "US launches new wave of strikes against Iran, military says - Reuters",
+      "description": "US launches new wave of strikes against Iran, military says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-16T18:27:53+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "We're trimming our hedge on lower rates, which may take longer to materialize",
       "description": "While we think it a great \"house,\" it is unfortunately in an awful \"neighborhood.\"",
       "source": "CNBC",
@@ -2013,79 +2083,6 @@
       "article_url": "https://www.cnbc.com/2026/07/16/42percent-of-adults-rely-on-their-parents-for-financial-supportthere-are-no-bad-guys-here-says-financial-therapist.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Tradable’s $1B Stellar deal adds to institutional tokenization boom",
-      "description": "Tradable will bring up to $1 billion in private credit assets to Stellar, extending the blockchain’s push into institutional finance and tokenized real-world assets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T16:19:16+00:00",
-      "article_url": "https://cointelegraph.com/news/tradables-1b-stellar-deal-adds-to-institutional-tokenization-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Visa backs Open USD with new stablecoin platform as Circle faces fresh competition",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T16:14:30+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/16/visa-backs-open-usd-with-new-stablecoin-platform-as-circle-faces-fresh-competition",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Here's what to expect when Netflix reports earnings after the bell",
-      "description": "Investors will be looking for updates on Netflix's ad-supported business, engagement metrics and how the streaming giant continues to consider potential M&A.",
-      "source": "CNBC",
-      "publication_date": "2026-07-16T16:12:11+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Syria seizes weapons hidden in tanker truck, says cargo was for Hezbollah - Reuters",
-      "description": "Syria seizes weapons hidden in tanker truck, says cargo was for Hezbollah Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T16:06:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmZhOHVoVVJqdS05SFJFSUUycXRSVkl5dG95d1dLRVZPTkZzS2psTDNTZ3pOMm9qejZWYUtnb0hBX3dxVWxFOFVoZFVZNHgtQ1pJOU1Mc0pZRkRFamhhZzJKaTRhNGM0eE9mbnhqTlY5dGZlZFJ5Nm42TTBWQjd2d0piTE9rN3FfS1dMdnlLRzV5VzVxV1FyaE85TlkxWk5GOFZBdEZHNEI4SGl4d2JDMHhLNlRFRjg2NElYN0NsX1h2YVBiUGc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "ENERGY WATCH: China’s oil fortress - Reuters",
-      "description": "ENERGY WATCH: China’s oil fortress Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T16:00:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlRLNHVRb1ZKUjJqOVI4WnJHbWMtWEMybF95V19FN2ZEZURlN1JUVEs0aFIxOTRuUk5VR1lPLVY4NnFYUGtPYVI4SzVTSl9lZnBPbjZ1T2NrLVVCVzNPbGpVcTkzQk9OLW9pclpVMnNnTnZob3JJY0lXNG1jT2M3clJ6d3JYeUJLRjRONlU4ZlRQYmEzb1VzcGlBaEItaFM5d0V3?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Houthi leader threatens Saudi oil facilities if Riyadh escalates in Yemen - Reuters",
-      "description": "Houthi leader threatens Saudi oil facilities if Riyadh escalates in Yemen Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T15:51:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGI2VTlhcVZDeTFzdlRiblJQdUhDSU5nLVRuNFJWdHZhZ3NjNF9OYWs5TDNfUF9jQVdsa1lIdWJUQ3Bub29ZQ28xWHlyUURrZnFnVVMzQkI4aWNCblVXUUNxanFOakIta0VEYlZZYWJYWno2SjRCZWVaNl94cEhfa0lEVlZnV09SSVBxMnI3R1F1WjZmdXFpNUhwWXhSbFU1X3VNRFB3QWNrdEU2RTNIVWI4eTdOSzhDeTdrOWNGbnVodw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "U.S. dollar gains as yields move higher.",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">U.S. retail sales came in close to expectations, while the Philadelphia Fed Manufacturing Index surprised sharply to the upside, likely reflecting improved business sentiment following the Middle East ceasefire and the decline in oil prices. Housing data, h",
-      "source": "Forexlive",
-      "publication_date": "2026-07-16T15:33:15+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/u-s-dollar-gains-as-yields-move-higher",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
       ]
     }
   ]
