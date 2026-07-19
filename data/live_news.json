@@ -1,24 +1,155 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-19T11:42:16.863508+00:00",
+    "last_updated": "2026-07-19T15:33:36.736407+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 99,
-      "crypto": 58,
-      "equities": 42,
-      "forex": 22,
+      "general": 103,
       "commodities": 18,
-      "macro": 30
+      "macro": 29,
+      "crypto": 55,
+      "equities": 38,
+      "forex": 22
     }
   },
   "articles": [
+    {
+      "headline": "AI is destroying the internet. Math is our only hope.",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-19T14:00:00+00:00",
+      "article_url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Stop asking 'How was work today?' Successful, mentally strong couples ask these 7 questions instead",
+      "description": "This question can get you \"stuck in a communication rut,\" says Amy Morin, author of \"13 Things Mentally Strong Couples Don't Do.\" Here's what to ask instead.",
+      "source": "CNBC",
+      "publication_date": "2026-07-19T13:30:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/19/stop-asking-how-was-work-today-successful-mentally-strong-couples-ask-these-questions-instead.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Three themes emerge as AI momentum trade turns volatile: Goldman Sachs",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-19T13:01:58+00:00",
+      "article_url": "https://seekingalpha.com/news/4615115-three-themes-emerge-as-ai-momentum-trade-turns-volatile-goldman-sachs?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Kraken says simpler options can unlock crypto's next derivatives market",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-19T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-19T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Gulf bourses retreat as US–Iran hostilities intensify - Reuters",
+      "description": "Gulf bourses retreat as US–Iran hostilities intensify Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-19T12:53:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzIxWFlrMnEyMFZoNHBRTjFybFYyNWtmNktvMlRFaGM0X2RBeWNzZzhycWxlVl9rSTlpdnBGVzY2dlZzWkFGUThqbkZPQUREak85NUREUjFkalExaHBJSk53aEFScDA0dFY2b1NwMlNiRVNkWndZanEzM05HVF9NNktScnUyNDdESkY5VlBTZDNsU3c0ZVY4aG1aaWZlZi1iQ3J2Y1Rn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "description": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-19T12:53:12+00:00",
+      "article_url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump says Republicans should add Iran to Russian bill - Reuters",
+      "description": "Trump says Republicans should add Iran to Russian bill Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-19T12:11:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnFZbzUwRlM5eW5NN1JqbnNQcHdUdEsxRk11OEdEeEJ4RnltcERZSkl0dlVneU5mYlhURlN4R2F1TUliWjZ2dVZUX3dJS3JucHBEUG5hY04yUUgzWnF3SHVaNTBwb3o3cUdqNEVLWGttNjdqZ2lzSDJWQy1LeW1saG9xSjZxaXpzSFg1QzNWeG50MmtDRnpVb2NsNFlpRENJSjJ4ZTlfby0?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
+      "description": "The carrier is working on improving reliability, investing in more premium seats and lounges, and considering Boeing and Airbus for a new wide-body plane order.",
+      "source": "CNBC",
+      "publication_date": "2026-07-19T12:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say - Reuters",
+      "description": "Israel to receive more US refuelling planes as Iran attacks intensify, Israeli officials say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-19T11:51:03+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR28xNFpKXzVoWU9qY0YtNnBqZlh4ck9aeTZnc1VlOVVKaTczV2J1M1pqSmRwUFc1TnFIRU5wRktydXhhXzhSY1ctbDhzU3dkX3I0dEliRDFJWDNUaFkzUUFsMEg4NnV2SWFpOGFhdHdMRHc2SDc4NE0tcXhpZ0VUVGNTQUVQazZONGdlT3hvbm4tQ0RoaFNBVkZWR0pBTlhiRmNJMnl1RFdzWWRrQl83akkybFFRUy1odzdkdFFmTmhXbS1fNDNPcG9UY0RjeFk?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Jordan has not ordered evacuation of Aqaba airport or seaport, gov't spokesperson says - Reuters",
+      "description": "Jordan has not ordered evacuation of Aqaba airport or seaport, gov't spokesperson says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-19T11:13:41+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaF9oRGN1WHlqZHNLYTZ6d2V6TC10YnRqMFFmTEYzUEhDejRTV0xNUHBVdXV6TTFNNUNGUFhOSHV6WWZTZGFmX09obWZLNTV6Wm9raTdhU2tDekRCSUtONzdiQkk0dnNBQ2RKMUE1cVp5NG42R05pdkhtU0VOV1hEYVJNSTBUQU1BSGd5MlYzeGNmbHZudE1GalJ5MENvUHBJUW1zZllPRl9DTzhxS280Qklfbi1IYWM4Szg1OUk5bHR5ZHJEb1Y4NDRn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows - Reuters",
+      "description": "Gulf crude exports jump in July but shipments slowing on renewed hostilities, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-19T11:03:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0s2bmk4NkZfVGZ5R2tpZzEwYXo4Ymhxb0lyYUlNQlR4X29mekhzS0RGUndSMllMbnpZTGdRYlRZV3NmT0dBNGFyOTkxSFNTZEJTcE05cWtoNzREYU16TW5IUGJ4Zm9qa0lkbUI5Rmg1X1dldEI4MnZJdjNLcTBjTlkyMnRPSzRaUGdtNG9hWFRkaExsV3B4S3ZTb3ptaGlmM2w1ZWcteU5Jc1RTSGFRVjJncHZZLXoxUFliWTFWdGhHWnlkSkRudQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "South Korean regulator begins sanctions process against Dunamu: Report",
       "description": "The proceedings come as South Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
       "source": "Cointelegraph",
       "publication_date": "2026-07-19T10:17:46+00:00",
       "article_url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Germany's Merz signals possible opportunity for cabinet reshuffle - Reuters",
+      "description": "Germany's Merz signals possible opportunity for cabinet reshuffle Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-19T10:17:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUpObUw2RENVdFZ3QnhnOElIYmoxTFlhbmRFdGIwelFwcFF4c0JvNmRzTWtmWUxXNkk1WWctZDBrQnRHeGpacTBrcXU1eWdIYURhRDlMbXl4NjBpN2Q4MGc5dnhpVUU3eXhFaTluQUVsRVNFUTRZbk40VlBXNUZnU1BoVXlKQ084dy1tREFXeGJBVWY4UHdPRmtUbUdVc2xHNS1UaQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -89,16 +220,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-07-18T21:52:18+00:00",
       "article_url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
-      "description": "US says two military personnel killed by Iranian attack in Jordan Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-18T21:30:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -256,6 +377,16 @@
       ]
     },
     {
+      "headline": "US says two military personnel killed by Iranian attack in Jordan - Reuters",
+      "description": "US says two military personnel killed by Iranian attack in Jordan Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-18T03:55:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVgwRnh4bGg5bXVrMEdSNXEydXpjb0dCTmQwQlV2MHlydHJTU05DcUxIbktrZW82aGUwZ2F4R2h6bkJXOEpFQy1DREthRVFySzUzNkpVMGNSdXdTMlVjVFR4ZTkyYlRqRTU4bEo1cHR1Y3RMSDJ0UV9Ed01tbnVZbUdyN29ZZWpqQU5VZDd3b3dkS0VlMVp5UUJSZHdPVUUzVjZGNmFHWUJOYWVFZDd0ekJnV293QTg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
       "description": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks Reuters",
       "source": "Reuters",
@@ -348,6 +479,17 @@
       ]
     },
     {
+      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
+      "description": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T21:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "investingLive Americas market news wrap: Stock markets struggle on Kimi, higher oil and NFLX",
       "description": "<ul><li><a href=\"https://investinglive.com:443/news/us-june-import-prices-0-3-vs-0-7-expected\" rel=\"follow\">US June import prices +0.3% vs -0.7% expected</a></li><li><a href=\"https://investinglive.com:443/news/us-housing-starts-for-june-1-427-million-versus-1-310-million-estimate\" rel=\"follow\">US ho",
       "source": "Forexlive",
@@ -369,16 +511,6 @@
       "article_url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
-      "description": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T19:41:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -431,17 +563,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329255/0/en/Acquisition-of-Aeronautical-Assets-from-AFD-For-25-6-Million-Name-Change-Consolidation-Announcement-of-a-Concurrent-Private-Placement-of-Up-to-4-75-Million.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
-      "description": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T18:44:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -597,6 +718,16 @@
       "source": "Forexlive",
       "publication_date": "2026-07-17T16:06:29+00:00",
       "article_url": "https://investinglive.com/news/us-sending-more-planes-to-israel-ahead-of-possible-escalation-report",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure - Reuters",
+      "description": "Oil settles up on renewed US-Iran hostilities and threat of Red Sea closure Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T16:04:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1059,6 +1190,16 @@
       ]
     },
     {
+      "headline": "Trump could get a lesson on Iran from an unlikely source — emus - Reuters",
+      "description": "Trump could get a lesson on Iran from an unlikely source — emus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T11:11:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjdTVU1SRUJFdUZKRS15aVpWZHc2MXNGU1ExNFUtcnY0S3NWbHNNOG83VGQ3c2hwTEdtRnV0Y2FyLTlBWXNuOHhwQ0d0RFZBb2J1VC1aZE95aURNWVNFTVpSdTJKMVlndXBTSVBGeVoxMTFsTDVJZ1lnRU5qdnZiWUluQmJSRElmNDBjblBJcFhtd2VSN1RZSHFMZE40c0o3QTFMQWFvMUFQT215STVuVEc5ZGxQSnJDbnM2Sg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Live markets: Bitcoin slips to $63,000 as the chip rout goes global",
       "description": "",
       "source": "CoinDesk",
@@ -1276,16 +1417,6 @@
       ]
     },
     {
-      "headline": "China's oil imports have plunged during the Iran war. How much will they recover? - Reuters",
-      "description": "China's oil imports have plunged during the Iran war. How much will they recover? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T08:33:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTI1OFgyZ3BIUU40N1NsczgyREZuR211NVlMQXAtdTVmOWduRF9YOEJPVHd1QkJsV0xhek9aenVtY2gyMWNPc2JyMzBvRnZIUC1mY0QzSFdqbkQyWThzTnJ6VDRVcUdHTWJfXzE5ZER3WHpTay12RlJQOTlpdUpXRmh2Q3ZVSDRzTEl3UE80WG0xSVc3eTN2LTNlbmxBbGpuQ1RVWkE5Q1JDNEMwdlhzUHdvWFJnc3JxX3RYd2l0QWYzWF9V?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1432,6 +1563,16 @@
       ]
     },
     {
+      "headline": "China's oil imports have plunged during the Iran war. How much will they recover? - Reuters",
+      "description": "China's oil imports have plunged during the Iran war. How much will they recover? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T05:44:34+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLTI1OFgyZ3BIUU40N1NsczgyREZuR211NVlMQXAtdTVmOWduRF9YOEJPVHd1QkJsV0xhek9aenVtY2gyMWNPc2JyMzBvRnZIUC1mY0QzSFdqbkQyWThzTnJ6VDRVcUdHTWJfXzE5ZER3WHpTay12RlJQOTlpdUpXRmh2Q3ZVSDRzTEl3UE80WG0xSVc3eTN2LTNlbmxBbGpuQ1RVWkE5Q1JDNEMwdlhzUHdvWFJnc3JxX3RYd2l0QWYzWF9V?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
       "description": "",
       "source": "CoinDesk",
@@ -1439,16 +1580,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Trump could get a lesson on Iran from an unlikely source — emus - Reuters",
-      "description": "Trump could get a lesson on Iran from an unlikely source — emus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T05:12:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjdTVU1SRUJFdUZKRS15aVpWZHc2MXNGU1ExNFUtcnY0S3NWbHNNOG83VGQ3c2hwTEdtRnV0Y2FyLTlBWXNuOHhwQ0d0RFZBb2J1VC1aZE95aURNWVNFTVpSdTJKMVlndXBTSVBGeVoxMTFsTDVJZ1lnRU5qdnZiWUluQmJSRElmNDBjblBJcFhtd2VSN1RZSHFMZE40c0o3QTFMQWFvMUFQT215STVuVEc5ZGxQSnJDbnM2Sg?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1540,6 +1671,16 @@
       ]
     },
     {
+      "headline": "Qatar says Iranian missile attack thwarted, child injured - Reuters",
+      "description": "Qatar says Iranian missile attack thwarted, child injured Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-17T02:40:28+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHZqQ2FSa1E2ZG9XdzN0QklxdDlUN0hBLWd0aTVJRUV5YUxlcTVEU1BKbGtRZDhOWjVDeWVFdFo5b1JpdlhUekJIT2FWZjhORlB3REFJUXN0a2s1N2tSejg3QW1SYlE4MHp4WUlXZmMxaHVJM2hoNVJJRkpmejFycWlsOW1JQ2hOYUxMUXpOc1hMX2FJQ1lOSTkyb3l5cHhOcktzaHZNTnJHRm14cXRhVlJB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks - Reuters",
       "description": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks Reuters",
       "source": "Reuters",
@@ -1577,16 +1718,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-17T01:54:00+00:00",
       "article_url": "https://cointelegraph.com/news/balaji-seeks-malaysia-deal-threatens-exit-after-network-school-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Qatar says Iranian missile attack thwarted, child injured - Reuters",
-      "description": "Qatar says Iranian missile attack thwarted, child injured Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T01:43:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSHZqQ2FSa1E2ZG9XdzN0QklxdDlUN0hBLWd0aTVJRUV5YUxlcTVEU1BKbGtRZDhOWjVDeWVFdFo5b1JpdlhUekJIT2FWZjhORlB3REFJUXN0a2s1N2tSejg3QW1SYlE4MHp4WUlXZmMxaHVJM2hoNVJJRkpmejFycWlsOW1JQ2hOYUxMUXpOc1hMX2FJQ1lOSTkyb3l5cHhOcktzaHZNTnJHRm14cXRhVlJB?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1755,6 +1886,16 @@
       ]
     },
     {
+      "headline": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters",
+      "description": "Oil settles lower, but remains near one-month high on U.S.-Iran tension Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-16T21:51:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Hegseth announces testosterone screening for US troops - Reuters",
       "description": "Hegseth announces testosterone screening for US troops Reuters",
       "source": "Reuters",
@@ -1875,16 +2016,6 @@
       ]
     },
     {
-      "headline": "Oil settles lower, but remains near one-month high on U.S.-Iran tension - Reuters",
-      "description": "Oil settles lower, but remains near one-month high on U.S.-Iran tension Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T20:28:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ09hT2dSaHFGQjJ2ckhSbUVfdGhGdVZYLXA4SGZ2ZWJCNTlkQU1LN2pYdURFX2F1QTFhNnVCMzZjMklKRXowdnF1YjdXSDR2TGVHMjBSb21pT1JmT3ZuNTNEWktLd3FZNlFHV29fVDhmTElfVXUxOWs0RDdWUHg2Qkt0QXJpMTgxUm02a08yOVBxRTJTOUhiSkVtQXBKclFWQUppMThudWFvV3dXejYyN3BBMzhiM2JKUXc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Trump threatens new Iran escalation and risks repeating old mistakes - Reuters",
       "description": "Trump threatens new Iran escalation and risks repeating old mistakes Reuters",
       "source": "Reuters",
@@ -1938,16 +2069,6 @@
       ]
     },
     {
-      "headline": "Iran continues to talk to U.S., wants to make a deal, White House says - Reuters",
-      "description": "Iran continues to talk to U.S., wants to make a deal, White House says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T19:44:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWdiekphMHNZVm1rSmdDajlsTVkxMXhHYUpqTC1QX0RLVGdDTmxrbmJEUzBvMTEwV1lpVG5mSU91Vmh5cTBBZG43OEtqSkUxZUxEMkFuUmUwVnZ4SXB3NkRHZ29McmY0a0RlRXN6Wi1tVVRCUjNSRGE0NmVvTDEtZFlsY0t1bnphOFNIV0xDZkJldXhRZmpUSjdYU0NtVkRUSFZWM2lVc0p0V2RZY2c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Vance says some in Israeli government sought to sway US on Iran deal - Reuters",
       "description": "Vance says some in Israeli government sought to sway US on Iran deal Reuters",
       "source": "Reuters",
@@ -1955,131 +2076,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1FtT0xCbzMyYXpXME1CenRhVDZjdmpYX051ZlJpUDVQcms2LWhfY01EU2NWc0xkUE5aQTJaSDYyQ0x6SDZtTUJNUVlhZXdfOThFUkpGV3VtMUZFNGJxMU0tZ0pqSTBQZWoycHA2R0FoY2pzQzRoN29WSWNhY1ZzSkJIU1NBX21QOHZiTVctRVBZNzBtcEFYSUtqWFlkT1pONUdQVGdLRXN4MHVNVURQWHgzS1dCZDhPcE5lZ0JGQQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Injective files for SEC transfer agent registration to bring securities ownership records onchain",
-      "description": "The company said the filing would create a regulated pathway for maintaining ownership records for tokenized securities onchain.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T19:27:53+00:00",
-      "article_url": "https://cointelegraph.com/news/injective-files-sec-transfer-agent-registration-bring-securities-ownership-records-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crude oil futures continue the consolidation since breaking higher on Tuesday trade",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The price of crude oil settled at $78.95, down $0.65 (-0.82%). Trading was relatively contained, with a low of $78.58 and a high of $80.87, as the market continued to consolidate after Tuesday's breakout to the topside.</p><p class=\"PDq2pG_selectionAnchorCo",
-      "source": "Forexlive",
-      "publication_date": "2026-07-16T19:22:32+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/crude-oil-futures-continue-the-consolidation-since-breaking-higher-on-tuesday-trade",
-      "asset_tags": [
-        "equities",
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Dassault Systèmes in talks to buy drug trial software company for $2B - FT",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-16T19:14:11+00:00",
-      "article_url": "https://seekingalpha.com/news/4614646-dassault-systemes-in-talks-to-buy-drug-trial-software-company-for-2b---ft?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "The Micron chart flashes an ugly sign",
-      "description": "<p>This chart is as ugly as it gets in terms of a topping formation.</p><p>Micro shares have fallen $400 in the past three weeks and are now at the lowest since May 26. They're down 32% after initially surging on the most-recent quarterly earnings report. In that report, the company forecast it woul",
-      "source": "Forexlive",
-      "publication_date": "2026-07-16T18:53:42+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/the-micron-chart-flashes-an-ugly-sign",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Here's a rapid-fire update on our stock portfolio, including the 5 names to buy",
-      "description": "Jim Cramer and Jeff Marks offered their latest thoughts on the Investing Club's portfolio during the July Monthly Meeting.",
-      "source": "CNBC",
-      "publication_date": "2026-07-16T18:50:06+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/16/heres-a-rapid-fire-update-on-our-stock-portfolio-including-the-5-names-to-buy.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "GBPUSD retraces to the targeted swing area between 1.3446 to 1.3465.",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The GBPUSD surged higher yesterday, breaking through a series of important technical hurdles and shifting the near-term bias in favor of the buyers.</p><p class=\"PDq2pG_selectionAnchorContainer\"></p><p>The rally began with the pair finding support against t",
-      "source": "Forexlive",
-      "publication_date": "2026-07-16T18:46:48+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/gbpusd-retraces-to-the-targeted-swing-area-between-1-3446-to-1-3465-the-61-8-is-also-within-the-area/",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "BitPay secures Dutch licensing under MiCA, plans to expand stablecoin payments",
-      "description": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider under the Markets in Crypto-Assets requirements.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-16T18:45:25+00:00",
-      "article_url": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T18:38:13+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US launches new wave of strikes against Iran, military says - Reuters",
-      "description": "US launches new wave of strikes against Iran, military says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-16T18:27:53+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcm1DZ002b2p4eXVXWGJheThfVE05elZjcGw2MUZ0WWNPZ0JudzZ3dkRXTlF1elByVnpiSy15V1JvOUhuTEVVcXBOVlRCTzZWbUJfdVhWRXE1dUs1MVN0UC1PemhmUEhOQWVMcVpJUXgyLUJCNEYta3FhNFBEN1RxeWczV2VHRV8yd24tbWE1cW1vQU45cmJ6Nzg0b3ctc0xuWFBzU1oxTlBlM2l1cE5oTHFXa2ZobXhzRUppUTFDblB3aE1vVDFzUUlCU3MxQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "We're trimming our hedge on lower rates, which may take longer to materialize",
-      "description": "While we think it a great \"house,\" it is unfortunately in an awful \"neighborhood.\"",
-      "source": "CNBC",
-      "publication_date": "2026-07-16T18:20:40+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/16/were-trimming-our-hedge-on-lower-rates-which-may-take-longer-to-materialize.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Cribl übernimmt CardinalOps und erweitert seine KI-Plattform um Security Operations",
-      "description": "Die Übernahme erweitert Cribl um KI-gestütztes Detection Engineering und hilft Kunden dabei, die Bedrohungsabdeckung zu verbessern, die von Sicherheitsdaten verursachten Kosten zu senken und Legacy-SIEM-Architekturen abzulösen Die Übernahme erweitert Cribl um KI-gestütztes Detection Engineering und ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-16T18:02:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328749/0/de/Cribl-%C3%BCbernimmt-CardinalOps-und-erweitert-seine-KI-Plattform-um-Security-Operations.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Citadel Securities invests $400 million in Crypto.com, valuing exchange at $20 billion",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-16T18:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
