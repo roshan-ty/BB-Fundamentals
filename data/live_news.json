@@ -1,18 +1,157 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-20T20:52:22.433792+00:00",
+    "last_updated": "2026-07-21T00:16:31.857520+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 107,
-      "equities": 37,
-      "crypto": 49,
-      "macro": 31,
-      "commodities": 19,
-      "forex": 21
+      "general": 103,
+      "equities": 41,
+      "macro": 33,
+      "commodities": 21,
+      "crypto": 51,
+      "forex": 23
     }
   },
   "articles": [
+    {
+      "headline": "Icahn Enterprises to sell Pep Boys to Mavis in $700M deal: WSJ",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-20T23:31:04+00:00",
+      "article_url": "https://seekingalpha.com/news/4615645-icahn-enterprises-to-sell-pep-boys-to-mavis-in-700m-deal-wsj?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Columbia Financial, Inc. Announces Completion of Second Step Conversion and $1.7 Billion Stock Offering and Acquisition of Northfield Bancorp, Inc.",
+      "description": "FAIR LAWN, N.J., July 20, 2026 (GLOBE NEWSWIRE) -- Columbia Financial, Inc., (Nasdaq Global Select Market: CLBK), (the “Company” or “Columbia”), a Maryland corporation and the successor to Columbia Financial, Inc., a Delaware corporation (the “Holding Company”), today announced the completion of the",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-20T23:21:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/20/3330165/0/en/Columbia-Financial-Inc-Announces-Completion-of-Second-Step-Conversion-and-1-7-Billion-Stock-Offering-and-Acquisition-of-Northfield-Bancorp-Inc.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
+      "description": "Wall Street indexes fall, with Iran and earnings season in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T22:56:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "New Zealand Q2 CPI 4.1% y/y (expected 4.0%) and 1.5% q/q (expected 1.4%)",
+      "description": "<p>I'll have more to come on this separately. For now, just the numebrs!</p><p>New Zealand Q2 CPI </p><p>4.1% y/y </p><ul><li>expected 4.0%, prior 3.1%</li></ul><p>1.5% q/q </p><ul><li>expected 1.4%, prior 0.9%</li></ul><p>Non-tradeables +3.4% y/y and +0.6% q/q </p><p>Tradeables +2.7% q/q ﻿</p><p>Ea",
+      "source": "Forexlive",
+      "publication_date": "2026-07-20T22:55:15+00:00",
+      "article_url": "https://investinglive.com/news/new-zealand-q2-cpi-y-y-expected-4-0-and-q-q-expected-1-4",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "FCPT Announces Acquisition of a Burger King Property for $1.6 Million",
+      "description": "MILL VALLEY, Calif.--(BUSINESS WIRE)--Four Corners Property Trust (NYSE:FCPT), a real estate investment trust primarily engaged in the ownership and acquisition of high-quality, net-leased restaurant and retail properties (“FCPT” or the “Company”), is pleased to announce the acquisition of a Burger ",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-20T22:52:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260720669541/en/FCPT-Announces-Acquisition-of-a-Burger-King-Property-for-1.6-Million/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war - Reuters",
+      "description": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T22:22:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Hamas names Khalil Al-Hayya as new overall leader - Reuters",
+      "description": "Hamas names Khalil Al-Hayya as new overall leader Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T21:45:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
+      "description": "Coinbase vice chair Ryan VanGrack said that Democratic lawmakers had added provisions on customer protection to a digital asset market structure bill under consideration in the US Senate.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-20T21:41:23+00:00",
+      "article_url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tether Gold recognized as Accepted Spot Commodity in Abu Dhabi financial center",
+      "description": "The recognition allows regulated firms in Abu Dhabi Global Market to offer services involving Tether Gold as tokenized commodities gain broader adoption.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-20T21:21:54+00:00",
+      "article_url": "https://cointelegraph.com/news/tether-gold-recognized-as-accepted-spot-commodity-in-abu-dhabi-financial-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin defies recent tech stocks sell-off. Are bulls eyeing a $70K rally?",
+      "description": "Despite muted derivatives sentiment, Bitcoin’s decoupling and Strategy’s cash raise set the stage for a potential rally to $70,000.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-20T21:20:09+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-defies-recent-tech-stocks-sell-off-are-bulls-eyeing-70k-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trump hits Canada with new tariffs on alcohol, dairy and autos",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"auto\">The fresh round of duties lands in the middle of an already fraught USMCA review process and risks reopening a trade fight that had partially cooled earlier this year. Targeting alcohol, dairy and autos hits politically se",
+      "source": "Forexlive",
+      "publication_date": "2026-07-20T21:15:16+00:00",
+      "article_url": "https://investinglive.com/news/trump-hits-canada-with-new-tariffs-on-alcohol-dairy-and-autos",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "investingLive Americas FX news wrap 20 Jul:",
+      "description": "<ul><li><a href=\"https://investinglive.com:443/stocks/us-stocks-reverse-sharply-as-middle-east-tensions-erase-early-rally\" rel=\"follow\">US stocks reverse sharply as Middle East tensions erase early rally</a></li><li><a href=\"https://investinglive.com:443/news/cbs-news-nearly-100-u-s-troops-injured-i",
+      "source": "Forexlive",
+      "publication_date": "2026-07-20T21:08:29+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-jul",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Yemen's Houthis declare naval blockade against Saudi Arabia - Reuters",
+      "description": "Yemen's Houthis declare naval blockade against Saudi Arabia Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T20:56:13+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "FinWise acquires Tallied Technology, completing its credit card stack",
       "description": "",
@@ -24,16 +163,6 @@
       ]
     },
     {
-      "headline": "MasTec Completes Previously Announced Acquisition of The Superior Group",
-      "description": "CORAL GABLES, Fla.--(BUSINESS WIRE)--MasTec, Inc. (NYSE: MTZ) today announced that it has closed its previously announced acquisition of Electrical Specialists, Inc., d/b/a The Superior Group (“Superior”), a premier full-service electrical contractor focused on critical infrastructure, in a cash and",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-20T20:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260720247057/en/MasTec-Completes-Previously-Announced-Acquisition-of-The-Superior-Group/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
       "description": "The SEC alleges Mining Automatic and its founder raised $22 million from investors by promising guaranteed crypto mining returns while spending only a fraction of the funds on mining operations.",
       "source": "Cointelegraph",
@@ -41,6 +170,16 @@
       "article_url": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "After deadly weekend for US troops, Trump vows revenge against Iran - Reuters",
+      "description": "After deadly weekend for US troops, Trump vows revenge against Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T20:19:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -69,16 +208,6 @@
       "source": "Forexlive",
       "publication_date": "2026-07-20T19:52:08+00:00",
       "article_url": "https://investinglive.com/news/cbs-news-nearly-100-u-s-troops-injured-in-iranian-attacks-most-return-to-duty",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war - Reuters",
-      "description": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T19:46:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -115,6 +244,16 @@
       ]
     },
     {
+      "headline": "Here's our advice for investors looking to buy the dip in volatile AI stocks",
+      "description": "When trading in a sector, industry, or stock changes dramatically, as it has with the hyperscalers and AI stocks in recent days, you must change your scales.",
+      "source": "CNBC",
+      "publication_date": "2026-07-20T19:28:29+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/20/jim-cramers-advice-for-investors-looking-to-buy-ai-stocks.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "2 things capping Monday's market — plus, Alphabet's new AI chip roadmap",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "source": "CNBC",
@@ -122,26 +261,6 @@
       "article_url": "https://www.cnbc.com/2026/07/20/2-things-capping-monday-market-rally-alphabet-new-ai-chip-plans.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "After deadly weekend for US troops, Trump vows revenge against Iran - Reuters",
-      "description": "After deadly weekend for US troops, Trump vows revenge against Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T19:06:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnhXZVhURmd3ZGlYWXZfYUNSV3lOWkVuUUZPYlA0TVhUQmE5aDRUMVM5SncyVnBGdEdnN3dGMFlCUndzWG1jazFiUjhCU0hwaTJfVXloemlVLTRlcnNOUGdrREZ6SkVtVlliZ0dCVEV5Xzg1dFFObGN4ZGhNMF9iVGRFRDFHclJwMkNNc3RGRFQzdXJGaVI4LWlObVFEN0tlbHBQb3NWWVVyUmVGd3JmS2hpRU5fNm8?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "S&P 500, Nasdaq rise with chips boost; Iran and megacap earnings in focus - Reuters",
-      "description": "S&P 500, Nasdaq rise with chips boost; Iran and megacap earnings in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T18:54:50+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -164,6 +283,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Red Sea war insurance costs rise after Houthi blockade, sources say - Reuters",
+      "description": "Red Sea war insurance costs rise after Houthi blockade, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T17:31:56+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcFBRdmdXSFFsMHF5ZnI4dVNpbDRtLWVHbGtWXzRfZUVJLUhRdE9oYjN4V05jdmE4SDE5UmN6TXVJRmk1V3cxM182bTlOMnhHdlVIUW43UENkckdvcHhUeHRsSDJYWTU4cTlFOV9KR0VkaF9ORmNUeUhlak80NVJxdXc5SXZBXzNmV2pYWVo4V1VKVndWYk1DeFJ0UjRnZUtwWmd2ejVjcTMzN2RuU252Y2hnS01SVTlJRWRJ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -241,16 +370,6 @@
       ]
     },
     {
-      "headline": "Yemen's Houthis declare naval blockade against Saudi Arabia - Reuters",
-      "description": "Yemen's Houthis declare naval blockade against Saudi Arabia Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T16:58:28+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bernstein raises Robinhood price target, cites tokenization and prediction markets",
       "description": "The brokerage’s blockchain strategy, including tokenized equities and its Arbitrum-based Robinhood Chain, could reduce its reliance on traditional crypto trading, analysts said.",
       "source": "Cointelegraph",
@@ -258,6 +377,17 @@
       "article_url": "https://cointelegraph.com/news/bernstein-raises-robinhood-price-target-cites-tokenization-and-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "European shares tick lower as investors assess US-Iran jitters; tech earnings loom - Reuters",
+      "description": "European shares tick lower as investors assess US-Iran jitters; tech earnings loom Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T16:51:35+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODQ2N2RtekZ0OThEWDdnSTMtNFdrbDFpcG92ZlRibHF3UVg0WnpuVmViSDhqMXJBeWhkaUFaeXIzM2cwQXBFdnQzT015aFhjYUx2M2tJX2dCdTY0bWFuMmFkVDctbTY2Y0ZoaHUwV2lWR3VSNl9QVzVXaU42aGVvNU40aHN6eFdvZDRQN3RGZlV2S0dHWE9HclFCdVhhajlhazV6SUhIdlJmN2MtZURUTEp4S1NaSUZobmR3?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities"
       ]
     },
     {
@@ -343,16 +473,6 @@
       "article_url": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Hamas names Khalil Al-Hayya as new overall leader - Reuters",
-      "description": "Hamas names Khalil Al-Hayya as new overall leader Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T15:07:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1006,6 +1126,16 @@
       ]
     },
     {
+      "headline": "Bulgaria to ask parliament to allow US tanker aircraft to be stationed at military base - Reuters",
+      "description": "Bulgaria to ask parliament to allow US tanker aircraft to be stationed at military base Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T10:23:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRFhON3NuczRjTVpKRk5wdnhTSmtHMVpfYnFOcDlqT3JmaF9Qc254V3lEbTk4Y2lhMVN3SENicXFkbHQzU3ktT2FNT3dMRklBWnlybkh3WXNyZXR2ck9HbllvYm9MY0dUdTVHMTZKZ1JrRFBsV25FdFo4WUJJV0stOE5sUXZCYVhzZGxsSEtQaWxRZy04LWFaM0NxLXlpeVltVFktSkZhdVByS1MtZXRWNWNNUlV5OW9SdEUxdk8tTENjN0VLeUZGdU85ZUMxZEtJaWplZw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "UK to get a new prime minister as Trump slams Britain as 'Poverty Stricken Disaster'",
       "description": "The prospect of Burnham, considered more left-leaning than Starmer, replacing the incumbent prime minister sent jitters through bond markets earlier this year.",
       "source": "CNBC",
@@ -1421,6 +1551,16 @@
       ]
     },
     {
+      "headline": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? - Reuters",
+      "description": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T02:34:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkVNby0tbVgtVUxCWFJyNVVXM2V4VUVOb0tDdlFLOUc4djJnRi1jTTBTNnY4T2doUVlYaWVyZkhHbU9CLTV2cDcwQzJTTGttdWIzZHpidkFiQ2RlSV9fbEFmcE9nVHlfQXRoUTFvOUFvUFJQQURsUkxFMUFWaXV6QnBYdmtrRTY2YlhYWk41clc4WlNTdUswYlZLNFBXeGlBQ0VvS0xWZ181cEdvdVF3djNLeUtwQ3VVMllwemJZNkRJTHc4cU9mXzAycGFWdUxkSy13MU1zTmZRdWc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Allbridge pauses cross-chain bridge after $1.65M exploit",
       "description": "The attacker allegedly used a flash loan and rapid swaps to manipulate the bridge’s stablecoin exchange rate.",
       "source": "Cointelegraph",
@@ -1451,16 +1591,6 @@
       ]
     },
     {
-      "headline": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? - Reuters",
-      "description": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T01:27:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkVNby0tbVgtVUxCWFJyNVVXM2V4VUVOb0tDdlFLOUc4djJnRi1jTTBTNnY4T2doUVlYaWVyZkhHbU9CLTV2cDcwQzJTTGttdWIzZHpidkFiQ2RlSV9fbEFmcE9nVHlfQXRoUTFvOUFvUFJQQURsUkxFMUFWaXV6QnBYdmtrRTY2YlhYWk41clc4WlNTdUswYlZLNFBXeGlBQ0VvS0xWZ181cEdvdVF3djNLeUtwQ3VVMllwemJZNkRJTHc4cU9mXzAycGFWdUxkSy13MU1zTmZRdWc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Equities inch higher with semi stocks, oil up amid further Iran tensions - Reuters",
       "description": "Equities inch higher with semi stocks, oil up amid further Iran tensions Reuters",
       "source": "Reuters",
@@ -1488,6 +1618,16 @@
       "article_url": "https://cointelegraph.com/news/south-korea-probed-40-cases-of-crypto-manipulation-over-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "India’s youth-led 'cockroach movement' clashes with police in New Delhi - Reuters",
+      "description": "India’s youth-led 'cockroach movement' clashes with police in New Delhi Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-20T00:28:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaF9hbGpaUTZvd1RQN1lsSGpnU2Zkamp0TWpLRlZNbE1yUDZ5U0lFTmpFaUtwX1BRTWwxMjZ0Mm5wZE5FR2lLbkF1eVhVMVhhM2RKNnB5cWw4b25jaUZpXzgxMjRDcUhZbHN5VFJPMl9nV2t6bXNLWGlVcjVTVTgzTXJaUTlVQkl1d0k2RmZqT1dtUF9Sb2ZCT3dKRG5hSmtNMWNCa1JNSkd6Q1RnTVg4?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1943,138 +2083,6 @@
       "asset_tags": [
         "forex",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
-      "description": "Morgan Stanley forecasts that K-beauty sales in the U.S. can reach approximately $4 billion in 2026.",
-      "source": "CNBC",
-      "publication_date": "2026-07-18T11:10:25+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "French gambling regulator orders ISPs to block Polymarket",
-      "description": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-18T09:58:55+00:00",
-      "article_url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "PODCAST: Data centers: Small town politics turn into a national fight - Reuters",
-      "description": "PODCAST: Data centers: Small town politics turn into a national fight Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-18T05:01:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaS1ua0dnQWM0aHRKWG5lSXFCWGp2M05xT0ZhSHlNS0M0UnV1YV83QXR4MkozNUhGd1BHUzFNWTRBZHdEUE52UWdJRTBLX21Ud1lvQXczM1EtU2JPeE9fNlA2V0hfNWZ4VExxbGVYdmUyU0NrLU91WWN1aWVmMjUzU1k3bEhHRDBfeTMxTndFMUFoVWZRRzJtTWczSFI3TUl0UWxjRw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks - Reuters",
-      "description": "US military says it completed latest strikes on Iran, marking 7th consecutive night of attacks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-18T02:40:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1Zpc0tXYzd1NVhsVFJ2VHRXTkl5ZTA0Y0I0Yk9TeFNKbFZoRWpEWTM0Y0NBdmlKUFJIMHlFRGdYWTNDZEF2THo1azkyV3JabU9GOUxGQ3hwY2pxOUJXVUVlaUxHeFpiNVFxYVA2NTZmMTNLOHY1b3JjTVJfT0piMnFoZ2ZicnVXUkdMWG5jY21MUUxLZnpKeDB0V2NqaEdyWHZBTzRXV18zQzhJek9tREx3MW8wcGVaa25MbExTV0tXZWZyd2x3X21ueGNUUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US and Iran target infrastructure as strait shipping comes under further attack - Reuters",
-      "description": "US and Iran target infrastructure as strait shipping comes under further attack Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-18T01:03:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRW1QZlpEY3pwOHJJaDF2S2JVZG81S2xuakhndThpb1lLREpreFBCRW1TWTlZeFBGTFRaUER1dWRUU2FlaDlYTU9Yc0hzY3Juby0xSlRxN24yMGZvQ0ktN1NYcjVtZHc5a3F6UXQ5Qnc3aWNDNV84MV8ybWkxemptWEtlS1plM0kxQVNoM3A5RkpkUlZGSEtYbVVTN2RtNkhwc3VWZThNazhDTGpt?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Vireo Growth Inc. Completes Acquisition of Pennsylvania Dispensary License Transaction",
-      "description": "MINNEAPOLIS, July 17, 2026 (GLOBE NEWSWIRE) -- Vireo Growth Inc. (CSE: VREO) (OTCQX: VREOF) (“Vireo” or the “Company”), today announced that it has completed its previously announced acquisition of all of the issued and outstanding limited liability company membership interests of FarmX, LLC d/b/a P",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-18T00:27:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/18/3329336/0/en/Vireo-Growth-Inc-Completes-Acquisition-of-Pennsylvania-Dispensary-License-Transaction.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Boeing keeps 20-year forecast for jet demand steady, shrugs off Iran war impact - Reuters",
-      "description": "Boeing keeps 20-year forecast for jet demand steady, shrugs off Iran war impact Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T23:03:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVC1qb3huZlFwTlFVOEpuUjZwWVdQMl9NNFZDQVdWXzZlSzl2UG1oTmhNeXJzeTZaYVBxcWVVQ2ZSVFFOZGp5S3k3Rkpia0tvOHZRd05nMkdBRFBWVnZlRW94WkxNSkxmQW5kYS1rbUxScUotSW8wYTY5RWthOUVLNlJCZEduN25ZT0FOUms5OEJRajRPd3ppeTdqaGs1ZEJjcnBweGJaY3NQWjVQU3BlaTdXcDJSai1GWS1vRmdrRmpBYTlST1NxQVRYUDdFeVdGX2JJ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "World stocks fall in semiconductor rout; oil rises on Middle East escalation - Reuters",
-      "description": "World stocks fall in semiconductor rout; oil rises on Middle East escalation Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T22:51:35+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "United Flow Technologies Expands Midwest Presence with Acquisition of Peterson and Matz",
-      "description": "Irving, TX, July 17, 2026 (GLOBE NEWSWIRE) -- United Flow Technologies (UFT), a leading technical distributor and solutions provider serving the municipal and industrial water and wastewater treatment markets and a portfolio company of Berkshire Partners, today announced the strategic acquisition of",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-17T22:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329320/0/en/United-Flow-Technologies-Expands-Midwest-Presence-with-Acquisition-of-Peterson-and-Matz.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "FLUENT Provides Update and Supplemental Disclosure on Circular to Approve All-Stock Transaction With Vireo Growth Inc.",
-      "description": "TORONTO, July 17, 2026 (GLOBE NEWSWIRE) -- FLUENT Corp. (CSE: FNT.U) (OTCQB: CNTMF) (“FLUENT” or the “Company”), a vertically-integrated, multi-state cannabis company, announces that, further to its news release dated April 30, 2026, it has mailed (or mailed a notice of internet availability with re",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-17T22:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/17/3329319/0/en/FLUENT-Provides-Update-and-Supplemental-Disclosure-on-Circular-to-Approve-All-Stock-Transaction-With-Vireo-Growth-Inc.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "FTX to distribute $900M to creditors in fifth payment round",
-      "description": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-17T21:40:18+00:00",
-      "article_url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries - Reuters",
-      "description": "Gold set for biggest weekly drop since early June on inflation, rate-hike worries Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T21:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Dollar holds steady on safe-haven demand, ends down on the week - Reuters",
-      "description": "Dollar holds steady on safe-haven demand, ends down on the week Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-17T20:33:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzlGV29IaFlLeXlncnYxUzVfZ25nVGhxSjU0aGtZTjRlODMxa2hMWk5zSUVhZzFCMS1vLUhxTE5oTHpZazA1eDdjQ1dkYzUyZHBNeFN3WGtEODlIbHFHNWRuYW54S1Naa0Qyd2hXYV9taWY1aHZJYnhBSk1QT3Q0TWZqd2dRWGZkeEZjRnJHaUlRRUV5Y0pPZ1lVMlF6VFlERXRYWWxZYkNiQ1E?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
