@@ -1,30 +1,204 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-21T20:40:21.815161+00:00",
+    "last_updated": "2026-07-21T23:45:02.803568+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 26,
-      "equities": 48,
+      "equities": 47,
+      "crypto": 58,
+      "macro": 40,
       "commodities": 27,
-      "crypto": 57,
-      "macro": 43,
-      "general": 89
+      "general": 90,
+      "forex": 23
     }
   },
   "articles": [
     {
+      "headline": "Trump sets 2-year tariff exemption for generic drugs, then steep rises",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">This marks the first time the administration has put a concrete timeline on tariffing generic drugs, a category that had been explicitly exempted from April's Section 232 pharmaceutical proclamation. The two-year runway giv",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T23:14:12+00:00",
+      "article_url": "https://investinglive.com/news/trump-sets-2-year-tariff-exemption-for-generic-drugs-then-steep-rises",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "FCPT Announces Acquisition of a Novant Health Urgent Care Property for $2.8 Million",
+      "description": "MILL VALLEY, Calif.--(BUSINESS WIRE)--Four Corners Property Trust (NYSE:FCPT), a real estate investment trust primarily engaged in the ownership and acquisition of high-quality, net-leased restaurant and retail properties (“FCPT” or the “Company”), is pleased to announce the acquisition of a Novant ",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-21T22:35:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260721562479/en/FCPT-Announces-Acquisition-of-a-Novant-Health-Urgent-Care-Property-for-2.8-Million/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-21T22:08:10+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war - Reuters",
+      "description": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T22:06:31+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
+      "description": "According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the “explosive growth of prediction markets.”",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T21:36:43+00:00",
+      "article_url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US war in Iran has cost $37.5 billion so far, Pentagon says - Reuters",
+      "description": "US war in Iran has cost $37.5 billion so far, Pentagon says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T21:29:03+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Lebanese army enters southern town after Israeli withdrawal, in first test of US-brokered deal - Reuters",
+      "description": "Lebanese army enters southern town after Israeli withdrawal, in first test of US-brokered deal Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T21:15:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX2hGZ2YzcFQ1aXJWdnEyNUJYU1ZhdTlyWFY3ajVHWkpjNDRkZHRJSGhzYUtFQ2tJREpDM1BENm9SX2JQZlB4Y0lrUkp1Tnpvc00zRkV4TTBMdldZVm1RdW1sTHAzMUJwU212clU2LVhGMEx6aTRzbkw4NVJFUnFpc2t1dkVldThkRDVPSlEyNUNEc2sxRERieGlDazJqblliVU9NdnUzbXNLVWlMYnc0VUxXS0N6M1lyaXI3Q3UxNkJGNVk2R1FR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-21T21:14:03+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Firm Capital Property Trust Announces Closing of Transformational Accretive Acquisition of 50% Interests in Ten Manufactured Home Communities for $218 Million",
+      "description": "BECOMES ONE OF CANADA’S LARGEST MHC OWNERSFOCUSED ON GROCERY RETAIL, INDUSTRIAL AND MULTI-RESIDENTIAL REAL ESTATECREATION OF GEOGRAPHICALLY BALANCED & DIVERSIFIED PORTFOLIO INCREASED EXPOSURE TO NON-RENT CONTROLLED WESTERN CANADIAN ECONOMIES",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T21:01:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3331002/0/en/Firm-Capital-Property-Trust-Announces-Closing-of-Transformational-Accretive-Acquisition-of-50-Interests-in-Ten-Manufactured-Home-Communities-for-218-Million.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
+      "description": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T20:59:32+00:00",
+      "article_url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "One of Arizona’s largest reservoirs has nearly disappeared - Reuters",
+      "description": "One of Arizona’s largest reservoirs has nearly disappeared Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T20:38:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHgzWHBBeGRFZ3R3UWxqaDdwWlE0Xzd1Z05hV3ViQktnQ2dQdmxHaHZBTE42QVJSZWtCLVRyQ1Qxam9fMFpxTHU5RW0tSmJMWC1LOWpUUG5UaHRVWVpLUXNEdXhkT3VOY0tWb1RDcUZDdnV0ZUZwYWRWcnZDaTdzX3BVVm1rdVJ6Mzd6T3JxdkVjcDdWTWxncEdfbFhIWWtC?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Palo Alto Networks to acquire observability platform Embrace",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-21T20:37:15+00:00",
+      "article_url": "https://seekingalpha.com/news/4616212-palo-alto-networks-to-acquire-observability-platform-embrace?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Galaxy Gaming Announces Termination of Merger with Evolution",
+      "description": "LAS VEGAS, July 21, 2026 (GLOBE NEWSWIRE) -- Galaxy Gaming, Inc.® (OTC: GLXZ) (“Galaxy” or the “Company”), the world’s leading independent developer and distributor of casino table games and technology, was notified by Evolution Malta Holding Limited, a company registered in Malta (“Evolution”) that",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T20:35:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330991/11636/en/Galaxy-Gaming-Announces-Termination-of-Merger-with-Evolution.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall St ends higher on chip stocks recovery; earnings in focus - Reuters",
+      "description": "Wall St ends higher on chip stocks recovery; earnings in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T20:34:01+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDZOb0lyeDNtSHo4bVQ4MlJ3RnhPUUR2WmxYT2xqaWRVNFFVNkNUdHBNUUIxWm5kZGpVaVc0SFZicnBmN1F0RWI3RXpqNUpCbjQ3RHhPZEJkTmlaeGI3YXp3MUlSSXN2RGdBZ3dfekVaQzQxbFJzeHhuNU9veGtKMzdidFZ1N2QwbFE3Z3B1VmxoY1VuTUFtU3Rfa09XMlRMWl9B?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "investingLive Americas FX news wrap 21 Jul: USDJPY trades to a 40 year high and runs",
       "description": "<ul><li><a href=\"https://investinglive.com:443/news/secretary-of-war-hegseth-needs-more-money-for-war\" rel=\"follow\">Secretary of War Hegseth needs more money for war</a></li><li><a href=\"https://investinglive.com:443/commodities/crude-oil-futures-settled-at-84-91\" rel=\"follow\">Crude oil futures sett",
       "source": "Forexlive",
-      "publication_date": "2026-07-21T20:25:00+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-jul",
+      "publication_date": "2026-07-21T20:32:24+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-jul-usdjpy-trades-to-a-40-year-high-and-runs",
       "asset_tags": [
         "forex",
         "equities",
         "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Pakistan seeks $10 billion in US backstop facility to boost reserves, source says - Reuters",
+      "description": "EXCLUSIVE: Pakistan seeks $10 billion in US backstop facility to boost reserves, source says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T20:30:28+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT190ZlgyOU0tU2VVdFRleldkdkdEZ0JiUEJGVlFiNUFQQ3RPLTdmSi15MTJ5V19tSXZOTWxlQWV3cHBkMU8wU3BxRDFfbVZNMFdpZnNPbmVHd09XZV85YTdCaTFBejFzYXd6WUpkVTI1MUdyLWJDRXNSZVhGWjMwajlEOEQtWlVqVFRyRklQQ0VkTk1pdzRIbjRjS3RQNjVkMGIxRHJEM21IMFdqUS1jWHJCUDUzY093bjg5ZENvU09PYTVTaGc4?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ether breaks the $1.9K resistance; is $2.1K the next target for ETH bulls?",
+      "description": "Ether’s rally faces onchain headwinds, but rising staking demand and Google earnings could spark the push toward $2,100.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T20:26:13+00:00",
+      "article_url": "https://cointelegraph.com/markets/ether-breaks-the-1900-resistance-is-2100-the-next-target-for-eth-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Iberdrola to buy 80% stake in Finnish utility Caruna for $2.3B",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-21T20:17:46+00:00",
+      "article_url": "https://seekingalpha.com/news/4616178-iberdrola-to-buy-80-percent-stake-in-finnish-utility-caruna-for-2_3b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -39,16 +213,6 @@
       ]
     },
     {
-      "headline": "Wall St ends higher on chip stocks recovery; earnings draw focus - Reuters",
-      "description": "Wall St ends higher on chip stocks recovery; earnings draw focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-21T20:03:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDZOb0lyeDNtSHo4bVQ4MlJ3RnhPUUR2WmxYT2xqaWRVNFFVNkNUdHBNUUIxWm5kZGpVaVc0SFZicnBmN1F0RWI3RXpqNUpCbjQ3RHhPZEJkTmlaeGI3YXp3MUlSSXN2RGdBZ3dfekVaQzQxbFJzeHhuNU9veGtKMzdidFZ1N2QwbFE3Z3B1VmxoY1VuTUFtU3Rfa09XMlRMWl9B?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Economic and event calendar in Asia Wednesday, July 22, 2026 _ Japan trade data,",
       "description": "<p>None of this is likely to shift around financial marekts too much upon release. </p><p>I’ve noted data for New Zealand and Australia with text as the similarity of the little flags can sometimes be confusing. </p><p></p> This article was written by Eamonn Sheridan at investinglive.com.",
       "source": "Forexlive",
@@ -56,16 +220,6 @@
       "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-july-22-2026-_japan-trade-data",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Badar Family Office Expands Into the World's Most Exclusive Automotive Brands With Acquisition of McLaren Charlotte and Rolls-Royce Motor Cars Charlotte",
-      "description": "CHARLOTTE, N.C.--(BUSINESS WIRE)--Badar Family Office Expands into the World's Most Exclusive Automotive Brands with Acquisition of McLaren Charlotte & Rolls-Royce Motor Cars Charlotte",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-21T19:31:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260721032308/en/Badar-Family-Office-Expands-Into-the-Worlds-Most-Exclusive-Automotive-Brands-With-Acquisition-of-McLaren-Charlotte-and-Rolls-Royce-Motor-Cars-Charlotte/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -171,13 +325,13 @@
       ]
     },
     {
-      "headline": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war - Reuters",
-      "description": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war Reuters",
+      "headline": "Gold gains on hopes of de-escalation in Middle East conflict - Reuters",
+      "description": "Gold gains on hopes of de-escalation in Middle East conflict Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-21T18:05:41+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
+      "publication_date": "2026-07-21T18:09:03+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ?oc=5",
       "asset_tags": [
-        "general"
+        "commodities"
       ]
     },
     {
@@ -292,6 +446,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330790/0/en/Bigben-Interactive-announces-the-signing-of-a-share-purchase-agreement-subject-to-conditions-precedent-relating-to-the-transfer-of-its-subsidiary-Bigben-Connected.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Halliburton tumbles on tepid revenue forecast, Middle East recovery warning - Reuters",
+      "description": "Halliburton tumbles on tepid revenue forecast, Middle East recovery warning Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T16:19:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkw5dDliVldRU28tWFNhSXB5eXdaeHc3cHdOM2dNOV9vUmItbGl1YkZBdTdsV0RTMDhPcHE2dnJzZUJEdGtYRkhNazBYYmtkbFhtUFJRZnkyYkZ2c25tLVRNNDVWekp2UkdrczlRNEtvODBkQjVSbHYtb3FmQUtWU0ZKeXJ3aEtlSFRLQXdHVHRSZGgtcFRVQkpCVUpZTmZ3WV9HTHcxV0h4Vm9iQmc0MS1SaUx4b296Q1Jn?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -628,16 +792,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330471/0/en/NFTE-and-BUILD-Announce-Merger-to-Drive-Systemic-Change-in-Education.html",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Halliburton beats estimates on Europe, Latin America oilfield services demand - Reuters",
-      "description": "Halliburton beats estimates on Europe, Latin America oilfield services demand Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-21T12:49:48+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMkw5dDliVldRU28tWFNhSXB5eXdaeHc3cHdOM2dNOV9vUmItbGl1YkZBdTdsV0RTMDhPcHE2dnJzZUJEdGtYRkhNazBYYmtkbFhtUFJRZnkyYkZ2c25tLVRNNDVWekp2UkdrczlRNEtvODBkQjVSbHYtb3FmQUtWU0ZKeXJ3aEtlSFRLQXdHVHRSZGgtcFRVQkpCVUpZTmZ3WV9HTHcxV0h4Vm9iQmc0MS1SaUx4b296Q1Jn?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     },
     {
@@ -1287,8 +1441,8 @@
       ]
     },
     {
-      "headline": "Lebanon's Aoun to present Trump with Hezbollah disarmament plan as army deploys in south - Reuters",
-      "description": "Lebanon's Aoun to present Trump with Hezbollah disarmament plan as army deploys in south Reuters",
+      "headline": "Lebanon's Aoun tells Trump an Israeli troop withdrawal is needed - Reuters",
+      "description": "Lebanon's Aoun tells Trump an Israeli troop withdrawal is needed Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-21T06:06:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlJCX2E5ZThBRmRZNkRlVjJhay1BeXpLcGhuQ2VVdXZ3cTF1aVFUano4ZmhEU1U2b1NjeTdMOEppdEp0Q05BQ3o5eDg1WnYwVmRqRnNsdnp1ZnNwcXM4X2luREtBZ2lJV0VLUUNMNWMya1ROcXZLaWpTejZ1OFpLdHFCaWkzSmh4eGZxeE93b0dzTkxRNTF2ZEdHOWotaHRNTjBBLVVtOE5Ub2Q1eGZDbXBmYlBzMy1iU003a1hFbw?oc=5",
@@ -1378,16 +1532,6 @@
       "article_url": "https://seekingalpha.com/news/4615668-nubank-expands-regulatory-base-in-brazil-via-banco-porto-real-buyout?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Gold gains on hopes of de-escalation in Middle East conflict - Reuters",
-      "description": "Gold gains on hopes of de-escalation in Middle East conflict Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-21T04:08:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazZ5bjNfa1hrcmFFNGQzQUhudG0yVEM3ZC1qMkpGbDlpX2dTOUlScEs3bFozWVFpT01SZ0ZXcTEzazhXOGNaWVlDMk1IaWtDUlFvbE5FdTN5bzZTV3J2ajdma1kwNy10MGxGLWJhQ1JOUkZtRWNWZ1RSbkw1TjhFRThLa21BVFgyM0dGUGdURl9aVzVUMXlqdm5GSVNWYzQ?oc=5",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1486,14 +1630,13 @@
       ]
     },
     {
-      "headline": "Dollar steady as investors weigh Middle East jitters against softer inflation data - Reuters",
-      "description": "Dollar steady as investors weigh Middle East jitters against softer inflation data Reuters",
+      "headline": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade - Reuters",
+      "description": "Dollar advances as oil prices rise after latest US-Iran strikes, Houthi blockade Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-21T01:35:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTNMOHhuSm5hVng5aTF1WUV1emN4ZjdEYlFCWlMtaUhoWWVTRTQ0NzdFNUotQnNIRFI1Sm5tWUlyLWZDZ1NnVGY3endKSktjMTMtVHNXU2E1UEtfS0U2UFZwX1NWbVdoYjhLaWpocVRmalNzLUh3aHI3cWFBVTBRanRIaXdSRzdLbnNEWFUtQS1CWW9hUlhIZUNRR2dCeXpCYVgxOVF5RVpGN0FRU203NTRxZGk?oc=5",
       "asset_tags": [
-        "forex",
-        "macro"
+        "forex"
       ]
     },
     {
@@ -1555,16 +1698,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-07-20T23:31:04+00:00",
       "article_url": "https://seekingalpha.com/news/4615645-icahn-enterprises-to-sell-pep-boys-to-mavis-in-700m-deal-wsj?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil settles 1% higher as hopes of renewed US-Iran negotiations offset Houthi threat - Reuters",
-      "description": "Oil settles 1% higher as hopes of renewed US-Iran negotiations offset Houthi threat Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T23:27:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1963,144 +2096,6 @@
       "asset_tags": [
         "forex",
         "equities"
-      ]
-    },
-    {
-      "headline": "Tencent in talks to buy Playtika's SuperPlay for as much as $1.5B - report",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-20T15:55:14+00:00",
-      "article_url": "https://seekingalpha.com/news/4615413-tencent-in-talks-to-buy-playtikas-superplay-for-as-much-as-1_5b-report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "GBPUSD break the 200 hour moving average and moves toward a cluster of technical targets",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The GBPUSD is extending to the downside, and in the process the technical picture has shifted more decisively in favor of the sellers. What had been a relatively balanced market earlier in the session has evolved into one where key support levels have been ",
-      "source": "Forexlive",
-      "publication_date": "2026-07-20T15:52:01+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/gbpusd-break-the-200-hour-moving-average-and-moves-toward-a-cluster-of-technical-targets",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitcoin price hits $65K wall as stocks battle ‘record’ institutional tech sell-off",
-      "description": "Bitcoin faced troublesome resistance at $65,000 while traders still saw a potential BTC price breakout into a “bullish market structure.”",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-20T15:47:00+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-price-hits-65k-wall-as-stock-battle-record-institutional-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "What to know about testosterone replacement therapy as the U.S. military plans to test troops",
-      "description": "While some research has shown benefits for patients who qualify, questions remain about the therapy's long-term risks and use among men without a medical need.",
-      "source": "CNBC",
-      "publication_date": "2026-07-20T15:40:07+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/20/what-to-know-about-testosterone-replacement-therapy.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "South Carolina Republicans crowd field to succeed Sen. Lindsey Graham",
-      "description": "Rep. Russell Fry became the latest South Carolina Republican to launch a campaign to succeed the late Sen. Lindsey Graham.",
-      "source": "CNBC",
-      "publication_date": "2026-07-20T15:21:06+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "IREN jumps 16% after raising AI cloud revenue target above $4B",
-      "description": "The Bitcoin miner raised its year-end AI cloud revenue target to more than $4 billion after signing $2.8 billion in new contracts with AI developers.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-20T15:20:25+00:00",
-      "article_url": "https://cointelegraph.com/news/iren-jumps-16-after-raising-ai-cloud-revenue-target-above-4b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "SmartProperty® Acquires AI Engineering Firm DecaSIM to Strengthen Reserve Study Intelligence",
-      "description": "DecaSIM’s engineering team and data-modeling technology join SmartProperty, deepening the intelligence behind the Living Reserve Study® for HOAs.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-20T15:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/20/3329894/0/en/SmartProperty-Acquires-AI-Engineering-Firm-DecaSIM-to-Strengthen-Reserve-Study-Intelligence.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US attacks deepen hardship, not dissent, in Iran's restive south - Reuters",
-      "description": "US attacks deepen hardship, not dissent, in Iran's restive south Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T14:52:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlQ4cXVNbUZvZFR3WFhqaGt6ZU1haS1PQVVmODJkdWNaZzFfaGxtemY3eTg1VUtZLTFZcEZxUVd2YmZyQk5WSmpFcENVeVNoalFsN1RVTHFNOFJyeVhXOWpGYm1QcEg5LWJIMHQ4NEpnc2VXTnpkN0JYYnNoSmFnVnFnaWVhS0RISWotUjNrZE02UzhocXdvUTZPWHN2VDg0cmRvQS13WGlsSTcyQ1lYbEZ3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US yields are pushing to new highs and along with it the US dollar",
-      "description": "<p>US rates are trading higher on the day and so is the US dollar. Looking at the yield curve:</p><ul><li>2 year yield is at 4.216% up 4.5 basis points.</li><li>5 year yield is at 4.316%, up 4.3 basis points</li><li>10 year yield is at 4.581%, up 4.1 basis points</li><li>30 year yield is that 5.096%",
-      "source": "Forexlive",
-      "publication_date": "2026-07-20T14:48:29+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/us-yields-are-pushing-to-new-highs-and-along-with-it-the-us-dollar",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Oil transfer activity in Gulf of Oman slows following ship attacks, data shows - Reuters",
-      "description": "Oil transfer activity in Gulf of Oman slows following ship attacks, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-20T14:45:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjdOQ0VEdWhBRUFmcmNoYWRBcTFINWs0UUxSdFQzNkg4N2Z5WTFGcHYtWmJ3aXlZeFF6VFp6SFJFVFhBU1JrcmpGdTdLWUtWRlhMeDNsdTdKblVwVmYtcWFhdG5TWEpxRFNrRGROS01aOUw4TjZWTXZibUxuMlpydEpIMEoxS19CR1BManItdl9haFg0WWcxODlLSzctWWhBOU5rVWxpOUplYkhOeGtkMXo0emhwVWdWanRwOXA4cExNdUk?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-20T14:31:23+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Schouw & Co. share buy-back programme, week 29 2026",
-      "description": "On 2 January 2026, Schouw & Co. initiated a share buy-back programme as outlined in Company Announcement no. 59 of 18 December 2025. Under the programme, Schouw & Co. will acquire shares for up to DKK 240 million during the period 2 January to 31 December 2026.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-20T14:31:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/20/3329886/0/en/Schouw-Co-share-buy-back-programme-week-29-2026.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - DCC PLC",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-20T14:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/20/3329869/0/en/Davidson-Kempner-Capital-Management-LP-Form-8-3-DCC-PLC.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
