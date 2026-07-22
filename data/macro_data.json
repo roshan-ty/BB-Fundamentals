@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Federal Reserve Economic Data (FRED) API",
-    "last_updated": "2026-07-22T20:24:32.033683Z",
+    "last_updated": "2026-07-22T23:47:27.759826Z",
     "historical_years": 40,
     "total_series": 7
   },
@@ -75395,15 +75395,21 @@
           "value": 0.37,
           "rolling_12_month_moving_average": 0.3758333333333333,
           "historical_percentile": 0.3135
+        },
+        {
+          "date": "2026-07-22",
+          "value": 0.36,
+          "rolling_12_month_moving_average": 0.3766666666666667,
+          "historical_percentile": 0.3106
         }
       ],
       "summary_statistics": {
-        "current_value": 0.37,
+        "current_value": 0.36,
         "minimum_value": -1.08,
         "maximum_value": 2.91,
-        "mean_value": 0.9669,
+        "mean_value": 0.9668,
         "standard_deviation": 0.8903,
-        "current_percentile": 0.3135
+        "current_percentile": 0.3106
       }
     }
   ]
