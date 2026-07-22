@@ -1,18 +1,181 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-22T17:52:59.971333+00:00",
+    "last_updated": "2026-07-22T21:44:18.144218+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 53,
-      "general": 101,
-      "forex": 27,
-      "equities": 45,
-      "macro": 36,
-      "commodities": 24
+      "crypto": 76,
+      "forex": 34,
+      "commodities": 26,
+      "macro": 46,
+      "equities": 47,
+      "general": 79
     }
   },
   "articles": [
+    {
+      "headline": "S&P launches blockchain fundamentals index for digital assets",
+      "description": "The benchmark tracks blockchain networks using protocol revenue, offering an alternative to traditional market capitalization-weighted crypto indexes.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-22T21:09:59+00:00",
+      "article_url": "https://cointelegraph.com/news/sp-launches-blockchain-fundamentals-index-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Washington to expand nuclear technology exports to Saudi Arabia - US/Saudi nuclear deal",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">Formalising nuclear cooperation with Saudi Arabia extends Washington's strategic footprint in the Gulf and could reshape the kingdom's longer term energy mix by adding a civilian nuclear component alongside its oil and gas ",
+      "source": "Forexlive",
+      "publication_date": "2026-07-22T20:54:26+00:00",
+      "article_url": "https://investinglive.com/news/washington-to-expand-nuclear-technology-exports-to-saudi-arabia-us-saudi-nuclear-deal",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Tesla holds bitcoin treasury steady, reports $112M impairment loss",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-22T20:40:24+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/22/tesla-holds-bitcoin-steady-reports-usd112m-impairment-loss",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "investingLive Americas FX news wrap 22 Jul. Middle east tensions keep markets on edge. Oil higher.",
+      "description": "<ul><li><a href=\"https://investinglive.com:443/stocks/us-stock-indices-give-up-their-gains-and-close-lower-on-the-day\" rel=\"follow\">US stock indices give up their gains and close lower on the day</a></li><li><a href=\"https://investinglive.com:443/stocks/alphabet-beats-q2-estimates-as-cloud-revenue-s",
+      "source": "Forexlive",
+      "publication_date": "2026-07-22T20:40:21+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-jul-middle-east-tensions-keep-markets-on-edge-oil-higher",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crypto PAC pours $1M into Michigan Democratic primary race",
+      "description": "Donavan McKinney, running against Michigan incumbent Shri Thanedar, said that “the crypto lobby is paying my opponent back for helping Trump“ with the PAC-funded ads.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-22T20:38:08+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-pac-michigan-democratic-primary-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia - Australian jobs report",
+      "description": "<p>The labour market report from Australia features today. The unemployment rate is expected to remain steady at a low, by historical standards, 4.4%. Its risen over past months as the three Reserve Bank of Australia rate hikes in succession have weighed on jobs growth, at the margin, but unless its",
+      "source": "Forexlive",
+      "publication_date": "2026-07-22T20:11:22+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-australian-jobs-report",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Tesla, Alphabet, ServiceNow, IBM, Texas Instruments all report after the close",
+      "description": "<p> After the close, Tesla, Alphabet, ServiceNow, IBM, and Texas Instruments will all report their earnings.</p><p class=\"PDq2pG_selectionAnchorContainer\">Consensus estimates for the stocks after today’s close:</p><ul><li>Alphabet/Google (GOOGL): EPS $2.88; revenue $117.1 billion. </li><li>Tesla (TS",
+      "source": "Forexlive",
+      "publication_date": "2026-07-22T19:45:08+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/tesla-alphabet-servicenow-ibm-texas-instruments-all-report-after-the-close",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Iran strikes on CIA facilities prompt questions about possible Russian role - Reuters",
+      "description": "EXCLUSIVE: Iran strikes on CIA facilities prompt questions about possible Russian role Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-22T19:33:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGxVY1ZXb3k0ZmxlWngxbUYxVlAxc240XzR5RlUtWFlmYTAtc0xSWG5WaTNmOEVxTVRwS0N5MVhDRzV3RnJXNmlUS19tbGxUWEZrLXRJTzJPVHYxaW04bG84bGR0R2NzYVA2N0tjalRiWFduVXk0M2puWE9CX1ZSaU51OWR0b0lUb2Y2dnVXZHdreWJDVk0zc0VFdXhNbnBPdUlDMmxuckJWM1R5QTFZOEh5aWtfbDN5c2c0bmlBbk9mSEpL?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "J&J gets a big win on its new robotic surgical system — plus, a flood of earnings",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-07-22T18:57:50+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/22/jj-gets-a-big-win-on-its-new-robotic-surgical-system-plus-a-flood-of-earnings.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Iran broadens its threats as the rhetoric turns increasingly dangerous",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Threats are broadening beyond military targets, raising concerns about energy infrastructure, shipping, and regional stability.</p><p>Both sides continue to ratchet up the rhetoric, with the warnings becoming increasingly broader and more forceful. Iran's R",
+      "source": "Forexlive",
+      "publication_date": "2026-07-22T18:51:08+00:00",
+      "article_url": "https://investinglive.com/news/iran-broadens-its-threats-as-the-rhetoric-turns-increasingly-dangerous",
+      "asset_tags": [
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
+      "description": "According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ crypto ventures, including Donald Trump’s.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-22T18:41:30+00:00",
+      "article_url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "ECB expected to hold, but EURUSD is nearing a breaking point after being confined.",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The ECB is widely expected to leave all three key interest rates unchanged at tomorrow's meeting. Markets are pricing in a very high probability that the deposit rate remains at 2.25%, with the focus shifting almost entirely to President Christine Lagarde's",
+      "source": "Forexlive",
+      "publication_date": "2026-07-22T18:18:16+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/ecb-expected-to-hold-but-eurusd-is-nearing-a-breaking-point-after-being-confined",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Trump attends return of US soldiers killed in Iran war - Reuters",
+      "description": "Trump attends return of US soldiers killed in Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-22T18:18:13+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWFHb3VSWjdHU01kYXVMcFJGR3M3a1RpUmdkeE0tbXdRUjg5YTBCSmJEaS0yeEpDNjNsUDVZbjkwc2xHaVZXdVlqQXB3UkpiN01nb0lZaUhIeHFsY3NWTGZRMGg5ZUN5S0Z2NXpRS3NXNEtUWWRiOHBta2ZObmdTRUk0ZzNiejlRQ3FyMmVxa1hJaU1kdUR2eA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
+      "description": "Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-22T17:57:11+00:00",
+      "article_url": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
+      "description": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
+      "source": "CNBC",
+      "publication_date": "2026-07-22T17:52:23+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws",
       "description": "The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger US securities laws depending on how they are structured and operated.",
@@ -24,11 +187,11 @@
       ]
     },
     {
-      "headline": "EU issues formal notice to JD.com over Ceconomy acquisition",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T17:35:41+00:00",
-      "article_url": "https://seekingalpha.com/news/4616745-eu-issues-formal-notice-to-jdcom-over-ceconomy-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "headline": "US has informed Israel of its intention to use bombers in bombing Iran",
+      "description": "<p>Israel sources are saying that: </p><ul><li>US has informed Israel of its intention to use bombers in bombing Iran.</li></ul><p>Can anyone keep a secret. Yesterday, Trump said that they would bomb the underground \"Pickaxe Mountain\" nuclear-related facility \"very soon,\" portraying it as a major re",
+      "source": "Forexlive",
+      "publication_date": "2026-07-22T17:37:13+00:00",
+      "article_url": "https://investinglive.com/news/us-has-informed-israel-of-its-intention-to-use-bombers-in-bombing-iran",
       "asset_tags": [
         "general"
       ]
@@ -39,6 +202,16 @@
       "source": "CNBC",
       "publication_date": "2026-07-22T17:26:30+00:00",
       "article_url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "More ships change course in Red Sea after Houthi threats, data shows - Reuters",
+      "description": "More ships change course in Red Sea after Houthi threats, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-22T17:18:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVpnSVhMeHp3ZE5RTlFFUEF6OW5PaUZsWGtoM3J2eUh1eGczY0hsVkt5MzRLY2s5YnJqaUxmVU13bG5QYmVrZmZoYzFNbXpRbVhkSHpVWkQtOGJ2UnNNdHh4YnU0V3hvRS1WcTd4UGJ5V0M0c21CRG5CdS1ZenVKNkJ2V2pwSEt5NWNBOEg2UkZmOVJFd3JZSXZOV3hyeW9SQjE2dTZQbzBZOVRBcHVwZ3ZpTWdOeGJoX3JRTkpNTHc5eGhsbUE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -67,16 +240,6 @@
       ]
     },
     {
-      "headline": "Trump attends return of US soldiers killed in Iran war - Reuters",
-      "description": "Trump attends return of US soldiers killed in Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T16:35:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWFHb3VSWjdHU01kYXVMcFJGR3M3a1RpUmdkeE0tbXdRUjg5YTBCSmJEaS0yeEpDNjNsUDVZbjkwc2xHaVZXdVlqQXB3UkpiN01nb0lZaUhIeHFsY3NWTGZRMGg5ZUN5S0Z2NXpRS3NXNEtUWWRiOHBta2ZObmdTRUk0ZzNiejlRQ3FyMmVxa1hJaU1kdUR2eA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
       "description": "The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be blocked from implementation and enforcement.",
       "source": "Cointelegraph",
@@ -84,16 +247,6 @@
       "article_url": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Generational Group Advises Garage Living SoFlo LLC in Its Sale to an Individual Buyer",
-      "description": "DALLAS--(BUSINESS WIRE)--Generational Group, a leading mergers and acquisitions advisory firm for privately held businesses, is pleased to announce the sale of Garage Living SoFlo LLC to an Individual Buyer. The acquisition closed May 15, 2026. Headquartered in Delray Beach, Florida, Garage Living S",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-22T16:20:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260722402463/en/Generational-Group-Advises-Garage-Living-SoFlo-LLC-in-Its-Sale-to-an-Individual-Buyer/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -109,13 +262,13 @@
       ]
     },
     {
-      "headline": "NexTel Medical Corp. Amends Previously Announced Acquisition to Acquire Island 40 Group and Full Subsidiary Platform",
-      "description": "Revised transaction expands NexTel’s acquisition from JumpstartRx and NuevistraMed to Island 40 Group’s broader growth platform, adding health services.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T16:16:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331607/0/en/NexTel-Medical-Corp-Amends-Previously-Announced-Acquisition-to-Acquire-Island-40-Group-and-Full-Subsidiary-Platform.html",
+      "headline": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-22T16:15:55+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
       "asset_tags": [
-        "general"
+        "crypto"
       ]
     },
     {
@@ -138,16 +291,6 @@
       "article_url": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "SEDA Expands Maritime and Shipping Expertise with the Addition of Barry Bednar and Wenzel Schwabenland",
-      "description": "SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced today that Barry Bednar and Dipl.-Ing. Wenzel Schwabenland joined the firm as Managing Directors. SEDA Experts LLC, a leading expert witness firm providing world-class financial expert ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T16:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331602/0/en/SEDA-Expands-Maritime-and-Shipping-Expertise-with-the-Addition-of-Barry-Bednar-and-Wenzel-Schwabenland.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -183,6 +326,16 @@
       ]
     },
     {
+      "headline": "Revolut hits $115 billion valuation in employee share sale: WSJ",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-22T15:53:54+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Microsoft: AI adoption is \"accelerating at an incredible pace\", but stock is not impressed.",
       "description": "<p>Microsoft continues to emphasize that AI adoption is accelerating at what they call an \"incredible pace\", with demand spreading across cloud infrastructure, AI applications, and enterprise software. The company says customer demand remains ahead of available capacity, prompting continued investme",
       "source": "Forexlive",
@@ -195,23 +348,33 @@
       ]
     },
     {
-      "headline": "Mediator Mark Berkowitz Brings More Employment Law Experience – and Immediate Engagement – to UWWM",
-      "description": "When veteran labor and employment attorney Mark J. Berkowitz joined Upchurch Watson White & Max Mediation Group recently as a full-time neutral, he didn't take long to get settled. When veteran labor and employment attorney Mark J. Berkowitz joined Upchurch Watson White & Max Mediation Group recentl",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T15:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331555/0/en/Mediator-Mark-Berkowitz-Brings-More-Employment-Law-Experience-and-Immediate-Engagement-to-UWWM.html",
+      "headline": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-22T15:37:36+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "UK digital bond plans hinge on one missing piece: onchain cash",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-22T15:36:49+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "MLG Capital Expands Legacy Fund with Entry into Montana Market",
-      "description": "Acquisition of Brookside Park and Kagy Village in Bozeman, MT reflects long-term relationship and off-market sourcing strategy Acquisition of Brookside Park and Kagy Village in Bozeman, MT reflects long-term relationship and off-market sourcing strategy",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T15:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331551/0/en/MLG-Capital-Expands-Legacy-Fund-with-Entry-into-Montana-Market.html",
+      "headline": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-22T15:09:47+00:00",
+      "article_url": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
       "asset_tags": [
-        "general"
+        "crypto"
       ]
     },
     {
@@ -223,16 +386,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Nestlé close to Perrier unit stake sale at about €5b valuation - FT",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T14:55:28+00:00",
-      "article_url": "https://seekingalpha.com/news/4616645-nestle-close-to-perrier-unit-stake-sale-at-about-5b-valuation-ft?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -258,26 +411,6 @@
       ]
     },
     {
-      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - DCC plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T14:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331523/0/en/Davidson-Kempner-Capital-Management-LP-Form-8-3-DCC-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Prologis makes 'best and final' offer for Segro at ~$18.8B all-stock deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T14:17:13+00:00",
-      "article_url": "https://seekingalpha.com/news/4616611-prologis-makes-best-and-final-offer-for-segro-at-188b-all-stock-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Trump News: Iran will pay a big price",
       "description": "<p>Trump will apparently be available to reporters today. He is saying:</p><ul><li>Iran will pay a big price.</li><li>They will not have a nuclear weapon. </li><li>Americans are not against the war. </li><li>Soldiers tests are under investigation. Iran will be held accountable</li><li>Americans do n",
       "source": "Forexlive",
@@ -300,6 +433,16 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-22T13:45:58+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -334,16 +477,6 @@
       ]
     },
     {
-      "headline": "Public Storage closes on National Storage acquisition",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T13:27:36+00:00",
-      "article_url": "https://seekingalpha.com/news/4616588-public-storage-closes-on-national-storage-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Trump: If Iran fires at a ship, the US will bomb a bridge/power station. Crude oil remains elevated.",
       "description": "<p>Pres. Trump is posting on TruthSocial:</p><p></p><p>\"From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT, ",
       "source": "Forexlive",
@@ -353,26 +486,6 @@
         "commodities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "More ships change course in Red Sea after Houthi threats, data shows - Reuters",
-      "description": "More ships change course in Red Sea after Houthi threats, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T13:21:05+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVpnSVhMeHp3ZE5RTlFFUEF6OW5PaUZsWGtoM3J2eUh1eGczY0hsVkt5MzRLY2s5YnJqaUxmVU13bG5QYmVrZmZoYzFNbXpRbVhkSHpVWkQtOGJ2UnNNdHh4YnU0V3hvRS1WcTd4UGJ5V0M0c21CRG5CdS1ZenVKNkJ2V2pwSEt5NWNBOEg2UkZmOVJFd3JZSXZOV3hyeW9SQjE2dTZQbzBZOVRBcHVwZ3ZpTWdOeGJoX3JRTkpNTHc5eGhsbUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Penske Automotive gains as PC-Mitsui investors submit takeover offer",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T13:19:02+00:00",
-      "article_url": "https://seekingalpha.com/news/4616570-penske-automotive-gains-as-pc-mitsui-investors-submit-takeover-offer?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -386,96 +499,6 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Ramsdens Holdings Plc",
-      "description": "Downing LLPLEI: 213800G3X76VBG9SB50422 July 2026Form 8.3 re. Ramsdens Holdings Plc",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:16:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331452/0/en/Form-8-3-Ramsdens-Holdings-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "ButcherJoseph Advises Fred Weber on the Majority Sale of General Drilling",
-      "description": "ST. LOUIS, July 22, 2026 (GLOBE NEWSWIRE) -- ST. LOUIS, MO — July 2026 — ButcherJoseph & Co. (“ButcherJoseph”), a leading middle-market investment bank specializing in M&A and employee ownership transactions, is pleased to announce that it advised Fred Weber Inc. (\"Fred Weber\") on the majority sale ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331448/21670/en/ButcherJoseph-Advises-Fred-Weber-on-the-Majority-Sale-of-General-Drilling.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Animalcare Group Plc",
-      "description": "Downing LLPLEI: 213800G3X76VBG9SB50422 July 2026Form 8.3 re. Animalcare Group Plc",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331451/0/en/Form-8-3-Animalcare-Group-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Brave Bison Group Plc",
-      "description": "Downing LLPLEI: 213800G3X76VBG9SB50422 July 2026Form 8.3 re. Brave Bison Group Plc",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:14:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331445/0/en/Form-8-3-Brave-Bison-Group-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:12:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331444/0/en/Form-8-3-Gooch-Housego-plc-Octopus-Investments.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:09:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331440/0/en/Form-8-3-Advanced-Medical-Solutions-Group-plc-Octopus-Investments.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Brødrene A. & O. Johansen A/S receives regulatory approval from the Norwegian Competition Authority in relation to its recommended voluntary cash offer for Elektroimportøren AS",
-      "description": "Company Announcement No. 12 – 2026to Nasdaq Copenhagenfor Brødrene A. & O. Johansen A/SCVR No. 58210617",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331432/0/en/Br%C3%B8drene-A-O-Johansen-A-S-receives-regulatory-approval-from-the-Norwegian-Competition-Authority-in-relation-to-its-recommended-voluntary-cash-offer-for-Elektroimport%C3%B8ren-AS.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Brødrene A. & O. Johansen A/S modtager myndighedsgodkendelse fra den norske konkurrencemyndighed i forbindelse med sit anbefalede frivillige kontante overtagelsestilbud på Elektroimportøren AS",
-      "description": "Selskabsmeddelelse nr. 12 – 2026til Nasdaq Copenhagenfor Brødrene A. & O. Johansen A/SCVR-nr. 58210617",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T13:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331432/0/da/Br%C3%B8drene-A-O-Johansen-A-S-modtager-myndighedsgodkendelse-fra-den-norske-konkurrencemyndighed-i-forbindelse-med-sit-anbefalede-frivillige-kontante-overtagelsestilbud-p%C3%A5-Elektroimpor.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Picton Property Income Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:59:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331379/0/en/Form-8-3-Picton-Property-Income-Limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
       "description": "The rise in oil prices cannot be ignored today.",
       "source": "CNBC",
@@ -483,67 +506,6 @@
       "article_url": "https://www.cnbc.com/2026/07/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:56:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331377/0/en/Form-8-3-LondonMetric-Property-Plc-Schroder-Real-Estate-Investment-Trust-Limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Private Equity at Goldman Sachs Alternatives to acquire commodity market intelligence provider",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T12:55:10+00:00",
-      "article_url": "https://seekingalpha.com/news/4616545-private-equity-at-goldman-sachs-alternatives-to-acquire-commodity-market-intelligence-provider?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - IP Group Plc",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:53:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331375/0/en/Form-8-3-IP-Group-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Bluefield Solar Income Fund Ltd.",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:51:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331373/0/en/Form-8-3-Bluefield-Solar-Income-Fund-Ltd.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:49:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331371/0/en/Form-8-3-Advanced-Medical-Solutions-Group.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Treasure Global’s Subsidiary Tadaa Capital Acquires Cigar Secret to Develop an AI-Power Premium Lifestyle Membership Ecosystem",
-      "description": "Targets US$60 Million in Cumulative Revenue, 20,000+ Members and 20 Outlets by 2031 Targets US$60 Million in Cumulative Revenue, 20,000+ Members and 20 Outlets by 2031",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:45:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331367/0/en/Treasure-Global-s-Subsidiary-Tadaa-Capital-Acquires-Cigar-Secret-to-Develop-an-AI-Power-Premium-Lifestyle-Membership-Ecosystem.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -581,16 +543,6 @@
       ]
     },
     {
-      "headline": "Med X Holdings Announces Official Name Change to Dazed Inc. and New Ticker Symbol \"DAZD\"",
-      "description": "Med X Holdings rebrands to Dazed Inc. (DAZD), shifting 100% focus to Lazydaze cannabis hospitality, new coffee shops, digital revenue, and distribution.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:11:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331318/0/en/Med-X-Holdings-Announces-Official-Name-Change-to-Dazed-Inc-and-New-Ticker-Symbol-DAZD.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "EU aviation agency adds Jordan to no-fly warning list as fighting continues - Reuters",
       "description": "EU aviation agency adds Jordan to no-fly warning list as fighting continues Reuters",
       "source": "Reuters",
@@ -611,37 +563,6 @@
         "equities",
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Custom Health to acquire Evergreen Pharmacy for $3.5M",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T12:03:54+00:00",
-      "article_url": "https://seekingalpha.com/news/4616511-custom-health-to-acquire-evergreen-pharmacy-for-35m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "TECfusions, a Rapidly Growing Developer and Operator of AI-Ready Data Centers and Power Infrastructure, Signs Business Combination Agreement with Apex Treasury Corp.",
-      "description": "TECfusions Signs Business Combination Agreement With Apex Treasury Corp. (Nasdaq: APXT)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331301/0/en/TECfusions-a-Rapidly-Growing-Developer-and-Operator-of-AI-Ready-Data-Centers-and-Power-Infrastructure-Signs-Business-Combination-Agreement-with-Apex-Treasury-Corp.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Garmin buys TrainingPeaks and TrainHeroic",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T11:58:05+00:00",
-      "article_url": "https://seekingalpha.com/news/4616505-garmin-buys-trainingpeaks-and-trainheroic?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -685,16 +606,6 @@
       ]
     },
     {
-      "headline": "TE Connectivity announces $1.4B deal for Astrodyne",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T11:43:35+00:00",
-      "article_url": "https://seekingalpha.com/news/4616491-te-connectivity-announces-1_4b-deal-for-astrodyne?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
       "description": "US prosecutors are seeking more than $25 million in cryptocurrency allegedly connected to international fraud and laundering networks.",
       "source": "Cointelegraph",
@@ -714,57 +625,6 @@
       "asset_tags": [
         "forex",
         "crypto"
-      ]
-    },
-    {
-      "headline": "NovaGold to buy Paulson's stake in Donlin Gold, creating U.S. miner valued at $4.2B",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T11:19:39+00:00",
-      "article_url": "https://seekingalpha.com/news/4616471-novagold-to-buy-paulsons-stake-in-donlin-gold-creating-us-miner-valued-at-42b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T11:18:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331249/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T11:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331248/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-MITIE-GROUP-PLC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T11:14:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331246/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-GAMMA-COMMUNICATIONS-PLC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T11:12:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331245/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-DCC-Energy-PLC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
       ]
     },
     {
@@ -794,18 +654,6 @@
       "publication_date": "2026-07-22T11:00:00+00:00",
       "article_url": "https://cointelegraph.com/news/talos-brings-institutional-trading-tools-to-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "NOVAGOLD Enters Into Definitive Agreements to Acquire 100% of Donlin Gold",
-      "description": "All amounts are in U.S. dollars unless otherwise stated",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331219/0/en/NOVAGOLD-Enters-Into-Definitive-Agreements-to-Acquire-100-of-Donlin-Gold.html",
-      "asset_tags": [
-        "forex",
-        "commodities",
         "crypto"
       ]
     },
@@ -862,26 +710,6 @@
       ]
     },
     {
-      "headline": "Repligen to buy BioLife Solutions in $1.5B stock-and-cash deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T10:06:12+00:00",
-      "article_url": "https://seekingalpha.com/news/4616336-repligen-to-buy-biolife-solutions-in-15b-stock-and-cash-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Repligen to Acquire BioLife Solutions, Expanding Its Cell Therapy Capabilities with Market Leading Biopreservation Media",
-      "description": "Fast-tracks Repligen’s leadership and customer solution offering in high-growth cell therapy market by adding BioLife’s differentiated, high-margin recurring revenue business",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T10:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331162/24603/en/Repligen-to-Acquire-BioLife-Solutions-Expanding-Its-Cell-Therapy-Capabilities-with-Market-Leading-Biopreservation-Media.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Iranian official denies two French diplomats were mistreated - Reuters",
       "description": "Iranian official denies two French diplomats were mistreated Reuters",
       "source": "Reuters",
@@ -922,46 +750,6 @@
       ]
     },
     {
-      "headline": "Man Group PLC : Form 8.3 - Senior plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T09:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331138/0/en/Man-Group-PLC-Form-8-3-Senior-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Man Group PLC : Form 8.3 - JTC Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T09:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331137/0/en/Man-Group-PLC-Form-8-3-JTC-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T09:16:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331136/0/en/Man-Group-PLC-Form-8-3-Gamma-Communications-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Man Group PLC : Form 8.3 - AMG Critical Materials N.V",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T09:11:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331135/0/en/Man-Group-PLC-Form-8-3-AMG-Critical-Materials-N-V.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
       "description": "",
       "source": "CoinDesk",
@@ -969,67 +757,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - [APTITUDE SOFTWARE GROUP PLC - 21 07 2026] - (CGAML)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T09:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331132/0/en/Form-8-3-APTITUDE-SOFTWARE-GROUP-PLC-21-07-2026-CGAML.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - [ANIMALCARE GROUP PLC - 21 07 2026} - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T08:52:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331127/0/en/Form-8-3-ANIMALCARE-GROUP-PLC-21-07-2026-CGWL.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 21 07 2026] - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T08:49:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331123/0/en/Form-8-3-ADVANCED-MEDICAL-SOLUTIONS-GROUP-PLC-21-07-2026-CGWL.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
-      "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T08:49:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331124/0/en/Form-8-5-EPT-RI-Pharos-Energy-Plc.html",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T08:48:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331121/0/en/Form-8-5-EPT-RI-Alternative-Income-REIT-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - AEW UK REIT plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T08:46:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331120/0/en/Form-8-5-EPT-RI-AEW-UK-REIT-plc.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1042,16 +769,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Pepkor combines Flash unit with Shop2Shop in $1.3B deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T07:58:13+00:00",
-      "article_url": "https://seekingalpha.com/news/4616304-pepkor-combines-flash-unit-with-shop2shop-in-13b-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1129,16 +846,6 @@
       ]
     },
     {
-      "headline": "Ensign Energy to buy Citadel Drilling for $65M to expand Permian fleet",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T05:30:39+00:00",
-      "article_url": "https://seekingalpha.com/news/4616296-ensign-energy-to-buy-citadel-drilling-for-65m-to-expand-permian-fleet?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Bitcoin holds near $66,300 as chips extend their rally and the yen hits a 40-year low",
       "description": "",
       "source": "CoinDesk",
@@ -1161,16 +868,6 @@
       ]
     },
     {
-      "headline": "SK Hynix dismisses Intel Ohio Fab acquisition report; Intel reassures Ohio campus commitment",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T05:02:27+00:00",
-      "article_url": "https://seekingalpha.com/news/4616292-sk-hynix-dismisses-intel-ohio-fab-acquisition-report-intel-reassures-ohio-campus-commitment?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Heads up: UK CPI report for June coming up later",
       "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">There's only one main item on the agenda in European trading today, and that is the UK CPI report for June. The key data is slated to be released at 0600 GMT.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">In terms of what to ",
       "source": "Forexlive",
@@ -1180,16 +877,6 @@
         "forex",
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Finward Bancorp shares surge 21% on $208M acquisition by First Financial",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T04:30:43+00:00",
-      "article_url": "https://seekingalpha.com/news/4616281-finward-bancorp-shares-surge-21-on-208m-acquisition-by-first-financial?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1206,8 +893,8 @@
       ]
     },
     {
-      "headline": "More Red Sea shipments disrupted, Rubio says Iran not serious about talks - Reuters",
-      "description": "More Red Sea shipments disrupted, Rubio says Iran not serious about talks Reuters",
+      "headline": "Trump threatens Iranian infrastructure after Houthis block Red Sea artery - Reuters",
+      "description": "Trump threatens Iranian infrastructure after Houthis block Red Sea artery Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-22T03:21:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
@@ -1291,8 +978,8 @@
       ]
     },
     {
-      "headline": "Gold firms to two-week peak on softer dollar; Fed outlook in focus - Reuters",
-      "description": "Gold firms to two-week peak on softer dollar; Fed outlook in focus Reuters",
+      "headline": "Gold firms to two-week peak on softer dollar, Fed outlook in focus - Reuters",
+      "description": "Gold firms to two-week peak on softer dollar, Fed outlook in focus Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-22T01:51:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEhsalF5aHFJNWhKX1N0MFJGc2tUSkUtZnN2Qk43cW5leGhtZkFaenZuWWJ0SDRiZ2xuVDNhMG0teU5JeDZhRGRMV0xNSDFoQlF2akZ5OWlYbmRGRDNIa3VtNElkZlJLVXczWEdLR2ZfRFJCd0kzaDhYU3pMWEhGMnp4S0N5THd0YUZvVkhuNUJJbzgxaTJfRzdSamd3a0gxc2pjUTEyVUZIWGFEdUc4S012RzVaS0U?oc=5",
@@ -1325,7 +1012,7 @@
       "headline": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results - Reuters",
       "description": "Oil prices jump on US-Iran strikes, stocks flat ahead of Big Tech results Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-22T00:40:33+00:00",
+      "publication_date": "2026-07-22T00:49:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bndqdmhfTjlVQXVscXkwMHFjU3hXNFR5RTdLSnY3a0trdmEzYlNGbm5LeUhxbVJSd21PR1FmQnJpeWxSdHN1aTEwalByRGZFcGtiRUhXeUZSeVdFMHFBekU3bzRvblRKMms0OW5vZkJPekhNSThGOERjRQ?oc=5",
       "asset_tags": [
         "equities"
@@ -1349,6 +1036,16 @@
       "article_url": "https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Gesa Credit Union and Willamette Valley Bank Announce Acquisition Agreement",
+      "description": "RICHLAND, Wash. & SALEM, Ore.--(BUSINESS WIRE)--Gesa Credit Union and Willamette Valley Bank, together with the bank’s parent company, Oregon Bancorp, Inc., today announced a definitive agreement for Gesa to acquire the Salem-based community bank, bringing two community-first institutions together t",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-22T00:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260721817587/en/Gesa-Credit-Union-and-Willamette-Valley-Bank-Announce-Acquisition-Agreement/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -1414,11 +1111,11 @@
       ]
     },
     {
-      "headline": "Saudi, UAE ministers use social media to signal unity after months of tension - Reuters",
-      "description": "Saudi, UAE ministers use social media to signal unity after months of tension Reuters",
+      "headline": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war - Reuters",
+      "description": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-21T21:42:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGZLNURqa3B4VG1TYkQtc3VrcXY1Q04tMjBRSl81LTd1bFI3SmRJeU5qd0lRYndOVTMxTzVoMHB1cUE2MkRwSWd3ZnVXYmI3b0FqZWNhR2p6ek5lRHlZUDZqc3Q1YWw2QmZQWEw4V3ZYSnExbElaMnB6ZWs4TkU5MUJCSC1pZ3REYU5JTVk3VE1GU3NjNkpzallHM2FjbG14ajhHOHFvYWpaUHFyYzNGRFpmemFvZ0ZZX3piaVVuYkp2Zw?oc=5",
+      "publication_date": "2026-07-21T21:55:31+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1451,6 +1148,16 @@
       "article_url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Saudi, UAE officials use social media to signal unity after months of tension - Reuters",
+      "description": "Saudi, UAE officials use social media to signal unity after months of tension Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T21:01:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGZLNURqa3B4VG1TYkQtc3VrcXY1Q04tMjBRSl81LTd1bFI3SmRJeU5qd0lRYndOVTMxTzVoMHB1cUE2MkRwSWd3ZnVXYmI3b0FqZWNhR2p6ek5lRHlZUDZqc3Q1YWw2QmZQWEw4V3ZYSnExbElaMnB6ZWs4TkU5MUJCSC1pZ3REYU5JTVk3VE1GU3NjNkpzallHM2FjbG14ajhHOHFvYWpaUHFyYzNGRFpmemFvZ0ZZX3piaVVuYkp2Zw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2095,6 +1802,321 @@
       "source": "Reuters",
       "publication_date": "2026-07-21T13:25:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmdHTWJMUUNZTWRSakluQzVLdlpKd2dSQWpoYXhaRVl0OTQyYy1oeldnaWRmMXpkSy1OVjFSXzZHbWdzQmtCLVljcnZST3laUk50aThFel81QnZNS3I1TU10MzItWG1CdW1lMENtaWtMS3QwenREbEN2a1l0Ukh5TDNDazl6R0ppQVNQeUljSFJnUncwU1hnS09yZ21ydVR4WDNEZE1ObEUwcmVuazdOYWs3T2NNekdPVTVWcF9qdkkzUGR2SEo0?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Robinhood-backed DEX Arcus expands with tokenized assets, perps",
+      "description": "Arcus, built by the dYdX team, adds tokenized stocks and perpetual futures on Robinhood Chain as platforms compete to bring traditional assets onchain.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T13:16:22+00:00",
+      "article_url": "https://cointelegraph.com/news/robinhood-backed-dex-arcus-debut-multi-asset-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "description": "Is this an SK Hynix market?",
+      "source": "CNBC",
+      "publication_date": "2026-07-21T13:05:47+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/21/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Iran war 'stagflation' premium quietly mounts - Reuters",
+      "description": "Iran war 'stagflation' premium quietly mounts Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T13:04:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTMyMnZRRjJYS0V2dU93T3pzeU9idk9xYzBLNjJ0WVRqTWQyUWZLQ3dkeEFjc21ZUXdYVThWZUlaSXZtblN3S1NHOWxfcWV1YWZjbzlzdWE4ZkRnYlZhWDZOLUdUZ1ZmX3B4M3dJcS1YN1JWVnpoTGJlR3dtQnJWOGVHR1l1bEk0S1J2OXJmQTNrSEJWS1ZwNUxoN19xSTVZczRSMHdQeXFaTUFBakxYbF9B?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Morpho launches fixed-rate lending protocol on Base",
+      "description": "Morpho Midnight introduces fixed rates and defined maturities alongside Morpho Blue’s variable-rate lending markets.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T13:00:00+00:00",
+      "article_url": "https://cointelegraph.com/news/morpho-midnight-fixed-rate-lending-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Wall Street is selling more rental homes, as buying ban takes effect",
+      "description": "The largest landlords are all net sellers year-to-date, with 3,180 more homes sold than bought since Jan. 1.",
+      "source": "CNBC",
+      "publication_date": "2026-07-21T12:56:09+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/21/wall-street-selling-homes-real-estate.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "USTR Greer: Canada is giving other countries better trade deals",
+      "description": "<ul><li> Canada is giving other countries better trade deals</li><li>Canada trade action is tailored</li><li>We have been asking Canadians for a year to remove retaliation to Trump's tariffs.</li><li>Have good relationship with Canadian counterparts.</li><li>On USMCA Trump in some ways have already ",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T12:55:10+00:00",
+      "article_url": "https://investinglive.com/news/ustr-greer-canada-is-giving-other-countries-better-trade-deals",
+      "asset_tags": [
+        "forex",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "NFTE and BUILD Announce Merger to Drive Systemic Change in Education",
+      "description": "Combination creates one of the largest entrepreneurship education organizations, pioneering a new model for nonprofit growth and collective impact. Combination creates one of the largest entrepreneurship education organizations, pioneering a new model for nonprofit growth and collective impact.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T12:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330471/0/en/NFTE-and-BUILD-Announce-Merger-to-Drive-Systemic-Change-in-Education.html",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Pres. Trump: Reportedly rejects proposal for a 10 day cease-fire with Iran",
+      "description": "<p>Reports citing the Jerusalem Post say that Pres. Trump has rejected a proposal for a 10 day cease-fire with Iran. </p><p>Recall from yesterday, there were reports of this cease-fire which sent oil prices to the downside and briefly below its 100 hour moving average (blue line on the chart below) ",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T12:45:12+00:00",
+      "article_url": "https://investinglive.com/news/pres-trump-reportedly-rejects-proposal-for-a-10-day-cease-fire-with-iran",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "NPM Announces Acquisition of Nasdaq Fund Secondaries (NFS)",
+      "description": "NPM has agreed to acquire Nasdaq Fund Secondaries (NFS), extending its platform beyond direct company shares to offer liquidity in multi-asset fund stakes.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T12:44:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330468/0/en/NPM-Announces-Acquisition-of-Nasdaq-Fund-Secondaries-NFS.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T12:43:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330467/0/en/Form-8-3-Gooch-Housego-plc-Octopus-Investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-21T12:42:29+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T12:41:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330464/0/en/Form-8-3-Advanced-Medical-Solutions-Group-plc-Octopus-Investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tether-backed Twenty One, Strike merger plan scrapped: Bloomberg",
+      "description": "Strike will remain a standalone company after the proposed three-way merger was scrapped, while Twenty One Capital and Elektron continue discussions, Bloomberg reported.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T12:29:25+00:00",
+      "article_url": "https://cointelegraph.com/news/tether-twenty-one-strike-merger-plan-scrapped-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bessent says China's Iranian oil purchases have decreased- Fox Business - Reuters",
+      "description": "Bessent says China's Iranian oil purchases have decreased- Fox Business Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T12:26:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaFFXRklIV0ZUMVlWS1NWOVZ3aVlfcFlQZHlDelZ0MmtISUdUQzFGTk10czFQR2laVm90MzBNa21tX2F1QWlUZDZhQmJ5WEFmbjVxSzYwM2Z5NDY3M2hPeEQ0Z3dNUDZGUE5VOHZkQXo2Zkt5SzRNS2xCSjFzLW1oVUZydjZCYnRmQUl2VUFPV0tvdmxEcjV1Yy0wSzdTeUN1alZPcy0wY3VrWTAtczc3TVNtMWdNRU9YQVRhcHVB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US Treas Sec Bessent: Says 3% growth is not unreasonable.",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">U.S. Treasury Secretary Scott Bessent made a series of comments in a Fox Business Network interview covering Iran, China, AI, and the U.S. economy. In reverse chronological order, his key remarks were:</p><ul><li>On Iran, China, have seen a substantial incr",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T12:24:34+00:00",
+      "article_url": "https://investinglive.com/news/us-treas-sec-bessent-says-3-growth-is-not-unreasonable",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "ADP weekly NER Pulse 16,500 vs 19,750 last week",
+      "description": "<p>For the four weeks ending July 4, 2026, US private employers added an average of 16,500 jobs a week. Hiring slowed for the fourth straight week.</p><p>The numbers are preliminary and could change as new data is added.</p><p>What is it?</p><p>Three times a month, Main Street Macro releases the NER",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T12:17:17+00:00",
+      "article_url": "https://investinglive.com/news/adp-weekly-ner-pulse-16-500-vs-19-750-last-week",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The USD is mixed vs the major currencies. In the kickstart video, I outline the key technical levels in play",
+      "description": "<p>The USD is mixed to little changed vs the three major currency pairs - the EURUSD, USDJPY and GBPUSD. In the video above, I speak to the technicals that are helping to drive the price action for each. All traders should understand the bias, the risk and the targets for trades. I define those leve",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T12:09:28+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/the-usd-is-mixed-vs-the-major-currencies-in-the-kickstart-video-i-outline-the-key-technical-levels-in-play",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Monaco Associates’ Book Launch Practice Acquired by Caraballo & Co.",
+      "description": "Monaco Associates has been acquired by Caraballo & Co. as Founder Carolyn Monaco retires after building the firm over the past 20 years.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T12:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330399/0/en/Monaco-Associates-Book-Launch-Practice-Acquired-by-Caraballo-Co.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "More MiCA-licensed crypto firms could exit EU market: Gate Europe CEO",
+      "description": "Gate Europe’s Giovanni Cunti says some MiCA-licensed crypto firms may struggle to sustain compliance costs as Europe enters its new regulatory era.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T11:58:02+00:00",
+      "article_url": "https://cointelegraph.com/news/mica-licensed-crypto-firms-eu-market-gate-europe-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+      "description": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
+      "source": "CNBC",
+      "publication_date": "2026-07-21T11:56:14+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Russian parliament passes law regulating crypto market",
+      "description": "The State Duma legislation creates a regulated framework for crypto market participants and now moves to President Vladimir Putin for his signature before becoming law.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-21T11:49:30+00:00",
+      "article_url": "https://cointelegraph.com/news/russias-parliament-passes-law-regulating-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Woman seriously injured in knife attack during church service in Irish town - Reuters",
+      "description": "Woman seriously injured in knife attack during church service in Irish town Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-21T11:44:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcThjVTRHM2FUTklYLXF2UGFMMDh0WVFEVVpHZnRVUGdnVFUzZEZ3cDZTM09Fb08yQzJLUEVFMXJJSHJta3FORk40enJzQ3YzN3kweGFHM0F0ZDFfSnl2cGlCQ1J4eEJleWdQS0JobmVKWTBxUTZLZEdQTE5tdFBJNFhqN0lFa2VEMVBiVGJHWTRRNG1wbGx1REtOWFVibUhVb1ZZRnhmV3EwdUtTSUwxNg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin rally has broad-based support as institutions, whales, options traders pile in",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-21T11:37:22+00:00",
+      "article_url": "https://www.coindesk.com/daybook-us/2026/07/21/bitcoin-rally-has-broad-based-support-as-institutions-whales-options-traders-pile-in",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "investingLive European FX news wrap: UK jobs beat, focus stays on Middle East",
+      "description": "<ul><li><a href=\"https://investinglive.com:443/news/germany-zew-survey-current-conditions-77-6-vs-77-8-expected\" rel=\"follow\">German ZEW survey shows pick up in recovery mood in July</a></li><li><a href=\"https://investinglive.com:443/news/eurozone-banks-tighten-lending-standards-further-as-geopoliti",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T11:35:20+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-european-fx-news-wrap-uk-jobs-beat-focus-stays-on-middle-east",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "FreightCar America, Inc. Continues Aftermarket Expansion with Acquisition of Leading Regional Distributor",
+      "description": "FreightCar America, Inc. Continues Aftermarket Expansion with Acquisition of Leading Regional Distributor",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T11:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330338/0/en/FreightCar-America-Inc-Continues-Aftermarket-Expansion-with-Acquisition-of-Leading-Regional-Distributor.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Einride to buy Flipturn for $38.4M",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-21T11:20:21+00:00",
+      "article_url": "https://seekingalpha.com/news/4615800-einride-to-buy-flipturn-for-384m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Clarity odds jump to 43% on Polymarket after unverified reports Trump agreed to ethics deal",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-21T11:19:18+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/21/clarity-act-odds-jump-11-points-on-polymarket-after-reports-trump-agreed-to-ethics-deal",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Var Energi to buy BlueNord in $1.3B deal, creating Europe's biggest independent oil and gas firm",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-21T11:19:09+00:00",
+      "article_url": "https://seekingalpha.com/news/4615804-var-energi-to-buy-bluenord-in-1_3b-deal-creating-europes-biggest-independent-oil-and-gas-firm?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Market outlook today: Gold and Bitcoin lead as key breakout levels come into focus",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Market outlook: Gold, crypto and US indices test important breakout levels</p><p>﻿At the time of this market review, precious metals and major cryptocurrencies were producing some of the clearest bullish signals. US stock indices were also recovering, altho",
+      "source": "Forexlive",
+      "publication_date": "2026-07-21T11:09:19+00:00",
+      "article_url": "https://investinglive.com/news/market-outlook-today-gold-and-bitcoin-lead-as-key-breakout-levels-come-into-focus",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Picton Property Income Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-21T11:04:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330318/0/en/Form-8-3-Picton-Property-Income-Limited.html",
       "asset_tags": [
         "general"
       ]
