@@ -1,18 +1,256 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-23T17:06:40.808538+00:00",
+    "last_updated": "2026-07-23T20:42:34.238159+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 89,
-      "crypto": 57,
-      "macro": 38,
-      "commodities": 25,
-      "equities": 37,
+      "general": 93,
+      "commodities": 26,
+      "macro": 39,
+      "crypto": 54,
+      "equities": 33,
       "forex": 23
     }
   },
   "articles": [
+    {
+      "headline": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
+      "description": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
+      "source": "CNBC",
+      "publication_date": "2026-07-23T20:12:42+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia Friday, July 24, 2026 - Inflation data from Japan",
+      "description": "<p>I'll get a post up with a preview of the Japanese inflation data separately. The Tokyo area data for June (Tokyo CPI comes out earlier than national CPI) indicated rising underlying inflation pressure:</p><ul><li><a href=\"https://investinglive.com/centralbank/tokyo-core-core-cpi-hits-19-as-middle",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T20:08:08+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-july-24-2026-inflation-data-from-japan",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Carney: Canada Focused on a Comprehensive USMCA Deal",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Canadian Prime Minister Mark Carney said negotiations with the United States remain active, emphasizing that Canada is pursuing a broader agreement rather than rushing into a limited or partial trade deal. He stressed that discussions have been constructive",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T20:06:56+00:00",
+      "article_url": "https://investinglive.com/news/carney-canada-focused-on-a-comprehensive-usmca-deal",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "description": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+      "source": "CNBC",
+      "publication_date": "2026-07-23T19:52:25+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Generational Group Advises Custom Engraving Studio in its Sale to Ownership Group of HPC Global",
+      "description": "DALLAS--(BUSINESS WIRE)--Generational Group, a leading mergers and acquisitions advisory firm for privately held businesses, is pleased to announce the sale of Custom Engraving Studio to Ownership Group of HPC Global. The acquisition closed February 27, 2026. Headquartered in York, Pennsylvania, Cus",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-23T19:49:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260723149032/en/Generational-Group-Advises-Custom-Engraving-Studio-in-its-Sale-to-Ownership-Group-of-HPC-Global/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto industry to contribute $55B to US economy in 2026: NCA study",
+      "description": "The research released by the organization said that crypto companies will directly or indirectly lead to 232,000 jobs across the entire US economy in 2026.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-23T19:41:10+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "As BitMEX exits, analysts warn crypto consolidation is accelerating",
+      "description": "BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exchanges as analysts point to rising regulatory costs, market concentration and the shift toward licensed trading venues.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-23T19:30:17+00:00",
+      "article_url": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "AMD and Cerbras form a partnership that makes chips faster and more efficient.",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">AMD unveiled several AI-focused announcements aimed at strengthening its position in the rapidly expanding AI infrastructure market.</p><ul><li>AMD and Cerebras partner on AI inference: AMD announced a collaboration with Cerebras to deliver an ultra-low lat",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T18:54:28+00:00",
+      "article_url": "https://investinglive.com/news/amd-and-cerbras-form-a-partnership-that-makes-chips-faster-and-more-efficient",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US says Saudi nuclear deal off without Israel recognition - Reuters",
+      "description": "US says Saudi nuclear deal off without Israel recognition Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T18:52:47+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall Street stumbles as oil surges, and Lilly takes a new path on next-gen obesity drug",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-07-23T18:35:53+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/23/wall-street-stumbles-as-oil-surges-and-lilly-takes-a-new-path-on-next-gen-obesity-drug.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-23T18:29:31+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "ARGAN: Merger project of WDP-ARGAN",
+      "description": "PRESS RELEASE",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-23T18:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332487/0/en/ARGAN-Merger-project-of-WDP-ARGAN.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "ARGAN : Projet de fusion de WDP-ARGAN",
+      "description": "COMMUNIQUÉ DE PRESSE",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-23T18:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332487/0/fr/ARGAN-Projet-de-fusion-de-WDP-ARGAN.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-23T18:10:02+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Robinhood CEO’s X account hacked in apparent memecoin scam",
+      "description": "A hacker reportedly took over Robinhood CEO Vlad Tenev’s X account to promote a fake “VLAD” memecoin, posting what appeared to be a malicious token contract address.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-23T18:09:26+00:00",
+      "article_url": "https://cointelegraph.com/news/robinhood-ceo-x-account-hacked-in-apparent-memecoin-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "EURUSD traders took the price to the edge, looked over and turned back",
+      "description": "<p>The ECB left all three key interest rates unchanged, as widely expected, while President Christine Lagarde emphasized that future policy decisions will remain firmly data dependent. Although recent economic data point to a modest improvement in activity and inflation remains contained beneath the",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T18:04:04+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/eurusd-traders-took-the-price-to-the-edge-looked-over-and-turned-back",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US House votes to curb Trump's Iran war powers but Senate backs president - Reuters",
+      "description": "US House votes to curb Trump's Iran war powers but Senate backs president Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T18:02:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmZraWhuZnh2S3UwSzNiRWxNaFZuNl9jLVV2by1sUm9DdEZjbDJGb05pQWstRDVrM3J2OHE0MFJ6THdLRUc2NUUtS1hnTC1xZ2o4ZHhTOHp0cThGTFNhQkROeVpLdTJIWEVCY2pNTTNIYU0xOVhuVXJIY1ZtaDdxUmRxXzdMc0toSVJOSzR0TC1UY1FqSnJqTW84bHJidk5oMDl5eU5YZzdpWXJSTllKNWJmdU4wZG5MeEE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
+      "description": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T17:58:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "UK says armed forces ready to defend country after Iran warning over US bombers - Reuters",
+      "description": "UK says armed forces ready to defend country after Iran warning over US bombers Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T17:48:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUtaMHdwUWNQbXpNb0IzUXMxZm5sUFRDVlJGclZmak52YVFySlE1LUV1aTBiRDhqT055V2pIMWFQNmFILW1GSnRCRTBLYi1oSVY0Vm0tRjJPX19CazNmeUQtQkdDUXZmbVU2TFlhcnFKZVNMbVFZS05ZR1VlenRFSXRUa3d2dzhlSTNBeDQyOFA2Z3k1RXBYSWQ1Rm5Bd1FKT3ItT0UzT19nYkEwcmpPQlc0TDZSdlBCT3owXzJGMHFCRmp3dklCU0NJWmNFeTZTVy0yVy1n?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "EU Google Fine Escalates U.S.-EU Trade Tensions",
+      "description": "<p>USTR Greer on the EU Google fine: </p><ul><li>It is clear the EU continues to target the most competitive U.S. companies. </li><li> These actions are creating massive uncertainty for U.S. exports of goods and services to Europe. </li><li> The U.S. is working to resolve concerns over the EU's Digi",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T17:10:50+00:00",
+      "article_url": "https://investinglive.com/news/eu-google-fine-escalates-u-s-eu-trade-tensions",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+      "description": "Wall Street is banking heavily on exchange-traded funds that give investors artificial intelligence exposure, according to JPMorgan Asset Management.",
+      "source": "CNBC",
+      "publication_date": "2026-07-23T17:10:06+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Pakistan's US funding push after Iran war role draws skepticism from economists - Reuters",
+      "description": "Pakistan's US funding push after Iran war role draws skepticism from economists Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T17:01:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcVhSYy1UQkRpR0JLUGZzQnhWaXR1X1pkVVpDdVBaNFJBeDhpcy1fb3drWmxrWmV0X0c0Y0RKaXk4WUFMWVd3TWZoQmJCQldWa2hxazktN0pjYzdvVEdVLVNXc2d2X3ptRVZoWFp6d1E5UHlJeTM1ZTI0dkl1Qi1uWWpWRFh1cVdZYU5HM0pCYVgwbkpOdFlkWHNlOGlPV3BOamttVmVyRHRaNHMyVE5Ob1kwVmgyY3ZHaURpVUxYM2lqV1UtV0JF?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Goldman Sachs CEO backs ‘not perfect’ CLARITY Act as vote expected soon",
+      "description": "Goldman chief David Solomon will support the crypto market structure bill now in Congress, even as financial companies and banks are hesitant over provisions on stablecoins.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-23T16:57:11+00:00",
+      "article_url": "https://cointelegraph.com/news/goldman-sachs-ceo-clarity-act-stablecoin-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Coinbase's corporate customers can now accept payments from AI agents",
       "description": "",
@@ -44,6 +282,16 @@
       ]
     },
     {
+      "headline": "US Senate blocks resolution curbing Trump's Iran war powers - Reuters",
+      "description": "US Senate blocks resolution curbing Trump's Iran war powers Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T16:44:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWo0QndtdEk3N3FOVzJKRFM4N1J6MHJmYXBLVDNQVEVpb3Z2dGZlRUV2WlBsUTVtR1dfSzdEdHBTcTRsQlJBdVZ2YXpkcEdCUG9RNXc1Y0RnQ2pUMnY0bEYybmZ2VE10VVh6WkpvVlNpajZBME1qV3dGc1N2TjRlY1Vka2YtdFh3bzJ2aTh1VlpsY3VaZWlMN0VxT1otLUlQM1E?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power",
       "description": "The investment marks Empery’s latest push into AI infrastructure as the company shifts capital away from its Bitcoin treasury strategy.",
       "source": "Cointelegraph",
@@ -66,6 +314,16 @@
       ]
     },
     {
+      "headline": "Cramer has a problem with Alphabet. Plus, updates on 2 industrials",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC",
+      "publication_date": "2026-07-23T16:24:46+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/23/cramer-has-a-problem-with-alphabet-plus-updates-on-2-industrials-.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Aurra Markets Strengthens MENA Presence Following Money Expo Abu Dhabi 2026",
       "description": "ABU DHABI, UAE, July 13, 2026 /PRNewswire/ — Aurra Markets, a global multi-asset CFD brokerage, concluded its diamond sponsorship and participation at Money Expo Abu Dhabi 2026. Held at the ADNEC Centre from the 8th to the 9th of July, the financial exhibition served as a primary platform for the br",
       "source": "Cryptocurrency News",
@@ -83,16 +341,6 @@
       "article_url": "https://investinglive.com/news/the-story-gets-worse-30-year-mortgage-rates-reach-the-highest-level-since-august-2025",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "IHI Power Services Corp. Rebrands as Kyuden Energy Partners Following Acquisition by Japan's Kyuden Group",
-      "description": "ALISO VIEJO, Calif.--(BUSINESS WIRE)--IHI Power Services Corp. (IPSC), a leading operator of power plants across the U.S., has a new name as it enters a new chapter. Effective today, IPSC officially becomes Kyuden Energy Partners Corporation, following the completion of its acquisition by Kyuden Int",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-23T16:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260723902338/en/IHI-Power-Services-Corp.-Rebrands-as-Kyuden-Energy-Partners-Following-Acquisition-by-Japans-Kyuden-Group/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -159,16 +407,6 @@
       ]
     },
     {
-      "headline": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
-      "description": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T15:11:40+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Legend.org Acquires Mastery Transcript Consortium from ETS",
       "description": "Legend.org acquires Mastery Transcript Consortium from ETS. New entity, Mastery.org, will turn authentic student work into trusted records of learning.",
       "source": "GlobalNewswire",
@@ -186,16 +424,6 @@
       "article_url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Trump pegs nuclear deal to Saudi Arabia joining Abraham Accords - Reuters",
-      "description": "Trump pegs nuclear deal to Saudi Arabia joining Abraham Accords Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T14:49:16+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -812,16 +1040,6 @@
       ]
     },
     {
-      "headline": "Pakistan's US funding push after Iran war role draws skepticism from economists - Reuters",
-      "description": "Pakistan's US funding push after Iran war role draws skepticism from economists Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T10:25:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcVhSYy1UQkRpR0JLUGZzQnhWaXR1X1pkVVpDdVBaNFJBeDhpcy1fb3drWmxrWmV0X0c0Y0RKaXk4WUFMWVd3TWZoQmJCQldWa2hxazktN0pjYzdvVEdVLVNXc2d2X3ptRVZoWFp6d1E5UHlJeTM1ZTI0dkl1Qi1uWWpWRFh1cVdZYU5HM0pCYVgwbkpOdFlkWHNlOGlPV3BOamttVmVyRHRaNHMyVE5Ob1kwVmgyY3ZHaURpVUxYM2lqV1UtV0JF?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Scancell and Neuphoria Therapeutics Announce Merger Agreement and Financing",
       "description": "OXFORD, United Kingdom and BURLINGTON, Mass., July 23, 2026 (GLOBE NEWSWIRE) -- Scancell Holdings plc (AIM: SCLP) (“Scancell”) and Neuphoria Therapeutics Inc. (Nasdaq: NEUP) (“Neuphoria”) today announce an all-share merger in which Scancell will acquire Neuphoria. Upon completion of the Transaction,",
       "source": "GlobalNewswire",
@@ -1365,8 +1583,8 @@
       ]
     },
     {
-      "headline": "Dollar hits new 40-year high versus yen, euro lower after ECB decision - Reuters",
-      "description": "Dollar hits new 40-year high versus yen, euro lower after ECB decision Reuters",
+      "headline": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates - Reuters",
+      "description": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-23T00:50:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
@@ -1375,8 +1593,8 @@
       ]
     },
     {
-      "headline": "Oil tops $100 again after Houthi attack on Saudi tankers worsens oil supply disruption - Reuters",
-      "description": "Oil tops $100 again after Houthi attack on Saudi tankers worsens oil supply disruption Reuters",
+      "headline": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Reuters",
+      "description": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-23T00:40:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
@@ -1644,6 +1862,16 @@
       ]
     },
     {
+      "headline": "Oil settles up more than 3% to six-week high as Mideast conflict threatens oil transit routes - Reuters",
+      "description": "Oil settles up more than 3% to six-week high as Mideast conflict threatens oil transit routes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-22T19:56:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVktKb0FFdG9HQ0VvZ0dKR2ozZExNVVZ5eU1Wc29kUmhBRHVQclVYNk14WXhfb0MxV2lyaEk2UDJLdGJOdk9sRjE2M3NaNXpmUVBOSTFTLVFHSTV0UnJKTG5fZm95czJacHdDVVU2cE8wd013R1B4M0RHcHF2YURVX3pmbENTbktzRzRfZ0htelRKU1hQNUp4Z3ZFNUV5RkZ1NFE3STNndlFVSVVFT0JHUWVudU1XXzcwQXc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Tesla, Alphabet, ServiceNow, IBM, Texas Instruments all report after the close",
       "description": "<p> After the close, Tesla, Alphabet, ServiceNow, IBM, and Texas Instruments will all report their earnings.</p><p class=\"PDq2pG_selectionAnchorContainer\">Consensus estimates for the stocks after today’s close:</p><ul><li>Alphabet/Google (GOOGL): EPS $2.88; revenue $117.1 billion. </li><li>Tesla (TS",
       "source": "Forexlive",
@@ -1851,235 +2079,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbXFHT0d2ZkNCTzFkQXh0d0VnamRaZTdINFZ1NTgydFBCdGZwclZ2ejlEMTBuSGpYM2Z5QzlzSlhEZEVZOC1sdTJ2UnZMZC1qYVlqTm1XNHNaZUlLQmZTUEdfM1plQjJDTlRCaVZwRy15YzVudUg0LWExTXAxekI5SjdLcWsxQ0t3RVM4djVScDRqaUpvVXhLcFlfMmZoZlhNVEE5S3JrRmppY1NVemNjTVZGeDMzTmZZN2FjV3lQUQ?oc=5",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "DP World to build two new terminals on UAE's eastern coast, reducing Hormuz reliance - Reuters",
-      "description": "DP World to build two new terminals on UAE's eastern coast, reducing Hormuz reliance Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T16:29:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlZueUVORm4zNTFPakh1U1R0bi1NZ09RVExFZTlBbE10UzFtNWNWX1hiR2xfTWY2N194RkFlQUVEc09abVlRNFJyR1JCeGhac2ZzMDdtb1RVYVItM21nd21FNnZyRFdPem1HNTJDc0hVVDE1ZzB6RTdZSEZnMXRlUHdGZHljZXVGSzVtX1N1RGRSaDlvSy1rUUxtOUJKMjZvcHdqdjZscUhDbzNIVU81ZWNmVDlCX2hqTDBYTmozSHdJM0U1d0d3UEVn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Digital Chamber sues Illinois officials over new state 0.2% crypto tax",
-      "description": "The group alleged that the tax signed into law in June “discriminates against people who transact in digital assets“ and should be blocked from implementation and enforcement.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-22T16:28:10+00:00",
-      "article_url": "https://cointelegraph.com/news/digital-chamber-lawsuit-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "NexTel Medical Corp. Amends Previously Announced Acquisition to Acquire Island 40 Group and Full Subsidiary Platform",
-      "description": "Revised transaction expands NexTel’s acquisition from JumpstartRx and NuevistraMed to Island 40 Group’s broader growth platform, adding health services.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T16:16:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331607/0/en/NexTel-Medical-Corp-Amends-Previously-Announced-Acquisition-to-Acquire-Island-40-Group-and-Full-Subsidiary-Platform.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-22T16:15:55+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "NZDUSD moves back below its 200 hour MA but finds support at 50% midpoint target",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The NZDUSD pushed to its highest level since June 5 yesterday, but the rally lost momentum and reversed lower, leading to a corrective move that has now reached an important technical support zone. The pair is currently testing its 200-hour moving average a",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T16:14:51+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/nzdusd-moves-back-below-its-200-hour-ma-but-finds-support-at-50-midpoint-target",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "BitGo, OTC Markets plan tokenized securities access for broker-dealers",
-      "description": "The proposed alliance would enable more than 150 broker-dealers to trade and settle digital asset securities through OTC Link ATS using BitGo’s custody infrastructure.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-22T16:10:22+00:00",
-      "article_url": "https://cointelegraph.com/news/bitgo-otc-markets-tokenized-securities-broker-dealers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "SEDA Expands Maritime and Shipping Expertise with the Addition of Barry Bednar and Wenzel Schwabenland",
-      "description": "SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced today that Barry Bednar and Dipl.-Ing. Wenzel Schwabenland joined the firm as Managing Directors. SEDA Experts LLC, a leading expert witness firm providing world-class financial expert ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T16:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331602/0/en/SEDA-Expands-Maritime-and-Shipping-Expertise-with-the-Addition-of-Barry-Bednar-and-Wenzel-Schwabenland.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ex-Google recruiter: The No. 1 question that makes me want to hire someone on the spot",
-      "description": "Former Google recruiter Farah Sharghi reveals the question that makes job candidates stand out to her the most.",
-      "source": "CNBC",
-      "publication_date": "2026-07-22T16:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/22/ex-google-recruiter-the-no-1-question-that-makes-me-want-to-hire-someone-on-the-spot.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Under-the-radar beverage name captures trader's attention",
-      "description": "Michael Khouw breaks down how he's trading this stock ahead of earnings.",
-      "source": "CNBC",
-      "publication_date": "2026-07-22T15:55:40+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/22/under-the-radar-beverage-name-captures-traders-attention.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
-      "description": "Bitcoin and US stocks stayed strong in the face of US-Iran escalation as analysis predicted BTC price action outperforming equities later.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-22T15:55:20+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Revolut hits $115 billion valuation in employee share sale: WSJ",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-22T15:53:54+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Microsoft: AI adoption is \"accelerating at an incredible pace\", but stock is not impressed.",
-      "description": "<p>Microsoft continues to emphasize that AI adoption is accelerating at what they call an \"incredible pace\", with demand spreading across cloud infrastructure, AI applications, and enterprise software. The company says customer demand remains ahead of available capacity, prompting continued investme",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T15:53:22+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/microsoft-ai-adoption-is-accelerating-at-an-incredible-pace-but-stock-is-not-impressed-0",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-22T15:37:36+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "UK digital bond plans hinge on one missing piece: onchain cash",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-22T15:36:49+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-22T15:09:47+00:00",
-      "article_url": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Mediator Mark Berkowitz Brings More Employment Law Experience – and Immediate Engagement – to UWWM",
-      "description": "When veteran labor and employment attorney Mark J. Berkowitz joined Upchurch Watson White & Max Mediation Group recently as a full-time neutral, he didn't take long to get settled. When veteran labor and employment attorney Mark J. Berkowitz joined Upchurch Watson White & Max Mediation Group recentl",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T15:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331555/0/en/Mediator-Mark-Berkowitz-Brings-More-Employment-Law-Experience-and-Immediate-Engagement-to-UWWM.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "MLG Capital Expands Legacy Fund with Entry into Montana Market",
-      "description": "Acquisition of Brookside Park and Kagy Village in Bozeman, MT reflects long-term relationship and off-market sourcing strategy Acquisition of Brookside Park and Kagy Village in Bozeman, MT reflects long-term relationship and off-market sourcing strategy",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-22T15:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331551/0/en/MLG-Capital-Expands-Legacy-Fund-with-Entry-into-Montana-Market.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "USTR Greer testifies in the Senate: We are moving with all due speed on USMCA negotiations",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">U.S. Trade Representative Jamieson Greer, testifying before the Senate Finance Committee, outlined the administration's priorities for trade negotiations, emphasizing continued progress on USMCA talks, stronger North American manufacturing incentives, and a",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T14:55:32+00:00",
-      "article_url": "https://investinglive.com/news/ustr-greer-testifies-in-the-senate-we-are-moving-with-all-due-speed-on-usmca-negotiations",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Nestlé close to Perrier unit stake sale at about €5b valuation - FT",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T14:55:28+00:00",
-      "article_url": "https://seekingalpha.com/news/4616645-nestle-close-to-perrier-unit-stake-sale-at-about-5b-valuation-ft?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crude oil inventories rise 2.010M vs -1.052M estimate",
-      "description": "<ul><li>Crude oil inventory +2.01 million versus -1.052 million estimate</li><li>Gasoline inventories +0.765 million versus -1.5 .7 million estimate.</li><li>Distillates +1.395 million versus +0.738 million estimate.</li></ul><p>Surprise build in the oil inventory data for the current week versus ex",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T14:37:49+00:00",
-      "article_url": "https://investinglive.com/news/crude-oil-inventories-rise-2-010m-vs-1-052m-estimate",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Lebanon, Israel to hold next talks in Italy on August 4, Lebanese official says - Reuters",
-      "description": "Lebanon, Israel to hold next talks in Italy on August 4, Lebanese official says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T14:31:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzAyWDFxcnFFNE1EMlFQZnBqTm0ya1lhb3RMMFI4QkY4Z3RpZ1BxSXJoaWRSX2Z2SmN3U0Z0YlU3NE81Q3RIeVlGWjE0bGIwWEZnM2E0TTBERlNPTGJ4WlF6aU0wblRSYVR1bkxvOWtHZWE0aGY3SzExa3JEQVRablNWWnFHRmNiWjNhUDZKcWdzb1U4TVBMbHZ3MHJXSGFUWWNXdDJSSWVjZWp2YktZNTFLanc0dS1NUjBJVFVaaw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "USDCHF buyers stay in control above swing area/key moving averages",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\"></p><p class=\"PDq2pG_selectionAnchorContainer\">The USDCHF is consolidating in choppy trading today, but continues to hold support within a key swing area between 0.81079 and 0.81195 (see red circles and yellow area on the chart above). The session low reach",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T14:29:22+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usdchf-buyers-stay-in-control-above-swing-area-key-moving-averages",
-      "asset_tags": [
-        "forex",
-        "crypto",
-        "macro"
       ]
     }
   ]
