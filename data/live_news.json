@@ -1,18 +1,189 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-23T20:42:34.238159+00:00",
+    "last_updated": "2026-07-24T00:13:11.216187+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 93,
-      "commodities": 26,
-      "macro": 39,
+      "commodities": 27,
+      "macro": 41,
+      "forex": 23,
       "crypto": 54,
-      "equities": 33,
-      "forex": 23
+      "general": 93,
+      "equities": 35
     }
   },
   "articles": [
+    {
+      "headline": "Japan June 2026 inflation: Headline jumps to 1.7% y/y (prior 1.5%)",
+      "description": "<p>Just the data this post, I'll have more to come on this separately. </p><p>---</p><p></p><p>Japan Inflation Rate June 2026:</p><p>Headline Y/Y 1.7% </p><ul><li>expected 1.7%, prior .5%</li></ul><p>Core (ex-food) Y/Y 1.6% </p><ul><li>expected 1.6%, prior 1.4%</li></ul><p>Ex-Food and Energy Y/Y 1.7",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T23:42:25+00:00",
+      "article_url": "https://investinglive.com/news/japan-june-inflation",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Australia composite PMI rises to 52.6 in July as new orders return to growth",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The pickup in the composite output index to 52.6 from 50.4 signals a second straight month of expansion and the strongest reading since the start of the year, driven almost entirely by services rather than manufacturing. Th",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T23:12:00+00:00",
+      "article_url": "https://investinglive.com/news/australia-composite-pmi-rises-to-52-6-in-july-as-new-orders-return-to-growth",
+      "asset_tags": [
+        "forex",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "PowerTransitions Completes Acquisition of Five New York Plants, Expanding New York Portfolio",
+      "description": "HOUSTON--(BUSINESS WIRE)--PowerTransitions acquires New York power assets.",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-23T22:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260723733221/en/PowerTransitions-Completes-Acquisition-of-Five-New-York-Plants-Expanding-New-York-Portfolio/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+      "description": "The Bitcoin donation can be used to support Donald Trump as a New York court considers whether to reverse a $5 million settlement between the CFTC and Gemini.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-23T21:47:39+00:00",
+      "article_url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Americas FX news wrap 23 Jul: Risk off sentiment as geopolitical tensions rise.",
+      "description": "<ul><li><a href=\"https://investinglive.com:443/stocks/it-was-an-ugly-day-for-us-stocks\" rel=\"follow\">It was an ugly day for US stocks.</a></li><li><a href=\"https://investinglive.com:443/news/carney-canada-focused-on-a-comprehensive-usmca-deal\" rel=\"follow\">Carney: Canada Focused on a Comprehensive U",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T21:26:40+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-23-jul-risk-off-sentiment-as-geopolitical-tensions-rise",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Stripe in talks to acquire AI startup OpenRouter for ~$10B - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-23T21:20:31+00:00",
+      "article_url": "https://seekingalpha.com/news/4617795-stripe-in-talks-to-acquire-ai-startup-openrouter-for-10b---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump unveils new tariffs designed to survive legal challenge, WSJ reports",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The new duties are close in size to the expiring 10 percent global tariff, so the immediate price and trade flow impact should be limited. The more significant signal is durability: basing the levies on Section 301 rather t",
+      "source": "Forexlive",
+      "publication_date": "2026-07-23T21:11:09+00:00",
+      "article_url": "https://investinglive.com/news/trump-unveils-new-tariffs-designed-to-survive-legal-challenge-wsj-reports",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Coinbase lets businesses accept USDC payments from AI agents",
+      "description": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for autonomous AI agents.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-23T20:51:27+00:00",
+      "article_url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ocean Power Technologies Acquires Strategic Subsea Technology to Expand Operational Infrastructure Supporting Maritime Dominance",
+      "description": "Transaction Extends Company’s Operational Infrastructure Offering to the Subsea Market Transaction Extends Company’s Operational Infrastructure Offering to the Subsea Market",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-23T20:37:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332622/9069/en/Ocean-Power-Technologies-Acquires-Strategic-Subsea-Technology-to-Expand-Operational-Infrastructure-Supporting-Maritime-Dominance.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Expro completes $215M acquisition of Enhanced Drilling",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-23T20:33:11+00:00",
+      "article_url": "https://seekingalpha.com/news/4617748-expro-completes-215m-acquisition-of-enhanced-drilling?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
+      "description": "Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate-hike odds neared 40%.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-23T20:32:22+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "VYNE Therapeutics Provides Update Regarding Cash Dividend, Reverse Stock Split and Anticipated Timing of Closing of the Proposed Merger with Yarrow Bioscience",
+      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- VYNE Therapeutics Inc. (Nasdaq: VYNE) (“VYNE” or the “Company”) today announced that its previously announced special cash dividend (the “Cash Dividend”), declared in connection with the terms and conditions of the Agreement and Plan of Merger and Reorgani",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-23T20:26:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332602/0/en/VYNE-Therapeutics-Provides-Update-Regarding-Cash-Dividend-Reverse-Stock-Split-and-Anticipated-Timing-of-Closing-of-the-Proposed-Merger-with-Yarrow-Bioscience.html",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Arcadis gains on report of takeover interest from WSP Global",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-23T20:20:49+00:00",
+      "article_url": "https://seekingalpha.com/news/4617689-arcadis-gains-on-report-of-takeover-interest-from-wsp-global?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-23T20:16:37+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Instinct Bio Completes Business Combination with Relativity Acquisition Corp. and Makes Its Nasdaq Debut Under the Ticker “BIOT” on July 24, 2026",
+      "description": "Combined company begins trading on the Nasdaq Stock Market at a pro forma enterprise value of approximately $288 million, marking the arrival of a new pure-play regenerative medicine and longevity platform on the U.S. public markets Combined company begins trading on the Nasdaq Stock Market at a pro",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-23T20:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332588/0/en/Instinct-Bio-Completes-Business-Combination-with-Relativity-Acquisition-Corp-and-Makes-Its-Nasdaq-Debut-Under-the-Ticker-BIOT-on-July-24-2026.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Genco Shipping & Trading Limited Board of Directors Provides Update on Review of Diana Shipping’s Revised, Non-Binding Indicative Proposal",
+      "description": "Genco’s Advisors Engaged with Diana’s Advisors as Part of the Board’s Ongoing Review",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-23T20:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332582/37397/en/Genco-Shipping-Trading-Limited-Board-of-Directors-Provides-Update-on-Review-of-Diana-Shipping-s-Revised-Non-Binding-Indicative-Proposal.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
       "description": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
@@ -45,21 +216,21 @@
       ]
     },
     {
-      "headline": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
-      "description": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
-      "source": "CNBC",
-      "publication_date": "2026-07-23T19:52:25+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "headline": "US says Saudi nuclear deal off without Israel recognition - Reuters",
+      "description": "US says Saudi nuclear deal off without Israel recognition Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T19:55:42+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "Generational Group Advises Custom Engraving Studio in its Sale to Ownership Group of HPC Global",
-      "description": "DALLAS--(BUSINESS WIRE)--Generational Group, a leading mergers and acquisitions advisory firm for privately held businesses, is pleased to announce the sale of Custom Engraving Studio to Ownership Group of HPC Global. The acquisition closed February 27, 2026. Headquartered in York, Pennsylvania, Cus",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-23T19:49:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260723149032/en/Generational-Group-Advises-Custom-Engraving-Studio-in-its-Sale-to-Ownership-Group-of-HPC-Global/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+      "description": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+      "source": "CNBC",
+      "publication_date": "2026-07-23T19:52:25+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
       "asset_tags": [
         "general"
       ]
@@ -94,16 +265,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "US says Saudi nuclear deal off without Israel recognition - Reuters",
-      "description": "US says Saudi nuclear deal off without Israel recognition Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T18:52:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1379,6 +1540,16 @@
       ]
     },
     {
+      "headline": "Houthi Red Sea threat would challenge a stretched US military - Reuters",
+      "description": "Houthi Red Sea threat would challenge a stretched US military Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T06:02:04+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOThodmVRdFZqSlZuSnpSMDJBb1dkX1NUam1GcVJsRWlHcV9qM0x6MUhXRlJtRXd3MWdKMHpYOVFvUGZjcmUtR1pkSTZsUEd2M2xZS1YtUGRqUkhteGw5QzR6a1ZhcG4wR1c4LXUzaXZrN3ctTlI2Vkc4NzlnUlRBb01pY3kxRTlweVFDWGMydnpsLThrUGlXamcxX3RDTnFpVXFwY1FJT01LRU1pVEdxdW1pQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Cutting off Red Sea oil route may be one crisis too many - Reuters",
       "description": "Cutting off Red Sea oil route may be one crisis too many Reuters",
       "source": "Reuters",
@@ -1533,8 +1704,8 @@
       ]
     },
     {
-      "headline": "Two Chinese supertankers with Saudi oil head to Bab el-Mandeb for Red Sea exit - Reuters",
-      "description": "Two Chinese supertankers with Saudi oil head to Bab el-Mandeb for Red Sea exit Reuters",
+      "headline": "Two Chinese supertankers with Saudi oil exit Red Sea - Reuters",
+      "description": "Two Chinese supertankers with Saudi oil exit Red Sea Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-23T02:29:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzBfZ2dVYUNDa2lMZlVQYXFfSWU3bWlaZjRVTV9DM0V3NjRDN2pvWnRhMVE4T2RwYXhGdTd1ZEMybWE4ekJGcC1Oa3lsWnFwQ1ZISE5XcUZOazlVaEZQaU9jLTQ2UmstZkZ3UWw5amhGQU1TTVY4VGRXX2R6d0xOMENmTmlYTHBKOGJnRTNDdzVZQ1p3NXA0alZSOVJxV0dwS3AxQkliUkpES0hneVdYMmtjNFpERW1TRkNUVDN5Z2E?oc=5",
@@ -1913,172 +2084,6 @@
         "commodities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
-      "description": "According to Senator Cynthia Lummis, one of the bill’s advocates, the ethics language would apply to US presidents’ crypto ventures, including Donald Trump’s.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-22T18:41:30+00:00",
-      "article_url": "https://cointelegraph.com/news/clarity-act-ethics-public-officials-president-barred-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Iran strikes on CIA facilities prompt questions about possible Russian role - Reuters",
-      "description": "EXCLUSIVE: Iran strikes on CIA facilities prompt questions about possible Russian role Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T18:31:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGxVY1ZXb3k0ZmxlWngxbUYxVlAxc240XzR5RlUtWFlmYTAtc0xSWG5WaTNmOEVxTVRwS0N5MVhDRzV3RnJXNmlUS19tbGxUWEZrLXRJTzJPVHYxaW04bG84bGR0R2NzYVA2N0tjalRiWFduVXk0M2puWE9CX1ZSaU51OWR0b0lUb2Y2dnVXZHdreWJDVk0zc0VFdXhNbnBPdUlDMmxuckJWM1R5QTFZOEh5aWtfbDN5c2c0bmlBbk9mSEpL?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "QatarEnergy prepares to extend force majeure on LNG into mid-October, Bloomberg News reports - Reuters",
-      "description": "QatarEnergy prepares to extend force majeure on LNG into mid-October, Bloomberg News reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T18:20:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc3lLcWVQOUVJOWRZS1FfX3RhUGkxdy00Zk9qWHR5Sms4WU5zejVDb3ZVNEFpTlhXS2REZFVEZW5keTRVM0Z5bVBjOThoQXNIRHlCbmpNM2k2X0pOOTFnX0dicHhHZTVlcjVTaUdMdF8wSkNaWjFkYU5fSmdGZWVmSnBJaTNhX3d2My1KYkt2QkdXdUpRWGpNdU1fc1RsZlBQeXByZmg5UG5QNDVEdGdzTDVfb253aU9abGVoZUxnc1VPY3FCdHFYNA?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "ECB expected to hold, but EURUSD is nearing a breaking point after being confined.",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The ECB is widely expected to leave all three key interest rates unchanged at tomorrow's meeting. Markets are pricing in a very high probability that the deposit rate remains at 2.25%, with the focus shifting almost entirely to President Christine Lagarde's",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T18:18:16+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/ecb-expected-to-hold-but-eurusd-is-nearing-a-breaking-point-after-being-confined",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Paramount Skydance gets EU approval for $110B Warner Bros. deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T17:57:30+00:00",
-      "article_url": "https://seekingalpha.com/news/4616819-paramount-skydance-gets-eu-approval-for-110b-warner-bros-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Anthropic joins UK FCA’s AI regulatory sandbox as second cohort launches",
-      "description": "Anthropic will provide Claude AI models to companies participating in the UK Financial Conduct Authority’s next Supercharged Sandbox cohort, as the regulator pushes to test AI applications in financial services.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-22T17:57:11+00:00",
-      "article_url": "https://cointelegraph.com/news/anthropic-joins-uk-fcas-ai-regulatory-sandbox-as-second-cohort-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Senate panel advances China auto bill that could bar Mercedes-Benz from U.S.",
-      "description": "Mercedes-Benz’s largest individual shareholder is Chinese state-owned BAIC. Cruz warned the bill could hurt Mercedes and accused GM of backing it.",
-      "source": "CNBC",
-      "publication_date": "2026-07-22T17:52:23+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "SEC’s Peirce says crypto vaults and onchain lending may fall under securities laws",
-      "description": "The SEC commissioner said crypto vaults, onchain lending products and other asset management tools may trigger US securities laws depending on how they are structured and operated.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-22T17:39:57+00:00",
-      "article_url": "https://cointelegraph.com/news/secs-hester-peirce-says-crypto-vaults-and-onchain-lending-may-fall-under-securities-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US has informed Israel of its intention to use bombers in bombing Iran",
-      "description": "<p>Israel sources are saying that: </p><ul><li>US has informed Israel of its intention to use bombers in bombing Iran.</li></ul><p>Can anyone keep a secret. Yesterday, Trump said that they would bomb the underground \"Pickaxe Mountain\" nuclear-related facility \"very soon,\" portraying it as a major re",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T17:37:13+00:00",
-      "article_url": "https://investinglive.com/news/us-has-informed-israel-of-its-intention-to-use-bombers-in-bombing-iran",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EU issues formal notice to JD.com over Ceconomy acquisition",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-22T17:35:41+00:00",
-      "article_url": "https://seekingalpha.com/news/4616745-eu-issues-formal-notice-to-jdcom-over-ceconomy-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Amazon cuts some jobs in its artificial general intelligence unit",
-      "description": "Amazon's AGI unit has released a set of AI models, called Nova, and also includes groups working on silicon and quantum computing.",
-      "source": "CNBC",
-      "publication_date": "2026-07-22T17:26:30+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "More ships change course in Red Sea after Houthi threats, data shows - Reuters",
-      "description": "More ships change course in Red Sea after Houthi threats, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T17:18:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVpnSVhMeHp3ZE5RTlFFUEF6OW5PaUZsWGtoM3J2eUh1eGczY0hsVkt5MzRLY2s5YnJqaUxmVU13bG5QYmVrZmZoYzFNbXpRbVhkSHpVWkQtOGJ2UnNNdHh4YnU0V3hvRS1WcTd4UGJ5V0M0c21CRG5CdS1ZenVKNkJ2V2pwSEt5NWNBOEg2UkZmOVJFd3JZSXZOV3hyeW9SQjE2dTZQbzBZOVRBcHVwZ3ZpTWdOeGJoX3JRTkpNTHc5eGhsbUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US treasury auctions off $13 billion of 20 year bonds at a high yield of 5.163%",
-      "description": "<ul><li>High yield 5.163% </li><li>WI level at the time of the auction 5.158%.</li><li>Tail 0.5 basis points versus six month average of -0.3 basis points.</li><li> Bid to cover 2.64X versus average of 2.66X</li><li>Directs 10.21% vs average of 23.9%</li><li>Indirects 69.12% vs average of 65.9%</li>",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T17:13:27+00:00",
-      "article_url": "https://investinglive.com/news/us-treasury-auctions-off-13-billion-of-20-year-bonds-at-a-high-yield-of-5-163",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Iran war drains U.S. blood and treasure - Reuters",
-      "description": "Iran war drains U.S. blood and treasure Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T17:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWFQRmRTdXBpWjUySjA2ZFJKQnAzOHdwcE0yMjMwcDJvY3V6RXE3UHBPRWtRZ1k5ZWxhQUd6ckQ2NS03Ukk2dzFuY3NxcTRHM1NRNE5RMDVBWHFPMHBncFZrQXRSaExHOHRtR09aQWxlMjliVzNTbWlQcjlGQl93WXlpRjh4NldZYlhLZ0hUalM?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Treasury targets Wall Street tax loopholes as IRS ramps up enforcement",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Treasury Secretary Scott Bessent said the Treasury Department and the IRS are reviewing a number of Wall Street tax products and strategies that may exploit the federal tax code. While emphasizing that the administration welcomes innovation in financial mar",
-      "source": "Forexlive",
-      "publication_date": "2026-07-22T16:52:09+00:00",
-      "article_url": "https://investinglive.com/news/treasury-targets-wall-street-tax-loopholes-as-irs-ramps-up-enforcement",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Middle East war deepens 2026 oil deficit outlook, but 2027 glut still looms - Reuters",
-      "description": "Middle East war deepens 2026 oil deficit outlook, but 2027 glut still looms Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-22T16:46:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbXFHT0d2ZkNCTzFkQXh0d0VnamRaZTdINFZ1NTgydFBCdGZwclZ2ejlEMTBuSGpYM2Z5QzlzSlhEZEVZOC1sdTJ2UnZMZC1qYVlqTm1XNHNaZUlLQmZTUEdfM1plQjJDTlRCaVZwRy15YzVudUg0LWExTXAxekI5SjdLcWsxQ0t3RVM4djVScDRqaUpvVXhLcFlfMmZoZlhNVEE5S3JrRmppY1NVemNjTVZGeDMzTmZZN2FjV3lQUQ?oc=5",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
