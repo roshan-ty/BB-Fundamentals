@@ -1,38 +1,134 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-24T20:05:43.880879+00:00",
+    "last_updated": "2026-07-24T23:45:43.380250+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 58,
+      "forex": 20,
       "equities": 37,
-      "commodities": 25,
-      "crypto": 57,
-      "macro": 38,
-      "general": 91,
-      "forex": 21
+      "commodities": 23,
+      "macro": 39,
+      "general": 94
     }
   },
   "articles": [
     {
-      "headline": "Next week's earnings calendar heats up",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Earnings season hits full stride next week, with several of the market's biggest companies set to report. Investors will be watching not only the headline numbers, but also management commentary on AI spending, consumer demand, tariffs, and the outlook for ",
-      "source": "Forexlive",
-      "publication_date": "2026-07-24T19:55:10+00:00",
-      "article_url": "https://investinglive.com/news/next-week-s-earnings-calendar-heats-up/",
+      "headline": "EU authorities include HTX exchange in Russian sanctions",
+      "description": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-24T21:53:05+00:00",
+      "article_url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "equities",
-        "commodities"
+        "crypto"
       ]
     },
     {
-      "headline": "Mobix Labs tekent definitieve overeenkomst voor de overname van Vision Aerial en geeft een impuls aan het wereldwijde droneplatform voor nationale veiligheid en luchtinlichtingen",
-      "description": "IRVINE, Calif.--(BUSINESS WIRE)--Mobix Labs, Inc. (Nasdaq: MOBX) maakt vandaag bekend dat het een definitieve overeenkomst heeft gesloten voor de overname van Vision Aerial, Inc., een in de VS gevestigde ontwerper en fabrikant van in de VS gebouwde onbemande vliegtuigsystemen die voldoen aan de Nati",
+      "headline": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
+      "description": "<ul><li><a href=\"https://investinglive.com:443/stocks/us-indices-close-mixed-dow-up-s-p-unchanged-nasdaq-down\" rel=\"follow\">US indices close mixed. Dow up. S&P unchanged. Nasdaq down</a></li><li><a href=\"https://investinglive.com:443/news/next-week-s-earnings-calendar-heats-up\" rel=\"follow\">Next wee",
+      "source": "Forexlive",
+      "publication_date": "2026-07-24T21:51:42+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-24-jul-geopolitics-remain-the-focus-for-traders/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Mobix Labs firma un acuerdo para adquirir Vision Aerial y acelerar el desarrollo de su plataforma global de drones destinada a la seguridad nacional y la inteligencia aérea",
+      "description": "IRVINE, California--(BUSINESS WIRE)--Mobix Labs, Inc. (Nasdaq: MOBX) anunció hoy la firma de un acuerdo vinculante para adquirir Vision Aerial, Inc., una empresa estadounidense dedicada al diseño y la fabricación de vehículos aéreos no tripulados construidos en Estados Unidos de conformidad con la l",
       "source": "BusinessWire",
-      "publication_date": "2026-07-24T19:38:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260724637707/nl/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "publication_date": "2026-07-24T21:46:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260724034730/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Yemen teeters towards renewed war in shadow of Iran conflict - Reuters",
+      "description": "Yemen teeters towards renewed war in shadow of Iran conflict Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T21:15:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpIbW1acm1ubmVwWFhETlNMNVFPRDlZQlpxR25rVW5zRW55eVVIUUNtRUZRbHpiUUlNM05ycV8yWHNUOVNHZ1E0bDJTMExEVUp5S1RNLXI5RnFiajJKc3ZoM1ZmWWRjLTdCT09tTDlpeGZ0WmJBRUxTRW1ub2dMcmRQaFNRSk5pSVlwSk9oc1UyTHFvMGhiUE9zY3JScEZwZ091Q2dDZmVacXQy?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Strive’s SATA recovers most of June decline, trades within 3% of par",
+      "description": "Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-24T21:02:22+00:00",
+      "article_url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Microchip to acquire Hailo acquisition",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-24T20:38:52+00:00",
+      "article_url": "https://seekingalpha.com/news/4618389-microchip-to-acquire-hailo-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump says he trusts Russia and China's leaders not to enable Iran - Reuters",
+      "description": "Trump says he trusts Russia and China's leaders not to enable Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T20:37:56+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFNIbkVHRDFha2pQZ0ZQeGpKUnNPRnJyTGZYVmdRMlpuOW1hXy1kT2UtenhSSVNnd01lLWJXNFZVWVdrWVAtSlFtQmItekowMnFEUUhwbWNzUmh3NE9kMGE4LURxTGtUaF95dlp3T25yQm9FUlY0UUlUczNfNE9vUmIzUm5OUE1Fd2VWSVNud0V1ZVRtZFZxbm12SVBDSDJpMzZn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Microchip Technology Signs Definitive Agreement to Acquire Hailo",
+      "description": "CHANDLER, Ariz., July 24, 2026 (GLOBE NEWSWIRE) -- (NASDAQ: MCHP) - Microchip Technology Incorporated, a leading provider of smart, connected, and secure embedded control solutions, today announced that it has signed a definitive agreement to acquire Hailo, a provider of accelerated edge AI processo",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-24T20:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3333099/0/en/Microchip-Technology-Signs-Definitive-Agreement-to-Acquire-Hailo.html",
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "House passes bill on lawmakers using insider information for stock trading",
+      "description": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-24T20:05:50+00:00",
+      "article_url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trump says US and Iran are talking, but Tehran is not yet ready for deal - Reuters",
+      "description": "Trump says US and Iran are talking, but Tehran is not yet ready for deal Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T19:48:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDhqRjRkNElnTjZmRjllV2p0QWhHWjY3UGc5Z25PbURhcnplekRpSW9GZjlNcGh5bTAzY3BqOHAwWHpWNS0zaEZtdElPNTRrclI0LVlFR0lKN01wb1V6dDk4UG5qOTlpN25hOENSYWJFMEYzZGtVdUtKb0pYc2VJblp5SGRUNF9qM1ZRVWk4a1ZWbjJaemVyUHZlcUN6V21keTk0M1QxNlV2Q3prRnVyQXA3OA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Mozambique-flagged LPG tanker attacked in Iranian waters, Indian embassy says - Reuters",
+      "description": "Mozambique-flagged LPG tanker attacked in Iranian waters, Indian embassy says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T19:48:21+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUFR6aTV2UkJKY2doRWZPUnlLeEtRbmRKcFRBeDZqdEJaamNfb3JqUDQ1U1l0QUZJNFR0WXdiYUxHZktsbFNaLXhoNHVfckQyeUJBWXZHcnR6aHVRNHdsRkVDbVZjeTR5UlpwcWQ5SjZEUkpLczJsazFDQ25OcEwzUHdXNnRKQmtlaWZ5OXFhR0pKdUZFN2xzSklBbU9nRUJHendMVUlOd1A4V2lkZ0kxcnFJWDJqdlJoYUlUOF82ZFNONF9UeFE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -66,11 +162,11 @@
       ]
     },
     {
-      "headline": "US strikes Iran from south to north after Trump threats over Red Sea shipping - Reuters",
-      "description": "US strikes Iran from south to north after Trump threats over Red Sea shipping Reuters",
+      "headline": "US hits network of Iranian financier Zanjani with more sanctions - Reuters",
+      "description": "US hits network of Iranian financier Zanjani with more sanctions Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-24T17:33:11+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
+      "publication_date": "2026-07-24T17:27:33+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdktDNmVIbXBUenpMSTEtWTRYS09hSlNKdmVpakhHNVQ4SFZNWnNoV19ZQTYtcUhmQXZHeVpvdE84NXVhei00YktROW1WdUllYXBWdUY4Tlp5TzhES0k4a09kRFhQZ2QxQWxIN29IcWRxZGtyT1lkdjR3ZGRTMnVDZW5VaXRRVWdwOUxCaDJqUHhEOTVzRUdWSlN6RjFHSGxWOVNpbDkyRzZHTlVkaEZ5LTZpMTBZZw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -131,16 +227,6 @@
       "source": "CNBC",
       "publication_date": "2026-07-24T16:13:07+00:00",
       "article_url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump warns China, Russia against involvement in Iran war - Reuters",
-      "description": "Trump warns China, Russia against involvement in Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T16:10:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFNIbkVHRDFha2pQZ0ZQeGpKUnNPRnJyTGZYVmdRMlpuOW1hXy1kT2UtenhSSVNnd01lLWJXNFZVWVdrWVAtSlFtQmItekowMnFEUUhwbWNzUmh3NE9kMGE4LURxTGtUaF95dlp3T25yQm9FUlY0UUlUczNfNE9vUmIzUm5OUE1Fd2VWSVNud0V1ZVRtZFZxbm12SVBDSDJpMzZn?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1103,6 +1189,16 @@
       ]
     },
     {
+      "headline": "US missiles hit Iran as path towards de-escalation uncertain - Reuters",
+      "description": "US missiles hit Iran as path towards de-escalation uncertain Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T04:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "investingLive Asia-Pacific market moving news: 24 July 2026: Asian equities slapped down",
       "description": "<ul><li><a href=\"https://investinglive.com:443/commodities/icymi-iran-rejects-trump-ceasefire-offer-carried-by-iraqi-pm-nyt-reports\" rel=\"follow\">ICYMI - Iran rejects Trump ceasefire offer carried by Iraqi PM, NYT reports</a></li><li><a href=\"https://investinglive.com:443/commodities/gold-extends-sl",
       "source": "Forexlive",
@@ -1156,8 +1252,8 @@
       ]
     },
     {
-      "headline": "Oil down more than 4% on profit taking, report of China-backed push to end US-Iran fighting - Reuters",
-      "description": "Oil down more than 4% on profit taking, report of China-backed push to end US-Iran fighting Reuters",
+      "headline": "Oil falls on report China pushing for end US-Iran war - Reuters",
+      "description": "Oil falls on report China pushing for end US-Iran war Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-24T01:36:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
@@ -1220,11 +1316,31 @@
       ]
     },
     {
+      "headline": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates - Reuters",
+      "description": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T23:00:33+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "US House passes $1 trillion defense bill despite Iran, Israel concerns - Reuters",
       "description": "US House passes $1 trillion defense bill despite Iran, Israel concerns Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-23T22:22:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXN5SFByNFBWb1hOU2l0QzNvTkU0QzFtZlEzRk1VRE43QzZmNlV1V2FiVk9qQXZ0MzlseE5qMUNVSGFVVk80eVFyWHVYcjVPWEZyanlvZWE0NU5FdmxoSzBraFdIcVNmM24wYkJXTmdITHZ6dE5GdFBMR2h3ZEhGLTlWbldBLWZKZ19xOVpLM3YtaGl1RnhObE5oTnJtQ3NhYTdMTGtjMV9kbWpmWU1LblZtbjRadkJVTkc2QnNHeXpURGY0azZ5eVcyaw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Reuters",
+      "description": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T22:09:04+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1426,16 +1542,6 @@
       "article_url": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates - Reuters",
-      "description": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T19:12:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmxmYW0zRFBGQlpfRDY2bXdwMk1FNzJQVDVOZXhHMTY3QlAzeG5DRDRqeHRNQk1ELWpLTEtSSGpkVjJrcHVzb3RNQmxHc3d2b1JEMGJ1TEN1bDJKVGFzcFl0d0FjbUNBRTRRMDJVM3BST2htNmwtRExMNGo2RTlSREhGZXZYa0ZneWUzY0s4RXVlTWxmLXI0cEJBSW1UbVJrWjBPNw?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     },
     {
@@ -1976,110 +2082,6 @@
       "article_url": "https://www.coindesk.com/business/2026/07/23/blackrock-coinbase-strategy-in-group-pledging-usd15-million-to-prepare-bitcoin-for-quantum-threats",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "BitMEX token crashes 90% as exchange announces shutdown",
-      "description": "BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-23T12:47:27+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Canada Retail sales for May 1.0% versus 1.0% expected",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/canada-april-retail-sales-05-vs-06-expected-20260619/\" rel=\"follow\">Prior </a>month 0.5% revised to 0.4%</li><li>Retail sales for May versus .0% expected</li><li>Prior month Ex Autos +0.1% revised to 0.0%</li><li> Retail Sales 1.2% ex Auto vs 1.4% expe",
-      "source": "Forexlive",
-      "publication_date": "2026-07-23T12:42:42+00:00",
-      "article_url": "https://investinglive.com/news/canada-retail-sales-for-may-1-0-versus-1-0-expected",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Bluefield Solar Income Fund Ltd.",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T12:41:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332150/0/en/Form-8-3-Bluefield-Solar-Income-Fund-Ltd.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US initial jobless claims 187K versus 212K expected",
-      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior 208K (revised to 209K)</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Continuing claims 1796K vs 1807K expected</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4",
-      "source": "Forexlive",
-      "publication_date": "2026-07-23T12:37:51+00:00",
-      "article_url": "https://investinglive.com/news/us-initial-jobless-claims-187k-versus-212k-expected",
-      "asset_tags": [
-        "forex",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitget secures license for New Zealand expansion",
-      "description": "Crypto exchange Bitget said it was registered as a financial service provider with New Zealand’s financial regulator, enabling it to expand its services in the country.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-23T12:33:07+00:00",
-      "article_url": "https://cointelegraph.com/news/bitget-secures-license-new-zealand-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Blue Gold Advances Producing Mine Acquisition Strategy to Drive Cash Flow",
-      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- Blue Gold Limited (Nasdaq: BGL) (Nasdaq: BGLWW) (“Blue Gold” or the “Company”), a gold mining company with the infrastructure to deliver gold from mine-to-wallet, today announced that it has entered into multiple strategic acquisition term sheets as it exe",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T12:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332139/0/en/Blue-Gold-Advances-Producing-Mine-Acquisition-Strategy-to-Drive-Cash-Flow.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "HF Foods Group to Acquire Searay Foods, a Highly Attractive Canadian Importer and Distributor of Ethnic and Specialty Seafood Products, Marking the Company's First International Expansion",
-      "description": "Strategic entry into Canada through the Vancouver metro market, one of North America's premier specialty Asian foods markets with deep multicultural ties",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T12:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332124/0/en/HF-Foods-Group-to-Acquire-Searay-Foods-a-Highly-Attractive-Canadian-Importer-and-Distributor-of-Ethnic-and-Specialty-Seafood-Products-Marking-the-Company-s-First-International-Expa.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Trump: Hold Iran responsible for Houthis attacks.",
-      "description": "<p>President Trump is posting on TruthSocial a warning to Iran as a result of the attacks by the Houthis on Saturday Arabian ships last night. He tells them that they are responsible. Here is the post:</p><p></p><p>The tensions continue to build. Crude oil is trading near $91. The NASDAQ is down -36",
-      "source": "Forexlive",
-      "publication_date": "2026-07-23T12:27:14+00:00",
-      "article_url": "https://investinglive.com/news/trump-hold-iran-responsible-for-houthis-attacks",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Trump says Saudi nuclear deal does not include enrichment, Riyadh must join Abraham Accords",
-      "description": "\"There will be no enrichment of material!\" the president said in a Truth Social post.",
-      "source": "CNBC",
-      "publication_date": "2026-07-23T12:21:44+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US says Saudi nuclear deal off without Israel recognition - Reuters",
-      "description": "US says Saudi nuclear deal off without Israel recognition Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T12:20:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
