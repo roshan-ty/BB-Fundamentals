@@ -1,26 +1,36 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-25T07:35:51.834339+00:00",
+    "last_updated": "2026-07-25T11:49:24.534460+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 96,
-      "crypto": 54,
+      "crypto": 56,
       "forex": 19,
-      "equities": 38,
+      "equities": 37,
       "commodities": 22,
-      "macro": 39
+      "macro": 39,
+      "general": 95
     }
   },
   "articles": [
     {
-      "headline": "Saudi-led coalition says it strikes Houthi targets in Yemen's Hodeidah - Reuters",
-      "description": "Saudi-led coalition says it strikes Houthi targets in Yemen's Hodeidah Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T22:54:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXJqVTM2Sjk5OGw4TnB5SWw2S0xRNG03eE5JLVFfZnp1NXluaGlpU3hHa2o2NHVCTERuOEpHeEliODNVblllcG1FTzdINTZVRUFSLWg2dXphTVphTVRtR0tSYVdKaTJPTEpwN1B3TFZZVnBNRjJvLWV4U3BvYUZud0RzNVpCLUJxRjBYU0U4SkVNbnRwNlhVRTZVS0p1TjlOczBLTG8zNG5nSHFZMzY4WFNZSGIyMlFKMmRJUg?oc=5",
+      "headline": "Dango’s perp DEX taps out nearly 4 months after launch",
+      "description": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-25T10:01:26+00:00",
+      "article_url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "general"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "description": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-25T07:40:35+00:00",
+      "article_url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -77,6 +87,16 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia and Houthis exchange fire as air defences intercept attack on oil refinery - Reuters",
+      "description": "Saudi Arabia and Houthis exchange fire as air defences intercept attack on oil refinery Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T20:57:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXJqVTM2Sjk5OGw4TnB5SWw2S0xRNG03eE5JLVFfZnp1NXluaGlpU3hHa2o2NHVCTERuOEpHeEliODNVblllcG1FTzdINTZVRUFSLWg2dXphTVphTVRtR0tSYVdKaTJPTEpwN1B3TFZZVnBNRjJvLWV4U3BvYUZud0RzNVpCLUJxRjBYU0U4SkVNbnRwNlhVRTZVS0p1TjlOczBLTG8zNG5nSHFZMzY4WFNZSGIyMlFKMmRJUg?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1219,8 +1239,8 @@
       ]
     },
     {
-      "headline": "US missiles hit Iran as path towards de-escalation uncertain - Reuters",
-      "description": "US missiles hit Iran as path towards de-escalation uncertain Reuters",
+      "headline": "Missiles targeting Saudi oil refineries shot down, sources say - Reuters",
+      "description": "Missiles targeting Saudi oil refineries shot down, sources say Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-24T04:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5",
@@ -1700,16 +1720,6 @@
       ]
     },
     {
-      "headline": "Two Chinese supertankers with Saudi oil exit Red Sea - Reuters",
-      "description": "Two Chinese supertankers with Saudi oil exit Red Sea Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T17:42:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzBfZ2dVYUNDa2lMZlVQYXFfSWU3bWlaZjRVTV9DM0V3NjRDN2pvWnRhMVE4T2RwYXhGdTd1ZEMybWE4ekJGcC1Oa3lsWnFwQ1ZISE5XcUZOazlVaEZQaU9jLTQ2UmstZkZ3UWw5amhGQU1TTVY4VGRXX2R6d0xOMENmTmlYTHBKOGJnRTNDdzVZQ1p3NXA0alZSOVJxV0dwS3AxQkliUkpES0hneVdYMmtjNFpERW1TRkNUVDN5Z2E?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "UK says armed forces ready to defend country after Iran warns over US bombers - Reuters",
       "description": "UK says armed forces ready to defend country after Iran warns over US bombers Reuters",
       "source": "Reuters",
@@ -2062,23 +2072,13 @@
       ]
     },
     {
-      "headline": "ZenaTech cierra la adquisición número 26 de su negocio Drones como Servicio de una empresa de topografía con sede en Ohio y licencia para operar en cuatro estados",
-      "description": "La primera ubicación con sede en Ohio y el duodécimo estado de EE. UU. amplían Drones como Servicio (DaaS) para ofrecer oportunidades adicionales a clientes de los sectores de la construcción, la infraestructura, la energía y las obras públicas La primera ubicación con sede en Ohio y el duodécimo es",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T13:42:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332277/0/es/ZenaTech-cierra-la-adquisici%C3%B3n-n%C3%BAmero-26-de-su-negocio-Drones-como-Servicio-de-una-empresa-de-topograf%C3%ADa-con-sede-en-Ohio-y-licencia-para-operar-en-cuatro-estados.html",
+      "headline": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea - Reuters",
+      "description": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T13:45:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-      "description": "Shares of Albertsons sank Thursday after the grocer reported softness in its core business and lowered its full-year outlook as a result.",
-      "source": "CNBC",
-      "publication_date": "2026-07-23T13:41:16+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
