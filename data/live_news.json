@@ -1,18 +1,78 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-25T11:49:24.534460+00:00",
+    "last_updated": "2026-07-25T15:48:50.153310+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 56,
-      "forex": 19,
+      "general": 95,
+      "crypto": 57,
       "equities": 37,
-      "commodities": 22,
-      "macro": 39,
-      "general": 95
+      "forex": 17,
+      "commodities": 21,
+      "macro": 37
     }
   },
   "articles": [
+    {
+      "headline": "How this 70-year-old honey bee farmer is keeping his family farm alive: 'We completely rely on Mother Nature'",
+      "description": "Being a beekeeper is harder than ever, but David Bradshaw is determined to protect his hives.",
+      "source": "CNBC",
+      "publication_date": "2026-07-25T14:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/25/how-this-70-year-old-honey-bee-farmer-is-keeping-his-family-farm-alive.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "description": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-25T13:14:18+00:00",
+      "article_url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-25T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+      "description": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
+      "source": "CNBC",
+      "publication_date": "2026-07-25T12:46:34+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
+      "description": "Shipping and logistics companies are tapping into the growing market of healthcare as cold chain and temperature-controlled facilities become more crucial.",
+      "source": "CNBC",
+      "publication_date": "2026-07-25T12:00:02+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Fidelity joins push for Senate passage of CLARITY Act",
+      "description": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-25T11:30:15+00:00",
+      "article_url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Dango’s perp DEX taps out nearly 4 months after launch",
       "description": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
@@ -21,6 +81,16 @@
       "article_url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-25T10:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -65,16 +135,6 @@
       "article_url": "http://www.businesswire.com/news/home/20260724034730/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Yemen teeters towards renewed war in shadow of Iran conflict - Reuters",
-      "description": "Yemen teeters towards renewed war in shadow of Iran conflict Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T21:15:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpIbW1acm1ubmVwWFhETlNMNVFPRDlZQlpxR25rVW5zRW55eVVIUUNtRUZRbHpiUUlNM05ycV8yWHNUOVNHZ1E0bDJTMExEVUp5S1RNLXI5RnFiajJKc3ZoM1ZmWWRjLTdCT09tTDlpeGZ0WmJBRUxTRW1ub2dMcmRQaFNRSk5pSVlwSk9oc1UyTHFvMGhiUE9zY3JScEZwZ091Q2dDZmVacXQy?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -227,6 +287,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-07-24T16:55:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3333018/0/en/Recommended-Cash-Offer-for-Irish-Continental-Group-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Yemen teeters towards renewed war in shadow of Iran conflict - Reuters",
+      "description": "Yemen teeters towards renewed war in shadow of Iran conflict Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T16:43:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlpIbW1acm1ubmVwWFhETlNMNVFPRDlZQlpxR25rVW5zRW55eVVIUUNtRUZRbHpiUUlNM05ycV8yWHNUOVNHZ1E0bDJTMExEVUp5S1RNLXI5RnFiajJKc3ZoM1ZmWWRjLTdCT09tTDlpeGZ0WmJBRUxTRW1ub2dMcmRQaFNRSk5pSVlwSk9oc1UyTHFvMGhiUE9zY3JScEZwZ091Q2dDZmVacXQy?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -410,6 +480,16 @@
       "source": "CNBC",
       "publication_date": "2026-07-24T14:00:01+00:00",
       "article_url": "https://www.cnbc.com/2026/07/24/why-costco-keeps-gas-prices-so-low.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US business activity perks up in July, helped by World Cup, but trend may not last, S&P Global says - Reuters",
+      "description": "US business activity perks up in July, helped by World Cup, but trend may not last, S&P Global says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T13:55:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTEhnSTlmY1ktdWJIaG14NlloYUZCX0gyTWNhT1NISDZ1YTdmZktDWUZER3FSVTdnWTBCbWtZczFLV1o2SUhIRHYxZXZ3ZHg0VGxNTU9yR2xTeTdCdTBSZ0dhblJjWmpKLWlnMGJiNVRXZ0ZmZmJlSVpCMWkyajB5N1ItZTJkUE90bDBTeWNERDFucXNOQ1h5MS1tSVZPUmNnd0dLd0RPWnJrSFNXa0xJTDRoSi01V3VPb0pzekdn?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1396,6 +1476,16 @@
       ]
     },
     {
+      "headline": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
+      "description": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T23:03:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates - Reuters",
       "description": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates Reuters",
       "source": "Reuters",
@@ -1574,6 +1664,16 @@
       ]
     },
     {
+      "headline": "US says Saudi nuclear deal off without Israel recognition - Reuters",
+      "description": "US says Saudi nuclear deal off without Israel recognition Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T20:08:28+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFEtb2pVRzJFQThOZGROZ0hBV0pQUHNWSE1kZkFIdG9nV3d4eHBHUXlaTW1jQlpKVmNmV2twYmQ4VjJ1WDNPeW4tOXYtamtJeXk4STFCWk5CS09yUDBoRENzakZmR1FXbXdTcy0zbGdneURkUWphR1p0bTZxOUszS3Z5TXkxQnBwYjlBYVpXSEJCR3cyR3dZZTYwQktlTDJ1ejNpYklIQmlESXJCempEYUR4UWJXX2QyR1lwVGdiUmtMYU5NdzE2UDBn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Economic and event calendar in Asia Friday, July 24, 2026 - Inflation data from Japan",
       "description": "<p>I'll get a post up with a preview of the Japanese inflation data separately. The Tokyo area data for June (Tokyo CPI comes out earlier than national CPI) indicated rising underlying inflation pressure:</p><ul><li><a href=\"https://investinglive.com/centralbank/tokyo-core-core-cpi-hits-19-as-middle",
       "source": "Forexlive",
@@ -1622,6 +1722,16 @@
       "article_url": "https://cointelegraph.com/news/as-bitmex-exits-analysts-warn-crypto-consolidation-is-accelerating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "NEWSLETTER: The week the costs of the Iran war came home - Reuters",
+      "description": "NEWSLETTER: The week the costs of the Iran war came home Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T19:15:17+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTMnVHU2EyR19EVGo4MnJZX2NRWnFTWDhoMGJqa0xPUFhTUU9MTXp4M21PN3k0Q2xlZDJqcFBpTDRRR01YaEIyb2dZV2gtWHhDRlJ1ZXotSlNHT3RnWjh5dkdFNm5ORUtSQTB3RVJaS2E2SU1UdEV3?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1917,16 +2027,6 @@
       ]
     },
     {
-      "headline": "Houthis claim attacks on Saudi tankers in Red Sea, raising risk of new chokepoint in Iran war - Reuters",
-      "description": "Houthis claim attacks on Saudi tankers in Red Sea, raising risk of new chokepoint in Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T15:28:11+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHRSTEdBY3l6NGhsLTFvUDRHeThEZkgzQzdzeDVSOWk1NzJ3R3dCT1JZWkE0VWoycVhEaG0wdmtWTnFyWElMbklkcFRUMW9qTkdqWGFfVHpDaDgyTnFNWGF4clVQSENtY2x5OS14dDBYX3JjYTdXRkV1SUZlcDU3eTduYXp3VndEMzlWZmpvZjY5S3dhVmdMdk5JVFhvNzNCQmJBRjBRX1daQ2ZB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Nexstar slips as state AGs accuse the company of violating the Tegna integration order",
       "description": "",
       "source": "SeekingAlpha",
@@ -1975,110 +2075,6 @@
       "asset_tags": [
         "commodities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Canada PM Carney: Will not hesitate to defend its interest in trade war with the US",
-      "description": "<p>Canada PM Carney is on the wires saying:</p><ul><li>Canada will not hesitate to defend its interests in a trade war with the US.</li><li>Canada is in a stronger position than it was when the trade war started, and will do whatever is needed to defend itself.</li></ul><p class=\"isSelectedEnd\">Pres",
-      "source": "Forexlive",
-      "publication_date": "2026-07-23T14:35:25+00:00",
-      "article_url": "https://investinglive.com/news/canada-pm-carney-will-not-hesitate-to-defend-its-interest-in-trade-war-with-the-us",
-      "asset_tags": [
-        "forex",
-        "macro"
-      ]
-    },
-    {
-      "headline": "USD is moving higher as yields move higher, stocks lower and oil higher",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">As U.S. Treasury yields climbed, with both the 2-year and 10-year yields rising 5–6 basis points, and oil prices surged nearly 5%, the U.S. dollar strengthened broadly, with traders following the shift toward higher yields and safe-haven demand.</p><ul><li>",
-      "source": "Forexlive",
-      "publication_date": "2026-07-23T14:26:13+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usd-is-moving-higher-as-yields-move-higher-stocks-lower-and-oil-higher",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Tech reporter Joanna Stern asked AI to do 'almost everything' for a year—the No. 1 tool she'll keep using",
-      "description": "\"I Am Not a Robot\" author Joanna Stern integrated dozens of AI applications into her life over the course of a year. She says this one has stuck with her.",
-      "source": "CNBC",
-      "publication_date": "2026-07-23T14:25:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/23/joanna-stern-used-ai-for-almost-everything-for-a-year-the-no-1-tool-shell-keep-using.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
-      "description": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T14:23:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dept. of Justice to speed up antitrust reviews of deals - WSJ",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-23T14:18:33+00:00",
-      "article_url": "https://seekingalpha.com/news/4617458-dept-of-justice-to-speed-up-antitrust-reviews-of-deals-wsj?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-23T14:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Arax Signs Definitive Agreement to Acquire $3 Billion RIA Transcend Capital Advisors",
-      "description": "NEW YORK, July 23, 2026 (GLOBE NEWSWIRE) -- Arax Advisory Partners (\"Arax\"), a national wealth management company, today announced that it has signed a definitive agreement to acquire Transcend Capital Advisors (\"Transcend\"), a multi-state registered investment advisor providing comprehensive wealth",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T14:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332300/0/en/Arax-Signs-Definitive-Agreement-to-Acquire-3-Billion-RIA-Transcend-Capital-Advisors.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-23T13:53:19+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - DCC plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T13:49:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332282/0/en/Form-8-3-DCC-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea - Reuters",
-      "description": "Houthis say they attacked two Saudi tankers; Saudi Arabia says one ablaze in Red Sea Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T13:45:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHZGNUJIVDM4b051ZHVfNEJYZmRlSTdLdDY5S0hLUFpCcTJFeU41bW5mMGtSbVNRNGhBdnhta3JpaFVXeGkxc1VwVmZvY19Ibm9DU0VwNWt6cWJDTm02YVJFZzV3UTZmRmpHckNTWkxGV2pCQjBqZHRDdExub2U0OGlraDNlcWFKaS14R3RDdjBRYk5mZDRoYkNfVG1tcmZybXpwZ1I4d0Z1bldT?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
