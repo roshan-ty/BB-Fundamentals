@@ -1,18 +1,58 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-25T23:47:42.331505+00:00",
+    "last_updated": "2026-07-26T08:00:05.125787+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 98,
-      "crypto": 59,
-      "equities": 35,
+      "crypto": 58,
+      "general": 100,
+      "equities": 34,
       "forex": 16,
       "commodities": 19,
-      "macro": 33
+      "macro": 31
     }
   },
   "articles": [
+    {
+      "headline": "BitMart to wind down exchange, end trading by Aug. 26",
+      "description": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-26T07:11:27+00:00",
+      "article_url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-26T06:59:51+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "description": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-26T02:00:00+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes - Reuters",
+      "description": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-25T23:18:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor - Reuters",
       "description": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor Reuters",
@@ -164,6 +204,16 @@
       ]
     },
     {
+      "headline": "France detains six over suspected plot targeting synagogue - Reuters",
+      "description": "France detains six over suspected plot targeting synagogue Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-25T11:25:33+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTU2Z05LUWg3TzF1SWxCbk5kLVBQbFR5WGplcHdlNjJzOGxzY2ZqZjUxZDhNYmw3M3BoVGRDSHJoaHRFZGYyWGNvWTFpYTltT2xMQjZYSVFHR1MtQWRtVWdtUldlWGt6azFvUzlPek5NcXNTZWs3dDUwUlk3aW11UEhQMEJ3RG9JRXVZajRBaFN2OGJZamlKOFNBYVFfaVQxN1E?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dango’s perp DEX taps out nearly 4 months after launch",
       "description": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
       "source": "Cointelegraph",
@@ -191,6 +241,46 @@
       "article_url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "WestBridge said to be considering stake sale in Star Health",
+      "description": "WestBridge is reported to have spoken with financial advisers to evaluate a sale of its 40% stake in the insurance company",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-25T07:27:53+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-24/westbridge-is-said-to-consider-stake-sale-in-india-s-star-health",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Anthropic unveils more cost-efficient model for everyday tasks",
+      "description": "The company on Friday unveiled Claude Opus 5, a model it says approaches the capabilities of its most advanced widely available offering, Fable 5, in many categories but at half the price",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-25T05:50:35+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Qualcomm plans to increase its prices by double digits",
+      "description": "Qualcomm plans double-digit price increases for smartphone processors, effective for products shipped after September 1, amid supply shortages.",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-25T05:29:46+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-24/qualcomm-tells-customers-that-prices-are-going-up-by-double-digits",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil falls on report China pushing for end US-Iran war - Reuters",
+      "description": "Oil falls on report China pushing for end US-Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-25T04:52:31+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -427,6 +517,16 @@
       "source": "CNBC",
       "publication_date": "2026-07-24T16:38:28+00:00",
       "article_url": "https://www.cnbc.com/2026/07/24/why-we-would-buy-the-intel-dip-but-cant-get-behind-the-dover-bounce.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "UK says armed forces ready to defend country after Iran warns over US bombers - Reuters",
+      "description": "UK says armed forces ready to defend country after Iran warns over US bombers Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T16:15:24+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUtaMHdwUWNQbXpNb0IzUXMxZm5sUFRDVlJGclZmak52YVFySlE1LUV1aTBiRDhqT055V2pIMWFQNmFILW1GSnRCRTBLYi1oSVY0Vm0tRjJPX19CazNmeUQtQkdDUXZmbVU2TFlhcnFKZVNMbVFZS05ZR1VlenRFSXRUa3d2dzhlSTNBeDQyOFA2Z3k1RXBYSWQ1Rm5Bd1FKT3ItT0UzT19nYkEwcmpPQlc0TDZSdlBCT3owXzJGMHFCRmp3dklCU0NJWmNFeTZTVy0yVy1n?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1285,6 +1385,16 @@
       ]
     },
     {
+      "headline": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
+      "description": "US military says it completed 13th consecutive night of strikes on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-24T07:35:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2RjdGstOHhBcnk2VmZRa3dlaHA4YlM5M056cW1TcktoUDZMUHlYa3BCTmhQRlJaVnAxdkR1VGhUX180ck1vSVY5UnBjNnJyVjVVN1FzdjRlYlhVcGFHTld6RkFWUVhEVzN0T0ZQd3E2U0pGcHhZM2FlREMtckJVSXJNUERBbXZkbThpQ0U4d0dFQnNjbDRsaU1hNkp6Y19TVkRVbFE5cGk2QXdLVjd0aGJZVUNLbVNnOUpr?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Germany July flash manufacturing PMI 52.2 vs 50.5 expected",
       "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior 50.3</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Services PMI 49.6 vs 49.0 expected</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior 48",
       "source": "Forexlive",
@@ -1502,21 +1612,11 @@
       ]
     },
     {
-      "headline": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
-      "description": "US military says it completed 13th consecutive night of strikes on Iran Reuters",
+      "headline": "Trump vows to punish Iran for Houthi attacks in Red Sea; oil surges over $100 - Reuters",
+      "description": "Trump vows to punish Iran for Houthi attacks in Red Sea; oil surges over $100 Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-24T01:56:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2RjdGstOHhBcnk2VmZRa3dlaHA4YlM5M056cW1TcktoUDZMUHlYa3BCTmhQRlJaVnAxdkR1VGhUX180ck1vSVY5UnBjNnJyVjVVN1FzdjRlYlhVcGFHTld6RkFWUVhEVzN0T0ZQd3E2U0pGcHhZM2FlREMtckJVSXJNUERBbXZkbThpQ0U4d0dFQnNjbDRsaU1hNkp6Y19TVkRVbFE5cGk2QXdLVjd0aGJZVUNLbVNnOUpr?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil falls on report China pushing for end US-Iran war - Reuters",
-      "description": "Oil falls on report China pushing for end US-Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T01:36:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFZBdXJmU1lITHlha1NMc0hvVjhaOVVFbjEya0Z1ZXZzNGFjTC1lV21nR1MwcjNERmJydnhvc0xNRzc0ODRPRlpScU9UZ0M3U3hYaEFveXdsbDYwQ01zZlk0WTZWSWJZZHhBUHAtMHNNSG1MRHB0RGRzSUVLNGdJV1VNeW54TWw5cERFekMwdmxDNVdWdVp1VGN0c0xqbnRSS0Fyejh3eXVDZ1J1elFER1doSjdPeU1CMTIwZmlvOWM2dw?oc=5",
+      "publication_date": "2026-07-24T01:22:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOck9rMklSSHp1Z0E2UmlqZUJHSWNxRXNSZGtZd1JTOFdSbUE2amI3RHFmaUNuSS1nU1NzaThJdVIwVzZFcXVIaXNjU3lrSVYtaDF5THNwWkpqUHVwTEFsWklsbnp4ZllTMndIYWhRM0RZa09qaTNiVXVCNmh5a2p6MnBidG1kWkJSUVJnb1RuOXdUcU5MRDVxbzJmcDE2UWZsaVZYRDdCdHlYcG1kUTdKT093ZXI4b3VkWjZNRzdDUDIwWEFWMHRia2FIY3dIdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1586,6 +1686,16 @@
       ]
     },
     {
+      "headline": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say - Reuters",
+      "description": "EXCLUSIVE: Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T23:03:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0VBOVcxX1BiZmZ6M1VfVkNSVmg1bGREUzRDNWdjYWFQeXR3TXUyVm1aQURfb3ZpNlpuVVd2LXk0YTFhV3AtTW1HZzBoYjFFMGhpY0J5X1JUM3MtTmJaYmI5cExla1VOSTAzdi1CZVdGb0RXckdQU2hDSlVCMXd4eVZPalltOGQzQnE2M0w0SVYzdUNmYy0xRzFUNWRUSXZHeF9rWkY1UzI1LVpsN0NBUjdDZlJRT3oyWnpB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates - Reuters",
       "description": "Dollar hits new 40-year high versus yen, euro softer after ECB stands pat on rates Reuters",
       "source": "Reuters",
@@ -1601,16 +1711,6 @@
       "source": "Reuters",
       "publication_date": "2026-07-23T22:22:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXN5SFByNFBWb1hOU2l0QzNvTkU0QzFtZlEzRk1VRE43QzZmNlV1V2FiVk9qQXZ0MzlseE5qMUNVSGFVVk80eVFyWHVYcjVPWEZyanlvZWE0NU5FdmxoSzBraFdIcVNmM24wYkJXTmdITHZ6dE5GdFBMR2h3ZEhGLTlWbldBLWZKZ19xOVpLM3YtaGl1RnhObE5oTnJtQ3NhYTdMTGtjMV9kbWpmWU1LblZtbjRadkJVTkc2QnNHeXpURGY0azZ5eVcyaw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Reuters",
-      "description": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T22:09:04+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1805,6 +1905,16 @@
       ]
     },
     {
+      "headline": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Reuters",
+      "description": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-23T19:38:13+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "As BitMEX exits, analysts warn crypto consolidation is accelerating",
       "description": "BitMEX’s shutdown marks the end of one of crypto’s earliest derivatives exchanges as analysts point to rising regulatory costs, market concentration and the shift toward licensed trading venues.",
       "source": "Cointelegraph",
@@ -1920,16 +2030,6 @@
       ]
     },
     {
-      "headline": "UK says armed forces ready to defend country after Iran warns over US bombers - Reuters",
-      "description": "UK says armed forces ready to defend country after Iran warns over US bombers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T17:34:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUtaMHdwUWNQbXpNb0IzUXMxZm5sUFRDVlJGclZmak52YVFySlE1LUV1aTBiRDhqT055V2pIMWFQNmFILW1GSnRCRTBLYi1oSVY0Vm0tRjJPX19CazNmeUQtQkdDUXZmbVU2TFlhcnFKZVNMbVFZS05ZR1VlenRFSXRUa3d2dzhlSTNBeDQyOFA2Z3k1RXBYSWQ1Rm5Bd1FKT3ItT0UzT19nYkEwcmpPQlc0TDZSdlBCT3owXzJGMHFCRmp3dklCU0NJWmNFeTZTVy0yVy1n?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "EU Google Fine Escalates U.S.-EU Trade Tensions",
       "description": "<p>USTR Greer on the EU Google fine: </p><ul><li>It is clear the EU continues to target the most competitive U.S. companies. </li><li> These actions are creating massive uncertainty for U.S. exports of goods and services to Europe. </li><li> The U.S. is working to resolve concerns over the EU's Digi",
       "source": "Forexlive",
@@ -1969,108 +2069,6 @@
       "asset_tags": [
         "commodities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Coinbase's corporate customers can now accept payments from AI agents",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-23T16:54:12+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons - Reuters",
-      "description": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T16:53:48+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTF9RanhOcnotQzBGd3N4c2V4ZUwtcEJBSklsTkh4V0FaLVNwaDBsOHZ3bFFJeG1lMmtiVXFiV3lIYmJzTE9FS3puZ1ZMWmR6ejhoZEZobXZlZi1SZDRPenlQNmJXLWV3enNwRnJCakVhbm5LVWhZazIxMlBfS3hJWFQ0R3N4Nk8xWkoyd3l2NnhGaDA5cVB0aDhnTXl1dTJNdU1adzZXUnNqbkgtT0s0Q1JBc2sxeGZLM0RHMlhrVWRMcmlENWpzN0V1RTlrQQ?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "US Senate blocks resolution curbing Trump's Iran War Powers. Tensions remain high.",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Middle East tensions continued to escalate, with additional reports pointing to a deteriorating security situation across the region. Iranian media outlet ISNA reported powerful explosions on Kuwait's Bubiyan Island, while Mehr News said an explosion occurr",
-      "source": "Forexlive",
-      "publication_date": "2026-07-23T16:48:28+00:00",
-      "article_url": "https://investinglive.com/news/us-senate-blocks-resolution-curbing-trump-s-iran-war-powers",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "TotalEnergies posts strongest profit in nearly three years as Iran war lifts oil prices - Reuters",
-      "description": "TotalEnergies posts strongest profit in nearly three years as Iran war lifts oil prices Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T16:45:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUER3VHByUm5HZ2kwZ2szVWZ3cURpT0w4MkQ0VkRlUGpCLWI2b2ZLdThEV3ZmdXFRd2lhM3hBcnl5ZHAwOERRb0d0SXBZaHpsM3duMjlncFZHcktoc2U3S3dtUGtNLTV5VE1FaTFmWXp2VVc3QmZGRmMtaVh5MENmMU1kc2IzMlc1dVlXV1dyQWFWNW5aYmszalVURjdDOTI1UV8yamdPRFYyNHhQSTJWbkJkVXlLdXhoTElpZW1nWQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Here’s why the CLARITY Act’s ethics deal may be so hard to reach",
-      "description": "Both parties say they want US crypto market structure legislation, but a dispute over ethics rules and who enforces them is becoming the bill’s biggest obstacle.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-23T16:44:42+00:00",
-      "article_url": "https://cointelegraph.com/magazine/heres-why-the-clarity-acts-ethics-deal-may-be-so-hard-to-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US Senate blocks resolution curbing Trump's Iran war powers - Reuters",
-      "description": "US Senate blocks resolution curbing Trump's Iran war powers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T16:44:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWo0QndtdEk3N3FOVzJKRFM4N1J6MHJmYXBLVDNQVEVpb3Z2dGZlRUV2WlBsUTVtR1dfSzdEdHBTcTRsQlJBdVZ2YXpkcEdCUG9RNXc1Y0RnQ2pUMnY0bEYybmZ2VE10VVh6WkpvVlNpajZBME1qV3dGc1N2TjRlY1Vka2YtdFh3bzJ2aTh1VlpsY3VaZWlMN0VxT1otLUlQM1E?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "BTC treasury firm Empery Digital invests $20M in AI data center developer Cardinal Data Power",
-      "description": "The investment marks Empery’s latest push into AI infrastructure as the company shifts capital away from its Bitcoin treasury strategy.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-23T16:42:52+00:00",
-      "article_url": "https://cointelegraph.com/news/bitcoin-treasury-firm-empery-digital-invests-20m-in-ai-data-center-developer-cardinal-data-power?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Ethereum nears market bottom against Bitcoin, though key signals remain unconfirmed: CryptoQuant",
-      "description": "Ether trades below its realized price while onchain indicators point to easing selling pressure and recovering demand, though a definitive cycle bottom has yet to emerge.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-23T16:26:43+00:00",
-      "article_url": "https://cointelegraph.com/news/ethereum-nears-market-bottom-against-bitcoin-key-signals-remain-unconfirmed-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Cramer has a problem with Alphabet. Plus, updates on 2 industrials",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "publication_date": "2026-07-23T16:24:46+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/23/cramer-has-a-problem-with-alphabet-plus-updates-on-2-industrials-.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "War risk insurance costs surge for southern Red Sea voyages after Houthi attacks - Reuters",
-      "description": "War risk insurance costs surge for southern Red Sea voyages after Houthi attacks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-23T16:18:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkyZ3Aybkk1V3kxdktVRnc2R0RReFVLWFlndThtR2VOWUg3SDlYT29oS3VlNEJ4bWkwVERFbk5oa2h1TUFqVXV1cC1GTDdsOXZqb3Zxd0VnRVROZEMwMmJOdUhnd3ppTXpxMG85c2Jtdk0wWFpINHc5TWNMRTBDRm1hRXBRT2dMX3pfNGh5ZG1sQmVVVHRaUl80RDE3RGhtZ0hNaWFFZ3d1bmdWdjdUZUw1X0N5TlVnM3ZFNTFYN0RBem94MXRDRGxn?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
