@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-26T18:34:47.740931+00:00",
+    "last_updated": "2026-07-26T19:56:16.619826+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 102,
+      "crypto": 58,
+      "general": 101,
       "commodities": 18,
       "forex": 16,
-      "crypto": 57,
       "macro": 28,
       "equities": 34
     }
   },
   "articles": [
+    {
+      "headline": "2 weeks left for Clarity: State of Crypto",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-26T18:30:00+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does - Reuters",
       "description": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does Reuters",
@@ -39,6 +49,16 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-26T17:45:05+00:00",
       "article_url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran foreign minister says Ukraine's attack on Iranian vessel 'cannot go unanswered' - Reuters",
+      "description": "Iran foreign minister says Ukraine's attack on Iranian vessel 'cannot go unanswered' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-26T17:43:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0dDdnVkOGdDUi10WVpzQ1FKWjNjcmRWaEl3ZFdZdXQ2cnNmY3JIbDNyN2ZiZ1ctd1YtOG1iOEZubEM4RzZ1djNiT3M1djhBRnROYTNKUVgwSGlUa1VFbUJ0ekJIWkhTVmRhZFJNbEVGTHhvc0daZXNmUzNEMWpZNlBmUy1QeEF3Y1o4SlBzcnRnd0ZXZnc5REROeGFGRzFrM2RKQXhVY3hmc3Y3RDl2bUdZazNXRF9iZkJURF9rcTVXQjMw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2046,26 +2066,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332588/0/en/Instinct-Bio-Completes-Business-Combination-with-Relativity-Acquisition-Corp-and-Makes-Its-Nasdaq-Debut-Under-the-Ticker-BIOT-on-July-24-2026.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Genco Shipping & Trading Limited Board of Directors Provides Update on Review of Diana Shipping’s Revised, Non-Binding Indicative Proposal",
-      "description": "Genco’s Advisors Engaged with Diana’s Advisors as Part of the Board’s Ongoing Review",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T20:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332582/37397/en/Genco-Shipping-Trading-Limited-Board-of-Directors-Provides-Update-on-Review-of-Diana-Shipping-s-Revised-Non-Binding-Indicative-Proposal.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-      "description": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
-      "source": "CNBC",
-      "publication_date": "2026-07-23T20:12:42+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
