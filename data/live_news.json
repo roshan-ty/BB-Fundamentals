@@ -1,18 +1,59 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-26T23:16:53.330997+00:00",
+    "last_updated": "2026-07-27T01:10:37.310913+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "commodities": 19,
+      "crypto": 57,
       "general": 102,
       "forex": 16,
       "equities": 33,
-      "commodities": 18,
-      "crypto": 57,
-      "macro": 29
+      "macro": 28
     }
   },
   "articles": [
+    {
+      "headline": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
+      "description": "Despite support from Goldman Sachs, Fidelity and law enforcement bodies, the Clarity Act’s chances dim. BitMEX to close as crypto consolidates into five big players.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-27T00:03:44+00:00",
+      "article_url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-27T00:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "WEMIX says attacker moved about $724,000 after contract breach",
+      "description": "WEMIX suspended bridges, liquidity-pool trading and several services after an attacker compromised a WEMIX$-linked contract and moved 724,198 USDC.e.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-26T22:53:55+00:00",
+      "article_url": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran says it will halt strikes as long as US bombing pause holds - Reuters",
+      "description": "Iran says it will halt strikes as long as US bombing pause holds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-26T22:26:07+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Brown-Forman rejects renewed takeover approach from Sazerac",
       "description": "",
@@ -24,11 +65,11 @@
       ]
     },
     {
-      "headline": "Iran says it will halt strikes as long as US bombing pause holds - Reuters",
-      "description": "Iran says it will halt strikes as long as US bombing pause holds Reuters",
+      "headline": "Oil slips more than 5% after US pauses strikes on Iran - Reuters",
+      "description": "Oil slips more than 5% after US pauses strikes on Iran Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-26T21:53:06+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2hvLTRwU3J1WVZCTlA0WFVNRmhXdDVkTWhwQkdDTFZzbEVpYmRBUUppcjJudFY2M3JpQ3lzT0I0SkM4VFlmSk8xb0RuX192WjQ2dE9nbjJkUFFMTHFyZDh2c1ktdDJpSmtmdXJPYW5wNXRuM1hsQ0RqYkE4X3d1aDZ1SkpUM3ltc0h2NFNZbmpvZFhYa0ZJTlEyR0JkdDZvYWRUYXBRZE41YkVEdjV4VEZVb0hSSUxOQlFwT1U4X1FfNjJrbmhaSVkyT0w0Zw?oc=5",
+      "publication_date": "2026-07-26T22:17:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXVDd2dEeUdKdzZkTFduSnE1cGp0S2YtaGwyNTRxekczRW5TdGdtM3JGTFFtYlNiSzNsTVFmTzlYZ0ttZmtJdGtjU3g4U0FPUnFPenFkaWp3ZENtbzFGVFdtUk11TzRSbzg3dmZvWVFqRHZDR3FBZEpxR2dSZEUwU0w3d0pRUkVHd3dWZXg3Yk95SjdMbUZxdDEyTDlaRHdFN3JXLQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2023,47 +2064,6 @@
       "asset_tags": [
         "equities",
         "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Coinbase lets businesses accept USDC payments from AI agents",
-      "description": "The exchange also introduced AI trading tools and a developer kit as part of a broader push to build financial infrastructure for autonomous AI agents.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-23T20:51:27+00:00",
-      "article_url": "https://cointelegraph.com/news/coinbase-lets-businesses-accept-usdc-payments-from-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ocean Power Technologies Acquires Strategic Subsea Technology to Expand Operational Infrastructure Supporting Maritime Dominance",
-      "description": "Transaction Extends Company’s Operational Infrastructure Offering to the Subsea Market Transaction Extends Company’s Operational Infrastructure Offering to the Subsea Market",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-23T20:37:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/23/3332622/9069/en/Ocean-Power-Technologies-Acquires-Strategic-Subsea-Technology-to-Expand-Operational-Infrastructure-Supporting-Maritime-Dominance.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Expro completes $215M acquisition of Enhanced Drilling",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-23T20:33:11+00:00",
-      "article_url": "https://seekingalpha.com/news/4617748-expro-completes-215m-acquisition-of-enhanced-drilling?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin slides below $65K as Iran conflict fuels $100 oil and bond-yield surge",
-      "description": "Bitcoin price forecasts diverge as US-Iran war tensions fueled an ongoing oil and bond-market surge, while July Fed rate-hike odds neared 40%.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-23T20:32:22+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-dips-below-65k-iran-war-sparks-100-oil-us-bond-spike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
         "crypto",
         "macro"
       ]
