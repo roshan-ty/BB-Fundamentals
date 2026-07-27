@@ -1,26 +1,141 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-27T15:31:44.325636+00:00",
+    "last_updated": "2026-07-27T17:21:35.953720+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 26,
-      "general": 109,
-      "crypto": 55,
-      "commodities": 16,
+      "general": 108,
+      "commodities": 18,
+      "crypto": 56,
+      "forex": 12,
       "macro": 16,
-      "forex": 10
+      "equities": 26
     }
   },
   "articles": [
     {
-      "headline": "Trump: I am not to give much time to negotiations – either it will move quickly or won't happen at all.",
-      "description": "<p>N12 News is reporting on comments from Pres. Trump:</p><ul><li>We are having deep talks with Iran.</li><li>I am not going to take much time to negotiate, either it will move quickly or won't happen at all.</li><li> we will go back to very powerful military action if talks are not successful.</li>",
+      "headline": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
+      "description": "JetBlue is doing away with its \"Core\" product and putting economy tickets under a new name.",
+      "source": "CNBC",
+      "publication_date": "2026-07-27T17:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wynnchurch Capital to acquire Luxfer Holdings in all-cash deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-27T16:47:57+00:00",
+      "article_url": "https://seekingalpha.com/news/4618892-wynnchurch-capital-to-acquire-luxfer-holdings-in-all-cash-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+      "description": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-27T16:44:03+00:00",
+      "article_url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trump: On Iran, I have plenty of time",
+      "description": "<p>Trump to reporters:</p><ul><li>On Iran, I have plenty of time.</li><li>Were talking with Iran right now.</li><li>Good chance something will happen.</li><li>We have a lot of ammunition. I would like to have more</li><li>On Israel, we are pretty close when it comes to Iran</li><li>On Ukraine war, w",
       "source": "Forexlive",
-      "publication_date": "2026-07-27T15:12:36+00:00",
-      "article_url": "https://investinglive.com/news/trump-i-am-not-giving-much-time-to-negotiations-either-it-will-move-quickly-or-won-t-happen-at-all/",
+      "publication_date": "2026-07-27T16:43:47+00:00",
+      "article_url": "https://investinglive.com/news/trump-on-iran-i-have-plenty-of-time/",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Kraken parent Payward acquires Magic Labs’ wallet business",
+      "description": "The deal brings wallet technology to Payward’s enterprise platform, potentially reducing the number of infrastructure providers businesses need to integrate with.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-27T16:40:39+00:00",
+      "article_url": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "NBCUniversal expands Peacock reach through YouTube Premium partnership",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-27T16:22:15+00:00",
+      "article_url": "https://seekingalpha.com/news/4618829-nbcuniversal-expands-peacock-reach-through-youtube-premium-partnership?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "MASSPAY EXTENDS RECORD RUN: Q2 PAYOUT VOLUME UP 408% AS STABLECOIN STRATEGY MOVES FROM VISION TO PRODUCTION",
+      "description": "Global Payout Orchestration Leader Posts 98% Revenue Growth Year-Over-Year as Stablecoin Partnerships with Circle and Coinbase Bring Instant, Compliant Digital Dollar Payouts to 180 Countries LAS VEGAS, July 8, 2026 /PRNewswire/ — MassPay, a leading global payout orchestration platform that enables ",
+      "source": "Cryptocurrency News",
+      "publication_date": "2026-07-27T16:19:09+00:00",
+      "article_url": "https://cryptocurrencynews.com/crypto/masspay-extends-record-run-q2-payout-volume-up-408-as-stablecoin-strategy-moves-from-vision-to-production/",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Why Boeing and Corning are moving in opposite directions and what to expect next",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC",
+      "publication_date": "2026-07-27T16:09:09+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/27/why-boeing-corning-are-moving-in-opposite-directions-and-whats-next.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "AMG Critical Materials N.V. Successfully Closes the Acquisition of Zinnwald Lithium Plc.",
+      "description": "Amsterdam, 27 July 2026 (Regulated Information) --- AMG Critical Materials N.V. (“AMG”, EURONEXT AMSTERDAM: “AMG”) is pleased to confirm the transaction initially announced on May 14, 2026 to acquire the remaining c. 71% ownership interest in Zinnwald Lithium Plc. has been successfully completed as ",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-27T16:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333743/0/en/AMG-Critical-Materials-N-V-Successfully-Closes-the-Acquisition-of-Zinnwald-Lithium-Plc.html",
+      "asset_tags": [
+        "forex",
+        "equities"
+      ]
+    },
+    {
+      "headline": "SNDL Announces Completion of Parallel Asset Acquisition and Positions for Nasdaq-Consolidated U.S. Medical Cannabis Operations",
+      "description": "EDMONTON, Alberta, July 27, 2026 (GLOBE NEWSWIRE) -- SNDL Inc. (NASDAQ: SNDL, CSE: SNDL) (“SNDL” or the “Company”) today announced the completion of the acquisition of certain assets of Surterra Holdings, Inc. and certain of its affiliates (collectively, “Parallel”), a U.S. vertically integrated can",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-27T15:48:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333735/0/en/SNDL-Announces-Completion-of-Parallel-Asset-Acquisition-and-Positions-for-Nasdaq-Consolidated-U-S-Medical-Cannabis-Operations.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-27T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "SLIPNOT® Amstep Products Acquires Nystrom Stair Nosing Line, Expanding Its Portfolio of Industry-Leading Slip-Resistant Solutions",
+      "description": "DETROIT--(BUSINESS WIRE)--SLIPNOT® Amstep Products Acquires Nystrom Stair Nosing Line, Expanding Its Portfolio of Industry-Leading Slip-Resistant Solutions",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-27T15:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260722445779/en/SLIPNOT%C2%AE-Amstep-Products-Acquires-Nystrom-Stair-Nosing-Line-Expanding-Its-Portfolio-of-Industry-Leading-Slip-Resistant-Solutions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -55,23 +170,22 @@
       ]
     },
     {
+      "headline": "Fanatics buys regulated exchange in bid to grow prediction markets business",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-27T14:46:10+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Cantor is advising crypto bank AMINA on path to potential public listing",
       "description": "",
       "source": "CoinDesk",
       "publication_date": "2026-07-27T14:36:30+00:00",
       "article_url": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
       "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "KBRA Comments on Northrim BanCorp, Inc.'s Proposed Acquisition of PBCO Financial Corporation",
-      "description": "NEW YORK--(BUSINESS WIRE)-- #creditratingagency--On July 22, 2026, Anchorage, Alaska-based Northrim BanCorp, Inc. (NASDAQ: NRIM) (“Northrim” or “the company”), parent company of Northrim Bank, announced that it had entered into a definitive merger agreement with Medford, Oregon-based PBCO Financial ",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-27T14:22:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260727202878/en/KBRA-Comments-on-Northrim-BanCorp-Inc.s-Proposed-Acquisition-of-PBCO-Financial-Corporation/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities",
         "crypto"
       ]
     },
@@ -1002,16 +1116,6 @@
       ]
     },
     {
-      "headline": "NatGold Digital Addresses Delay in Commencement of NATG Trading and Completes Tokenization of Second U.S. Gold Property",
-      "description": "Tokenization of Historic Idaho Gold Deposit Increases Total NATG Generated and Minted to 106,800 CORAL GABLES, Fla., July 9, 2026 /PRNewswire/ — NatGold Digital Ltd. (“NatGold Digital” or the “Company”) today announced the completion of the tokenization of its second NatGold Certified Resource, incr",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-07-26T16:19:12+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/natgold-digital-addresses-delay-in-commencement-of-natg-trading-and-completes-tokenization-of-second-u-s-gold-property/",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Russia’s Sberbank to launch crypto trading infrastructure this year",
       "description": "Russia’s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.",
       "source": "Cointelegraph",
@@ -1885,26 +1989,6 @@
       ]
     },
     {
-      "headline": "WSP confirme avoir présenté à Arcadis N.V. une déclaration d’intérêt indicative non contraignante visant l’acquisition de toutes les actions émises et en circulation du capital-actions d’Arcadis N.V. moyennant un prix d’offre de 51,50 euros par action",
-      "description": "1 Mesure financière non conforme aux IFRS ou ratio financier non conforme aux IFRS de nature prospective qui n’a pas de définition normalisée prescrite en vertu des IFRS et qui pourrait ne pas être comparable aux mesures ou aux ratios semblables utilisés par d’autres émetteurs. Voir « Mesures financ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-24T13:51:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3332888/0/fr/WSP-confirme-avoir-pr%C3%A9sent%C3%A9-%C3%A0-Arcadis-N-V-une-d%C3%A9claration-d-int%C3%A9r%C3%AAt-indicative-non-contraignante-visant-l-acquisition-de-toutes-les-actions-%C3%A9mises-et-en-circulation-du-capital-acti.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Warner Bros/Paramount deal paused by judge until mid-August",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-24T13:47:18+00:00",
-      "article_url": "https://seekingalpha.com/news/4618139-warner-bros-paramount-deal-paused-by-judge-until-mid-august?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "EU sanctions Iranian judges, leading cyber group figure - Reuters",
       "description": "EU sanctions Iranian judges, leading cyber group figure Reuters",
       "source": "Reuters",
@@ -1922,26 +2006,6 @@
       "article_url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Berkshire Hathaway closes on $6.8B Taylor Morrison deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-24T13:27:24+00:00",
-      "article_url": "https://seekingalpha.com/news/4618134-berkshire-hathaway-closes-on-6_8b-taylor-morrison-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Rotork plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-24T13:27:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3332880/0/en/Form-8-3-Rotork-plc.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1983,66 +2047,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXJkN3FGeW5KYVA4RUdvaV9Lc3lPc20zRl9oRnRzMmFCQlZOLVlsd1pYY05oUTdhbGpqbXFBb1N4aVVZZVhac1JYTDZFYXdQcXZRbUxlZ01TczhPajc0N1hBdW5EZnBGZG5jWElpbVJhYzA1UFZnaDJrY3dRQ0RQZlBKUFU5ZWFxdF9SZU16cWQtYm56N09qWVVsbHBPV1NaTWttR0VSSGhBakVYOHVDMzZNclo2SkNLLTkxRUlTT2Vib1B4TGI5eA?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Romania shoots down drone in airspace incursion for first time - Reuters",
-      "description": "Romania shoots down drone in airspace incursion for first time Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T12:51:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQkZXbTUyOU1STUtsOVZHUDlnbEswWFlTbklQRFRIY0QyZGFtRXJqMURoWmZnc2hzZ1RyY25pMlFLaEUxOVBEOHl1YXUxR3F5YWNaWC1xZEhGWFZ3V3Ezc3ZmQ3NuN0ZCbDNNdm0yeHRsbEEyOWNUV1FpYktLaHJKTHlLeUZwdlRZbUhSZlluSU93aENHb25jeV9BX1dRLV9sODQzTHZhR0NGTG9RbmhiSG1uRWJrY1JRSXFraUl4ZldUMkhY?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
-      "description": "Thailand’s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-24T12:46:27+00:00",
-      "article_url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bank of England to hold steady this year but Iran war inflation risks persist: Reuters poll - Reuters",
-      "description": "Bank of England to hold steady this year but Iran war inflation risks persist: Reuters poll Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T12:38:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFpPQnNRUHlzdlVaNzJyS3BnSTZ6VDU3LWxmc18wWWVfVDhKbHAzejlELWozRVEzT0o2REYzQWhiZV96Y2NnZ1JRc25hWmI5cjVMdlRjbTJORmJnV1lXb3ZtOGRSX19YemY0VVpQMk42S0I1SjBOQi03RlFKQXNySlNwMi1HblBsSFF3cHR3ZmRrWHNJekk2bWlkbHRTc1FvU1h2UXJLcDhkMUxXQUFLOU9R?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "US military says it completed 13th consecutive night of strikes on Iran - Reuters",
-      "description": "US military says it completed 13th consecutive night of strikes on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T12:00:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2RjdGstOHhBcnk2VmZRa3dlaHA4YlM5M056cW1TcktoUDZMUHlYa3BCTmhQRlJaVnAxdkR1VGhUX180ck1vSVY5UnBjNnJyVjVVN1FzdjRlYlhVcGFHTld6RkFWUVhEVzN0T0ZQd3E2U0pGcHhZM2FlREMtckJVSXJNUERBbXZkbThpQ0U4d0dFQnNjbDRsaU1hNkp6Y19TVkRVbFE5cGk2QXdLVjd0aGJZVUNLbVNnOUpr?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
-      "description": "Odos Protocol will shut down on July 30, giving users one week to withdraw assets. The team did not provide a reason for the decision.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-24T11:59:42+00:00",
-      "article_url": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-24T11:58:06+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
