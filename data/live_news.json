@@ -1,18 +1,68 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-27T20:21:20.094847+00:00",
+    "last_updated": "2026-07-27T21:33:53.547618+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 24,
+      "general": 107,
       "macro": 17,
+      "equities": 24,
       "crypto": 55,
-      "commodities": 18,
-      "general": 108,
+      "commodities": 17,
       "forex": 11
     }
   },
   "articles": [
+    {
+      "headline": "Apple ends day as world's most valuable company, passing Nvidia",
+      "description": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+      "source": "CNBC",
+      "publication_date": "2026-07-27T21:12:26+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Cross River to enable P2P payments, banking services for X Money",
+      "description": "The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-27T21:05:05+00:00",
+      "article_url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "South Korea June consumer sentiment 106.8 vs 106.6 prior",
+      "description": "<ul><li>Prior was 106.6</li><li>12-month median inflation expectations 2.7% vs 2.8% prior</li></ul><p>I guess all the South Korean traders blowing up on SK Hynix haven't hit confidence yet. That's fair enough, given that it peaked on June 25.</p><p></p> This article was written by Adam Button at inv",
+      "source": "Forexlive",
+      "publication_date": "2026-07-27T21:03:40+00:00",
+      "article_url": "https://investinglive.com/news/south-korea-june-consumer-sentiment-106-8-vs-106-6-prior/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Zeta Global Closes $1 Billion Credit Facility for Mergers & Acquisitions, Share Repurchases and General Corporate Purposes",
+      "description": "NEW YORK--(BUSINESS WIRE)---- $ZETA--Zeta Global Closes $1 Billion Credit Facility for Mergers & Acquisitions, Share Repurchases and General Corporate Purposes",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-27T20:05:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260727428321/en/Zeta-Global-Closes-1-Billion-Credit-Facility-for-Mergers-Acquisitions-Share-Repurchases-and-General-Corporate-Purposes/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-27T19:55:45+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
       "description": "This is yet another sign that investors need to look beyond AI stocks.",
@@ -42,17 +92,6 @@
       "article_url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Crude oil futures settled at $82.61",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">WTI crude oil futures settled at $82.61, down $6.70 (-7.50%) on the day. It was the largest one-day decline since April 17, when prices tumbled 9.86%, as easing geopolitical tensions sparked heavy selling across the energy market.</p><p class=\"PDq2pG_select",
-      "source": "Forexlive",
-      "publication_date": "2026-07-27T18:45:25+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/crude-oil-futures-settled-at-82-61/",
-      "asset_tags": [
-        "equities",
-        "commodities"
       ]
     },
     {
@@ -101,16 +140,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-07-27T17:36:44+00:00",
       "article_url": "https://seekingalpha.com/news/4618937-ares-management-has-had-talks-to-acquire-leonard-green-and-partners?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Enterprise Risk Associates Acquires Hamann Insurance Group",
-      "description": "TARRYTOWN, N.Y.--(BUSINESS WIRE)--Enterprise Risk Associates LLC (“ERA”) today announced the acquisition of Hamann Insurance Group, LLC (“HIG”) of Katy, TX on June 17, 2026. Terms of the transaction were not disclosed. For more than 45 years, Hamann Insurance Group has been serving both commercial a",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-27T17:27:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260727350301/en/Enterprise-Risk-Associates-Acquires-Hamann-Insurance-Group/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -2013,37 +2042,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-      "description": "Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-24T14:28:03+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Why Costco keeps gas prices so low—it's 'straight out of the retail playbook,' expert says",
-      "description": "Higher gas prices are driving record demand for Costco's gas stations as more Americans look to save at the pump.",
-      "source": "CNBC",
-      "publication_date": "2026-07-24T14:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/24/why-costco-keeps-gas-prices-so-low.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US business activity perks up in July, helped by World Cup, but trend may not last, S&P Global says - Reuters",
-      "description": "US business activity perks up in July, helped by World Cup, but trend may not last, S&P Global says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T13:55:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTEhnSTlmY1ktdWJIaG14NlloYUZCX0gyTWNhT1NISDZ1YTdmZktDWUZER3FSVTdnWTBCbWtZczFLV1o2SUhIRHYxZXZ3ZHg0VGxNTU9yR2xTeTdCdTBSZ0dhblJjWmpKLWlnMGJiNVRXZ0ZmZmJlSVpCMWkyajB5N1ItZTJkUE90bDBTeWNERDFucXNOQ1h5MS1tSVZPUmNnd0dLd0RPWnJrSFNXa0xJTDRoSi01V3VPb0pzekdn?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
