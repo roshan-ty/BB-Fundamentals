@@ -1,18 +1,60 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-27T18:55:59.076501+00:00",
+    "last_updated": "2026-07-27T20:21:20.094847+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 109,
       "equities": 24,
-      "crypto": 57,
-      "commodities": 17,
-      "forex": 11,
-      "macro": 15
+      "macro": 17,
+      "crypto": 55,
+      "commodities": 18,
+      "general": 108,
+      "forex": 11
     }
   },
   "articles": [
+    {
+      "headline": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
+      "description": "This is yet another sign that investors need to look beyond AI stocks.",
+      "source": "CNBC",
+      "publication_date": "2026-07-27T19:46:20+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
+      "description": "The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-27T19:22:59+00:00",
+      "article_url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
+      "description": "Kalshi traders are predicting Warsh will mention last week's supply shock at this week's Federal Reserve press conference.",
+      "source": "CNBC",
+      "publication_date": "2026-07-27T18:58:23+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/27/from-oil-to-shock-heres-what-kalshi-traders-expect-warsh-to-say.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crude oil futures settled at $82.61",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">WTI crude oil futures settled at $82.61, down $6.70 (-7.50%) on the day. It was the largest one-day decline since April 17, when prices tumbled 9.86%, as easing geopolitical tensions sparked heavy selling across the energy market.</p><p class=\"PDq2pG_select",
+      "source": "Forexlive",
+      "publication_date": "2026-07-27T18:45:25+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/crude-oil-futures-settled-at-82-61/",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
     {
       "headline": "Securitize Capital becomes SEC-registered investment adviser",
       "description": "The registration expands Securitize’s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.",
@@ -41,17 +83,6 @@
       "article_url": "https://seekingalpha.com/news/4618968-honeywell-technologies-completes-sale-of-warehouse-and-workflow-unit?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "GBPUSD sellers push the price below the lows from last week and to the lowest level since July 2",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">GBPUSD sellers have seized control, pushing the pair below last week's low and to its weakest level since July 2. Last week's low at 1.3299 was an important technical level, aligning with the 61.8% retracement of the rally from the June 23 low to the July h",
-      "source": "Forexlive",
-      "publication_date": "2026-07-27T18:21:11+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/gbpusd-sellers-push-the-price-below-the-lows-from-last-week-and-to-the-lowest-level-since-july-2/",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     },
     {
@@ -2013,37 +2044,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTEhnSTlmY1ktdWJIaG14NlloYUZCX0gyTWNhT1NISDZ1YTdmZktDWUZER3FSVTdnWTBCbWtZczFLV1o2SUhIRHYxZXZ3ZHg0VGxNTU9yR2xTeTdCdTBSZ0dhblJjWmpKLWlnMGJiNVRXZ0ZmZmJlSVpCMWkyajB5N1ItZTJkUE90bDBTeWNERDFucXNOQ1h5MS1tSVZPUmNnd0dLd0RPWnJrSFNXa0xJTDRoSi01V3VPb0pzekdn?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "EU sanctions Iranian judges, leading cyber group figure - Reuters",
-      "description": "EU sanctions Iranian judges, leading cyber group figure Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T13:42:59+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREtLSUFQaFJKS1VnMHNvODVrVWtRQmhnWFBpa25VSEtiX0NUYXJjYnp5dVBEQTY1czBUa2NNNFFDT09OaW84U3A1R1BLcldiZ01HY3ZWOWhZR2NHOXVESzMwdzQ4NUpNUkRGWW8zZnpJZ2FReEhkcWVsTjBhYUE1LWFPMnZYdjdzQWwzX2FZLVNBWnEtNW1nVE82QnVpdENuZWFVYWpEdmFMZlc1?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
-      "description": "A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-24T13:30:00+00:00",
-      "article_url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-24T13:15:15+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     }
   ]
