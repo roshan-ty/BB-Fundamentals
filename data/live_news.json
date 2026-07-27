@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-27T22:40:02.175893+00:00",
+    "last_updated": "2026-07-27T23:44:43.207794+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 108,
+      "crypto": 55,
+      "general": 107,
       "macro": 17,
       "equities": 23,
-      "crypto": 54,
       "commodities": 17,
       "forex": 11
     }
   },
   "articles": [
+    {
+      "headline": "New York AG warns CLARITY Act could weaken state crypto enforcement",
+      "description": "New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-27T22:55:44+00:00",
+      "article_url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Curium in talks to buy Lantheus Holdings for about $7B - Bloomberg",
       "description": "",
@@ -2029,16 +2039,6 @@
       "source": "Reuters",
       "publication_date": "2026-07-24T14:37:50+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWt6eWtZa3JjTG1yRDZOSVJfdENMUUJPeUJoMDV3VE1Ub1VzUU45ZzdibEpmTkRUcU9BWFd4OWhDeVlhZ2l2am82VmpQam1GNW9LcmJGdWlQS0ZBS0ZUUzdoYVNZQTdyU1I4Unl1dS1wbllWaDhGR3ZxeUZ3WW9GS3ROaEtHUENVemFzWVYtQWpOYThDUnBIc0RZYV9KRlhhYjlCcQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply - Reuters",
-      "description": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T14:36:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWNvYzRoNkNQa2xmbldvVnNQcWQtRUp3MjFNQmJqRld1Z2R0X0JJSzFUNDJRcTRLelItMUtPd3A0NmUtNmJJZy1jRUNabTVldWxBSld6VDhOQ2VCQVpSV1J4VUg0Yjk4dTI0UlZiMVVWYnFMaDJnQ3JFOGdwLVVYVjV2RnJIWHRla2lOTEhUMEVCbU9rN09nWXdkRzVEbDlKcTZoYUFuTlYtQUxZWlFVWXJudktfNFdaVnBOajZ1WFA5Wk5na0E?oc=5",
       "asset_tags": [
         "general"
       ]
