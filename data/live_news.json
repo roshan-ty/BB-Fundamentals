@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-28T21:46:20.237762+00:00",
+    "last_updated": "2026-07-28T22:45:13.438370+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 35,
+      "crypto": 70,
       "forex": 11,
-      "equities": 33,
-      "commodities": 13,
-      "crypto": 69,
+      "commodities": 12,
       "macro": 19,
-      "general": 92
+      "general": 91
     }
   },
   "articles": [
+    {
+      "headline": "Visa outlines stablecoin strategy during Q3 earnings call",
+      "description": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-28T21:57:49+00:00",
+      "article_url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology",
+      "description": "COLLEGE PARK, Md. & BLOOMINGTON, Minn.--(BUSINESS WIRE)--IonQ (NYSE: IONQ), the world’s leading quantum platform company, today received final regulatory approval to complete its acquisition of SkyWater Technology (NASDAQ: SKYT), the largest exclusively U.S.-based semiconductor foundry. As noted whe",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-28T21:24:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260728468271/en/IonQ-Receives-Regulatory-Approval-to-Complete-Acquisition-of-SkyWater-Technology/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "investingLive Americas FX news wrap 28 Jul: Markets Await Fed and Big Tech Results",
       "description": "<ul><li><a href=\"https://investinglive.com/stocks/us-stock-pattern-continues-dow-up-nasdaq-down\" rel=\"follow\">US stock pattern continues. Dow up. Nasdaq down</a></li><li><a href=\"https://investinglive.com/technical-analysis/crude-oil-futures-settle-at-79-26\" rel=\"follow\">Crude oil futures settle at ",
@@ -25,16 +46,6 @@
         "commodities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Group From Ts’elxwéyeqw Tribe Completes Acquisition of Elements Casino Chilliwack From Great Canadian Entertainment",
-      "description": "Ts’elxwéyeqw (Chilliwack, BC)--(BUSINESS WIRE)--Great Canadian Entertainment (“Great Canadian”) and a consortium group of certain communities from the Ts’elxwéyeqw Tribe, through an entity affiliated with Ts’elxwéyeqw Tribe Management Ltd. (the “Ts’elxwéyeqw Group”), announced today the successful c",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-28T20:42:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260728823034/en/Group-From-Ts%E2%80%99elxw%C3%A9yeqw-Tribe-Completes-Acquisition-of-Elements-Casino-Chilliwack-From-Great-Canadian-Entertainment/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1413,16 +1424,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333682/0/en/Davidson-Kempner-Capital-Management-LP-Form-8-3-DCC-PLC.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Goldman Sachs to buy Numantec from White Bridge, other existing investors",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-27T14:00:26+00:00",
-      "article_url": "https://seekingalpha.com/news/4618717-goldman-sachs-to-buy-numantec-from-white-bridge-other-existing-investors?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
