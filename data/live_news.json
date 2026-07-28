@@ -1,30 +1,66 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-28T04:26:22.638235+00:00",
+    "last_updated": "2026-07-28T07:12:32.750961+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 23,
+      "crypto": 58,
       "forex": 12,
-      "equities": 24,
-      "commodities": 18,
-      "crypto": 56,
-      "macro": 17,
-      "general": 107
+      "general": 104,
+      "macro": 16,
+      "commodities": 17
     }
   },
   "articles": [
     {
-      "headline": "investingLive Asia-pacific FX news wrap: South Korea stock markets crushed",
-      "description": "<ul><li><a href=\"https://investinglive.com/central-banks/rba-s-bullock-key-question-is-whether-tightening-already-delivered-enough\" rel=\"follow\">RBA's Bullock: Key question is whether tightening already delivered enough</a></li><li><a href=\"https://investinglive.com/stocks/kospi-extends-decline-to-1",
+      "headline": "Oman proposal to Iran on Strait of Hormuz management has regional backing - report",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">It is one thing to have the backing of other members in the region but a whole other thing to expect Iran to accept this proposal. Here are the some of the details outlined by the source:</p><ul><li>Iran would not exercise sole control of St",
       "source": "Forexlive",
-      "publication_date": "2026-07-28T03:54:50+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-south-korea-stock-markets-crushed/",
+      "publication_date": "2026-07-28T06:40:07+00:00",
+      "article_url": "https://investinglive.com/news/oman-proposal-to-iran-on-strait-of-hormuz-management-has-regional-backing-report/",
       "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
+        "equities"
+      ]
+    },
+    {
+      "headline": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+      "description": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-28T06:00:54+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Cover Genius Acquires Friendsurance to Accelerate Embedded Protection Across European Banking",
+      "description": "SAN FRANCISCO & BERLIN--(BUSINESS WIRE)--Cover Genius Acquires Friendsurance to Accelerate Embedded Protection Across European Banking",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-28T06:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260727904202/en/Cover-Genius-Acquires-Friendsurance-to-Accelerate-Embedded-Protection-Across-European-Banking/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-28T04:32:39+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US judge temporarily blocks Minnesota prediction market ban",
+      "description": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-28T04:28:10+00:00",
+      "article_url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -115,16 +151,6 @@
       "article_url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Union Pacific and Norfolk Southern Affirm Strength of Merger Application and Offer Unprecedented New Customer Assurances",
-      "description": "OMAHA, Neb. & ATLANTA--(BUSINESS WIRE)--Union Pacific (NYSE: UNP) and Norfolk Southern (NYSE: NSC) today enhanced their merger application by offering customer protections that go beyond those provided in any prior rail merger. The new commitments are provided with the supplemental information reque",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-27T21:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260727119938/en/Union-Pacific-and-Norfolk-Southern-Affirm-Strength-of-Merger-Application-and-Offer-Unprecedented-New-Customer-Assurances/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1096,6 +1122,16 @@
       ]
     },
     {
+      "headline": "Bitcoin ETFs end inflow streak as Fed rate concerns mount",
+      "description": "Amid fluctuating investor sentiment over Fed rate hikes and legislative uncertainties, Bitcoin ETFs face significant withdrawals, highlighting the fragility of recent crypto gains",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-27T05:34:41+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/bitcoin-etfs-end-inflow-streak-as-fed-rate-concerns-mount",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
       "headline": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
       "description": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
       "source": "Cointelegraph",
@@ -1103,6 +1139,16 @@
       "article_url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Nvidia in talks to back OpenAI lease of $500 billion data center",
+      "description": "Nvidia is in discussions to help the creator of ChatGPT lease a $500 billion, 10-gigawatt hub that SoftBank Group Corp. is overseeing in Ohio",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-27T05:02:07+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-26/nvidia-in-talks-on-250-billion-backing-for-openai-hub-wsj-says",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1995,56 +2041,6 @@
       "article_url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Recommended Cash Offer for Irish Continental Group plc",
-      "description": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY IN, INTO OR FROM ANY JURISDICTION WHERE TO DO SO WOULD CONSTITUTE A VIOLATION OF THE RELEVANT LAWS OR REGULATIONS OF THAT JURISDICTION",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-24T16:55:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3333018/0/en/Recommended-Cash-Offer-for-Irish-Continental-Group-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Why we would buy the Intel dip but can't get behind the Dover bounce",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "publication_date": "2026-07-24T16:38:28+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/24/why-we-would-buy-the-intel-dip-but-cant-get-behind-the-dover-bounce.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UK says armed forces ready to defend country after Iran warns over US bombers - Reuters",
-      "description": "UK says armed forces ready to defend country after Iran warns over US bombers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-24T16:15:24+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUtaMHdwUWNQbXpNb0IzUXMxZm5sUFRDVlJGclZmak52YVFySlE1LUV1aTBiRDhqT055V2pIMWFQNmFILW1GSnRCRTBLYi1oSVY0Vm0tRjJPX19CazNmeUQtQkdDUXZmbVU2TFlhcnFKZVNMbVFZS05ZR1VlenRFSXRUa3d2dzhlSTNBeDQyOFA2Z3k1RXBYSWQ1Rm5Bd1FKT3ItT0UzT19nYkEwcmpPQlc0TDZSdlBCT3owXzJGMHFCRmp3dklCU0NJWmNFeTZTVy0yVy1n?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "CDC says massive cyclospora outbreak is now in nine states",
-      "description": "The four newly linked states – Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan.",
-      "source": "CNBC",
-      "publication_date": "2026-07-24T16:13:07+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
-      "description": "The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-24T16:04:30+00:00",
-      "article_url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
