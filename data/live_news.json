@@ -1,18 +1,62 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-28T01:09:09.698254+00:00",
+    "last_updated": "2026-07-28T04:26:22.638235+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 12,
+      "equities": 24,
+      "commodities": 18,
       "crypto": 56,
-      "general": 106,
       "macro": 17,
-      "equities": 23,
-      "commodities": 17,
-      "forex": 11
+      "general": 107
     }
   },
   "articles": [
+    {
+      "headline": "investingLive Asia-pacific FX news wrap: South Korea stock markets crushed",
+      "description": "<ul><li><a href=\"https://investinglive.com/central-banks/rba-s-bullock-key-question-is-whether-tightening-already-delivered-enough\" rel=\"follow\">RBA's Bullock: Key question is whether tightening already delivered enough</a></li><li><a href=\"https://investinglive.com/stocks/kospi-extends-decline-to-1",
+      "source": "Forexlive",
+      "publication_date": "2026-07-28T03:54:50+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-fx-news-wrap-south-korea-stock-markets-crushed/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+      "description": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-28T03:17:10+00:00",
+      "article_url": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Hong Kong prepares banks for quantum threats amid tokenization push",
+      "description": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-28T02:21:04+00:00",
+      "article_url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
+      "description": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% — plus all of the week’s other crypto news from Asia.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-28T01:23:07+00:00",
+      "article_url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
       "description": "",
@@ -71,16 +115,6 @@
       "article_url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "South Korea June consumer sentiment 106.8 vs 106.6 prior",
-      "description": "<ul><li>Prior was 106.6</li><li>12-month median inflation expectations 2.7% vs 2.8% prior</li></ul><p>I guess all the South Korean traders blowing up on SK Hynix haven't hit confidence yet. That's fair enough, given that it peaked on June 25.</p><p></p> This article was written by Adam Button at inv",
-      "source": "Forexlive",
-      "publication_date": "2026-07-27T21:03:40+00:00",
-      "article_url": "https://investinglive.com/news/south-korea-june-consumer-sentiment-106-8-vs-106-6-prior/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -1102,6 +1136,16 @@
       ]
     },
     {
+      "headline": "Instagram, Facebook ran AI ‘Nudify’ ads from China, report says",
+      "description": "Meta's Facebook and Instagram allegedly ran thousands of banned AI 'nudify' ads, raising concerns about user safety and compliance.",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-27T03:44:21+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/instagram-facebook-ran-ai-nudify-ads-from-china-report-says",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Indian rupee heads for steepest rise in three weeks as oil falls - Reuters",
       "description": "Indian rupee heads for steepest rise in three weeks as oil falls Reuters",
       "source": "Reuters",
@@ -1999,46 +2043,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-24T16:04:30+00:00",
       "article_url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto Biz: Is the AI-to-crypto rotation underway?",
-      "description": "Bitcoin ETF inflows, cooling AI momentum and potential regulatory progress under the CLARITY Act are fueling speculation that capital is rotating back into crypto.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-24T15:15:57+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
-      "description": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-24T15:09:33+00:00",
-      "article_url": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-24T15:01:46+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-24T15:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
       "asset_tags": [
         "general"
       ]
