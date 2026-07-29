@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-29T18:37:10.065613+00:00",
+    "last_updated": "2026-07-29T19:57:57.966079+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 34,
-      "commodities": 8,
+      "general": 106,
+      "equities": 33,
+      "crypto": 56,
       "forex": 5,
       "macro": 13,
-      "general": 104,
-      "crypto": 56
+      "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "AT&T, Verizon slip on report SpaceX looking to acquire competitors, compete in auction",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-29T19:14:38+00:00",
+      "article_url": "https://seekingalpha.com/news/4620744-at-and-t-verizon-slip-on-report-spacex-looking-to-acquire-competitors-compete-in-auction?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Sterlington Advises Avanos Medical Management Team on $1.27 Billion Acquisition",
+      "description": "NEW YORK--(BUSINESS WIRE)--Sterlington advises Avanos Medical management team on $1.27 billion acquisition.",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-29T19:14:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260729251256/en/Sterlington-Advises-Avanos-Medical-Management-Team-on-1.27-Billion-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Fed keeps rates steady. The big question now: What will Microsoft and Meta say on AI capex?",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-07-29T19:11:58+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/29/fed-keeps-rates-steady-the-big-question-now-what-will-microsoft-and-meta-say-on-ai-capex-.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
       "description": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
@@ -24,13 +54,23 @@
       ]
     },
     {
-      "headline": "Hanwha Energy USA Subsidiary Expands Retail Electricity Business in PJM",
-      "description": "HOUSTON--(BUSINESS WIRE)--174 Power Global Retail Corporation, a wholly owned subsidiary of Hanwha Energy USA Holdings Corporation, today announced its entry into competitive retail electricity markets within the PJM region. 174 Power Global Retail Corporation, which operates Chariot Energy and Pump",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-29T17:49:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260729531209/en/Hanwha-Energy-USA-Subsidiary-Expands-Retail-Electricity-Business-in-PJM/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-29T18:00:00+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
       "asset_tags": [
-        "commodities"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-29T17:58:33+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/29/fomc-hold-fed-holds-rates-steady-extending-pause-as-markets-await-warsh-s-policy-roadmap",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -993,8 +1033,8 @@
       ]
     },
     {
-      "headline": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops - Reuters",
-      "description": "US, Saudi hit Iran's allies in Iraq; Trump vows to punish Iran for firing at troops Reuters",
+      "headline": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says - Reuters",
+      "description": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-29T03:29:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
@@ -1054,8 +1094,8 @@
       ]
     },
     {
-      "headline": "Oil jumps nearly 7% on escalating Middle East airstrikes - Reuters",
-      "description": "Oil jumps nearly 7% on escalating Middle East airstrikes Reuters",
+      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
+      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-29T00:27:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
@@ -1647,16 +1687,6 @@
       ]
     },
     {
-      "headline": "Rio2 Announces Participation in Royal Road’s Brokered Life Offering",
-      "description": "VANCOUVER, British Columbia, July 28, 2026 (GLOBE NEWSWIRE) -- Rio2 Limited (“Rio2”) (TSX: RIO; OTCQX: RIOFF; BVL: RIO) announces that it has participated in the Royal Road Minerals Limited (“Royal Road”) Brokered LIFE Offering which closed on July 28, 2026 with the purchase of 10,000,000 ordinary s",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-28T14:37:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334469/0/en/Rio2-Announces-Participation-in-Royal-Road-s-Brokered-Life-Offering.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
       "description": "",
       "source": "CoinDesk",
@@ -1675,6 +1705,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oman proposes Hormuz management system with voluntary fees, source says - Reuters",
+      "description": "Oman proposes Hormuz management system with voluntary fees, source says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-28T14:25:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1991,46 +2031,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWtZNHhBdGxBcHdOdXNWNHUyVGVHSHZNYzlUM2lOQTJDNk1lbjM2Tmo1VVhoVGxEckNuUVZBU2QtNkpKNXhEa0VLWWgzNVJCTzQ2WjhmU3NKVkliS1IzeDdPWHlLUTBtZTFKMkFPNHZUSzZhMHdNVEJNNTR2MWQ4VmNWVXcwbkdwdmNLaG01VEVfYUxMbGhmSjM0RHhNcE5MY3k4WkNRa0ZmT2RQdHlQT0pBV29ja1NNY2Nn?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Oman proposes Hormuz management system with voluntary fees, source says - Reuters",
-      "description": "Oman proposes Hormuz management system with voluntary fees, source says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T06:54:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UN chief Guterres sounds out Cyprus sides on prospects for peace talks - Reuters",
-      "description": "UN chief Guterres sounds out Cyprus sides on prospects for peace talks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T06:28:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG5jdl9tWGt6YkFUZ254RmJ3NXpkSnhfWU9kMzJnQlNtZFZoYUVBRjF5RHBUcHlHRXZwT2Y1TW1oRWhweWdLSWdLbGY0OUhhUjZlSldtakp0SjhIWDV2V2tKa3pZZWtWaDI0dXJGcXNEc09XVVktbkw4M0JBRk5GZjRMVDMwSXZMYXd1SG9jM3BWeVdyNUFHTmlLdzEwT0JZU3pNWThBTkh4a1VVZHYzT216b2VHVjhU?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-      "description": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T06:00:54+00:00",
-      "article_url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Iran's foreign minister discusses security of Strait of Hormuz with Saudi, Omani counterparts - Reuters",
-      "description": "Iran's foreign minister discusses security of Strait of Hormuz with Saudi, Omani counterparts Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T05:38:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjhRVHZEYWd5aEJick5tT05haTdpX2RsSmRrTkRLUEZUSDRwTGhMTER4UmhZV0dPNkVfZlhEa0QxMXZDVll3bWYxcXdCQl91VjBpUFZoZzJQQzlBQkxDbkFTbTBUcGdyTE5hTXVqaXNmZEZiMTd5bFF1aUkxRXlzSUh1VzJRWmxhRXFXakNWTTZZaVR2dXpIaHBqZVNORU4wSEFjSGJIVXZGV1hkaHNNeEU1eXhfVmNEdTNCcTQyVk9NUVFT?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
