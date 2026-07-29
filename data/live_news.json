@@ -1,18 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-28T23:44:33.733511+00:00",
+    "last_updated": "2026-07-29T01:12:41.300237+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 12,
+      "crypto": 71,
+      "general": 91,
       "equities": 35,
-      "crypto": 70,
-      "forex": 11,
-      "commodities": 12,
-      "macro": 19,
-      "general": 91
+      "commodities": 11,
+      "macro": 19
     }
   },
   "articles": [
+    {
+      "headline": "European financial institutions launch RL1 cooperative blockchain network",
+      "description": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-29T00:09:29+00:00",
+      "article_url": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-28T23:50:38+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Myanmar parliament passes crypto scam bill with penalties up to life",
+      "description": "Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-28T23:27:28+00:00",
+      "article_url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Visa outlines stablecoin strategy during Q3 earnings call",
       "description": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
@@ -2019,36 +2050,6 @@
       "article_url": "https://www.cnbc.com/2026/07/26/how-different-generations-are-rewriting-the-american-dream-today.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites - Reuters",
-      "description": "Most Gulf markets ease after Houthi attacks on Saudi Red Sea oil sites Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-26T13:29:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUY5ektKSEpjeG1EZXRCR3BGa1NxV1AtdTdZZ0ZnSi0xNjE3c2pjcE5PM3hkTHNGUDBlWVpWUDJXUUxDY3EtUWFaV0QxUnB2clJKZ3U1bjRrbGFwTlhWRGc4R0l6eEtDWXJIdFdid2c1Q3RibUNUM0NDWi04MU83TWxuUnFYd0xNaDZ1UHFYZHQzN0FGMFVMNVgtanh0MzVEMlNDM19tUWFVWXhub3FqQ1NHRnFVNm5aaFVsVm9R?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn",
-      "description": "Dormant Bitcoin activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-26T13:04:35+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "U.S. regulator warns prediction markets against cutting corners in event contracts",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-26T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
-      "asset_tags": [
-        "commodities"
       ]
     }
   ]
