@@ -1,18 +1,40 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-29T22:02:38.573636+00:00",
+    "last_updated": "2026-07-29T23:11:14.476953+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 61,
-      "equities": 35,
+      "general": 102,
       "forex": 5,
-      "commodities": 8,
-      "macro": 14,
-      "general": 101
+      "equities": 35,
+      "crypto": 60,
+      "macro": 13,
+      "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "Trump is weighing another two-week campaign of strikes against Iran",
+      "description": "<p>There are no credible reports of explosions in Iran at the moment but I would expect them.</p><p>The WSJ reports that a US Commander has <a href=\"https://www.wsj.com/politics/policy/the-u-s-commander-with-a-two-week-plan-to-escalate-strikes-in-iran-0ce32cb2\" rel=\"follow\">suggested </a>to him a tw",
+      "source": "Forexlive",
+      "publication_date": "2026-07-29T22:39:29+00:00",
+      "article_url": "https://investinglive.com/news/trump-is-weighing-another-two-week-campaign-of-strikes-against-iran/",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Robinhood posts record quarter, but crypto revenue slides 38%",
+      "description": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-29T21:53:35+00:00",
+      "article_url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
       "description": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August allowing it to offer prediction markets.",
@@ -34,17 +56,23 @@
       ]
     },
     {
-      "headline": "investingLive Americas FX news wrap 29 Jul: Fed Stands Pat, Markets Lose Ground Subtitle:",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The Federal Reserve left interest rates unchanged as expected, but the biggest takeaway from Chair Kevin Warsh's press conference was the continued shift away from forward guidance. Rather than signaling where policy is headed, Warsh emphasized that the eco",
-      "source": "Forexlive",
-      "publication_date": "2026-07-29T21:11:36+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-29-jul-fed-stands-pat-markets-lose-ground-subtitle/",
+      "headline": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
+      "description": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T21:26:21+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
       "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
+        "general"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say - Reuters",
+      "description": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T20:55:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE5TWUJUaEd4QndCVnFrY2hva1NPZUVIVmZROEcwYkhPWVR0Q3gxdzVIZjFDVFVTZWIyNGwxV1dPb1luWmpveTV0cHl4cmFQbXB5bWgzUHBhenR1UFhYZWVoSGdJVjluZEx5TmYyYllqOEQtLS1UZ3VMemtWSHlHOHlvQjlpams0bGVSRjMxQzBFRmdOUEJBUVROZlZZOU5Dd2JFdldTTnRpWUFYSm5hSWdVWmhETkVTTXhPMFc0OTNCVi1DdXhxTA?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -117,16 +145,6 @@
       "article_url": "https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
-      "description": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T20:07:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1148,16 +1166,6 @@
       ]
     },
     {
-      "headline": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says - Reuters",
-      "description": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T03:29:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
       "description": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.",
       "source": "Cointelegraph",
@@ -1194,6 +1202,16 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-29T01:05:15+00:00",
       "article_url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says - Reuters",
+      "description": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T00:50:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2015,26 +2033,6 @@
       "article_url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-      "description": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T09:12:14+00:00",
-      "article_url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "India plans up to quarter of 2027 LPG imports from US, sources say - Reuters",
-      "description": "India plans up to quarter of 2027 LPG imports from US, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T08:36:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWpEWnlhTE5jSlhXVEI3X01MbWxmOEZiQTZWNmpRZWpBSFpFUXd3OXZ0TzN1ZjU1VFc2dl92NnBRbE96WkF0SDNIYzA3Nmo2bWZSRU91MDlGRDVQSm1IUDVzWU9KeE9KSl93RzJjNVdEejhtRG50LWVGTmxRaXZnVllpcjFZNkRwWjlmTVFJNUt5alBrVnNTMll5UDVzWGlrNTdGLXJQOVZEQQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
