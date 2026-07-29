@@ -1,34 +1,106 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-29T19:57:57.966079+00:00",
+    "last_updated": "2026-07-29T20:57:41.291809+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 106,
+      "forex": 6,
+      "macro": 14,
+      "crypto": 61,
       "equities": 33,
-      "crypto": 56,
-      "forex": 5,
-      "macro": 13,
+      "general": 101,
       "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "Here are the five big takeaways from this week's Fed meeting",
+      "description": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
+      "source": "CNBC",
+      "publication_date": "2026-07-29T20:42:50+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crypto entering biggest consolidation phase in history, says ARK analyst",
+      "description": "ARK Invest’s Lorenzo Valente says revenue is becoming increasingly concentrated among a handful of crypto protocols, setting the stage for more mergers, acquisitions and exchange closures.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-29T20:40:38+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Tennessee county passes another ban on crypto operations",
+      "description": "A group of 12 county commissioners voted unanimously to ban mining facilities and data centers in unincorporated areas as it deals with a lawsuit by a digital asset company.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-29T20:11:27+00:00",
+      "article_url": "https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Churchill Downs Incorporated Announces Definitive Agreement to Acquire 49% of United Tote Company from NYRA",
+      "description": "Acquisition Will Reinstate 100% Ownership of United Tote to CDI Acquisition Will Reinstate 100% Ownership of United Tote to CDI",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-29T20:07:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/29/3335583/12388/en/Churchill-Downs-Incorporated-Announces-Definitive-Agreement-to-Acquire-49-of-United-Tote-Company-from-NYRA.html",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Procore to Acquire DroneDeploy, Creating Next-Generation Platform That Sees, Understands, and Acts on the Jobsite",
+      "description": "CARPINTERIA, Calif.--(BUSINESS WIRE)--Procore Technologies, Inc. (NYSE: PCOR), the leading global provider of construction management software, today announced it has entered into a definitive agreement to acquire DroneDeploy, Inc., the robotics and visual intelligence platform for the built world t",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-29T20:05:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260729981737/en/Procore-to-Acquire-DroneDeploy-Creating-Next-Generation-Platform-That-Sees-Understands-and-Acts-on-the-Jobsite/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "MIMEDX to Acquire Sanara MedTech",
+      "description": "Transformational Combination Creates a Leading Regenerative Medicine Company Across Numerous Surgical Subspecialties",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-29T20:01:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/29/3335544/0/en/MIMEDX-to-Acquire-Sanara-MedTech.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
+      "description": "A White House crypto adviser said that the proposed changes to the CLARITY Act were “not even close” to the administration’s position, signaling another fight over the bill.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-29T19:43:29+00:00",
+      "article_url": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - reuters.com",
+      "description": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports reuters.com",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T19:31:06+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "AT&T, Verizon slip on report SpaceX looking to acquire competitors, compete in auction",
       "description": "",
       "source": "SeekingAlpha",
       "publication_date": "2026-07-29T19:14:38+00:00",
       "article_url": "https://seekingalpha.com/news/4620744-at-and-t-verizon-slip-on-report-spacex-looking-to-acquire-competitors-compete-in-auction?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Sterlington Advises Avanos Medical Management Team on $1.27 Billion Acquisition",
-      "description": "NEW YORK--(BUSINESS WIRE)--Sterlington advises Avanos Medical management team on $1.27 billion acquisition.",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-29T19:14:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260729251256/en/Sterlington-Advises-Avanos-Medical-Management-Team-on-1.27-Billion-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -82,16 +154,6 @@
       "asset_tags": [
         "forex",
         "macro"
-      ]
-    },
-    {
-      "headline": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
-      "description": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T17:21:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -208,8 +270,8 @@
       ]
     },
     {
-      "headline": "US issues new Iran-related sanctions targeting insurers, more tankers - Reuters",
-      "description": "US issues new Iran-related sanctions targeting insurers, more tankers Reuters",
+      "headline": "US issues new Iran-related sanctions targeting insurers, more tankers - reuters.com",
+      "description": "US issues new Iran-related sanctions targeting insurers, more tankers reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T15:30:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHg0N2g3a2l6LTNFemIxenZFVEI0Unk4dnROM2JfZ3lPYXR4c2IxSFNOMG5ZM1EzdEEzeS1ETTVIbmRRTmRNMzZucTMyQU1xa0ItRWh1N2tDREZ3dDhBVGxITEphNkdlbVd1VWhWQmU4N25QZTE5Qk9vbHFQMkVDc1pqVUFCX0F0cFVqVVBlTjM4R2t2S2xuRDBlcTcxZ1F2ZGE5cDdLNmxNd3FQMDdrazZMbC1JRnlI?oc=5",
@@ -478,8 +540,8 @@
       ]
     },
     {
-      "headline": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say - Reuters",
-      "description": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say Reuters",
+      "headline": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say - reuters.com",
+      "description": "EXCLUSIVE: US military may require some troops in Mideast to surrender cell phones, sources say reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T12:53:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnRvd2JkQWxrSjBpdHRBSkU2bnZMZUtQc0g0SVZ3eHhzb2FSRFJ6UF9yZlNlcXVWek9jZkVmWVhnNVRSeFNrdUNBZm1PNEQ0RmxxMDY1SkZOS0NHM04xSk1iQzN5b29UbEdhY21IaGZSQU12WWsxR0VNd2t5LXoya1VoRHVET015cWM5emFfM1lhYWZTbS1BWGlfSFdZeXJGalRYdVZCYWFEM1hzd0l5ekQ5M2hJb19YSkNR?oc=5",
@@ -519,8 +581,8 @@
       ]
     },
     {
-      "headline": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group - Reuters",
-      "description": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group Reuters",
+      "headline": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group - reuters.com",
+      "description": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T12:35:58+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFBxd2ZDV3NRMFR1V25KMlhtTE5mZU5Ld1NIWVdkZV9COVkwbk9iQ3FXLXI2c3VmWUhyZXBrbWFxTG4wWmR5VWNTSUY5N3hPZ29lVGZSeTNYZGpYMFZld3I3WEg0ZGxBWm52bUItVklfTjBLWGVEbXR3N2V2ZE9QQzFQOVYtSmtnVWVnRFZLZWMtVVY2aDdDT1B5RUdONTh1cTJ2UTRubEpER2pu?oc=5",
@@ -699,8 +761,8 @@
       ]
     },
     {
-      "headline": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say - Reuters",
-      "description": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say Reuters",
+      "headline": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say - reuters.com",
+      "description": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T10:40:06+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzFWSEJjR1NNV3libHZfdlE0dkVfbW9jdG5VX3NpbEg4OGJQSllPQ2RsZmoyNXFjVEFMZkdoME5wRHZMS3NrZlEzT2JUT2hPVXZnQkROOTV0YVJIQk80cEw2ODNKWnlMcmNXYVVFcng4UlVEOVUzYWkzYVhCU19HaHVnQ0JSQzVzSE9OQjdDYzNDRjZiWXZQeDlMandraXA3d1NtRzhHVWRBMlA3NExVblNTY3dYbUpXb2pjVnRkcGhEWWU1U0E?oc=5",
@@ -770,8 +832,8 @@
       ]
     },
     {
-      "headline": "Israeli elections: how they work and who is in the race - Reuters",
-      "description": "Israeli elections: how they work and who is in the race Reuters",
+      "headline": "Israeli elections: how they work and who is in the race - reuters.com",
+      "description": "Israeli elections: how they work and who is in the race reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T09:37:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMndqcXg1czF5MVNTaTVzQ2laN3RILUlTZGpwY3RQZ0o4UVM1eXRycnJPbWxMdHZBQXBVRkhxZnA4a3VlQlhtVElOaW9WNHN3OE90X0xGaEpBcGxyZGFzUDNTMVcwSWlrRXRCZEhQYjdwcFlkcjdTWnlIM0RocUk1QVVYaGY2TElERXUyVTdXUDZuczJUMnhTd1RxLTlLUQ?oc=5",
@@ -780,8 +842,8 @@
       ]
     },
     {
-      "headline": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say - Reuters",
-      "description": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say Reuters",
+      "headline": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say - reuters.com",
+      "description": "UAE's ADNOC sells crude at premiums to Asian refiners in seventh tender, sources say reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T09:34:09+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamt1Q1VySm5UT2RwV21EVDg4a0wyTmZPa2NpakRiS1JsUVpzdmlkWUxYd2stbnRIcUh0Tnk1bVM1SVhrXzZVWS0zV0NIVVBKUUdOOC1vX3FmZ1JaeFdtcklEWHl1WVYzbGVJd0hicnZFSXp5ZFRtX25DRDZCOVJzREZIbVFiZ01PTm1wbjhFeW9XWDdJWkF1NzBIVk9xdGp2enJTTVVsT0hEaHNjSXUzc2d0ZXl6NjNuRDlBckFZWGwtUGM?oc=5",
@@ -790,8 +852,8 @@
       ]
     },
     {
-      "headline": "Explainer: Who are Iraq's Iranian-backed armed groups? - Reuters",
-      "description": "Explainer: Who are Iraq's Iranian-backed armed groups? Reuters",
+      "headline": "Explainer: Who are Iraq's Iranian-backed armed groups? - reuters.com",
+      "description": "Explainer: Who are Iraq's Iranian-backed armed groups? reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T09:23:31+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU21aV2FRR0FGZ3dFbERoaWF0djA3bmxxbzcyYXQ2azhlZ1pHZlA0cS1pa1dlckF3Z1FsV2FMOHdhVERqcTdXY0o3S1paZVMwRmhTWjVsbVRsdzVkdnhTNFgyc3VvR3ZBU1dMYW1fUjQ3UjZLcFBiSUFCdlFYZS1fZERIQV9hS0J3U0tPX0NWQVlqYURUa1lMMUgzUQ?oc=5",
@@ -921,8 +983,8 @@
       ]
     },
     {
-      "headline": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough - Reuters",
-      "description": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough Reuters",
+      "headline": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough - reuters.com",
+      "description": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T07:06:12+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcm9JU2paOWtPTENMY1JfVDZWWTA5MDVrNUQ5b1FndWhaSVk5Q2psS3dhc0lPeFg5cEE0ZktEVXBzb2JZRmFiUWdXZHNBSU1ON1BLZEM2X21FYmd1T3BFd2tjbU4xSGlibVluMm1xY2xMV0plaTlhUExiMWZtYml6aWNhd1d3ZkcxWC1tN2Q4UzdFdE5QOEc1eWxVNEZIaHdmWTNPczRwbXFGNHZjQ3E1dVdyd3ZLYkRISndfOXFrbFhYdVdFWFdIQw?oc=5",
@@ -1033,8 +1095,8 @@
       ]
     },
     {
-      "headline": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says - Reuters",
-      "description": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says Reuters",
+      "headline": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says - reuters.com",
+      "description": "Drone hits storage tanker at Egyptian port on Mediterranean, security firm Ambrey says reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T03:29:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
@@ -1054,8 +1116,8 @@
       ]
     },
     {
-      "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
-      "description": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say Reuters",
+      "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - reuters.com",
+      "description": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T03:04:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
@@ -1084,8 +1146,8 @@
       ]
     },
     {
-      "headline": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - Reuters",
-      "description": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq Reuters",
+      "headline": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - reuters.com",
+      "description": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T00:37:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
@@ -1094,8 +1156,8 @@
       ]
     },
     {
-      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
-      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
+      "headline": "Oil jumps 7% on escalating Middle East airstrikes - reuters.com",
+      "description": "Oil jumps 7% on escalating Middle East airstrikes reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-29T00:27:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
@@ -1125,8 +1187,8 @@
       ]
     },
     {
-      "headline": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems - Reuters",
-      "description": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems Reuters",
+      "headline": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems - reuters.com",
+      "description": "Minnesota IT officials disclose 'coordinated cyberattack' at more than 30 local water systems reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T23:47:02+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFdMVHoxTjY4QlIyd0phejJIRTFXTTlUQVFjT1ZCRkMtWFcyU055a1hrMGItMk16SklJWFctSXpJTk1XQmZkbThTd00yLXJfUEVVLTlWRGgyYjJsbTREWk1lTk02RWdjM0FjeDhlRlN0NE1qZU1qX1FYdWJJYXJFMkU3cmFBbkh0Y25MUnpYQm1KZ00xR2tDWFo3cW5tSWlXTi1vZGh2SHowby1oWmJ1cUZWNnJwT2VpSXNtOUNUbE5fVE83b1EtQkxLVTVMQQ?oc=5",
@@ -1145,8 +1207,8 @@
       ]
     },
     {
-      "headline": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East - Reuters",
-      "description": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East Reuters",
+      "headline": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East - reuters.com",
+      "description": "US says it intercepted Iranian ballistic missiles launched towards US forces in Middle East reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T23:32:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbExYYjdfX1I4Mmt6eFo1Ty1JWjFtdEl5dWxIRnJsbllyODZPd3pmUjc0bzlMX29iV1ZlaUJVSUwwNl8yNkd1dkI5WERxdm1NUXp6Q1RXS1JqLVgzZzZXbFA4ZU9HU2Q0UVNQS2h3N0dtTldHbE5oLUxPek9iem9uMTBiZGU0QUNNeUpwX2Z2ZVF5bkVEZ1FVVjBlVkFoRjBzVkN1ZWU2N1hSbXR0QjgyUVpveXNsT244VDQ1Zm5Nb3BUbFRjR3FNUDhmZTQ?oc=5",
@@ -1165,8 +1227,8 @@
       ]
     },
     {
-      "headline": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal - Reuters",
-      "description": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal Reuters",
+      "headline": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal - reuters.com",
+      "description": "Top US oil trade group opposes Hormuz tolls after Gulf-backed voluntary fee proposal reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T22:55:54+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQjBCRWJ5ekpMbWF5dm5Yc0c4c0VXTDNZaGlybGZ2OU4xaGx2cEZjMjl1RUZnT3YyQTFhM0ptTHZSbUJiWkZGMDRydFlYZktRVTNPMU9nTzhqUXg2Rzc2V3hjYkczbllfLWszbEJORmVlVDRTYUJBVmhiX19VVVNGVDdjcS1zcmRCLTZnUm1GS0NQOHhXRHlTSThZYVNBT1NlOFR6N0JvODU0YnRhOFNsZTlKWTJiMDFGZE1DQUQ2T0NjbWFpWDRMVw?oc=5",
@@ -1175,8 +1237,8 @@
       ]
     },
     {
-      "headline": "Petrobras cuts imports as it pushes local output amid U.S.-Iran conflict - Reuters",
-      "description": "Petrobras cuts imports as it pushes local output amid U.S.-Iran conflict Reuters",
+      "headline": "Petrobras cuts imports as it pushes local output amid U.S.-Iran conflict - reuters.com",
+      "description": "Petrobras cuts imports as it pushes local output amid U.S.-Iran conflict reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T22:41:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWEpKandCZmpKVTRXejZfQmp1bHNZdmtiYXo1ZTEtZFNCOGxEaUtocm5UdDdGMUVOT2tOWUU4bVBNM3EtY0ZOSHJoRHFqZ205UmxjN0dRejBvTU8yRkJzWWFxU2lTbDZHNGNRY3hYZi0wVHdBaFBsQ1JMSVozeUVWaFMySWE3WHdKWlNsdU51eFNyMjNDd0tRZWE4Z0l0Qi1BV3N2dGRYQWt5cURpQ0twQnVQcw?oc=5",
@@ -1205,21 +1267,11 @@
       ]
     },
     {
-      "headline": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea - Reuters",
-      "description": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea Reuters",
+      "headline": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea - reuters.com",
+      "description": "Yemen's Houthis say they fired missiles at Saudi oil tanker in Red Sea reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T21:00:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnJtN1czaW5VenZ0NDdYRVM1OVVMcUhYR2E2RHNneXhfaWZBalUwSElsSWk4aEVwMC1WRnozUGs4RmkxSk1xUkV5ZXVkNWUyeEJfbTQ0Z2RRdXNmM1hsSjduWFhLOURoZHBSUm1IUDJXdHkxR0Q4NGZ3SU9FcDRudkRkVG1qcEszb1Z3bHpaV3lydjBKbWtPaUVadGJ3cmVIT2FCQzlDaGJURG4wU1NlQmFiLW1uMDl6?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere - Reuters",
-      "description": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T20:44:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGdyZGU4NERmYzlkMjdIYmptUk5GYXRvVUVuT1pPN3NlcjFEYzBaeVA0bmxrY0lNajJDTGoxb0FSWVd1bnJtZGFtRUtCMC1Cby1IV21XMUU1NGxJVThrc1lkR0RFdEozODVvNURqUXJySHpqcUNHR0lxeGFpQkpxYTNNWmNGd0ZkeXRPU0hsYkN6OGcyZGdZNFNNOGdJTnFocG54cVMtdGVxZ0kwTWJ6XzN5ZEUzTG1JX0wwZg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1256,8 +1308,8 @@
       ]
     },
     {
-      "headline": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - Reuters",
-      "description": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran Reuters",
+      "headline": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran - reuters.com",
+      "description": "Regime change? Inside Reza Pahlavi’s faltering bid to lead Iran reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T20:05:33+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakY1cWNvRDRGX1d1S3lyMXMtUVRhWk5NVTdUNzZveGlOODc3UktYUWhXVlhZaF9aczZuUXUwNUsxYW1xOWNaMFc4QWxncXRnU1E3NGFKbUN5QjR3cldXMG1sREF2VnJONmwyMnNrVld0Tm0zWFNuY1JLamNsNF85Wk9uOXJjTVVsR2R5WV9Kei1CcDB1NGY0czI2amVSTEk1OXZ2S0YxMnJLR0tBamc?oc=5",
@@ -1266,8 +1318,8 @@
       ]
     },
     {
-      "headline": "Saudi Arabia says it struck Iran-backed groups in Iraq with U.S. coordination - Reuters",
-      "description": "Saudi Arabia says it struck Iran-backed groups in Iraq with U.S. coordination Reuters",
+      "headline": "Saudi Arabia says it struck Iran-backed groups in Iraq with U.S. coordination - reuters.com",
+      "description": "Saudi Arabia says it struck Iran-backed groups in Iraq with U.S. coordination reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T19:47:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnpyRjRlYWo1ZktJTDVtR3hTLWJLbWctRmJhd0Z6czBoQlEwUkRkZk1fd2wtQ0hLakpEMUhMZkNQOEdzVTR0SV9lQ2Q3TVJpNkFLdll5WmZBTFhqRlZpSE1BLVFQV1lsa0VpOXNPbHJ0TGdpeVMzMGFfV2lWaTI2YVdlSDFjbkdJblVoWXRvSHp3NWZSQnhMNUpVODB4cmJjdnVnVzEzZTFKUDF6TnpIMndKQ3hEN1c5aW9xMG05akZRcENlaHp6Qg?oc=5",
@@ -1296,8 +1348,8 @@
       ]
     },
     {
-      "headline": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia - Reuters",
-      "description": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia Reuters",
+      "headline": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia - reuters.com",
+      "description": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T19:31:01+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSVptTmZYNEZfbmZIT1J2TFBrUGpYRGg2MEtWYzBPeTNYMDBuTFdPRmN0UmVVMUdRRUVMdTNWNE0zR2lJNjJXMC1TMFc5dEFwSW04OTF4cVBtTk1MU000YlpIWWF1Y0UyelhsVTktaWZQX0JzXzVwV1FOTFZ0RE5FY3ZBWmFhcWswUWFzelpIMzNybm90OU1PUjFScThZN1ZydUJxaGJuOWE1SjFtMk5aY3YyeDBhSkFPSVBuUlJrVWtKbDhtSzBNR3lsck0yNGM?oc=5",
@@ -1346,8 +1398,8 @@
       ]
     },
     {
-      "headline": "Iran proposes temporary Hormuz plan giving itself greater control over transit lines - Reuters",
-      "description": "Iran proposes temporary Hormuz plan giving itself greater control over transit lines Reuters",
+      "headline": "Iran proposes temporary Hormuz plan giving itself greater control over transit lines - reuters.com",
+      "description": "Iran proposes temporary Hormuz plan giving itself greater control over transit lines reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T18:29:06+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXBHR2k5aGdkSDFSZkNzUnFwTnRYQldoc3dGSkNfdk84ZUxNMUtPRkxhd0thWDlNOUl1THFjTGNpUi1HVmRSN2EyOFBJaHNfdi1tME1ycWdJT1JEeEVsLW03cGdtQ0NjQkhsVngxOFFwb1dSNzRKcDR1d3pqWmRUQm5PQTE2MEgyLWFUckZWY29BVDY5VFhIdmRIeEI2LW5tYWVmaTRHMF9JY3M4RS1NTzhqWVBSNW9mZXV2c0hNTXFsempOZUFsN2cxSHk?oc=5",
@@ -1386,8 +1438,8 @@
       ]
     },
     {
-      "headline": "Russia sanctions championed by Graham clear first Senate hurdle as Zelenskiy visits - Reuters",
-      "description": "Russia sanctions championed by Graham clear first Senate hurdle as Zelenskiy visits Reuters",
+      "headline": "Russia sanctions championed by Graham clear first Senate hurdle as Zelenskiy visits - reuters.com",
+      "description": "Russia sanctions championed by Graham clear first Senate hurdle as Zelenskiy visits reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T18:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW1HX3dSOEgyLUVVTUlrOWgzUWNzQ3VDNXFENTdLRUJVMnpTbTV5MDNDSEVtUDc4dE9TSm1QakxlOGdSS1ZQNUI2dmlZM3lDRUxpSzk4eHJVcmpnWWd3b0VIbmZUTHc2SjBMZzUzalBwUC1rYThwX3FjN0NCZkhaSXdYQlpwd3RWdFluRU5QQzhZWWNkcmtNdUxuRWM?oc=5",
@@ -1526,8 +1578,8 @@
       ]
     },
     {
-      "headline": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say - Reuters",
-      "description": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say Reuters",
+      "headline": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say - reuters.com",
+      "description": "China in touch with Yemen's Houthis to allow ships to sail through Red Sea, sources say reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T17:24:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR3VlbkFfZi10TlpkWGNLYUJ4d0NISk5JVlg4VGI2MmNma0xDUkdyX3NNalg4SDNQRkJWOWRqT0o1VkxuTS1xXzFVZi1fSTBoRnRORGxZdUZDdVN0dVNCaUo3eVBVenNpUnRWaUtpOHlCbGk3M3E1NXJaSzJ3cUszd05mWjVrQWYwX1ZuSGE2aWliVkZIeHJmdGN4T29LUUtVcEdxYnh3dHNQVTg5ZS1SdlNKaDhVeG9BT0tXdnJtYnN2UQ?oc=5",
@@ -1567,8 +1619,8 @@
       ]
     },
     {
-      "headline": "Iran executes two more men over January protests - Reuters",
-      "description": "Iran executes two more men over January protests Reuters",
+      "headline": "Iran executes two more men over January protests - reuters.com",
+      "description": "Iran executes two more men over January protests reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T16:23:52+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZExxM2lWTlZla1lzRk4wQjVFNjVzeHhmb0Rva3hmQW8yd2RmZUV0TG0wLVRYV1dNcHdOZnJzUE5OWkthVUROR3JXWlVSSG1QS2JUVVZYMm4xV3JDX1c0Z2JsMThvNjFZLWswRmxaOVRRM3Y1MF83V1NGeHN6enVYbjJMQ3VKYnRfOXRNcWs5V21BQThCVVE2aFQweWxuRTQ3Sm9PUXdFT1N2UnM4VTZKWTdrRQ?oc=5",
@@ -1627,41 +1679,11 @@
       ]
     },
     {
-      "headline": "Leonardo DRS to Acquire Raft, Expanding Multi-Domain AI, Data Fusion and Mission Software Capabilities",
-      "description": "Press release announcing the Leonardo DRS acquisition of Raft",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-28T15:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334504/0/en/Leonardo-DRS-to-Acquire-Raft-Expanding-Multi-Domain-AI-Data-Fusion-and-Mission-Software-Capabilities.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Northwest Pump Strengthens Northern California Presence with Acquisition of Island Equipment Co.",
-      "description": "Northwest Pump acquires Island Equipment to expand petroleum equipment sales, service, maintenance, and technical expertise.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-28T15:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334502/0/en/Northwest-Pump-Strengthens-Northern-California-Presence-with-Acquisition-of-Island-Equipment-Co.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future - Reuters",
-      "description": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future Reuters",
+      "headline": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future - reuters.com",
+      "description": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T15:16:47+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjVUT2xzdmdxdHE4ZnBlUWRNR1p5WmVsajRDU2tyRGpHRWdhYlA2dzNZRDJROFVxd1ZpNzdVSHpNMl8xLXFpeE5XbGRsR0t6MjA2YlI1YlJPdVE2VVBxRVdkZlNLLUpKN2gwTEdPd1g2SExQYTN2SVBuUUFnYzA1Vl85TlhBNHhpUUtlYWFHSWZMVm4xZnVqZVJtT19tZw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "PayPal CEO would evaluate opportunities after reports of Stripe interest",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-28T15:10:23+00:00",
-      "article_url": "https://seekingalpha.com/news/4619444-paypal-ceo-would-evaluate-opportunities-after-reports-of-stripe-interest?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -1708,8 +1730,8 @@
       ]
     },
     {
-      "headline": "Oman proposes Hormuz management system with voluntary fees, source says - Reuters",
-      "description": "Oman proposes Hormuz management system with voluntary fees, source says Reuters",
+      "headline": "Oman proposes Hormuz management system with voluntary fees, source says - reuters.com",
+      "description": "Oman proposes Hormuz management system with voluntary fees, source says reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T14:25:40+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRBNlNicGc0ZnNMeVJWaGRJRjhNNEh6eUpSSHBFcXRGcW5iTkZYbV90Skg4VU5rQ0IwZjRkcmc2YVJxTzVIeFVfU2twSXlnQThKdXhmcURGM3FlakJQVHFwQ2hFdHVlN3Fqd1BMNWVTNVUyYktnTlp5aDg4N0NFWVlIVXp2YUg3bjM4V0RnUjNRYnhOT3Nvdmp1T2FlTUYzYzBzcmNQckZWc0hWOXpNag?oc=5",
@@ -1740,8 +1762,8 @@
       ]
     },
     {
-      "headline": "Trump cites 'good' talks on Iran, reiterates threat to hit targets - Reuters",
-      "description": "Trump cites 'good' talks on Iran, reiterates threat to hit targets Reuters",
+      "headline": "Trump cites 'good' talks on Iran, reiterates threat to hit targets - reuters.com",
+      "description": "Trump cites 'good' talks on Iran, reiterates threat to hit targets reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T13:09:11+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXp0cjdxRkJmbERLLTB3SU00RS1fZHRDQ0lCd056Wkc2UFhEVUVOTWJFM01OZUNtUW9WdW0tcXVxc3IyX2lsa0c1OXhOZW9KMXM4SmZrTXdiVDcxN0tCZXNFY016MUo3OXdWQzZNUW9qVk56LWR5Q3NUdXNtR0VIcDFxeVJBaTZGYnFla3ZqWElkS0ZxN3V6QmRmN0tQU1lP?oc=5",
@@ -1780,8 +1802,8 @@
       ]
     },
     {
-      "headline": "Persistently high inflation to nag global economy, say economists: Reuters poll - Reuters",
-      "description": "Persistently high inflation to nag global economy, say economists: Reuters poll Reuters",
+      "headline": "Persistently high inflation to nag global economy, say economists: Reuters poll - reuters.com",
+      "description": "Persistently high inflation to nag global economy, say economists: Reuters poll reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T12:27:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEo2VHZ0SXF4SFdaOU1LQ2pOaTRfUzBmUUJ0V0wxakdjbE03bkRzWmVMQU5VNXo4SzhrbGZnN3hSdm5vR1dLM2kxTU5NZi1aYVhlejVfQXlrZm5menB6VjE1TElMQUVpSmZyS0FnUWo3VDJScTFiTmJkQWFLcG1KTjZZZFBvbmU2SHM5U3UtbTVJYjhkS29HUHVpQjlwMlVUU3loQmRFQVFCNDV2Z0pLWDQtRHVlSzVpZzRqbHh3RQ?oc=5",
@@ -1863,8 +1885,8 @@
       ]
     },
     {
-      "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters",
-      "description": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz Reuters",
+      "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - reuters.com",
+      "description": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T10:48:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
@@ -1873,8 +1895,8 @@
       ]
     },
     {
-      "headline": "Fitch warns AI market correction emerging as major global credit risk - Reuters",
-      "description": "Fitch warns AI market correction emerging as major global credit risk Reuters",
+      "headline": "Fitch warns AI market correction emerging as major global credit risk - reuters.com",
+      "description": "Fitch warns AI market correction emerging as major global credit risk reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T10:37:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnVBTFdsSkpXUXYxYmFNSTF0dFRUWnBacGpRQnhBbnRiZ0dZR1ZfcHZ5QnlIY3NRMF95dUkzNTUzMDhBam9kak5LY3pFbHpMcXNUenhtOEtuQkRXT01xWU05TlZGNFc3d2ZXblZpSTcwNlNzUGQzYXN0UEJxbTRITURHQ1JROVhhRHM5TV9IV3U3QjRJdW5hMkY3ZkVMZUhuZTNsZDVPYTltcjFCd2s4VHJjMVo?oc=5",
@@ -1923,8 +1945,8 @@
       ]
     },
     {
-      "headline": "QatarEnergy extends force majeure on three LNG cargoes, Edison says - Reuters",
-      "description": "QatarEnergy extends force majeure on three LNG cargoes, Edison says Reuters",
+      "headline": "QatarEnergy extends force majeure on three LNG cargoes, Edison says - reuters.com",
+      "description": "QatarEnergy extends force majeure on three LNG cargoes, Edison says reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T09:52:09+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjFoVURwU0tFbHNSWWZTcVp2UTdVazl1MFRFdkFHR1VXdklMWHpsWVhFSXc2ejJzRGM1UC04U0RPeW9zZUxtVE1vZFV4WDRaUFRCWHN5MzhSVUtuWXpjamdNTmNXRTFVWjZSM29yak9pQll5b3JSYXUtWm5sUjRHeXNwRl9rWC1EUlNvWDFCaVBtbm5MS29IZnVYWUI3VmRPN0ZZVEhhN3p1TFlJYzU1SlMtUWdUdw?oc=5",
@@ -1963,8 +1985,8 @@
       ]
     },
     {
-      "headline": "India plans up to quarter of 2027 LPG imports from US, sources say - Reuters",
-      "description": "India plans up to quarter of 2027 LPG imports from US, sources say Reuters",
+      "headline": "India plans up to quarter of 2027 LPG imports from US, sources say - reuters.com",
+      "description": "India plans up to quarter of 2027 LPG imports from US, sources say reuters.com",
       "source": "Reuters",
       "publication_date": "2026-07-28T08:36:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWpEWnlhTE5jSlhXVEI3X01MbWxmOEZiQTZWNmpRZWpBSFpFUXd3OXZ0TzN1ZjU1VFc2dl92NnBRbE96WkF0SDNIYzA3Nmo2bWZSRU91MDlGRDVQSm1IUDVzWU9KeE9KSl93RzJjNVdEejhtRG50LWVGTmxRaXZnVllpcjFZNkRwWjlmTVFJNUt5alBrVnNTMll5UDVzWGlrNTdGLXJQOVZEQQ?oc=5",
@@ -2011,26 +2033,6 @@
       "article_url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bab el-Mandeb shipping rises amid hopes of resolution in US-Iran war - Reuters",
-      "description": "Bab el-Mandeb shipping rises amid hopes of resolution in US-Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T07:31:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVRYeklCVkdfd0l2ZjNMQWgwUFQ3RjVqQVVoUWV0ZlNWQTNhYWx2NnJWcE1lMncwLU0wcDhjakQ4MmtLb055cXJyVDZyeWVIVEJ4OEg3Z0tTbXVfTUtjT3NxNHpyWFZicm5DV1plVXVDWHBDZGtlMkdENVNlSkZzTVN1V29sQWE2Vm1YS3JHYTFlVmhsRzYyTHJFMWhQa2NRa1lNUmhJcnBvNzVvUm9BTnJyYWQ3Z2M?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "LVMH fails to reassure on luxury recovery, shares fall - Reuters",
-      "description": "LVMH fails to reassure on luxury recovery, shares fall Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T06:56:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWtZNHhBdGxBcHdOdXNWNHUyVGVHSHZNYzlUM2lOQTJDNk1lbjM2Tmo1VVhoVGxEckNuUVZBU2QtNkpKNXhEa0VLWWgzNVJCTzQ2WjhmU3NKVkliS1IzeDdPWHlLUTBtZTFKMkFPNHZUSzZhMHdNVEJNNTR2MWQ4VmNWVXcwbkdwdmNLaG01VEVfYUxMbGhmSjM0RHhNcE5MY3k4WkNRa0ZmT2RQdHlQT0pBV29ja1NNY2Nn?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
