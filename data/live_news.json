@@ -1,34 +1,64 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-30T00:11:24.458863+00:00",
+    "last_updated": "2026-07-30T03:27:45.547063+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 98,
-      "equities": 36,
       "crypto": 63,
-      "forex": 6,
+      "general": 97,
+      "equities": 36,
+      "forex": 5,
       "macro": 13,
-      "commodities": 7
+      "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "US says it successfully completed a 'heavy wave' of attacks on Iran",
+      "description": "<p>US Central Command released a statement:</p>At 10 p.m. ET on July 29, U.S. Central Command (CENTCOM) forces successfully completed a heavy wave of strikes against Iran in response to yesterday's attempted missile attacks on U.S. forces.CENTCOM assets struck dozens of Islamic Revolutionary Guard C",
+      "source": "Forexlive",
+      "publication_date": "2026-07-30T02:22:49+00:00",
+      "article_url": "https://investinglive.com/news/us-says-it-successfully-completed-a-heavy-wave-of-attacks-on-iran/",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
+      "description": "Pascal Caversaccio joins the Ethereum Foundation’s four-member board as the organization elevates privacy and security in its protocol strategy.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T01:34:26+00:00",
+      "article_url": "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US arbitration giant launches specialist panel for crypto disputes",
+      "description": "The American Arbitration Association’s Web3 Panel brings together specialists in blockchain, smart contracts, digital assets and autonomous transactions.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T00:29:11+00:00",
+      "article_url": "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Copeland تبدأ مفاوضات حصرية للاستحواذ على Dickson، في خطوة تعزِّز مكانتها الريادية في حلول سلسلة التبريد",
+      "description": "سانت لويس--(BUSINESS WIRE)--أعلنت Copeland، الشركة العالمية الرائدة في تقنيات الضواغط وحلول أنظمة التحكم، اليوم دخولها في مفاوضات حصرية تمهيدًا للاستحواذ على Dickson، وهي إحدى شركات محفظة May River Capital، ومزوّد لحلول مراقبة الظروف البيئية والبرمجيات القائمة بالأساس على السحابة للتطبيقات الخاضعة ل",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-30T00:13:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260729128930/ar/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
       "description": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
       "source": "CNBC",
       "publication_date": "2026-07-29T23:58:50+00:00",
       "article_url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Copeland inicia negociaciones exclusivas para adquirir Dickson, lo que potencia su liderazgo en la cadena de frío",
-      "description": "SAN LUIS--(BUSINESS WIRE)--Copeland, líder mundial en tecnologías de compresión y soluciones de control, acaba de anunciar que ha iniciado negociaciones exclusivas para la adquisición de Dickson, una empresa perteneciente a May River Capital y proveedora de soluciones de monitoreo ambiental y softwa",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-29T23:53:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260729782220/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -51,16 +81,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Trump is weighing another two-week campaign of strikes against Iran",
-      "description": "<p>There are no credible reports of explosions in Iran at the moment but I would expect them.</p><p>The WSJ reports that a US Commander has <a href=\"https://www.wsj.com/politics/policy/the-u-s-commander-with-a-two-week-plan-to-escalate-strikes-in-iran-0ce32cb2\" rel=\"follow\">suggested </a>to him a tw",
-      "source": "Forexlive",
-      "publication_date": "2026-07-29T22:39:29+00:00",
-      "article_url": "https://investinglive.com/news/trump-is-weighing-another-two-week-campaign-of-strikes-against-iran/",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -93,6 +113,16 @@
       "article_url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker - Reuters",
+      "description": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T21:48:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2Nvem1TcnlqcGxxZjc1Xy1RZHFPNDFWOU1HSVUyYk1DVjZuYUhYWV9QN1I1Q0JraUlHcTNyaEY1bUJTZVZZbl9BYi1pdTBXWTU4VXRzcHpRX25KUGtPUG8xM2FGVFpaWGh5M25OVXZpenZPeUMtbHdVdHNwMS1yTkVfNU1pR2N2aGhjcFZqakJjakdKWGNkSHNqWGUxTEZySzV6Ujh1ZVUtTEItSmtKd2lzVXJGamNDakVGT1B3?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1125,6 +1155,16 @@
       ]
     },
     {
+      "headline": "Turkey detains another opposition district mayor, others as crackdown expands - Reuters",
+      "description": "Turkey detains another opposition district mayor, others as crackdown expands Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T05:54:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU1neTBXLTV0OEQxU0lGVnRyNW5SQlktOEIxdng3ZG9JRUNHeVZvaDdhaWtfZUdEdnNtZFMtYmxhS3FQbFhFelB4cEhKV0NUeHJoZHBDOUhsSEJBTUcwX09DQXJhdmF6bXMzZV9nTHpaVjlGMUI2VWdfQ3NGbHRTd0FEVHFZU2dFY1JVV2RVOTZiUlVaWnJScERqdmk0WFk1NGttNVEtd1BCR2JTalN1cThMTWhIR0w0S01tbzhrNW9PUTlKbXc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
       "description": "",
       "source": "CoinDesk",
@@ -1196,6 +1236,16 @@
       ]
     },
     {
+      "headline": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says - Reuters",
+      "description": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T03:29:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
       "description": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.",
       "source": "Cointelegraph",
@@ -1227,21 +1277,21 @@
       ]
     },
     {
+      "headline": "US intercepts Iranian missile attack as West Asia tensions push oil prices higher",
+      "description": "US says it intercepted Iranian missiles targeting military bases as crude oil surged, Trump pursued diplomacy and Strait of Hormuz shipping talks continued",
+      "source": "Bloomberg",
+      "publication_date": "2026-07-29T02:18:09+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-07-28/trump-netanyahu-meet-at-white-house-us-dials-back-iran-threats",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
       "description": "Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood.",
       "source": "Cointelegraph",
       "publication_date": "2026-07-29T01:05:15+00:00",
       "article_url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says - Reuters",
-      "description": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T00:50:49+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1293,6 +1343,16 @@
       "source": "Reuters",
       "publication_date": "2026-07-28T23:47:02+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFdMVHoxTjY4QlIyd0phejJIRTFXTTlUQVFjT1ZCRkMtWFcyU055a1hrMGItMk16SklJWFctSXpJTk1XQmZkbThTd00yLXJfUEVVLTlWRGgyYjJsbTREWk1lTk02RWdjM0FjeDhlRlN0NE1qZU1qX1FYdWJJYXJFMkU3cmFBbkh0Y25MUnpYQm1KZ00xR2tDWFo3cW5tSWlXTi1vZGh2SHowby1oWmJ1cUZWNnJwT2VpSXNtOUNUbE5fVE83b1EtQkxLVTVMQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "American Airlines resumes flights after IT issue forced brief nationwide halt - Reuters",
+      "description": "American Airlines resumes flights after IT issue forced brief nationwide halt Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-28T23:46:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3BxLXZmR09KZlFlRWxlZDZJakZPZ0JQTXJrS2RSZzZxT09GVVd6czJzcEQteXNQVW5LLVdPbkFWMGZzU0xwejBHZ0E2T2lsbklwVFFxUERTSkt4czVkd18zSzQwdC1xa3ZOdnQxakdsRDVpeVNJOF9JNWI4WnVxdEJPWGp5bk1oUmRwbW1LbG1LTjBBSTVWb2lVcC16M25aT3R4MGliNHA0Q1lJ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1564,16 +1624,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-07-28T17:52:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334624/0/es/Univar-Solutions-adquiere-Interpur-Chemicals-y-ampl%C3%ADa-el-acceso-a-poliuretanos-y-recubrimientos-en-polvo-en-EMEA.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Univar Solutions Adquire a Interpur Chemicals, Ampliando o Acesso a Poliuretanos e Revestimentos em Pó na EMEA",
-      "description": "Para oferta uma gama mais ampla de produtos, maior expertise em formulações e um suprimento mais confiável para clientes dos setores de revestimentos e materiais de alta performance",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-28T17:52:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334624/0/pt/Univar-Solutions-Adquire-a-Interpur-Chemicals-Ampliando-o-Acesso-a-Poliuretanos-e-Revestimentos-em-P%C3%B3-na-EMEA.html",
       "asset_tags": [
         "general"
       ]
@@ -1916,6 +1966,16 @@
       ]
     },
     {
+      "headline": "Indian shares flat as IT, oil slide counter broad losses - Reuters",
+      "description": "Indian shares flat as IT, oil slide counter broad losses Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-28T10:21:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnJwazdxVWNUNTFKaldnOVZJaWhXS2gzOWZWanRFb0plaWl6MU8zbDVtNjJPb1hlYWhpWTZBOFZiV21nNmVQSWVEMTJzSDdiRjluTGdoeG83bzBDZ085UWtyT0JacnRXVnFPNzc1RVlPaVNQRHRSZDI3RWxLVUo4SEdySExrbldzYU1mcHpGdUFNMnhRTDZsdFlWSDNKNW1HRGR4anRpU3kwTDVvNnFhWkVlajFwU0pZVmlrekx3?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "AI is finding twice as many cyber flaws in 2026 as it did in 2025",
       "description": "The US National Vulnerabilities Database, a repository of digital security holes, recorded 45,207 flaws between January and Monday, a count approaching the total number found in all of 2025",
       "source": "Bloomberg",
@@ -1971,67 +2031,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-28T09:14:45+00:00",
       "article_url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-      "description": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T09:12:14+00:00",
-      "article_url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "India plans up to quarter of 2027 LPG imports from US, sources say - Reuters",
-      "description": "India plans up to quarter of 2027 LPG imports from US, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T08:36:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWpEWnlhTE5jSlhXVEI3X01MbWxmOEZiQTZWNmpRZWpBSFpFUXd3OXZ0TzN1ZjU1VFc2dl92NnBRbE96WkF0SDNIYzA3Nmo2bWZSRU91MDlGRDVQSm1IUDVzWU9KeE9KSl93RzJjNVdEejhtRG50LWVGTmxRaXZnVllpcjFZNkRwWjlmTVFJNUt5alBrVnNTMll5UDVzWGlrNTdGLXJQOVZEQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Inside the CME and CFTC’s battle over onchain perpetual futures",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T08:00:00+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T07:55:41+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin recovers from Asian session lows; Nasdaq futures remain under pressure",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T07:46:22+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-      "description": "Three users allege a fake Sparrow Wallet app on Apple’s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T07:40:40+00:00",
-      "article_url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
       ]
