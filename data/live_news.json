@@ -1,18 +1,70 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-30T19:22:20.438198+00:00",
+    "last_updated": "2026-07-30T20:43:23.011475+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 43,
-      "macro": 17,
-      "forex": 13,
+      "general": 86,
+      "forex": 14,
+      "equities": 42,
       "crypto": 63,
-      "general": 84,
+      "macro": 17,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
+      "description": "The Telegram founder said Russia designated him a terrorist after he refused government demands for mass surveillance and censorship on the messaging platform.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T19:54:06+00:00",
+      "article_url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures",
+      "description": "The proposed legislation referenced Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T19:45:52+00:00",
+      "article_url": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "'The Odyssey' extends stay in 70mm IMAX theaters as shows sell out weeks in advance",
+      "description": "Universal and IMAX have extended the availability of 70mm screenings of Christopher Nolan's retelling of Homer's epic into mid-September.",
+      "source": "CNBC",
+      "publication_date": "2026-07-30T19:24:10+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Okta acquires AI startup Permiso for about $200M: report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T19:13:00+00:00",
+      "article_url": "https://seekingalpha.com/news/4622027-okta-acquires-ai-startup-permiso-for-about-200m-report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran's Araqchi presses European counterparts over use of bases in US operations - Reuters",
+      "description": "Iran's Araqchi presses European counterparts over use of bases in US operations Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T19:03:48+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1U2RVJiSTk2d0ZGMzVLVlc4MXU2d0drYUotbVg5aEd0bUlQbHlCM2x6eVBIUmFiaE9iRGxBc2E5Q2FaaV9EcW1lcWNGSU90ck5OcU5VU1FMcGgyUkIzV3l2cTNVaXROZl9DcDZocm54TUR6aUxsN0gtQmsweDVNLXEzRVRITThFSlBjdjBxYWpQYjJ3LXZ3SllwOUtkLV9OekRNV2xtMXZCRmhfeHdzdFNZUERBQVFOekdOVS1HcUx0UW16anBYRW52UmhPMFN4?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
     {
       "headline": "Microsoft wins back Jim Cramer's support after a surprisingly good quarter",
       "description": "Jim Cramer has had a change of heart about Microsoft following Wednesday evening's earnings report.",
@@ -35,6 +87,16 @@
       ]
     },
     {
+      "headline": "Imports hold back US economic growth in Q2, but domestic demand robust - Reuters",
+      "description": "Imports hold back US economic growth in Q2, but domestic demand robust Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T18:36:01+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWh4Um5od3luS0pRM0hOYTNwN0Z4bElZWFBXVDRRdFFVT2FpejU4ZkQ3MTVuY3hYb1NpMVd4QXV4WFhFMFUwbTRCbGs2cGlPOW11LWUxdzFyRnU0a0cwZU02b0s5b012M0p3Y2prV25KT0RQd3BGZk52aWNlanFDSDh5UTRRUVYtc2lsSm1RWjM4MjlzMXFCcEVrVjNvYVNzN3pNTm1zU2ZpV1U?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
       "description": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.",
       "source": "Cointelegraph",
@@ -44,6 +106,16 @@
         "forex",
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "US issues sanctions targeting support networks for Iran's Mahan Air - Reuters",
+      "description": "US issues sanctions targeting support networks for Iran's Mahan Air Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T17:36:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWwwbkpQREZyMHd4cWZMcVdqOXZJZEpWMGpJeFRWcE1CVG53TElTMWdOa1pPSmVvelZXVUVJdkVvSWl2YU5vb1poSVFtR29vdmxtQnE5WW4zZ2Jvck5lSnM0Ykg5Z0dqU2xKa3l3ZVM0QjA2X0w2djluS1o4WUsxZU53bkp5YzY2MFRld3EtajFPS0NUemVuMTJfRGh2bU1VZk5HcjZ5NERoSjhab1RVRDZPZkIyRGs?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -165,7 +237,7 @@
       "description": "",
       "source": "CoinDesk",
       "publication_date": "2026-07-30T16:04:16+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+      "article_url": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
       "asset_tags": [
         "general"
       ]
@@ -312,16 +384,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336198/0/en/Teck-and-Anglo-American-announce-future-Anglo-Teck-Executive-Leadership-Team.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Iran's Araqchi presses European counterparts over use of bases in US operations - Reuters",
-      "description": "Iran's Araqchi presses European counterparts over use of bases in US operations Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T14:29:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1U2RVJiSTk2d0ZGMzVLVlc4MXU2d0drYUotbVg5aEd0bUlQbHlCM2x6eVBIUmFiaE9iRGxBc2E5Q2FaaV9EcW1lcWNGSU90ck5OcU5VU1FMcGgyUkIzV3l2cTNVaXROZl9DcDZocm54TUR6aUxsN0gtQmsweDVNLXEzRVRITThFSlBjdjBxYWpQYjJ3LXZ3SllwOUtkLV9OekRNV2xtMXZCRmhfeHdzdFNZUERBQVFOekdOVS1HcUx0UW16anBYRW52UmhPMFN4?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     },
     {
@@ -1074,8 +1136,8 @@
       ]
     },
     {
-      "headline": "Yen jumps as analysts suspect official intervention; dollar broadly weaker - Reuters",
-      "description": "Yen jumps as analysts suspect official intervention; dollar broadly weaker Reuters",
+      "headline": "Yen soars as analysts suspect official intervention; dollar broadly weaker - Reuters",
+      "description": "Yen soars as analysts suspect official intervention; dollar broadly weaker Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-30T01:13:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
@@ -1084,8 +1146,8 @@
       ]
     },
     {
-      "headline": "Oil falls on Hormuz talks - Reuters",
-      "description": "Oil falls on Hormuz talks Reuters",
+      "headline": "Oil falls more than 1% on proposed Saudi-led maritime defence coalition - Reuters",
+      "description": "Oil falls more than 1% on proposed Saudi-led maritime defence coalition Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-30T00:35:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
@@ -1701,16 +1763,6 @@
       ]
     },
     {
-      "headline": "Top Ships Inc. Announces Acquisition of three High Specification Newbuilding MR Tankers and Potential Gross Revenue Backlog of about $0.93 Billion",
-      "description": "ATHENS, Greece, July 29, 2026 (GLOBE NEWSWIRE) -- TOP Ships Inc. (the \"Company\" or \"TOP Ships\") (NYSE American: TOPS), an international owner and operator of modern, fuel-efficient \"ECO\" tanker vessels, announced today that it has entered into a share purchase agreement (the \"SPA\") with a related pa",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-29T12:45:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/29/3335241/14465/en/Top-Ships-Inc-Announces-Acquisition-of-three-High-Specification-Newbuilding-MR-Tankers-and-Potential-Gross-Revenue-Backlog-of-about-0-93-Billion.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group - Reuters",
       "description": "Norwegian teen found guilty in UK murder plot tied to Iran-linked group Reuters",
       "source": "Reuters",
@@ -1990,56 +2042,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-rises-toward-usd64-000-as-korea-s-record-chip-crash-leaves-crypto-untouched",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
-      "description": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T05:29:48+00:00",
-      "article_url": "https://cointelegraph.com/markets/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Uniswap founder rejects claims v4 fees reduce LP earnings",
-      "description": "Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol fees, rejecting claims the change reduces liquidity providers’ earnings.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T05:02:07+00:00",
-      "article_url": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Ships transiting via Bab el-Mandeb strait at highest in a week, data shows - Reuters",
-      "description": "Ships transiting via Bab el-Mandeb strait at highest in a week, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T03:51:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBIb1N2YnFXWFNSRVJrUlFkUE9WNGNiTWoxeGpEZDZQOTZzTmVwTnhWWEtXRXNKZkgxWk02NDVHODZlUGlKS09mOVVBcmhQQzQzRjNNaUhfU3l5UG1Ma2NCYWRSdWRmR043ZldTXzRJcnFVN1dsTWpGNUEtM2ZXU3dWTkhVRFFtbnVQaVpuNTlnM3RPUDRoOTlGYlhUemJ6dkFMamdZMlhIcmVlUjFGa2hMRzJDLTZXQWZJ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-      "description": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T03:43:05+00:00",
-      "article_url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US strikes Iran as widening war engulfs more countries - Reuters",
-      "description": "US strikes Iran as widening war engulfs more countries Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T03:29:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
