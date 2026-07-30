@@ -1,29 +1,99 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-30T06:08:07.883701+00:00",
+    "last_updated": "2026-07-30T08:46:57.249775+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 63,
+      "macro": 18,
       "forex": 7,
-      "commodities": 8,
-      "crypto": 67,
-      "macro": 16,
-      "equities": 36,
-      "general": 96
+      "equities": 32,
+      "general": 97,
+      "commodities": 10
     }
   },
   "articles": [
     {
-      "headline": "French economy bounces back in Q2 but overall momentum remains sluggish",
-      "description": "<ul><li>Q2 preliminary GDP +0.2% vs +0.2% q/q expected</li><li>Prior (Q1) -0.1%</li><li>Q2 preliminary GDP +0.7% vs +0.8% y/y expeced</li><li>Prior (Q1) +0.9%</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">The French economy is estimated to have rebounded in Q2, helped mostly by",
+      "headline": "Germany inflation seen picking up again in July as state readings accelerate",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">The German state readings released around the same time:</p><ul><li>Bavaria July CPI +2.8% vs +2.5% y/y prior</li><li>North Rhine Westphalia July CPI +2.7% vs +2.1% y/y prior</li><li>Saxony July CPI +2.7% vs +2.5% y/y prior</li><li>Baden Wue",
       "source": "Forexlive",
-      "publication_date": "2026-07-30T05:43:23+00:00",
-      "article_url": "https://investinglive.com/news/french-economy-bounces-back-in-q2-but-overall-momentum-remains-sluggish/",
+      "publication_date": "2026-07-30T08:21:26+00:00",
+      "article_url": "https://investinglive.com/news/germany-inflation-seen-picking-up-again-in-july-as-state-readings-accelerate/",
       "asset_tags": [
-        "forex",
-        "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Chinese newspaper warns of Bitcoin extortion scam using its name",
+      "description": "China Business Journal says fraudsters impersonated the publication, demanding Bitcoin to suppress purported investigative reports about targeted companies.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T07:28:57+00:00",
+      "article_url": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin ETF inflows return as Ether funds slip into outflows",
+      "description": "US spot Bitcoin ETFs recorded $32.1 million in inflows on Wednesday despite Bitcoin dipping below $64,000, ending a four-session outflow streak.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T07:05:23+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin, ether whipsaw wipes out $280 million even as prices remain flat over 24 hours",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-30T06:59:10+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Treasury sell-off continues after divided Fed holds interest rates steady",
+      "description": "U.S. Treasury yields continued their upward climb on Thursday as investors weighed the Federal Reserve's decision to hold interest rates steady.",
+      "source": "CNBC",
+      "publication_date": "2026-07-30T06:56:06+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Fluidra Delivers a Strong First Half of 2026 and Maintains Positive Momentum in a Dynamic Environment",
+      "description": "BARCELONA, Spain--(BUSINESS WIRE)--Fluidra (MAD:FDR), the global leader in equipment and connected solutions for the pool and wellness sector, delivered a strong first half of 2026, supported by an outstanding second quarter. This was driven by sales growth, disciplined cost management and strong ca",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-30T06:40:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260730673376/en/Fluidra-Delivers-a-Strong-First-Half-of-2026-and-Maintains-Positive-Momentum-in-a-Dynamic-Environment/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin analysts agree the Fed's hold was hawkish. They don't agree on what happens next.",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-30T06:28:58+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Shell's profit more than doubles to $9.8 billion as Iran war boosts oil, gas prices - Reuters",
+      "description": "Shell's profit more than doubles to $9.8 billion as Iran war boosts oil, gas prices Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T06:24:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVlEVkZ5c0ZFc3F3cjhHdllWWFNMNlAzR3VKVGR3cTFGQU11UUFJbWNzemJBLTIwX0lwWHBydVBySkUzS2dQQXJlZGpFRTNEdGljNENnaXNZQmQ0blUzejRLU3dsRlpLeExXZkJHdUlBcGlqZ3EyeFRIS2toSUdsbmpmTzh1eHJyODF4M2VtZi02ZHR3N2F5Sjd6Rk9nbXl1TmVrZWk1UXkwUHAxZjVZ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -59,14 +129,13 @@
       ]
     },
     {
-      "headline": "TSG Consumer to Acquire Majority Stake in Saltair",
-      "description": "SAN FRANCISCO & LOS ANGELES--(BUSINESS WIRE)--TSG Consumer (“TSG”), a leading private equity firm specializing in consumer brands, today announced it has signed a definitive agreement to acquire a majority stake in Saltair, the award-winning body care brand founded by entrepreneur and model Iskra La",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-30T05:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260729449825/en/TSG-Consumer-to-Acquire-Majority-Stake-in-Saltair/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say - Reuters",
+      "description": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T05:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RNZllsNDBHUFBXYUM5NGZzNnpoRHQ2bW11cDdJczVhX2NObmdGNTlSZGwxdVJBU1JyNGRqMmxGYkVYckFHUGE1bHBhSnQ3Q0p5RVJlOTE2S0EyWFc5NzgycmF1NjdpZG5YdzY0YUdGZG1WNjdwUmtPUW1PZTd0bVZEN2hoRWhnMjJrSjVDa2JJeUIyZDlKVlFGelhpWlpDOVBSclY3TVJqNmdTaEtSamlqUVNyR2lJaENqLTNOUlA?oc=5",
       "asset_tags": [
-        "equities",
-        "crypto"
+        "commodities"
       ]
     },
     {
@@ -92,6 +161,16 @@
       ]
     },
     {
+      "headline": "US military says latest strikes on Iran last two hours, hitting dozens of targets - Reuters",
+      "description": "US military says latest strikes on Iran last two hours, hitting dozens of targets Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T04:15:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYl9qUHF2eEJlVmxqM2ROX0NFVDE3SHVIeExWXzltdnl5dG1HSmprdzFha3lhWUt4dGRLeWFBSlE0ZlYySkhHdmpLcE51S3c3TV90azg5LTVhWWNNd3IydlAwT1djUmV4Ui1BR3pOUl9PcHBPWllxM1NDSmlnZUQ3RnZSeVd2X3BqSFVBR0U3cE1xaGwxVXpYWmtXanlZVHBNUGc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
       "description": "Luno and Gnosis joined a widening round of crypto restructurings in July, when at least 12 companies reported job cuts.",
       "source": "Cointelegraph",
@@ -99,6 +178,16 @@
       "article_url": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks - Reuters",
+      "description": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T03:35:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1Q3eDhzdHJoSFI2eU82OUU0Rk5ldHpVRy1pQWFMWmZwT3FQb2xJTlA2emJvNXUycE1rZmtHU0paeVFFaW5NTlJmVlF6enhKcEpaQXJrbE83aW53RXlneU1XVzRCUHNoNG9jUEozcEZBSWdHdFgtWkZIekhjZXJaRmE0MEIwbERianVKMmlJdmRZWjdiYjloM25oTENZZVFxTmxUbF9RRlo3QzJBYWxtYndmNjBPdE83b3lPeTlUV1ZaakE?oc=5",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -122,6 +211,17 @@
       ]
     },
     {
+      "headline": "Gold slips as higher Treasury yields offset focus on Warsh's inflation message - Reuters",
+      "description": "Gold slips as higher Treasury yields offset focus on Warsh's inflation message Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T01:25:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVJINlBLLWpMT3doZzQtUlVpbTFsZGt3c2xsczh0cmxHTEw1dG1HdFFNVUUxMkpuNE9pa1N5SDB0ZVVSYU51VUNvZ1lFdENrMmVzTUZ6RDAtYkp1Sm5hNy1PSXh6bmhKcTZMU3FtRmk0S1BSeUxNVWgtS3R0OWRIc0l2WG5ZaEpDVVAxT25FTTBacmMtYnlPTHh0bEdwQmUyVDRWUHFmSGJ4ZHBCRExSMGoybUlvTU16RGxxaE4zNm4?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Dollar recovers as Fed holds rates, US strikes Iran - Reuters",
       "description": "Dollar recovers as Fed holds rates, US strikes Iran Reuters",
       "source": "Reuters",
@@ -132,13 +232,13 @@
       ]
     },
     {
-      "headline": "Oil slips as markets look for cues on Gulf supplies - Reuters",
-      "description": "Oil slips as markets look for cues on Gulf supplies Reuters",
+      "headline": "Oil rises in volatile trade as US resumes attacks on Iran - Reuters",
+      "description": "Oil rises in volatile trade as US resumes attacks on Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-30T00:35:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
       "asset_tags": [
-        "general"
+        "macro"
       ]
     },
     {
@@ -182,11 +282,11 @@
       ]
     },
     {
-      "headline": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
-      "description": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports Reuters",
+      "headline": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies - Reuters",
+      "description": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-29T22:29:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
+      "publication_date": "2026-07-29T22:31:10+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0lZMmMtdTM4VmpUSmtNU004NzRoZWJjNWZFT1o1Z3d0dzQtNXk3OU9BdUt4QXFSZFNIdnhyX2tLMUpVbVZPSUtyZjU1bmNZYlVEd1NiQWh3cmtiRlpOLWVDTFF0NGRTVzlIa29laklPNWk5dmNsRkhHUG1RQ2hzWTh2Sm5MS004NWh3RE1fSHl6SWQ1enNKR3NxTm5fcTJObENkRV93VHo5Mk5iQ2tXdTIzOTE1d1l3UVc1OFZHaUJuUl9LOVE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -366,16 +466,6 @@
       ]
     },
     {
-      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
-      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T19:11:02+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
       "description": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
       "source": "CNBC",
@@ -466,6 +556,16 @@
       "article_url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "RPT Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
+      "description": "RPT Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T16:19:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1415,6 +1515,16 @@
       ]
     },
     {
+      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
+      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T00:27:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "European financial institutions launch RL1 cooperative blockchain network",
       "description": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
       "source": "Cointelegraph",
@@ -1607,6 +1717,16 @@
       ]
     },
     {
+      "headline": "Oil prices fall 5% to two-week low after several days without US-Iran strikes - Reuters",
+      "description": "Oil prices fall 5% to two-week low after several days without US-Iran strikes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-28T19:39:20+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSklqTGZRSVh1M0h3RXpnQWVxSFhReTZHdGZtakI4Skh5NGVuZnplUUVYRzRldjVmX2Mzald4bnJFNklGNnZ0QkRTeWhqb29OR2xzb0JVWkFTUEc4QTZBMDV4bU5TOWlMb2RQNE5EeVRuaXJvZE94azM3cnZEd25tTjNTNU9uZ2dVcnZOQnh3eVE4bmIxR0RTZk1Zb3pSNnlrYXdlQWJXOWxJLWs?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Ashland nears settlement with activist Ancora Holdings - Bloomberg",
       "description": "",
       "source": "SeekingAlpha",
@@ -1712,16 +1832,6 @@
       "source": "Reuters",
       "publication_date": "2026-07-28T18:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW1HX3dSOEgyLUVVTUlrOWgzUWNzQ3VDNXFENTdLRUJVMnpTbTV5MDNDSEVtUDc4dE9TSm1QakxlOGdSS1ZQNUI2dmlZM3lDRUxpSzk4eHJVcmpnWWd3b0VIbmZUTHc2SjBMZzUzalBwUC1rYThwX3FjN0NCZkhaSXdYQlpwd3RWdFluRU5QQzhZWWNkcmtNdUxuRWM?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Univar Solutions เข้าซื้อกิจการ Interpur Chemicals เพื่อให้ภูมิภาค EMEA เข้าถึงผลิตภัณฑ์โพลียูรีเทนและสารเคลือบชนิดผงได้มากขึ้น",
-      "description": "ซึ่งการดำเนินการนี้จะมอบตัวเลือกผลิตภัณฑ์ที่หลากหลายยิ่งขึ้น ความเชี่ยวชาญด้านสูตรผลิตภัณฑ์ที่ลึกซึ้งยิ่งขึ้น และความสามารถในการจัดซื้อจัดหาที่เชื่อถือได้มากขึ้นแก่ลูกค้าในกลุ่มผลิตภัณฑ์สารเคลือบและวัสดุสมรรถนะสูง",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-28T17:52:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334624/0/th/Univar-Solutions-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3-Interpur-Chemicals-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84-EMEA-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%9A%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99.html",
       "asset_tags": [
         "general"
       ]
@@ -1928,119 +2038,6 @@
       "article_url": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "description": "The downturn in chip stocks continues. Is the Nvidia selling at last overdone?",
-      "source": "CNBC",
-      "publication_date": "2026-07-28T12:57:10+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T12:46:05+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Persistently high inflation to nag global economy, say economists: Reuters poll - Reuters",
-      "description": "Persistently high inflation to nag global economy, say economists: Reuters poll Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T12:27:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeEo2VHZ0SXF4SFdaOU1LQ2pOaTRfUzBmUUJ0V0wxakdjbE03bkRzWmVMQU5VNXo4SzhrbGZnN3hSdm5vR1dLM2kxTU5NZi1aYVhlejVfQXlrZm5menB6VjE1TElMQUVpSmZyS0FnUWo3VDJScTFiTmJkQWFLcG1KTjZZZFBvbmU2SHM5U3UtbTVJYjhkS29HUHVpQjlwMlVUU3loQmRFQVFCNDV2Z0pLWDQtRHVlSzVpZzRqbHh3RQ?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Binance makes fighting crypto crime more difficult, says new report",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T12:24:02+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
-      "description": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T12:07:51+00:00",
-      "article_url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T11:59:17+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T11:37:31+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T11:09:16+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "1Inch moves to unite DeFi liquidity across 11 chains with Aqua",
-      "description": "Decentralized exchange aggregator 1Inch announced the launch of its Aqua protocol allowing users to provide liquidity to many protocols at once.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T11:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "1inch opens Aqua liquidity protocol across 13 chains",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T11:00:00+00:00",
-      "article_url": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz - Reuters",
-      "description": "Oman presents Iran with Gulf-backed plan for voluntary fees to use Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T10:48:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
