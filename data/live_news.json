@@ -1,18 +1,133 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-30T10:54:45.131607+00:00",
+    "last_updated": "2026-07-30T12:28:28.464457+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 98,
-      "crypto": 60,
+      "equities": 37,
       "forex": 7,
-      "commodities": 11,
-      "macro": 15,
-      "equities": 35
+      "commodities": 12,
+      "crypto": 61,
+      "macro": 16,
+      "general": 95
     }
   },
   "articles": [
+    {
+      "headline": "Ferrari raises 2026 guidance after Q2 earnings beat",
+      "description": "Ferrari is bumping up its 2026 guidance after beating Wall Street's second quarter expectations amid \"healthy\" demand for its products.",
+      "source": "CNBC",
+      "publication_date": "2026-07-30T11:58:06+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/30/ferrari-race-earnings-q2-2026.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged",
+      "description": "<p>Headlines:</p><ul><li><a href=\"https://investinglive.com/central-banks/boe-leaves-bank-rate-unchanged-at-3-75-in-july-meeting-as-expected\" rel=\"follow\">BOE leaves bank rate unchanged at 3.75% in July meeting, as expected</a></li><li><a href=\"https://investinglive.com/forex/usd-jpy-stumbles-lower-",
+      "source": "Forexlive",
+      "publication_date": "2026-07-30T11:54:28+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-extends-post-fed-drop-boe-keeps-bank-rate-unchanged/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Egypt says drone hit two ships at Mediterranean port as attacks on energy infrastructure widen",
+      "description": "The unclaimed attack comes as Iran, its Houthi alllies in Yemen and Iraqi militias have widen strikes on energy infrastructure across the region.",
+      "source": "CNBC",
+      "publication_date": "2026-07-30T11:53:56+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/30/egypt-drone-gas-ship-damietta-port-iran-war.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Intercontinental Exchange to acquire MarketAxess in $6B deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T11:49:16+00:00",
+      "article_url": "https://seekingalpha.com/news/4621512-intercontinental-exchange-to-acquire-marketaxess-in-6b-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
+      "description": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T11:46:43+00:00",
+      "article_url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "IonQ getting approval for SkyWater acquisition should improve its roadmap: Wedbush",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T11:37:59+00:00",
+      "article_url": "https://seekingalpha.com/news/4621508-ionq-getting-approval-for-skywater-acquisition-should-improve-its-roadmap-wedbush?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "MarketAxess Reports Second Quarter 2026 Financial Results",
+      "description": "NEW YORK--(BUSINESS WIRE)--MarketAxess Holdings Inc. (Nasdaq: MKTX), the operator of a leading electronic trading platform for fixed-income securities, today announced financial results for the second quarter ended June 30, 2026. 2Q26 Select Financial and Operational Highlights* Total revenues of $2",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-30T11:35:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260729765121/en/MarketAxess-Reports-Second-Quarter-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Wealth managers face a new challenger: their clients’ AI chatbots",
+      "description": "Large language models may give financial advisors a run for their money, but wealth management leaders say the human touch can't be replaced.",
+      "source": "CNBC",
+      "publication_date": "2026-07-30T11:30:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
+      "description": "The FT said Situational Awareness had approached investors and lenders after borrowing amplified losses during July’s AI stock sell-off.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T11:29:03+00:00",
+      "article_url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Soulloop Acquires Astrolumi.AI to Bring Astrologer-Led Daily Practice to WhatsApp",
+      "description": "Personalized astrology app Soulloop acquires multilingual conversational platform Astrolumi.AI, expanding its reach internationally through WhatsApp.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3335921/0/en/Soulloop-Acquires-Astrolumi-AI-to-Bring-Astrologer-Led-Daily-Practice-to-WhatsApp.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil steady as traders assess US-Iran conflict - Reuters",
+      "description": "Oil steady as traders assess US-Iran conflict Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T10:21:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
       "description": "FORM 8.3",
@@ -71,18 +186,6 @@
       "article_url": "https://seekingalpha.com/news/4621320-group-1-to-buy-hennessy-automobile-dealerships-to-add-17b-revenues?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Euro area economic sentiment sees a further rebound in July",
-      "description": "<ul><li>July final consumer confidence -15.9 vs -15.9 prelim</li><li>Prior -17.6</li><li>July economic confidence 96.9 vs 96.0 expected</li><li>Prior 95.0; revised to 95.4</li><li>July services confidence 4.7 vs 3.8 expected</li><li>Prior 3.2; revised to 4.2</li><li>July industrial confidence -6.1 v",
-      "source": "Forexlive",
-      "publication_date": "2026-07-30T09:09:23+00:00",
-      "article_url": "https://investinglive.com/news/euro-area-economic-sentiment-sees-a-further-rebound-in-july/",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -187,6 +290,16 @@
       ]
     },
     {
+      "headline": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks - Reuters",
+      "description": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T07:31:20+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1Q3eDhzdHJoSFI2eU82OUU0Rk5ldHpVRy1pQWFMWmZwT3FQb2xJTlA2emJvNXUycE1rZmtHU0paeVFFaW5NTlJmVlF6enhKcEpaQXJrbE83aW53RXlneU1XVzRCUHNoNG9jUEozcEZBSWdHdFgtWkZIekhjZXJaRmE0MEIwbERianVKMmlJdmRZWjdiYjloM25oTENZZVFxTmxUbF9RRlo3QzJBYWxtYndmNjBPdE83b3lPeTlUV1ZaakE?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "Chinese newspaper warns of Bitcoin extortion scam using its name",
       "description": "China Business Journal says fraudsters impersonated the publication, demanding Bitcoin to suppress purported investigative reports about targeted companies.",
       "source": "Cointelegraph",
@@ -229,18 +342,8 @@
       ]
     },
     {
-      "headline": "Fluidra Delivers a Strong First Half of 2026 and Maintains Positive Momentum in a Dynamic Environment",
-      "description": "BARCELONA, Spain--(BUSINESS WIRE)--Fluidra (MAD:FDR), the global leader in equipment and connected solutions for the pool and wellness sector, delivered a strong first half of 2026, supported by an outstanding second quarter. This was driven by sales growth, disciplined cost management and strong ca",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-30T06:40:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260730673376/en/Fluidra-Delivers-a-Strong-First-Half-of-2026-and-Maintains-Positive-Momentum-in-a-Dynamic-Environment/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US military says it hit dozens of Iran's IRGC targets - Reuters",
-      "description": "US military says it hit dozens of Iran's IRGC targets Reuters",
+      "headline": "Drone strike at Egypt's Damietta port raises new security threat near Suez - Reuters",
+      "description": "Drone strike at Egypt's Damietta port raises new security threat near Suez Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-30T06:30:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
@@ -353,16 +456,6 @@
       ]
     },
     {
-      "headline": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks - Reuters",
-      "description": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T03:35:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1Q3eDhzdHJoSFI2eU82OUU0Rk5ldHpVRy1pQWFMWmZwT3FQb2xJTlA2emJvNXUycE1rZmtHU0paeVFFaW5NTlJmVlF6enhKcEpaQXJrbE83aW53RXlneU1XVzRCUHNoNG9jUEozcEZBSWdHdFgtWkZIekhjZXJaRmE0MEIwbERianVKMmlJdmRZWjdiYjloM25oTENZZVFxTmxUbF9RRlo3QzJBYWxtYndmNjBPdE83b3lPeTlUV1ZaakE?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
       "description": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
       "source": "Cointelegraph",
@@ -401,16 +494,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
       "asset_tags": [
         "forex"
-      ]
-    },
-    {
-      "headline": "Oil rises for second straight day as US resumes attacks on Iran - Reuters",
-      "description": "Oil rises for second straight day as US resumes attacks on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T00:35:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -741,8 +824,8 @@
       ]
     },
     {
-      "headline": "RPT Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
-      "description": "RPT Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports Reuters",
+      "headline": "Egypt confirms drone caused fire on two gas vessels at Damietta - Reuters",
+      "description": "Egypt confirms drone caused fire on two gas vessels at Damietta Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-29T16:19:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
@@ -1414,16 +1497,6 @@
       ]
     },
     {
-      "headline": "Red Cat pulls preliminary proposal for Steyr Motors AG; no active offers remain",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-29T08:05:40+00:00",
-      "article_url": "https://seekingalpha.com/news/4620065-red-cat-pulls-preliminary-proposal-for-steyr-motors-ag-no-active-offers-remain?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "SpaceX is a battleground Solana must win",
       "description": "",
       "source": "CoinDesk",
@@ -1552,17 +1625,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBIb1N2YnFXWFNSRVJrUlFkUE9WNGNiTWoxeGpEZDZQOTZzTmVwTnhWWEtXRXNKZkgxWk02NDVHODZlUGlKS09mOVVBcmhQQzQzRjNNaUhfU3l5UG1Ma2NCYWRSdWRmR043ZldTXzRJcnFVN1dsTWpGNUEtM2ZXU3dWTkhVRFFtbnVQaVpuNTlnM3RPUDRoOTlGYlhUemJ6dkFMamdZMlhIcmVlUjFGa2hMRzJDLTZXQWZJ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "FLUENT Announces Shareholder Approval of All-Stock Transaction with Vireo Growth",
-      "description": "TORONTO, July 28, 2026 (GLOBE NEWSWIRE) -- FLUENT Corp. (“FLUENT”) (CSE: FNT.U) (OTCQB: CNTMF), a vertically-integrated, multi-state cannabis company, is pleased to announce that at its annual general and special meeting (the “Meeting”) of holders (“Shareholders”) of common shares (the “Common Share",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-29T03:48:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/29/3334953/0/en/FLUENT-Announces-Shareholder-Approval-of-All-Stock-Transaction-with-Vireo-Growth.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     },
     {
@@ -1977,66 +2039,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Iran executes two more men over January protests - Reuters",
-      "description": "Iran executes two more men over January protests Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T16:23:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZExxM2lWTlZla1lzRk4wQjVFNjVzeHhmb0Rva3hmQW8yd2RmZUV0TG0wLVRYV1dNcHdOZnJzUE5OWkthVUROR3JXWlVSSG1QS2JUVVZYMm4xV3JDX1c0Z2JsMThvNjFZLWswRmxaOVRRM3Y1MF83V1NGeHN6enVYbjJMQ3VKYnRfOXRNcWs5V21BQThCVVE2aFQweWxuRTQ3Sm9PUXdFT1N2UnM4VTZKWTdrRQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
-      "description": "Eligible US users can request IPO allocations, while customers in more than 110 countries gain access to tokenized Jersey Mike’s shares backed 1:1 by the underlying stock.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T16:20:57+00:00",
-      "article_url": "https://cointelegraph.com/markets/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T16:08:19+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
-      "description": "Core Scientific reported strong second-quarter revenue growth as AI colocation became its largest business, though a non-cash accounting charge resulted in a $1.15 billion net loss.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T15:47:00+00:00",
-      "article_url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T15:46:33+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future - Reuters",
-      "description": "VIDEO: Reza Pahlavi speaks to Reuters about Iran’s future Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T15:16:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZjVUT2xzdmdxdHE4ZnBlUWRNR1p5WmVsajRDU2tyRGpHRWdhYlA2dzNZRDJROFVxd1ZpNzdVSHpNMl8xLXFpeE5XbGRsR0t6MjA2YlI1YlJPdVE2VVBxRVdkZlNLLUpKN2gwTEdPd1g2SExQYTN2SVBuUUFnYzA1Vl85TlhBNHhpUUtlYWFHSWZMVm4xZnVqZVJtT19tZw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
