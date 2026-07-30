@@ -1,18 +1,127 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-30T20:43:23.011475+00:00",
+    "last_updated": "2026-07-30T21:51:52.087915+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 86,
-      "forex": 14,
-      "equities": 42,
-      "crypto": 63,
-      "macro": 17,
-      "commodities": 9
+      "equities": 45,
+      "crypto": 64,
+      "macro": 18,
+      "general": 85,
+      "forex": 15,
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
+      "description": "The Bitcoin treasury company said it has built a $3.75 billion cash reserve to support preferred stock payouts following the launch of its BTC monetization program.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T21:36:39+00:00",
+      "article_url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bank of America to acquire cybersecurity consulting firm MDSec",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T21:17:17+00:00",
+      "article_url": "https://seekingalpha.com/news/4622237-bank-of-america-to-acquire-cybersecurity-consulting-firm-mdsec?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
+      "description": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T21:04:59+00:00",
+      "article_url": "https://cointelegraph.com/news/world-cup-generated-20b-prediction-market-volume-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Coinbase Q2 profit misses estimates despite record crypto market share",
+      "description": "The crypto exchange blamed softer spot trading and low volatility for the earnings miss while highlighting growth in derivatives, stablecoins and tokenized finance.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T20:47:27+00:00",
+      "article_url": "https://cointelegraph.com/markets/coinbase-q2-earnings-record-crypto-market-share?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Americas FX news wrap 30 Jul",
+      "description": "<ul><li><a href=\"https://investinglive.com/stocks/snapback-rally-for-the-major-indices-amazon-and-apple-after-the-close\" rel=\"follow\">Snapback rally for the major indices. Amazon and Apple after the close.</a></li><li><a href=\"https://investinglive.com/news/dallas-fed-trimmed-mean-1-4-vs-2-7-in-may\"",
+      "source": "Forexlive",
+      "publication_date": "2026-07-30T20:41:32+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-30-jul/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Strategy books $8.2 billion second quarter loss on bitcoin price decline",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-30T20:32:13+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Electronic Arts says all regulatory approvals for its sale have been completed",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T20:30:03+00:00",
+      "article_url": "https://seekingalpha.com/news/4622132-electronic-arts-says-all-regulatory-approvals-for-its-sale-have-been-completed?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-30T20:18:33+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Drone strike in Egypt sparks security concerns about Suez oil exports - Reuters",
+      "description": "Drone strike in Egypt sparks security concerns about Suez oil exports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T20:08:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY19zWlhiQmx4WmRhRHRLMUdTbjhwdEdVcHpaUmMtWndRMlB1MFNiZ2pJMzJZcFJQWEJSTzdfSGl6R0FXV016c2JUODlSV0Y3ZzBEbWRFeUVkRDQxQ2p5S0VPRWoyc0lZS3pobjVGR0l5YTV1V1FEbmE2N1BscGlFZWlLTjl6Qmp4TDJmalFTX1ZYVUJEYkV2NjBCWVhuNmRsdC1UZzBCVm1GQ2djejdiWUo1UnBfT1UzNmc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Nextpower Completes Acquisition of Power Conversion Assets, Accelerates U.S. Manufacturing Ramp",
+      "description": "FREMONT, Calif.--(BUSINESS WIRE)--Nextpower™ (Nasdaq: NXT), a leading provider of clean power technology solutions, today announced the completion of its previously announced acquisition of complementary assets of Zigor Corporation’s power conversion business and its U.S.-based subsidiary, Apex Powe",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-30T20:05:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260730465682/en/Nextpower-Completes-Acquisition-of-Power-Conversion-Assets-Accelerates-U.S.-Manufacturing-Ramp/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
     {
       "headline": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
       "description": "The Telegram founder said Russia designated him a terrorist after he refused government demands for mass surveillance and censorship on the messaging platform.",
@@ -59,7 +168,7 @@
       "headline": "Iran's Araqchi presses European counterparts over use of bases in US operations - Reuters",
       "description": "Iran's Araqchi presses European counterparts over use of bases in US operations Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-30T19:03:48+00:00",
+      "publication_date": "2026-07-30T19:07:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT1U2RVJiSTk2d0ZGMzVLVlc4MXU2d0drYUotbVg5aEd0bUlQbHlCM2x6eVBIUmFiaE9iRGxBc2E5Q2FaaV9EcW1lcWNGSU90ck5OcU5VU1FMcGgyUkIzV3l2cTNVaXROZl9DcDZocm54TUR6aUxsN0gtQmsweDVNLXEzRVRITThFSlBjdjBxYWpQYjJ3LXZ3SllwOUtkLV9OekRNV2xtMXZCRmhfeHdzdFNZUERBQVFOekdOVS1HcUx0UW16anBYRW52UmhPMFN4?oc=5",
       "asset_tags": [
         "forex"
@@ -73,17 +182,6 @@
       "article_url": "https://www.cnbc.com/2026/07/30/microsoft-wins-back-jim-cramers-support-after-a-surprisingly-good-quarter.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "The NZDUSD and the AUDUSD are both up over 1% on the day. What next?",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The NZDUSD and AUDUSD are both posting strong gains today, with the NZD leading the way. The NZDUSD is up 1.45%, while the AUDUSD has advanced 1.05%.</p><p>For the NZDUSD, today's rally has pushed the pair above both the 50% and 61.8% retracement levels, wh",
-      "source": "Forexlive",
-      "publication_date": "2026-07-30T18:47:47+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/the-nzdusd-and-the-audusd-are-both-up-over-1-on-the-day-what-next/",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -177,16 +275,6 @@
       "article_url": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Inszone Insurance Services Acquires Advice Insurance Agency, Inc., Strengthening Auto Insurance Expertise",
-      "description": "SACRAMENTO, Calif.--(BUSINESS WIRE)-- #agencyacquisition--Inszone Insurance Services, a rapidly growing national provider of commercial, personal, and benefits insurance, is pleased to announce the acquisition of Advice Insurance Agency, Inc. This strategic acquisition further enhances Inszone's rob",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-30T17:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260616247768/en/Inszone-Insurance-Services-Acquires-Advice-Insurance-Agency-Inc.-Strengthening-Auto-Insurance-Expertise/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1959,87 +2047,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-29T07:16:47+00:00",
       "article_url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-      "description": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T07:11:27+00:00",
-      "article_url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough - Reuters",
-      "description": "Iran rules out regional management of Hormuz Strait, hitting hopes for breakthrough Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T07:06:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcm9JU2paOWtPTENMY1JfVDZWWTA5MDVrNUQ5b1FndWhaSVk5Q2psS3dhc0lPeFg5cEE0ZktEVXBzb2JZRmFiUWdXZHNBSU1ON1BLZEM2X21FYmd1T3BFd2tjbU4xSGlibVluMm1xY2xMV0plaTlhUExiMWZtYml6aWNhd1d3ZkcxWC1tN2Q4UzdFdE5QOEc1eWxVNEZIaHdmWTNPczRwbXFGNHZjQ3E1dVdyd3ZLYkRISndfOXFrbFhYdVdFWFdIQw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
-      "description": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T06:32:25+00:00",
-      "article_url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T06:25:21+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T06:03:28+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Turkey detains another opposition district mayor, others as crackdown expands - Reuters",
-      "description": "Turkey detains another opposition district mayor, others as crackdown expands Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T05:54:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQU1neTBXLTV0OEQxU0lGVnRyNW5SQlktOEIxdng3ZG9JRUNHeVZvaDdhaWtfZUdEdnNtZFMtYmxhS3FQbFhFelB4cEhKV0NUeHJoZHBDOUhsSEJBTUcwX09DQXJhdmF6bXMzZV9nTHpaVjlGMUI2VWdfQ3NGbHRTd0FEVHFZU2dFY1JVV2RVOTZiUlVaWnJScERqdmk0WFk1NGttNVEtd1BCR2JTalN1cThMTWhIR0w0S01tbzhrNW9PUTlKbXc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T05:37:38+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin rises toward $64,000 as Korea's record chip crash leaves crypto untouched",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T05:32:27+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-rises-toward-usd64-000-as-korea-s-record-chip-crash-leaves-crypto-untouched",
       "asset_tags": [
         "crypto"
       ]
