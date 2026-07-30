@@ -1,24 +1,112 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-30T03:27:45.547063+00:00",
+    "last_updated": "2026-07-30T06:08:07.883701+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 63,
-      "general": 97,
+      "forex": 7,
+      "commodities": 8,
+      "crypto": 67,
+      "macro": 16,
       "equities": 36,
-      "forex": 5,
-      "macro": 13,
-      "commodities": 8
+      "general": 96
     }
   },
   "articles": [
     {
-      "headline": "US says it successfully completed a 'heavy wave' of attacks on Iran",
-      "description": "<p>US Central Command released a statement:</p>At 10 p.m. ET on July 29, U.S. Central Command (CENTCOM) forces successfully completed a heavy wave of strikes against Iran in response to yesterday's attempted missile attacks on U.S. forces.CENTCOM assets struck dozens of Islamic Revolutionary Guard C",
+      "headline": "French economy bounces back in Q2 but overall momentum remains sluggish",
+      "description": "<ul><li>Q2 preliminary GDP +0.2% vs +0.2% q/q expected</li><li>Prior (Q1) -0.1%</li><li>Q2 preliminary GDP +0.7% vs +0.8% y/y expeced</li><li>Prior (Q1) +0.9%</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">The French economy is estimated to have rebounded in Q2, helped mostly by",
       "source": "Forexlive",
-      "publication_date": "2026-07-30T02:22:49+00:00",
-      "article_url": "https://investinglive.com/news/us-says-it-successfully-completed-a-heavy-wave-of-attacks-on-iran/",
+      "publication_date": "2026-07-30T05:43:23+00:00",
+      "article_url": "https://investinglive.com/news/french-economy-bounces-back-in-q2-but-overall-momentum-remains-sluggish/",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "South Korea report proposes stablecoin rules before crypto law",
+      "description": "Policy report recommends interim licensing guidance, greater flexibility for stablecoin issuers and rules ahead of the Digital Asset Basic Act.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T05:33:57+00:00",
+      "article_url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
+      "description": "The US Treasury said HormuzSafe accepted Bitcoin and other digital assets to evade sanctions and generate revenue for Iran’s Islamic Revolutionary Guard Corps.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T05:23:59+00:00",
+      "article_url": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-30T05:19:47+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "TSG Consumer to Acquire Majority Stake in Saltair",
+      "description": "SAN FRANCISCO & LOS ANGELES--(BUSINESS WIRE)--TSG Consumer (“TSG”), a leading private equity firm specializing in consumer brands, today announced it has signed a definitive agreement to acquire a majority stake in Saltair, the award-winning body care brand founded by entrepreneur and model Iskra La",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-30T05:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260729449825/en/TSG-Consumer-to-Acquire-Majority-Stake-in-Saltair/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "How to trade bitcoin after the Fed decision",
+      "description": "<p>Bitcoin analysis today after the Fed: BTC futures trade near a two-way decision zone</p><p>Bitcoin futures experienced a volatile reaction following the Federal Reserve decision, but the initial price swings did not produce a lasting directional breakout.</p><p>The July Bitcoin futures contract f",
+      "source": "Forexlive",
+      "publication_date": "2026-07-30T04:57:31+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/how-to-trade-bitcoin-after-the-fed-decision/",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-30T04:16:30+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
+      "description": "Luno and Gnosis joined a widening round of crypto restructurings in July, when at least 12 companies reported job cuts.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T04:13:34+00:00",
+      "article_url": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
+      "description": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-30T03:19:58+00:00",
+      "article_url": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
       ]
@@ -34,6 +122,26 @@
       ]
     },
     {
+      "headline": "Dollar recovers as Fed holds rates, US strikes Iran - Reuters",
+      "description": "Dollar recovers as Fed holds rates, US strikes Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T01:13:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Oil slips as markets look for cues on Gulf supplies - Reuters",
+      "description": "Oil slips as markets look for cues on Gulf supplies Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T00:35:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US arbitration giant launches specialist panel for crypto disputes",
       "description": "The American Arbitration Association’s Web3 Panel brings together specialists in blockchain, smart contracts, digital assets and autonomous transactions.",
       "source": "Cointelegraph",
@@ -41,16 +149,6 @@
       "article_url": "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Copeland تبدأ مفاوضات حصرية للاستحواذ على Dickson، في خطوة تعزِّز مكانتها الريادية في حلول سلسلة التبريد",
-      "description": "سانت لويس--(BUSINESS WIRE)--أعلنت Copeland، الشركة العالمية الرائدة في تقنيات الضواغط وحلول أنظمة التحكم، اليوم دخولها في مفاوضات حصرية تمهيدًا للاستحواذ على Dickson، وهي إحدى شركات محفظة May River Capital، ومزوّد لحلول مراقبة الظروف البيئية والبرمجيات القائمة بالأساس على السحابة للتطبيقات الخاضعة ل",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-30T00:13:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260729128930/ar/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -268,6 +366,16 @@
       ]
     },
     {
+      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
+      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T19:11:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Hims and Hers shares fall 10% as FTC sues company over data, billing practices",
       "description": "The FTC sued Hims & Hers over alleged health data sharing with Meta and Snap, billing practices and subscription cancellations.",
       "source": "CNBC",
@@ -356,16 +464,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-07-29T16:20:37+00:00",
       "article_url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "ZETRIX TO POWER PUBLIC BLOCKCHAIN FOR THE PHILIPPINES GOVERNMENT",
-      "description": "Partnership Marks Another Key Milestone for Expansion of Ecosystem Across ASEAN PETALING JAYA, Malaysia, July 7, 2026 /PRNewswire/ — The Zetrix Layer-1 public blockchain platform is set to serve as the underlying protocol for the public blockchain of the Philippines, following the signing of a landm",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-07-29T16:19:18+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/zetrix-to-power-public-blockchain-for-the-philippines-government/",
       "asset_tags": [
         "crypto"
       ]
@@ -912,6 +1010,16 @@
       ]
     },
     {
+      "headline": "First test of US-backed 'pilot zones' in south Lebanon lays bare difficulties - Reuters",
+      "description": "First test of US-backed 'pilot zones' in south Lebanon lays bare difficulties Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T10:29:47+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdGZqS29VSnIyQ2pLWmY2TEozU0NTRGNKR3hQZGJ1Sm1vVUJuVUxRZ0VvTDJQTHN5ZzhTSU9CZG9XT0tCcVFRb3JXb294SWYwUXk2WjJ3LVQwM2kwcHpfb2c1UFhYbWZGVG9kN0Yxc2tRcGo4Z0g3M2JpS0NCd2J1blJfSzlqaUNBTjBmVnY1dmltcnZpdWZYNDlSdXlOcVRqZzJWcGRZN0FNSi1Lc191OHJnQzQxY0l1WHJ4bVdlNXA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Form 8.3 - Rotork plc",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1236,8 +1344,8 @@
       ]
     },
     {
-      "headline": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says - Reuters",
-      "description": "Drone hits storage tanker at Egyptian port in major Middle East escalation, security firm says Reuters",
+      "headline": "US strikes Iran as widening war engulfs more countries - Reuters",
+      "description": "US strikes Iran as widening war engulfs more countries Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-29T03:29:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
@@ -1300,18 +1408,8 @@
       "headline": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq - Reuters",
       "description": "US military says US, Saudi forces struck sites of Iran-backed groups in Iraq Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-29T00:37:00+00:00",
+      "publication_date": "2026-07-29T00:38:30+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHJGTGM0cWxxc1lyajNFQ1Y1NXNKUUdnREtjZDk3Z3RaRUFabm41dmF2UE1YVTFfbVJNTHJWZTlRYzJCTEpGbnVRWlg1akk2cGJKamVPRmZQNEZZRFVsSFp1LXFOOWQxYzRObjYyYmQ1U29LWUVyRHAtNHVFcUplWHlZYWZnWVFJeTVxdmktRVdmaTJ2aTh6SkM5R3VJOEtKR254SzdEMFNyZFJHcHJGN3kwaE4ySVdSUngwbTdhZ1M?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
-      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T00:27:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1433,6 +1531,16 @@
       "source": "Reuters",
       "publication_date": "2026-07-28T21:00:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbnJtN1czaW5VenZ0NDdYRVM1OVVMcUhYR2E2RHNneXhfaWZBalUwSElsSWk4aEVwMC1WRnozUGs4RmkxSk1xUkV5ZXVkNWUyeEJfbTQ0Z2RRdXNmM1hsSjduWFhLOURoZHBSUm1IUDJXdHkxR0Q4NGZ3SU9FcDRudkRkVG1qcEszb1Z3bHpaV3lydjBKbWtPaUVadGJ3cmVIT2FCQzlDaGJURG4wU1NlQmFiLW1uMDl6?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere - Reuters",
+      "description": "Zendaya, Tom Holland and more at Spider Man: Brand New Day premiere Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-28T21:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGdyZGU4NERmYzlkMjdIYmptUk5GYXRvVUVuT1pPN3NlcjFEYzBaeVA0bmxrY0lNajJDTGoxb0FSWVd1bnJtZGFtRUtCMC1Cby1IV21XMUU1NGxJVThrc1lkR0RFdEozODVvNURqUXJySHpqcUNHR0lxeGFpQkpxYTNNWmNGd0ZkeXRPU0hsYkN6OGcyZGdZNFNNOGdJTnFocG54cVMtdGVxZ0kwTWJ6XzN5ZEUzTG1JX0wwZg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1614,16 +1722,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-07-28T17:52:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334624/0/th/Univar-Solutions-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3-Interpur-Chemicals-%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%84-EMEA-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B9%82%E0%B8%9E%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%B9%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%9A%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%87%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Univar Solutions adquiere Interpur Chemicals y amplía el acceso a poliuretanos y recubrimientos en polvo en EMEA",
-      "description": "Ofrece una mayor variedad de productos, un mayor conocimiento en formulación y un suministro más confiable para los clientes de recubrimientos y materiales de alto rendimiento.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-28T17:52:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334624/0/es/Univar-Solutions-adquiere-Interpur-Chemicals-y-ampl%C3%ADa-el-acceso-a-poliuretanos-y-recubrimientos-en-polvo-en-EMEA.html",
       "asset_tags": [
         "general"
       ]
@@ -1943,96 +2041,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWdMSVB3OUxtSmtXNWtjQW9EWHRKb0hKaUFkeXd4ek45MHpkUUhFWnNBNHpIUnJpM2RXYkU5MHJOaHN2c1BJeDdXZ0ZpZDdkVUNfbHczcmt2MExCQ082MUZWbnFxYXd4U0ZidUI4bUhWb3NMMjdNVjFyLXh1c3E2ZEVDY1dHSEpoSGFFVE0xWHRheGhRdXkybnBuTnVZSC0yaTl5U3QtdEJQenhEMThhSGVtQkZVcmRMakdN?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Fitch warns AI market correction emerging as major global credit risk - Reuters",
-      "description": "Fitch warns AI market correction emerging as major global credit risk Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T10:37:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnVBTFdsSkpXUXYxYmFNSTF0dFRUWnBacGpRQnhBbnRiZ0dZR1ZfcHZ5QnlIY3NRMF95dUkzNTUzMDhBam9kak5LY3pFbHpMcXNUenhtOEtuQkRXT01xWU05TlZGNFc3d2ZXblZpSTcwNlNzUGQzYXN0UEJxbTRITURHQ1JROVhhRHM5TV9IV3U3QjRJdW5hMkY3ZkVMZUhuZTNsZDVPYTltcjFCd2s4VHJjMVo?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Coca-Cola is about to report earnings. Here's what to expect",
-      "description": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
-      "source": "CNBC",
-      "publication_date": "2026-07-28T10:25:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Indian shares flat as IT, oil slide counter broad losses - Reuters",
-      "description": "Indian shares flat as IT, oil slide counter broad losses Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T10:21:05+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnJwazdxVWNUNTFKaldnOVZJaWhXS2gzOWZWanRFb0plaWl6MU8zbDVtNjJPb1hlYWhpWTZBOFZiV21nNmVQSWVEMTJzSDdiRjluTGdoeG83bzBDZ085UWtyT0JacnRXVnFPNzc1RVlPaVNQRHRSZDI3RWxLVUo4SEdySExrbldzYU1mcHpGdUFNMnhRTDZsdFlWSDNKNW1HRGR4anRpU3kwTDVvNnFhWkVlajFwU0pZVmlrekx3?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "AI is finding twice as many cyber flaws in 2026 as it did in 2025",
-      "description": "The US National Vulnerabilities Database, a repository of digital security holes, recorded 45,207 flaws between January and Monday, a count approaching the total number found in all of 2025",
-      "source": "Bloomberg",
-      "publication_date": "2026-07-28T10:11:46+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-27/ai-hunts-for-cyber-flaws-finding-record-numbers-in-tech-sector",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
-      "description": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T10:09:47+00:00",
-      "article_url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T10:05:43+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "QatarEnergy extends force majeure on three LNG cargoes, Edison says - Reuters",
-      "description": "QatarEnergy extends force majeure on three LNG cargoes, Edison says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-28T09:52:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjFoVURwU0tFbHNSWWZTcVp2UTdVazl1MFRFdkFHR1VXdklMWHpsWVhFSXc2ejJzRGM1UC04U0RPeW9zZUxtVE1vZFV4WDRaUFRCWHN5MzhSVUtuWXpjamdNTmNXRTFVWjZSM29yak9pQll5b3JSYXUtWm5sUjRHeXNwRl9rWC1EUlNvWDFCaVBtbm5MS29IZnVYWUI3VmRPN0ZZVEhhN3p1TFlJYzU1SlMtUWdUdw?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "BitMEX and BitMart may be first casualties of crypto trading slump",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-28T09:36:01+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-      "description": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-28T09:14:45+00:00",
-      "article_url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
