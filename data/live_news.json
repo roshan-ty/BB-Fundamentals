@@ -1,30 +1,150 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-31T11:46:19.954206+00:00",
+    "last_updated": "2026-07-31T13:21:21.648005+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 17,
-      "equities": 40,
-      "commodities": 11,
-      "crypto": 63,
-      "macro": 24,
-      "general": 86
+      "equities": 42,
+      "macro": 25,
+      "general": 86,
+      "commodities": 13,
+      "forex": 16,
+      "crypto": 59
     }
   },
   "articles": [
     {
-      "headline": "investingLive European markets wrap: Eurozone inflation ticks up in July; USD/JPY intervention again?",
-      "description": "<p>Headlines:</p><ul><li><a href=\"https://investinglive.com/news/how-have-interest-rate-expectations-changed-after-this-week-s-events-0\" rel=\"follow\">How have interest rate expectations changed after this week's events?</a></li><li><a href=\"https://investinglive.com/central-banks/boj-governor-ueda\" ",
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Friday",
+      "description": "Nasdaq futures are up, driven by an excellent quarter for Amazon.",
+      "source": "CNBC",
+      "publication_date": "2026-07-31T13:14:54+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/31/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "IonQ Completes Acquisition of SkyWater Technology",
+      "description": "COLLEGE PARK, Md. & BLOOMINGTON, Minn.--(BUSINESS WIRE)--IonQ (NYSE: IONQ), the world’s leading quantum platform company, today completed its acquisition of SkyWater Technology (NASDAQ: SKYT), the largest exclusively U.S.-based semiconductor foundry. “Acquiring SkyWater crystalizes IonQ’s vision to ",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-31T12:50:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260730292524/en/IonQ-Completes-Acquisition-of-SkyWater-Technology/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
+      "description": "It comes after a federal judge earlier this month denied Kalshi's attempts to intervene against the state's Gaming Commission.",
+      "source": "CNBC",
+      "publication_date": "2026-07-31T12:41:34+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/31/new-york-sues-kalshi-claims-it-is-illegal-gambling-operation.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 Picton Property Income Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T12:32:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336799/0/en/Form-8-3-Picton-Property-Income-Limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 NextEnergy Solar Fund Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T12:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336777/0/en/Form-8-3-NextEnergy-Solar-Fund-Limited.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Form 8.3 LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T12:28:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336773/0/en/Form-8-3-LondonMetric-Property-Plc-Schroder-Real-Estate-Investment-Trust-Limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 Advanced Medical Solutions Group",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T12:26:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336772/0/en/Form-8-3-Advanced-Medical-Solutions-Group.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The USD is higher to start the NA session. How are the charts impacting trader bias?",
+      "description": "<p></p><p class=\"PDq2pG_selectionAnchorContainer\">TGIF. The USD is higher to start the US session which retraces some of the declines seen yesterday after the sharp run lower helped by potential intervention in the JPY (Selling USD, Buying JPY). In the video above I will run through the technical le",
       "source": "Forexlive",
-      "publication_date": "2026-07-31T11:23:06+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-european-markets-wrap-eurozone-inflation-ticks-up-in-july-usd-jpy-intervention-again/",
+      "publication_date": "2026-07-31T12:17:17+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/the-usd-is-higher-to-start-the-na-session-how-are-the-charts-impacting-trader-bias/",
       "asset_tags": [
         "forex",
         "equities",
-        "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T12:17:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336766/0/en/Form-8-3-Gooch-Housego-plc-Octopus-Investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T12:17:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336767/0/en/Form-8-3-Advanced-Medical-Solutions-Group-plc-Octopus-Investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dragonfly Energy buys Dakota Lithium assets",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-31T12:06:45+00:00",
+      "article_url": "https://seekingalpha.com/news/4622621-dragonfly-energy-buys-dakota-lithium-assets?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Citadel buys bulk of Situational Awareness stock portfolio after AI rout: Reports",
+      "description": "Situational Awareness retained about $10 billion in assets, including its Anthropic stake, after reportedly selling leveraged public stock positions to Ken Griffin’s Citadel.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-31T11:35:33+00:00",
+      "article_url": "https://cointelegraph.com/markets/citadel-situational-awareness-stock-portfolio-ai-rout-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dragonfly Energy Announces Strategic Acquisition of Dakota Lithium Assets, Expanding Into New Markets",
+      "description": "Capital-efficient acquisition adds an established revenue base with expected Adjusted EBITDA accretion beginning in Q4 2026 Capital-efficient acquisition adds an established revenue base with expected Adjusted EBITDA accretion beginning in Q4 2026",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T11:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336734/0/en/Dragonfly-Energy-Announces-Strategic-Acquisition-of-Dakota-Lithium-Assets-Expanding-Into-New-Markets.html",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -48,20 +168,10 @@
       ]
     },
     {
-      "headline": "Dream versnelt de groei van haar vermogensbeheerplatform door de overname van Chancerygate, een toonaangevende Britse beheerder en ontwikkelaar van industriële vastgoedactiva",
-      "description": "TORONTO & LONDEN--(BUSINESS WIRE)--Dream Unlimited Corp. (\"Dream\") (TSX: DRM) heeft vandaag bekendgemaakt dat Dream en Dream Industrial Real Estate Investment Trust (\"Dream Industrial REIT\") (TSX: DIR.UN), definitieve overeenkomsten hebben gesloten waarbij Dream Chancerygate Limited (\"Chancerygate\" ",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-31T10:26:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260730740135/nl/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
       "headline": "Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters",
       "description": "Trump convenes Cabinet at Camp David amid simmering Iran war Reuters",
       "source": "Reuters",
-      "publication_date": "2026-07-31T10:05:43+00:00",
+      "publication_date": "2026-07-31T10:24:23+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
       "asset_tags": [
         "general"
@@ -273,8 +383,8 @@
       ]
     },
     {
-      "headline": "Oil steady as traders assess shipping flows; monthly gains in sight - Reuters",
-      "description": "Oil steady as traders assess shipping flows; monthly gains in sight Reuters",
+      "headline": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight - Reuters",
+      "description": "Oil rises over 1% as traders assess shipping flows; monthly gains in sight Reuters",
       "source": "Reuters",
       "publication_date": "2026-07-31T03:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWtnbUQ2S2JIalNxeXVETFdYcU95VDBtOHpPdlAxWDkzd1B0VVBPNnNpMW8xTGVRbkJ1NTFqbmJ0Ui1ucUUtSVhZeXZwRTQ4eE5FTWRkdzBlZEVJUzZHR0tKdnZTeXFoQlFPSHpGX0pqaEVVU3RhWFJqR2xNZnVJeDdOaG9ONUEtaThtRXhXakladzRkT2JvR1hxSEREVmxkRGRjQWw5ZTNoeTQ?oc=5",
@@ -960,26 +1070,6 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Picton Property Income Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T13:06:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336149/0/en/Form-8-3-Picton-Property-Income-Limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T13:03:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336145/0/en/Form-8-3-LondonMetric-Property-Plc-Schroder-Real-Estate-Investment-Trust-Limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Everything is becoming a perp",
       "description": "",
       "source": "CoinDesk",
@@ -1005,36 +1095,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-07-30T13:00:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336111/0/en/TPD-Design-House-Joins-the-Tarte-Family-Office-Launching-a-New-Era-of-Growth-in-Luxury-Event-Production.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T12:59:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336093/0/en/Form-8-3-Advanced-Medical-Solutions-Group.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T12:39:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336079/0/en/Form-8-3-Gooch-Housego-plc-Octopus-Investments.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T12:36:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336076/0/en/Form-8-3-Advanced-Medical-Solutions-Group-plc-Octopus-Investments.html",
       "asset_tags": [
         "general"
       ]
@@ -1487,6 +1547,16 @@
       ]
     },
     {
+      "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
+      "description": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-30T04:23:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
       "description": "",
       "source": "CoinDesk",
@@ -1618,6 +1688,16 @@
       ]
     },
     {
+      "headline": "US strikes Iran as widening war engulfs more countries - Reuters",
+      "description": "US strikes Iran as widening war engulfs more countries Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-07-29T23:34:01+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns - Reuters",
       "description": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns Reuters",
       "source": "Reuters",
@@ -1710,26 +1790,6 @@
       ]
     },
     {
-      "headline": "MiMedx agrees to buy Sanara MedTech for $35 a share",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-29T20:47:16+00:00",
-      "article_url": "https://seekingalpha.com/news/4620927-mimedx-agrees-to-buy-sanara-medtech-for-35-a-share?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Procore to acquire DroneDeploy for about $845M in cash",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-29T20:46:08+00:00",
-      "article_url": "https://seekingalpha.com/news/4620886-procore-to-acquire-dronedeploy-for-about-845m-in-cash?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Here are the five big takeaways from this week's Fed meeting",
       "description": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
       "source": "CNBC",
@@ -1782,26 +1842,6 @@
       ]
     },
     {
-      "headline": "Churchill Downs Incorporated Announces Definitive Agreement to Acquire 49% of United Tote Company from NYRA",
-      "description": "Acquisition Will Reinstate 100% Ownership of United Tote to CDI Acquisition Will Reinstate 100% Ownership of United Tote to CDI",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-29T20:07:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/29/3335583/12388/en/Churchill-Downs-Incorporated-Announces-Definitive-Agreement-to-Acquire-49-of-United-Tote-Company-from-NYRA.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "MIMEDX to Acquire Sanara MedTech",
-      "description": "Transformational Combination Creates a Leading Regenerative Medicine Company Across Numerous Surgical Subspecialties",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-29T20:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/29/3335544/0/en/MIMEDX-to-Acquire-Sanara-MedTech.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
       "description": "A White House crypto adviser said that the proposed changes to the CLARITY Act were “not even close” to the administration’s position, signaling another fight over the bill.",
       "source": "Cointelegraph",
@@ -1827,16 +1867,6 @@
       "source": "Reuters",
       "publication_date": "2026-07-29T19:14:50+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "AT&T, Verizon slip on report SpaceX looking to acquire competitors, compete in auction",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-29T19:14:38+00:00",
-      "article_url": "https://seekingalpha.com/news/4620744-at-and-t-verizon-slip-on-report-spacex-looking-to-acquire-competitors-compete-in-auction?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -2022,36 +2052,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnVuanlrc09DOXVLVXhCS2lsN0hPTHgyekdNQ0Z1Y2FlR2RBSEw2aUVSVGlJY2JuS3ZPUXo1NENWbDY3aUJhRDJTNF9IdnZSYkxyOFNPUkZwbF85amszUTAwekhPZG9zVlFjV25VelFrby1pSVpTc2NIb3d5RGU2eHRXTXRWTC1BNThUc2tEXzlQSEVacVlrallGTjdKQWpQZ2VOYTNUMA?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Ethereum Foundation names pcaversaccio to board amid leadership changes",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T14:11:21+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/07/29/ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "The inside story of how a hike in Hong Kong changed crypto trading forever",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T13:53:01+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on",
-      "description": "UEFA – European soccer's governing body – accused FIFA of \"crossing a line\" and said the tournament is not its to sell.",
-      "source": "CNBC",
-      "publication_date": "2026-07-29T13:42:03+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
