@@ -1,18 +1,69 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-31T18:45:29.232801+00:00",
+    "last_updated": "2026-07-31T20:12:15.137593+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 39,
-      "macro": 24,
-      "general": 81,
-      "crypto": 63,
-      "forex": 17,
-      "commodities": 13
+      "equities": 40,
+      "general": 82,
+      "forex": 16,
+      "crypto": 62,
+      "macro": 23,
+      "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "Integer gains on report KKR in talks to buy for $127 a share",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-31T19:19:11+00:00",
+      "article_url": "https://seekingalpha.com/news/4622946-integer-gains-on-report-kkr-in-talks-to-buy-for-127-a-share?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
+      "description": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to said the company growing too quickly.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-31T19:16:19+00:00",
+      "article_url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "GBPUSD buyers push the price above a swing area target.",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The GBPUSD surged higher yesterday, extending its rally toward a key swing level at 1.34797. However, during the Asia-Pacific and early European sessions, the pair corrected lower, retracing back to its converged 100-day and 200-day moving averages near 1.3",
+      "source": "Forexlive",
+      "publication_date": "2026-07-31T19:03:05+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/gbpusd-buyers-push-the-price-above-a-swing-area-target/",
+      "asset_tags": [
+        "forex",
+        "equities"
+      ]
+    },
+    {
+      "headline": "Andy Jassy soothed concerns over Amazon's massive AI spending. Here's how he did it",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-07-31T18:34:20+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/31/andy-jassy-soothed-concerns-over-amazons-massive-ai-spending-heres-how-he-did-it-.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-31T18:24:55+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
       "description": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
@@ -93,18 +144,6 @@
       "article_url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "EURUSD bounces higher and back toward key retracement target",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The EURUSD has been on its own rollercoaster ride today, plunging sharply lower before staging an equally impressive rebound during the North American session.</p><p class=\"PDq2pG_selectionAnchorContainer\"></p><p>The initial selloff pushed the pair back bel",
-      "source": "Forexlive",
-      "publication_date": "2026-07-31T17:04:51+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/eurusd-bounces-higher-and-back-toward-key-retracement-target/",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -1704,16 +1743,6 @@
       ]
     },
     {
-      "headline": "Soulloop Acquires Astrolumi.AI to Bring Astrologer-Led Daily Practice to WhatsApp",
-      "description": "Personalized astrology app Soulloop acquires multilingual conversational platform Astrolumi.AI, expanding its reach internationally through WhatsApp.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3335921/0/en/Soulloop-Acquires-Astrolumi-AI-to-Bring-Astrologer-Led-Daily-Practice-to-WhatsApp.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
       "description": "",
       "source": "CoinDesk",
@@ -2017,37 +2046,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
-      "description": "Pascal Caversaccio joins the Ethereum Foundation’s four-member board as the organization elevates privacy and security in its protocol strategy.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T01:34:26+00:00",
-      "article_url": "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Gold gains on softer dollar as markets assess Fed stance, Middle East tensions - Reuters",
-      "description": "Gold gains on softer dollar as markets assess Fed stance, Middle East tensions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T01:25:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVJINlBLLWpMT3doZzQtUlVpbTFsZGt3c2xsczh0cmxHTEw1dG1HdFFNVUUxMkpuNE9pa1N5SDB0ZVVSYU51VUNvZ1lFdENrMmVzTUZ6RDAtYkp1Sm5hNy1PSXh6bmhKcTZMU3FtRmk0S1BSeUxNVWgtS3R0OWRIc0l2WG5ZaEpDVVAxT25FTTBacmMtYnlPTHh0bEdwQmUyVDRWUHFmSGJ4ZHBCRExSMGoybUlvTU16RGxxaE4zNm4?oc=5",
-      "asset_tags": [
-        "forex",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Yen soars as analysts suspect official intervention; dollar broadly weaker - Reuters",
-      "description": "Yen soars as analysts suspect official intervention; dollar broadly weaker Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T01:13:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
