@@ -1,28 +1,222 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-07-31T15:34:49.583537+00:00",
+    "last_updated": "2026-07-31T17:10:29.980609+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 18,
-      "equities": 37,
+      "crypto": 63,
+      "general": 82,
       "macro": 22,
-      "crypto": 64,
-      "general": 85,
-      "commodities": 12
+      "equities": 37,
+      "commodities": 13,
+      "forex": 18
     }
   },
   "articles": [
     {
-      "headline": "USDCAD buyers reverse the declines from yesterday. MA resistance looms above.",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDCAD is moving higher today, reversing the declines from both yesterday and Wednesday. Recall that yesterday's weakness came as the U.S. dollar sold off broadly in sympathy with the sharp decline in USDJPY amid intervention speculation. That selling p",
+      "headline": "Ex-FTX users report funds being released in $900M distribution round",
+      "description": "Several users of the long-defunct crypto exchange reported that distribution agents had begun releasing funds to reimburse creditors for some of their 2022 losses.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-31T16:56:31+00:00",
+      "article_url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "BNP PARIBAS GROUP: ARVAL COMPLETES THE ACQUISITION OF ATHLON",
+      "description": "ARVAL COMPLETES THE ACQUISITION OF ATHLON",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T16:53:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336978/0/en/BNP-PARIBAS-GROUP-ARVAL-COMPLETES-THE-ACQUISITION-OF-ATHLON.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "GROUPE BNP PARIBAS : ARVAL A FINALISÉ L’ACQUISITION D’ATHLON",
+      "description": "ARVAL A FINALISÉ L’ACQUISITION D’ATHLON",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T16:53:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336978/0/fr/GROUPE-BNP-PARIBAS-ARVAL-A-FINALIS%C3%89-L-ACQUISITION-D-ATHLON.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ambarella jumps on report NXP Semiconductors in talks to purchase",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-31T16:45:56+00:00",
+      "article_url": "https://seekingalpha.com/news/4622890-ambarella-jumps-on-report-nxp-semiconductors-in-talks-to-purchase?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+      "description": "Tether’s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stablecoin market and continued pressure across the crypto sector.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-31T16:25:47+00:00",
+      "article_url": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+      "description": "Eligible retail and institutional users can use tokenized shares of Nvidia, Apple, Tesla and three other US companies across Bybit’s trading and lending products.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-31T16:23:21+00:00",
+      "article_url": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Blockchain for Good Alliance Brings Blockchain and AI to UN Cultural Diplomacy Forum, Urging Policymakers to Treat Verifiable Infrastructure as a Foundation for Trust",
+      "description": "DUBAI, UAE, July 8, 2026 /PRNewswire/ — Blockchain for Good Alliance (BGA), the global non-profit initiative founded by Bybit, dedicated to leveraging blockchain for societal impact, delivered a session at the Forum on Cultural Diplomacy at the United Nations in Geneva, contributing perspectives on ",
+      "source": "Cryptocurrency News",
+      "publication_date": "2026-07-31T16:19:07+00:00",
+      "article_url": "https://cryptocurrencynews.com/crypto/blockchain-for-good-alliance-brings-blockchain-and-ai-to-un-cultural-diplomacy-forum-urging-policymakers-to-treat-verifiable-infrastructure-as-a-foundation-for-trust/",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US Treasury yields rise as TIPS challenge the inflation narrative",
+      "description": "TIPS data points to rising real yields, not inflation, a dynamic that weighs on non-yielding assets like Bitcoin.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-31T16:14:19+00:00",
+      "article_url": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "International Money falls after Western Union results, deal close update",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-31T16:07:03+00:00",
+      "article_url": "https://seekingalpha.com/news/4622868-international-money-falls-after-western-union-results-deal-close-update?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
+      "description": "UEFA and Concacaf's rejection of FIFA's plan to sell a 20% stake in the World Cup's commercial operations highlights uneasiness with private equity in sports.",
+      "source": "CNBC",
+      "publication_date": "2026-07-31T16:00:11+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/31/fifa-world-cup-private-equity-sports.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "InterPro Acquires K&K Prairie Recycling Services, Strengthening Domestic Steel Production",
+      "description": "Acquisition bolsters InterPro supply chains as Canada’s Only 100% Domestic Steel Producer for Tubular Steel Needed by the Energy Sector Acquisition bolsters InterPro supply chains as Canada’s Only 100% Domestic Steel Producer for Tubular Steel Needed by the Energy Sector",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T16:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336950/0/en/InterPro-Acquires-K-K-Prairie-Recycling-Services-Strengthening-Domestic-Steel-Production.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "OVH Groupe finalise l’acquisition de Gladia, expert de l’IA vocale",
+      "description": "Roubaix, le 31 juillet 2026 – OVH Groupe (Euronext Paris : OVH), acteur souverain, mondial et leader européen du Cloud et de l’IA, annonce la finalisation de l’acquisition de Gladia, l’expert de l’IA speech-to-text (STT), annoncée le 11 juin 2026. L’opération a été réalisée par voie d’apport en natu",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T16:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336949/0/fr/OVH-Groupe-finalise-l-acquisition-de-Gladia-expert-de-l-IA-vocale.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "OVH Groupe completes the acquisition of Gladia, expert in voice AI",
+      "description": "Roubaix, July 31, 2026 – OVH Groupe (Euronext Paris: OVH), a sovereign, global player and European leader in Cloud and AI, announces the completion of the acquisition of Gladia, the expert in AI speech-to-text (STT), announced on June 11, 2026. The transaction was carried out by way of a contributio",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-31T16:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336949/0/en/OVH-Groupe-completes-the-acquisition-of-Gladia-expert-in-voice-AI.html",
+      "asset_tags": [
+        "forex",
+        "equities"
+      ]
+    },
+    {
+      "headline": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
+      "description": "Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end of the month, diverging from the relief bounce seen in Asia.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-07-31T15:57:03+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-two-week-lows-us-stocks-fail-copy-asia-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "AUDUSD retraces some of the gains seen yesterday. What next for traders?",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The AUDUSD has been on a rollercoaster ride this week, with sharp swings in both directions. The week began with the pair trading below its 100- and 200-hour moving averages. Sellers then pushed the price below a trendline and a key swing area, sending it t",
       "source": "Forexlive",
-      "publication_date": "2026-07-31T15:02:10+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usdcad-buyers-reverse-the-declines-from-yesterday-ma-resistance-looms-above/",
+      "publication_date": "2026-07-31T15:50:59+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/audusd-retraces-some-of-the-gains-seen-yesterday-what-next-for-traders/",
       "asset_tags": [
         "forex",
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "One Rock Capital Partners finalise un investissement stratégique visant à créer Eat Happy Hana Group",
+      "description": "NEW YORK et COLOGNE, Allemagne et PARIS et LONDRES--(BUSINESS WIRE)--One Rock Capital Partners, LLC (« One Rock ») a annoncé aujourd’hui qu’EAT HAPPY GROUP (« EAT HAPPY ») et les activités européennes de Hana Group SAS (« Hana ») ont mené à bien leur fusion précédemment annoncée, soutenue par un inv",
+      "source": "BusinessWire",
+      "publication_date": "2026-07-31T15:46:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260727468006/fr/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Quantum computing nears commercial breakthrough, IBM CEO says",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-07-31T15:39:30+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Activist Jana increases pressure on Alkami Technology in new letter - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-31T15:39:27+00:00",
+      "article_url": "https://seekingalpha.com/news/4622858-activist-jana-increases-pressure-on-alkami-technology-in-new-letter-report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
+      "description": "Following Microsoft's (MSFT) Q4 earnings and record-setting appreciation, the immediate binary event risk is officially behind us.",
+      "source": "CNBC",
+      "publication_date": "2026-07-31T15:26:31+00:00",
+      "article_url": "https://www.cnbc.com/2026/07/31/microsoft-shares-are-surging-heres-how-to-still-make-money-says-mike-khouw.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Ambarella edges higher amid takeover speculation",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-31T15:10:54+00:00",
+      "article_url": "https://seekingalpha.com/news/4622822-ambarella-edges-higher-amid-takeover-speculation?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -33,16 +227,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "The Presidio Group Exclusively Advised Von Housen Automotive Group on the Sale of San Francisco Exotic Cars in San Rafael, Calif., to indiGO Auto Group",
-      "description": "SAN FRANCISCO--(BUSINESS WIRE)-- #AutoDealers--The Presidio Group LLC (\"Presidio\"), an independent merchant banking firm focused on mergers and acquisitions, capital raising and investments in the automotive retail and consumer mobility sectors, exclusively advised Von Housen Automotive Group (“Von ",
-      "source": "BusinessWire",
-      "publication_date": "2026-07-31T14:22:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260731855566/en/The-Presidio-Group-Exclusively-Advised-Von-Housen-Automotive-Group-on-the-Sale-of-San-Francisco-Exotic-Cars-in-San-Rafael-Calif.-to-indiGO-Auto-Group/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -577,19 +761,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin price analysis today: BTC slips below $64,940 after $65,800 rejection",
-      "description": "<p>In terms of 'risk on' sentiment, <a href=\"https://investinglive.com/technical-analysis/s-p-and-nasdaq-indices-show-new-life-what-has-the-moves-higher-today-done-to-the-technicals/\" rel=\"noopener\" target=\"_blank\">the S&P 500 and Nasdaq are showing new life after testing key moving averages</a> and",
-      "source": "Forexlive",
-      "publication_date": "2026-07-31T04:56:27+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-price-analysis-today-btc-slips-below-64-940-after-65-800-rejection/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -1541,16 +1712,6 @@
       ]
     },
     {
-      "headline": "Group 1 to buy Hennessy Automobile dealerships to add $1.7B revenues",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-30T09:48:27+00:00",
-      "article_url": "https://seekingalpha.com/news/4621320-group-1-to-buy-hennessy-automobile-dealerships-to-add-17b-revenues?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
       "description": "",
       "source": "CoinDesk",
@@ -1572,16 +1733,6 @@
       ]
     },
     {
-      "headline": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T08:54:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3335824/0/en/Form-8-5-EPT-RI-CAB-Payments-Holdings-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Australia sues Telegram over alleged failures to remove terror content",
       "description": "Telegram faces Australian court proceedings after eSafety alleged the platform failed to detect and remove extremist material shared by users.",
       "source": "Cointelegraph",
@@ -1589,36 +1740,6 @@
       "article_url": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T08:43:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3335819/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-GAMMA-COMMUNICATIONS-PLC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - [ANIMALCARE GROUP PLC - 29 07 2026] - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T08:33:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3335817/0/en/Form-8-3-ANIMALCARE-GROUP-PLC-29-07-2026-CGWL.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 29 07 2026] - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T08:31:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3335816/0/en/Form-8-3-ADVANCED-MEDICAL-SOLUTIONS-GROUP-PLC-29-07-2026-CGWL.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1925,130 +2046,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T23:12:04+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
-      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T23:10:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Vertiv CEO addresses 17% stock plunge, disappointing quarter: ‘This is a temporary issue’",
-      "description": "Vertiv CEO Gio Albertazzi said the company's revenue growth miss reflected temporary project timing and supply chain issues, not weakening demand.",
-      "source": "CNBC",
-      "publication_date": "2026-07-29T23:00:02+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/29/vertiv-ceo-addresses-stock-plunge-disappointing-quarter.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies - Reuters",
-      "description": "Canadian oil heads to Japan for the first time in over a year as Iran war tightens Middle East supplies Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T22:31:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0lZMmMtdTM4VmpUSmtNU004NzRoZWJjNWZFT1o1Z3d0dzQtNXk3OU9BdUt4QXFSZFNIdnhyX2tLMUpVbVZPSUtyZjU1bmNZYlVEd1NiQWh3cmtiRlpOLWVDTFF0NGRTVzlIa29laklPNWk5dmNsRkhHUG1RQ2hzWTh2Sm5MS004NWh3RE1fSHl6SWQ1enNKR3NxTm5fcTJObENkRV93VHo5Mk5iQ2tXdTIzOTE1d1l3UVc1OFZHaUJuUl9LOVE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Robinhood posts record quarter as crypto revenue slides 38%",
-      "description": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T21:53:35+00:00",
-      "article_url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
-      "description": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August allowing it to offer prediction markets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T21:52:27+00:00",
-      "article_url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker - Reuters",
-      "description": "Trump says will hit Iran hard after attack, was briefed on Egypt tanker Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T21:48:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS2Nvem1TcnlqcGxxZjc1Xy1RZHFPNDFWOU1HSVUyYk1DVjZuYUhYWV9QN1I1Q0JraUlHcTNyaEY1bUJTZVZZbl9BYi1pdTBXWTU4VXRzcHpRX25KUGtPUG8xM2FGVFpaWGh5M25OVXZpenZPeUMtbHdVdHNwMS1yTkVfNU1pR2N2aGhjcFZqakJjakdKWGNkSHNqWGUxTEZySzV6Ujh1ZVUtTEItSmtKd2lzVXJGamNDakVGT1B3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say - Reuters",
-      "description": "Saudi Arabia seeks international coalition to protect Red Sea shipping from Houthis, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T20:49:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE5TWUJUaEd4QndCVnFrY2hva1NPZUVIVmZROEcwYkhPWVR0Q3gxdzVIZjFDVFVTZWIyNGwxV1dPb1luWmpveTV0cHl4cmFQbXB5bWgzUHBhenR1UFhYZWVoSGdJVjluZEx5TmYyYllqOEQtLS1UZ3VMemtWSHlHOHlvQjlpams0bGVSRjMxQzBFRmdOUEJBUVROZlZZOU5Dd2JFdldTTnRpWUFYSm5hSWdVWmhETkVTTXhPMFc0OTNCVi1DdXhxTA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Here are the five big takeaways from this week's Fed meeting",
-      "description": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
-      "source": "CNBC",
-      "publication_date": "2026-07-29T20:42:50+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-      "asset_tags": [
-        "forex",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-29T20:40:43+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Crypto entering biggest consolidation phase in history, says ARK analyst",
-      "description": "ARK Invest’s Lorenzo Valente says revenue is becoming increasingly concentrated among a handful of crypto protocols, setting the stage for more mergers, acquisitions and exchange closures.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-29T20:40:38+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US issues new Iran-related sanctions targeting insurers, more tankers - Reuters",
-      "description": "US issues new Iran-related sanctions targeting insurers, more tankers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T20:38:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHg0N2g3a2l6LTNFemIxenZFVEI0Unk4dnROM2JfZ3lPYXR4c2IxSFNOMG5ZM1EzdEEzeS1ETTVIbmRRTmRNMzZucTMyQU1xa0ItRWh1N2tDREZ3dDhBVGxITEphNkdlbVd1VWhWQmU4N25QZTE5Qk9vbHFQMkVDc1pqVUFCX0F0cFVqVVBlTjM4R2t2S2xuRDBlcTcxZ1F2ZGE5cDdLNmxNd3FQMDdrazZMbC1JRnlI?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
