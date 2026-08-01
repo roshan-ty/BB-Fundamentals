@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-01T08:37:32.039264+00:00",
+    "last_updated": "2026-08-01T10:23:29.680311+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 65,
+      "crypto": 66,
+      "general": 80,
       "forex": 15,
       "equities": 42,
       "macro": 23,
-      "general": 80,
-      "commodities": 12
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+      "description": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-01T09:23:56+00:00",
+      "article_url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-01T09:01:08+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Bitcoin ETFs end July in the green despite late-month selling",
       "description": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
@@ -2028,26 +2048,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say - Reuters",
-      "description": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T05:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RNZllsNDBHUFBXYUM5NGZzNnpoRHQ2bW11cDdJczVhX2NObmdGNTlSZGwxdVJBU1JyNGRqMmxGYkVYckFHUGE1bHBhSnQ3Q0p5RVJlOTE2S0EyWFc5NzgycmF1NjdpZG5YdzY0YUdGZG1WNjdwUmtPUW1PZTd0bVZEN2hoRWhnMjJrSjVDa2JJeUIyZDlKVlFGelhpWlpDOVBSclY3TVJqNmdTaEtSamlqUVNyR2lJaENqLTNOUlA?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
-      "description": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T04:23:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
