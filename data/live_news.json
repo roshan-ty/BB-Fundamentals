@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-01T11:44:36.241581+00:00",
+    "last_updated": "2026-08-01T12:43:33.419827+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 14,
-      "crypto": 72,
-      "general": 78,
-      "equities": 38,
-      "macro": 24,
-      "commodities": 12
+      "general": 81,
+      "forex": 16,
+      "crypto": 65,
+      "equities": 41,
+      "macro": 22,
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+      "description": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
+      "source": "CNBC",
+      "publication_date": "2026-08-01T12:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Russia expands crypto mining ban to Moscow through 2032",
       "description": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
@@ -1081,6 +1091,16 @@
       ]
     },
     {
+      "headline": "Bank of America to acquire cybersecurity consulting firm MDSec",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T21:17:17+00:00",
+      "article_url": "https://seekingalpha.com/news/4622237-bank-of-america-to-acquire-cybersecurity-consulting-firm-mdsec?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "World Cup generated $20B in blockchain prediction market volume: Chainalysis",
       "description": "The blockchain analytics firm said the World Cup attracted global participation in prediction markets and digital collectibles, with more than 400,000 wallets placing blockchain-based bets.",
       "source": "Cointelegraph",
@@ -1119,6 +1139,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Electronic Arts says all regulatory approvals for its sale have been completed",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T20:30:03+00:00",
+      "article_url": "https://seekingalpha.com/news/4622132-electronic-arts-says-all-regulatory-approvals-for-its-sale-have-been-completed?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1169,6 +1199,16 @@
       "source": "CNBC",
       "publication_date": "2026-07-30T19:24:10+00:00",
       "article_url": "https://www.cnbc.com/2026/07/30/the-odyssey-70mm-imax-run-extended-until-september.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Okta acquires AI startup Permiso for about $200M: report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T19:13:00+00:00",
+      "article_url": "https://seekingalpha.com/news/4622027-okta-acquires-ai-startup-permiso-for-about-200m-report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -1242,6 +1282,37 @@
       "publication_date": "2026-07-30T17:30:06+00:00",
       "article_url": "https://www.cnbc.com/2026/07/30/uefa-threatens-world-cup-boycott-over-fifa-investment-plan.html",
       "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "AMC CEO says he strongly supports Warner Bros/Paramount Skydance deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T17:06:11+00:00",
+      "article_url": "https://seekingalpha.com/news/4621907-amc-ceo-says-he-strongly-supports-warner-brosparamount-skydance-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Projet de transfert de cotation des actions de VANTIVA sur le marché Euronext Growth",
+      "description": "Communiqué de presse",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T17:05:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336329/0/fr/Projet-de-transfert-de-cotation-des-actions-de-VANTIVA-sur-le-march%C3%A9-Euronext-Growth.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Proposed Transfer of the Listing of Vantiva Shares to the Euronext Growth Market",
+      "description": "Press Release",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T17:05:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336329/0/en/Proposed-Transfer-of-the-Listing-of-Vantiva-Shares-to-the-Euronext-Growth-Market.html",
+      "asset_tags": [
+        "forex",
         "equities"
       ]
     },
@@ -1352,6 +1423,26 @@
       ]
     },
     {
+      "headline": "Northwest Pump Expands New Energy Capabilities with Acquisition of TechStar CNG Systems",
+      "description": "Northwest Pump acquires TechStar CNG Systems, expanding expertise in alternative fueling technologies, including RNG, CNG, hydrogen, and EV charging.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T15:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336225/0/en/Northwest-Pump-Expands-New-Energy-Capabilities-with-Acquisition-of-TechStar-CNG-Systems.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Shareholders Overwhelmingly Approve Transaction with Thoma Bravo",
+      "description": "Kneat shareholders overwhelmingly support transaction with Thoma Bravo in special meeting vote.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T15:28:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336224/0/en/Shareholders-Overwhelmingly-Approve-Transaction-with-Thoma-Bravo.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Across Tehran, billboards threaten Trump, Israel - Reuters",
       "description": "Across Tehran, billboards threaten Trump, Israel Reuters",
       "source": "Reuters",
@@ -1402,6 +1493,16 @@
       ]
     },
     {
+      "headline": "Blackstone to acquire ultrasound imaging for infrastructure business from Koch",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-07-30T14:39:21+00:00",
+      "article_url": "https://seekingalpha.com/news/4621768-blackstone-to-acquire-ultrasound-imaging-for-infrastructure-business-from-koch?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
       "description": "",
       "source": "CoinDesk",
@@ -1409,6 +1510,26 @@
       "article_url": "https://www.coindesk.com/policy/2026/07/30/cme-s-duffy-warns-an-overlooked-tax-risk-looms-over-u-s-perpetual-futures",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Healthcare M&A Deal Volume Drops in Q2:26, According to Acquisition Data from LevinPro HC",
+      "description": "Healthcare M&A activity decreased in Q2:26, with 459 publicly announced transactions, according to data captured in the LevinPro HC platform.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T14:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336197/0/en/Healthcare-M-A-Deal-Volume-Drops-in-Q2-26-According-to-Acquisition-Data-from-LevinPro-HC.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Teck and Anglo American announce future Anglo Teck Executive Leadership Team",
+      "description": "VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) -- Teck Resources Limited (TSX: TECK.A and TECK.B, NYSE: TECK) (“Teck”) and Anglo American plc (“Anglo American”) announce the composition of the future Executive Leadership Team (“ELT”) of Anglo Teck plc (“Anglo Teck”), the combined compan",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T14:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336198/0/en/Teck-and-Anglo-American-announce-future-Anglo-Teck-Executive-Leadership-Team.html",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1442,6 +1563,16 @@
       ]
     },
     {
+      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - easyJet plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T14:20:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336190/0/en/Davidson-Kempner-Capital-Management-LP-Form-8-3-easyJet-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "South Korean crypto trading surges amid stock market plunge",
       "description": "South Korean crypto exchanges saw a fresh spike in trading activity as the country’s stock market had several days of significant downside.",
       "source": "Cointelegraph",
@@ -1460,6 +1591,36 @@
       "article_url": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Leo International Precision Health AG: Veröffentlichung der Gesamtzahl der Stimmrechte nach § 41 WpHG mit dem Ziel der europaweiten Verbreitung",
+      "description": "Leo International Precision Health AG: Veröffentlichung der Gesamtzahl der Stimmrechte",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T14:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336176/0/de/Leo-International-Precision-Health-AG-Ver%C3%B6ffentlichung-der-Gesamtzahl-der-Stimmrechte-nach-41-WpHG-mit-dem-Ziel-der-europaweiten-Verbreitung.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Leo International Precision Health AG: Release according to Article 41 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution",
+      "description": "Leo International Precision Health AG: Total Voting Rights Announcement",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T14:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336176/0/en/Leo-International-Precision-Health-AG-Release-according-to-Article-41-of-the-WpHG-the-German-Securities-Trading-Act-with-the-objective-of-Europe-wide-distribution.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Form 8.3 -DCC plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T13:59:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336175/0/en/Form-8-3-DCC-plc.html",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1554,6 +1715,26 @@
       ]
     },
     {
+      "headline": "Linden Property Group Closes Largest Deal in Firm History, Acquiring 217-Unit Tysons Crossing with Partner Akridge",
+      "description": "Linden Property Group acquires 217-unit Tysons Crossing with Akridge, marking the largest deal in Linden's history.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T13:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336132/0/en/Linden-Property-Group-Closes-Largest-Deal-in-Firm-History-Acquiring-217-Unit-Tysons-Crossing-with-Partner-Akridge.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "TPD Design House Joins the Tarte Family Office, Launching a New Era of Growth in Luxury Event Production",
+      "description": "Uniting decades of creative excellence with the capital and expertise to grow, TPD Design House brings its creative and innovative talents to expand what's possible for clients in luxury events, branding, and experiential design. Uniting decades of creative excellence with the capital and expertise ",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T13:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336111/0/en/TPD-Design-House-Joins-the-Tarte-Family-Office-Launching-a-New-Era-of-Growth-in-Luxury-Event-Production.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Can China restrain Iran? Gulf states test Beijing's influence - Reuters",
       "description": "Can China restrain Iran? Gulf states test Beijing's influence Reuters",
       "source": "Reuters",
@@ -1564,6 +1745,16 @@
       ]
     },
     {
+      "headline": "Lite Strategy Repurchases 13% of Outstanding Shares Since December, Increasing Litecoin Backing Per Share",
+      "description": "Lite Strategy Repurchases 13% of Outstanding Shares Since December, Increasing Litecoin Backing Per Share",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T12:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336043/0/en/Lite-Strategy-Repurchases-13-of-Outstanding-Shares-Since-December-Increasing-Litecoin-Backing-Per-Share.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
       "description": "",
       "source": "CoinDesk",
@@ -1571,6 +1762,16 @@
       "article_url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Aureus Greenway Holdings Inc. and Autonomous Power Corporation (dba Powerus) Announce Public Filing of Form S-4 Registration Statement with the SEC",
+      "description": "WEST PALM BEACH, Fla. and ORLANDO, Fla., July 30, 2026 (GLOBE NEWSWIRE) -- Aureus Greenway Holdings Inc. (“AGH”) (Nasdaq: PUSA) and Autonomous Power Corporation, doing business as Powerus (“Powerus”), today jointly announced that AGH has filed a Form S-4 registration statement with the U.S. Securiti",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-07-30T12:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3335966/0/en/Aureus-Greenway-Holdings-Inc-and-Autonomous-Power-Corporation-dba-Powerus-Announce-Public-Filing-of-Form-S-4-Registration-Statement-with-the-SEC.html",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1846,209 +2047,6 @@
       "asset_tags": [
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
-      "description": "The US Treasury said HormuzSafe accepted Bitcoin and other digital assets to evade sanctions and generate revenue for Iran’s Islamic Revolutionary Guard Corps.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T05:23:59+00:00",
-      "article_url": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T05:19:47+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say - Reuters",
-      "description": "EXCLUSIVE: QatarEnergy buys 33 US LNG cargoes to offset Hormuz disruption, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T05:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RNZllsNDBHUFBXYUM5NGZzNnpoRHQ2bW11cDdJczVhX2NObmdGNTlSZGwxdVJBU1JyNGRqMmxGYkVYckFHUGE1bHBhSnQ3Q0p5RVJlOTE2S0EyWFc5NzgycmF1NjdpZG5YdzY0YUdGZG1WNjdwUmtPUW1PZTd0bVZEN2hoRWhnMjJrSjVDa2JJeUIyZDlKVlFGelhpWlpDOVBSclY3TVJqNmdTaEtSamlqUVNyR2lJaENqLTNOUlA?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say - Reuters",
-      "description": "EXCLUSIVE: Iran to get Chinese shoulder-launched missile systems in weeks, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T04:23:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR19sNWVrRDdhcXlNdTlxcUdNR0dNWDRBcjZPd21xOEM2bEYtdDJiWTEtYzlweWs5ZmtILVlhQkVUNzdaaENHbnhqTl9SSFNCZjk3eXNMS1o4SXFzT2VBS3VZZ0p6MVlrQldWNjRMUGlTN2tDR2xUOVBUdkdkTndueExrQm9vRGtTLTdBWjNGMDhZRC1qNDZXYVk3TXB0bWZ4ZFhpYUtfZ2JaalVZdjU3emN6LUptbjA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T04:16:30+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
-      "description": "Luno and Gnosis joined a widening round of crypto restructurings in July, when at least 12 companies reported job cuts.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T04:13:34+00:00",
-      "article_url": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
-      "description": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T03:19:58+00:00",
-      "article_url": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Pentagon signs $59-billion Patriot missile production deal with Lockheed",
-      "description": "The Pentagon awarded Lockheed Martin a $59 billion contract to triple Patriot missile production by 2030 as the US expands defence manufacturing.",
-      "source": "Bloomberg",
-      "publication_date": "2026-07-30T02:26:17+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/lockheed-wins-59-billion-deal-to-build-more-patriot-missiles",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Microsoft commits $130 billion-plus to new data centre leases amid AI boom",
-      "description": "Microsoft added over $130 billion in new data centre lease commitments as AI demand surged, taking total future lease obligations to $329.1 billion.",
-      "source": "Bloomberg",
-      "publication_date": "2026-07-30T01:57:41+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-over-130-billion-in-new-data-center-leases",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Microsoft Azure revenue tops $100 billion as cloud growth hits four-year high",
-      "description": "Microsoft beat quarterly estimates as Azure grew 43%, annual cloud revenue crossed $100 billion and Microsoft 365 Copilot reached 30 million paid users.",
-      "source": "Bloomberg",
-      "publication_date": "2026-07-30T01:53:54+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
-      "description": "Pascal Caversaccio joins the Ethereum Foundation’s four-member board as the organization elevates privacy and security in its protocol strategy.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T01:34:26+00:00",
-      "article_url": "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Gold gains on softer dollar as markets assess Fed stance, Middle East tensions - Reuters",
-      "description": "Gold gains on softer dollar as markets assess Fed stance, Middle East tensions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T01:25:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVJINlBLLWpMT3doZzQtUlVpbTFsZGt3c2xsczh0cmxHTEw1dG1HdFFNVUUxMkpuNE9pa1N5SDB0ZVVSYU51VUNvZ1lFdENrMmVzTUZ6RDAtYkp1Sm5hNy1PSXh6bmhKcTZMU3FtRmk0S1BSeUxNVWgtS3R0OWRIc0l2WG5ZaEpDVVAxT25FTTBacmMtYnlPTHh0bEdwQmUyVDRWUHFmSGJ4ZHBCRExSMGoybUlvTU16RGxxaE4zNm4?oc=5",
-      "asset_tags": [
-        "forex",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Yen soars as analysts suspect official intervention; dollar broadly weaker - Reuters",
-      "description": "Yen soars as analysts suspect official intervention; dollar broadly weaker Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T01:13:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUFkZlJYUUNoTkxoekFZRWtKQXR4WGFheDhRNjRwdTFTQzQza185ZHRUaFZmTi1Ka0dQSkpjbDVMZS1SZDJaUVhzMW5nQ3gwdkpLcFdtUjJ0NTM3dnpONFdlbmh2bUJkQWhocXp2N3VhRWdxVUhOSWpjbVg0elZyR2JDQ1lCU3FIeVJ5cXUzOTFsNktCZWNKQTFPdFNibmt5aDlBUg?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Oil settles down on proposed Saudi-led maritime defence coalition - Reuters",
-      "description": "Oil settles down on proposed Saudi-led maritime defence coalition Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T00:35:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJteE84X0d0aDA5bVgwcWZrTlJTTXNZVFNlRmduNGc3aWgyMDRjN3BiN1ZaY0NaSGtXa1VlQjdFSE1pRkxOTS1sQXc2WjkwbkY3Qng1N3g3azFoVUltcjVPVGo5aGM0YkZYVG5DLXM0RS1PSFhkeERKaXZVSFk1cGZXX3ZGS3otSU1FRUtPaTFyMUd0TENNeUtaTXNZeEkxTGJrcWdTcDY4UnRUMzg3ZzZ3OGpYdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US military says latest strikes on Iran last two hours, hitting dozens of targets - Reuters",
-      "description": "US military says latest strikes on Iran last two hours, hitting dozens of targets Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T00:34:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYl9qUHF2eEJlVmxqM2ROX0NFVDE3SHVIeExWXzltdnl5dG1HSmprdzFha3lhWUt4dGRLeWFBSlE0ZlYySkhHdmpLcE51S3c3TV90azg5LTVhWWNNd3IydlAwT1djUmV4Ui1BR3pOUl9PcHBPWllxM1NDSmlnZUQ3RnZSeVd2X3BqSFVBR0U3cE1xaGwxVXpYWmtXanlZVHBNUGc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US arbitration giant launches specialist panel for crypto disputes",
-      "description": "The American Arbitration Association’s Web3 Panel brings together specialists in blockchain, smart contracts, digital assets and autonomous transactions.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T00:29:11+00:00",
-      "article_url": "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Samsung Electronics second-quarter operating profit beats estimates on soaring AI chip demand",
-      "description": "Samsung Electronics extended its record run with second-quarter operating profit topping analysts' estimates.",
-      "source": "CNBC",
-      "publication_date": "2026-07-29T23:58:50+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US strikes Iran as widening war engulfs more countries - Reuters",
-      "description": "US strikes Iran as widening war engulfs more countries Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T23:34:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJoOXIwZmxCNHBjd05nc3dlYjNXXzd1NzdyQldTOVQ4S3NjZnNDRWdqdG1WUFRUS2tRSkJJTEhQYjJWa1FraklySUtoamVybzBfbUR4aUItanFrRG1hMDZJTzlSQ3lrS25SLUo4QzR0RVQxdmFSVUFaUFpHYWV0cmdnVURNVHJ1QzBzM0pIRTMwUmVFZmxwVVpyTklTallXU2ZLOGl3TDJ1U3VnRzd3bmZnQjVfcUw2a1pWSGdFOTNlUXFa?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns - Reuters",
-      "description": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T23:23:08+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Oil jumps 7% on escalating Middle East airstrikes - Reuters",
-      "description": "Oil jumps 7% on escalating Middle East airstrikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-29T23:10:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0ctWlZRN0hINkdrNUJmWWxpV0ZGNGw2Y2taRk1DbFBpdzd5bFdXQmJEcW9VRExnRFBtTWlTTHBRTU5tcDN2azF6VmtxdDN6WlVncmJxSVJhYjM4Wlctb3NEcnEzSWt4djdPSWJJX3ItYmpaN0UyZ09pbV85YjlRMkQ4RTV2RDE2c2NhYlRTdEVEUUFoWEVLMVBqUzhhX2xtVlJLUFp0RWFZTFpCSGJwMTRydUQ3NUx6ejJyYWFCdzBMVWpOYWZqbzF3?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
