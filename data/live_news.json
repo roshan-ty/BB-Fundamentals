@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-01T22:12:45.030764+00:00",
+    "last_updated": "2026-08-01T23:14:41.679321+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 67,
       "equities": 40,
+      "crypto": 67,
       "general": 82,
       "macro": 21,
       "forex": 15,
@@ -13,6 +13,16 @@
     }
   },
   "articles": [
+    {
+      "headline": "Strategy holds STRC dividend at 12%",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-01T22:01:57+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Onchain, in court: What happened in crypto legal news this week",
       "description": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
@@ -2036,16 +2046,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Australia sues Telegram over alleged failures to remove terror content",
-      "description": "Telegram faces Australian court proceedings after eSafety alleged the platform failed to detect and remove extremist material shared by users.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T08:49:40+00:00",
-      "article_url": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
