@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-01T17:45:08.134812+00:00",
+    "last_updated": "2026-08-01T18:45:16.040388+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 40,
       "crypto": 67,
+      "equities": 40,
       "general": 82,
-      "macro": 22,
-      "forex": 16,
+      "macro": 21,
+      "forex": 15,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+      "description": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-01T18:07:17+00:00",
+      "article_url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-01T16:51:35+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Universal Safety Products Subsidiary Universal DeFi Announces Development of Tokenization Platform",
       "description": "Company Says Platform Designed to Support Tokenization of Real-World Assets OWINGS MILLS, Md., July 7, 2026 /PRNewswire/ — Universal Safety Products, Inc. (NYSE American: UUU) (the “Company“) today announced that its wholly owned subsidiary Universal DeFi LLC (“Universal DeFi“) has begun development",
@@ -22,6 +42,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-01T16:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2016,38 +2046,6 @@
       "article_url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin, ether whipsaw wipes out $280 million even as prices remain flat over 24 hours",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T06:59:10+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Treasury sell-off continues after divided Fed holds interest rates steady",
-      "description": "U.S. Treasury yields continued their upward climb on Thursday as investors weighed the Federal Reserve's decision to hold interest rates steady.",
-      "source": "CNBC",
-      "publication_date": "2026-07-30T06:56:06+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Drone strike at Egypt port near Suez Canal ignites new shipping risks - Reuters",
-      "description": "Drone strike at Egypt port near Suez Canal ignites new shipping risks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T06:30:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
