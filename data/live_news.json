@@ -1,18 +1,70 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-01T15:39:00.613435+00:00",
+    "last_updated": "2026-08-01T16:39:18.471026+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 83,
+      "equities": 40,
+      "crypto": 67,
+      "general": 82,
       "macro": 22,
-      "crypto": 65,
       "forex": 16,
-      "equities": 39,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Universal Safety Products Subsidiary Universal DeFi Announces Development of Tokenization Platform",
+      "description": "Company Says Platform Designed to Support Tokenization of Real-World Assets OWINGS MILLS, Md., July 7, 2026 /PRNewswire/ — Universal Safety Products, Inc. (NYSE American: UUU) (the “Company“) today announced that its wholly owned subsidiary Universal DeFi LLC (“Universal DeFi“) has begun development",
+      "source": "Cryptocurrency News",
+      "publication_date": "2026-08-01T16:19:08+00:00",
+      "article_url": "https://cryptocurrencynews.com/crypto/universal-safety-products-subsidiary-universal-defi-announces-development-of-tokenization-platform/",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-01T15:51:10+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-01T15:48:27+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Crypto PAC pours another $1M into Michigan House race",
+      "description": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-01T15:44:02+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "SA Asks: Who else could make a bid for PayPal?",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-01T15:00:00+00:00",
+      "article_url": "https://seekingalpha.com/news/4623039-sa-asks-who-else-could-make-a-bid-for-paypal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Formosa Plastics Corporation, U.S.A. Announces Merger With Formosa Industries Corporation",
       "description": "LIVINGSTON, N.J.--(BUSINESS WIRE)--Formosa Plastics Corporation, U.S.A. today announced the completion of its merger with Formosa Industries Corporation, effective August 1, 2026.",
@@ -358,16 +410,6 @@
       "article_url": "https://www.cnbc.com/2026/07/31/jim-cramer-buy-this-industrial-stock-on-the-dip-if-you-dont-own-it-already.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Blockchain for Good Alliance Brings Blockchain and AI to UN Cultural Diplomacy Forum, Urging Policymakers to Treat Verifiable Infrastructure as a Foundation for Trust",
-      "description": "DUBAI, UAE, July 8, 2026 /PRNewswire/ — Blockchain for Good Alliance (BGA), the global non-profit initiative founded by Bybit, dedicated to leveraging blockchain for societal impact, delivered a session at the Forum on Cultural Diplomacy at the United Nations in Geneva, contributing perspectives on ",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-07-31T16:19:07+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/blockchain-for-good-alliance-brings-blockchain-and-ai-to-un-cultural-diplomacy-forum-urging-policymakers-to-treat-verifiable-infrastructure-as-a-foundation-for-trust/",
-      "asset_tags": [
-        "crypto"
       ]
     },
     {
@@ -1785,16 +1827,6 @@
       ]
     },
     {
-      "headline": "Lite Strategy Repurchases 13% of Outstanding Shares Since December, Increasing Litecoin Backing Per Share",
-      "description": "Lite Strategy Repurchases 13% of Outstanding Shares Since December, Increasing Litecoin Backing Per Share",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T12:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336043/0/en/Lite-Strategy-Repurchases-13-of-Outstanding-Shares-Since-December-Increasing-Litecoin-Backing-Per-Share.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
       "description": "",
       "source": "CoinDesk",
@@ -2014,36 +2046,6 @@
       "source": "Reuters",
       "publication_date": "2026-07-30T06:30:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUjlxdTM1SnYtZ3Bzei1qLUpRXzlYanVpb1MwNnRuQjY2NmkzZHNTeEl5cGljWGE5VDQ5ZHF0djVzVnV5OEprZWdlWUpPMV9fanYyN1N5cHdhbkxBZC1fZTlHWmpRMG8zdlRZV0hLSW9nTHU0S3JDZU44WWVHbnhWZVhRTVJ1Z0RaM25nR09fTFNTMUR2SVNkVXdlVHpDZHRmMXlJdDN3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin analysts agree the Fed's hold was hawkish. They don't agree on what happens next.",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T06:28:58+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices - Reuters",
-      "description": "Shell profit more than doubles to $9.8 billion, second-highest on record, as Iran war lifts prices Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T06:24:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVlEVkZ5c0ZFc3F3cjhHdllWWFNMNlAzR3VKVGR3cTFGQU11UUFJbWNzemJBLTIwX0lwWHBydVBySkUzS2dQQXJlZGpFRTNEdGljNENnaXNZQmQ0blUzejRLU3dsRlpLeExXZkJHdUlBcGlqZ3EyeFRIS2toSUdsbmpmTzh1eHJyODF4M2VtZi02ZHR3N2F5Sjd6Rk9nbXl1TmVrZWk1UXkwUHAxZjVZ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Britain's BAE Systems lifts 2026 outlook as defence orders soar - reuters.com",
-      "description": "Britain's BAE Systems lifts 2026 outlook as defence orders soar reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T06:14:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDlGSFdQdVJaNkpjNjc3Tmp0V2dnaXRSWmxvQVZiN2xlaTI2VUZobjhTTENBRjJxNUppSE9iek5qNFN3MUtpZEVHZndBZlRSSWFlLWwtbVF4Z19LUm83UHVfSXg1Z3EyMFVNMkFCZDU3T040X1ljR29SeUcwbm83Y3h3REo2Q2JOQnpQNFRmVTJqS2xHYWcxTHNTOHNaQVRtM0lJZnZTa1RZcHpvVXFnMG4yZEU5WUE?oc=5",
       "asset_tags": [
         "general"
       ]
