@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T17:27:58.422436+00:00",
+    "last_updated": "2026-08-02T18:33:40.127615+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 81,
+      "crypto": 66,
+      "general": 80,
       "forex": 18,
-      "crypto": 65,
       "equities": 38,
       "macro": 25,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-02T17:00:00+00:00",
+      "article_url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Emirates NBD to buy HSBC Egypt's retail banking business",
       "description": "",
@@ -2035,16 +2045,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-07-30T13:00:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336132/0/en/Linden-Property-Group-Closes-Largest-Deal-in-Firm-History-Acquiring-217-Unit-Tysons-Crossing-with-Partner-Akridge.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "TPD Design House Joins the Tarte Family Office, Launching a New Era of Growth in Luxury Event Production",
-      "description": "Uniting decades of creative excellence with the capital and expertise to grow, TPD Design House brings its creative and innovative talents to expand what's possible for clients in luxury events, branding, and experiential design. Uniting decades of creative excellence with the capital and expertise ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336111/0/en/TPD-Design-House-Joins-the-Tarte-Family-Office-Launching-a-New-Era-of-Growth-in-Luxury-Event-Production.html",
       "asset_tags": [
         "general"
       ]
