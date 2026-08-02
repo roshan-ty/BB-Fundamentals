@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T06:42:36.362140+00:00",
+    "last_updated": "2026-08-02T09:02:05.524651+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 65,
       "equities": 39,
-      "crypto": 64,
       "general": 82,
       "macro": 24,
       "forex": 16,
-      "commodities": 11
+      "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "description": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-02T08:04:56+00:00",
+      "article_url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Strategy holds STRC dividend at 12%",
       "description": "",
@@ -2037,16 +2047,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-07-30/inr-usd-india-central-bank-sold-about-7-billion-to-defend-rupee-on-friday",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks - Reuters",
-      "description": "QatarEnergy-controlled LNG tanker exits Hormuz, first in nearly three weeks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T10:03:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX1Q3eDhzdHJoSFI2eU82OUU0Rk5ldHpVRy1pQWFMWmZwT3FQb2xJTlA2emJvNXUycE1rZmtHU0paeVFFaW5NTlJmVlF6enhKcEpaQXJrbE83aW53RXlneU1XVzRCUHNoNG9jUEozcEZBSWdHdFgtWkZIekhjZXJaRmE0MEIwbERianVKMmlJdmRZWjdiYjloM25oTENZZVFxTmxUbF9RRlo3QzJBYWxtYndmNjBPdE83b3lPeTlUV1ZaakE?oc=5",
-      "asset_tags": [
-        "commodities"
       ]
     }
   ]
