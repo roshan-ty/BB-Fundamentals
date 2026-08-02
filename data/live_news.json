@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T10:52:00.207811+00:00",
+    "last_updated": "2026-08-02T12:06:31.424900+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 81,
       "crypto": 66,
       "equities": 39,
-      "general": 81,
       "macro": 24,
       "forex": 16,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
+      "description": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the company says it did not authorize or endorse.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-02T11:20:06+00:00",
+      "article_url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
       "description": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
@@ -2037,16 +2047,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says - Reuters",
-      "description": "Prolonged Iran war could keep spot LNG prices high, Tokyo Gas says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T10:33:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaU5PeWZ4OXFUWDgxdmJGM1NoWEJCdjBXQnRVQkxwT1dpWmtwd09UMjFKXzNIWjVjRVo0dWc4NXk4eTVXOEhNOHpqUjc3eVAzSnZyWWtxZEUwOU1lX0xVd0hTQ0tlanBKbUV5allqYlB2TmdjY212Tk9wbko0SmdycTFuZ0ZUYVlOd2N2d1I2SzFDdzRVRFl3MjZpcE5rRFd1T0tEWmpxQ0ttX3pETEt3NFBScjRrSlB1?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
