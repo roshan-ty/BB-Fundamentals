@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T19:57:10.620406+00:00",
+    "last_updated": "2026-08-02T21:03:00.325804+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 79,
+      "general": 80,
       "crypto": 67,
       "forex": 18,
-      "equities": 38,
+      "equities": 37,
       "macro": 25,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Prysmian is said to near $2.5 billion deal for Atkore",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-02T19:58:42+00:00",
+      "article_url": "https://seekingalpha.com/news/4623152-prysmian-is-said-to-near-2_5-billion-deal-for-atkore?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "AstraZeneca, Bristol Myers held merger talks, Financial Times reports",
       "description": "",
@@ -2037,16 +2047,6 @@
       "article_url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Thursday",
-      "description": "Best earnings of last night belongs to Club name Starbucks. Plus, updates on Meta and Microsoft.",
-      "source": "CNBC",
-      "publication_date": "2026-07-30T13:07:12+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
