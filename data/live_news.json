@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T13:57:52.159216+00:00",
+    "last_updated": "2026-08-02T15:09:54.338423+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "crypto": 65,
       "forex": 17,
       "general": 81,
-      "equities": 39,
+      "equities": 38,
       "macro": 24,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "The reverse bridge: Crypto meets Wall Street using perps",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-02T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Op-ed: The U.S. lead over China in AI is all but gone",
       "description": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
@@ -2036,17 +2046,6 @@
       "article_url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
-      "description": "The FT said Situational Awareness had approached investors and lenders after borrowing amplified losses during July’s AI stock sell-off.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T11:29:03+00:00",
-      "article_url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     }
   ]
