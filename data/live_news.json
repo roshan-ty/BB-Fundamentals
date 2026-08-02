@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T15:09:54.338423+00:00",
+    "last_updated": "2026-08-02T16:15:01.098092+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 39,
+      "macro": 25,
       "crypto": 65,
       "forex": 17,
-      "general": 81,
-      "equities": 38,
-      "macro": 24,
+      "general": 80,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+      "description": "Investors have previously benefited from a payout boost when the preferred STRC shares traded well below their $100 par value for a month.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-02T15:23:33+00:00",
+      "article_url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
     {
       "headline": "The reverse bridge: Crypto meets Wall Street using perps",
       "description": "",
@@ -2036,16 +2047,6 @@
       "article_url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Wealth managers face a new challenger: their clients’ AI chatbots",
-      "description": "Large language models may give financial advisors a run for their money, but wealth management leaders say the human touch can't be replaced.",
-      "source": "CNBC",
-      "publication_date": "2026-07-30T11:30:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/30/wealth-managers-ai-chatbots.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
