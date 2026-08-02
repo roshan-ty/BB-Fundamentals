@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T12:06:31.424900+00:00",
+    "last_updated": "2026-08-02T13:57:52.159216+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 65,
+      "forex": 17,
       "general": 81,
-      "crypto": 66,
       "equities": 39,
       "macro": 24,
-      "forex": 16,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Op-ed: The U.S. lead over China in AI is all but gone",
+      "description": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+      "source": "CNBC",
+      "publication_date": "2026-08-02T12:30:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-02T12:03:51+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Why flights are so expensive and will likely stay that way",
+      "description": "Airlines are paying billions of dollars more in fuel costs this year",
+      "source": "CNBC",
+      "publication_date": "2026-08-02T12:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
     {
       "headline": "BNB Chain pursues legal action after ex-employee’s memecoin launch",
       "description": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the company says it did not authorize or endorse.",
@@ -2016,36 +2046,6 @@
       "article_url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin ETFs on track for the smallest monthly inflows ever",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T11:18:34+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T11:17:56+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T10:56:24+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
-      "asset_tags": [
         "crypto"
       ]
     }
