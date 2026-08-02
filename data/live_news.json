@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T18:33:40.127615+00:00",
+    "last_updated": "2026-08-02T19:57:10.620406+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 66,
-      "general": 80,
+      "general": 79,
+      "crypto": 67,
       "forex": 18,
       "equities": 38,
       "macro": 25,
@@ -13,6 +13,26 @@
     }
   },
   "articles": [
+    {
+      "headline": "AstraZeneca, Bristol Myers held merger talks, Financial Times reports",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-02T19:23:49+00:00",
+      "article_url": "https://seekingalpha.com/news/4623151-astrazeneca-bristol-myers-held-merger-talks-financial-times-reports?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Counting down the days: State of Crypto",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-02T18:30:00+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
       "description": "",
@@ -2027,26 +2047,6 @@
       "article_url": "https://www.cnbc.com/2026/07/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Everything is becoming a perp",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Linden Property Group Closes Largest Deal in Firm History, Acquiring 217-Unit Tysons Crossing with Partner Akridge",
-      "description": "Linden Property Group acquires 217-unit Tysons Crossing with Akridge, marking the largest deal in Linden's history.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-30T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336132/0/en/Linden-Property-Group-Closes-Largest-Deal-in-Firm-History-Acquiring-217-Unit-Tysons-Crossing-with-Partner-Akridge.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
