@@ -1,28 +1,78 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-03T02:33:44.649461+00:00",
+    "last_updated": "2026-08-03T05:59:49.098320+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 38,
-      "commodities": 10,
-      "macro": 23,
-      "crypto": 67,
-      "general": 80,
-      "forex": 17
+      "general": 82,
+      "equities": 39,
+      "macro": 22,
+      "crypto": 65,
+      "forex": 17,
+      "commodities": 9
     }
   },
   "articles": [
     {
-      "headline": "China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The slowdown to a four-month low of 50.9 signals moderating but still-positive momentum in China's private manufacturing sector, a more nuanced picture than outright weakness given new orders extended their longest growth r",
+      "headline": "WORLDLINE : Worldline annonce la finalisation de la cession de ses activités de paiement en Inde à BillDesk",
+      "description": "Worldline annonce la finalisation de la cession deses activités de paiement en Inde à BillDesk",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-03T05:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337213/0/fr/WORLDLINE-Worldline-annonce-la-finalisation-de-la-cession-de-ses-activit%C3%A9s-de-paiement-en-Inde-%C3%A0-BillDesk.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "WORLDLINE : Worldline announces the finalisation of the sale of its Indian payment activities to BillDesk",
+      "description": "Worldline announces the finalisation of the sale of its Indian payment activities to BillDesk",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-03T05:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337213/0/en/WORLDLINE-Worldline-announces-the-finalisation-of-the-sale-of-its-Indian-payment-activities-to-BillDesk.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US-Iran conflict: Round and round we go..",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">Six weeks ago, the US and Iran signed off on a ceasefire deal or memorandum of understanding as they would frame it. The agreement was meant to pave the way for nuclear talks but after three weeks of nothingness, it all came crashing down ag",
       "source": "Forexlive",
-      "publication_date": "2026-08-03T01:59:07+00:00",
-      "article_url": "https://investinglive.com/news/china-s-ratingdog-manufacturing-pmi-eases-to-50-9-eighth-month-of-growth/",
+      "publication_date": "2026-08-03T05:13:22+00:00",
+      "article_url": "https://investinglive.com/news/us-iran-conflict-round-and-round-we-go/",
       "asset_tags": [
         "equities",
-        "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Atkore Inc. Announces Third Quarter 2026 Results",
+      "description": "HARVEY, Ill.--(BUSINESS WIRE)--Atkore Inc. (the “Company” or “Atkore”) (NYSE: ATKR) announced earnings for its fiscal 2026 third quarter ended June 26, 2026. “We were pleased with our third quarter results. Our Net sales, Adjusted EBITDA and Adjusted EPS were all higher versus the prior year and the",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-03T05:02:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260802922703/en/Atkore-Inc.-Announces-Third-Quarter-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+      "description": "The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-03T04:09:44+00:00",
+      "article_url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "South Korean stablecoin outflows top $367M in June: Report",
+      "description": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-03T04:05:11+00:00",
+      "article_url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -43,16 +93,6 @@
       "article_url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Lone Star Funds Acquires Multi-Family Residential Portfolio in Central Tokyo",
-      "description": "DALLAS & NEW YORK & LONDON & TOKYO--(BUSINESS WIRE)--Lone Star Funds (“Lone Star”) today announced that an affiliate of Lone Star Real Estate Fund VII, L.P has successfully completed the acquisition of a multi-family residential portfolio (a total of 1,166 units) in central Tokyo. Located in the Shi",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-02T23:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260731445233/en/Lone-Star-Funds-Acquires-Multi-Family-Residential-Portfolio-in-Central-Tokyo/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2005,47 +2045,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/07/30/3336175/0/en/Form-8-3-DCC-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T13:55:18+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Traders trim UK rate hike bets after BoE flags limited Iran spillover - Reuters",
-      "description": "Traders trim UK rate hike bets after BoE flags limited Iran spillover Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T13:54:35+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFNDMkNSYTR3X3RfYzUyaTdyYjdNaV9HZVhqVndGRVNJOGJBcGpoVlRPUnpRSF9lXzhFOHJMWXNvZGt1Qk8yX0loUUpBb0lZMzZRaERLWThKbWdZekFIRk1JcmM2cUhMSUV6YV9rTW5GWE1WVDBRNXV6b2FESFRDS3pGaXl4ZktGRVZ0QU9oZzlkeTR5Tkt5bzU5dnZlWTZpdHFPVmpDQWlSN25mV2FPZnNlYw?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Ethereum enters its second decade after a year of upheaval at the foundation",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T13:52:37+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-30T13:35:51+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
-      "asset_tags": [
-        "crypto",
-        "macro"
       ]
     }
   ]
