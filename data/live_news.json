@@ -1,18 +1,40 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-03T00:16:36.766711+00:00",
+    "last_updated": "2026-08-03T02:33:44.649461+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 67,
-      "forex": 18,
       "equities": 38,
+      "commodities": 10,
       "macro": 23,
+      "crypto": 67,
       "general": 80,
-      "commodities": 9
+      "forex": 17
     }
   },
   "articles": [
+    {
+      "headline": "China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The slowdown to a four-month low of 50.9 signals moderating but still-positive momentum in China's private manufacturing sector, a more nuanced picture than outright weakness given new orders extended their longest growth r",
+      "source": "Forexlive",
+      "publication_date": "2026-08-03T01:59:07+00:00",
+      "article_url": "https://investinglive.com/news/china-s-ratingdog-manufacturing-pmi-eases-to-50-9-eighth-month-of-growth/",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Suspected 4th Coldcard attack wave sweeps 389 Bitcoin: Galaxy’s Thorn",
+      "description": "Galaxy research head Alex Thorn warned that unconfirmed transactions may give some Coldcard users a narrow opportunity to save their funds.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-03T01:57:40+00:00",
+      "article_url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
       "description": "The “sickening” loss of $90 million of Bitcoin from cold storage weighs heavily on sentiment, as the Clarity Act stalls with just five days left to hold a Senate vote.",
@@ -21,18 +43,6 @@
       "article_url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Australia manufacturing PMI hits 52.0 as output growth returns in July",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The rise to 52.0 signals a modest but genuine improvement in Australian manufacturing conditions, with production and new orders both returning to growth for the first time in several months, a mildly positive read for dome",
-      "source": "Forexlive",
-      "publication_date": "2026-08-02T23:20:48+00:00",
-      "article_url": "https://investinglive.com/news/australia-manufacturing-pmi-hits-52-0-as-output-growth-returns-in-july/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
       ]
     },
     {
@@ -2036,16 +2046,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "BitRiver founder charged in Russia over alleged $8M fraud",
-      "description": "Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire Oleg Deripaska.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-30T13:26:06+00:00",
-      "article_url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
