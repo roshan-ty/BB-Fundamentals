@@ -1,18 +1,152 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-03T15:45:50.960705+00:00",
+    "last_updated": "2026-08-03T17:30:30.059497+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 93,
-      "forex": 12,
-      "crypto": 62,
-      "macro": 20,
+      "equities": 40,
+      "crypto": 64,
+      "general": 89,
+      "macro": 23,
       "commodities": 10,
-      "equities": 38
+      "forex": 9
     }
   },
   "articles": [
+    {
+      "headline": "Here's why a Starbucks bear changed his tune and upgraded the stock",
+      "description": "An analyst who has been skeptical of the coffee giant acknowledges that CEO Brian Niccol's turnaround is working, reinforcing our bullish thesis on the coffee chain.",
+      "source": "CNBC",
+      "publication_date": "2026-08-03T16:50:41+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/03/heres-why-a-starbucks-bear-changed-his-tune-and-upgraded-the-stock.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
+      "description": "A new digital verification platform aims to reduce forged certificates by allowing employers and universities to authenticate academic records onchain.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-03T16:46:22+00:00",
+      "article_url": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Wall St starts the month strong as Mideast deal hopes rise - Reuters",
+      "description": "Wall St starts the month strong as Mideast deal hopes rise Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-03T16:35:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Potential AstraZeneca purchase of Bristol-Myers unlikely for now - analyst",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-03T16:21:53+00:00",
+      "article_url": "https://seekingalpha.com/news/4623661-potential-astrazeneca-purchase-of-bristol-myers-unlikely-for-now-analyst?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Hyperscale Data Buys 67 Bitcoin Bringing Bitcoin Treasury to Approximately 849 Bitcoin",
+      "description": "LAS VEGAS, July 2, 2026 /PRNewswire/ — Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (“AI“) data center company anchored by Bitcoin (“Hyperscale Data” or the “Company“), today announced that from between June 30, 2026, and July 1, 2026, the Company has acquired an additiona",
+      "source": "Cryptocurrency News",
+      "publication_date": "2026-08-03T16:19:10+00:00",
+      "article_url": "https://cryptocurrencynews.com/crypto/hyperscale-data-buys-67-bitcoin-bringing-bitcoin-treasury-to-approximately-849-bitcoin/",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "BlackRock launches tokenized money market funds for stablecoin reserves",
+      "description": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-03T16:13:12+00:00",
+      "article_url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Atlanta Fed GDPNow growth estimate rises to 6.2% from 5% previously",
+      "description": "<p>The Atlanta Fed growth estimate for Q3 rose to 6.2% from 5.0% in its initial reading. Recall from last week, the Q2 GDP came in at 1.5%. The Atlanta Fed model for Q2 forecasted 1.5%. Kudos to them.</p><p></p><p>For the current model estimate, they said: </p><blockquote>The GDPNow model estimate f",
+      "source": "Forexlive",
+      "publication_date": "2026-08-03T16:03:13+00:00",
+      "article_url": "https://investinglive.com/news/atlanta-fed-gdpnow-growth-estimate-rises-to-6-2-from-5-previously/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "PrimeSource Brands Acquires Starborn Industries",
+      "description": "IRVING, Texas & SANTA MONICA, Calif. & EDISON, N.J.--(BUSINESS WIRE)--PrimeSource Brands, a North American provider of specialty branded building products backed by Clearlake Capital Group, L.P. (“Clearlake”), announced today that it has acquired Starborn Industries (“Starborn,” or the “Company”), a",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-03T16:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260803958459/en/PrimeSource-Brands-Acquires-Starborn-Industries/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US signs deal to boost Patriot and THAAD missile parts production - Reuters",
+      "description": "US signs deal to boost Patriot and THAAD missile parts production Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-03T15:35:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "We're trimming an industrial and buying another name. Plus, 2 more stocks we're eyeing",
+      "description": "We're starting the new trading week off with a couple of moves.",
+      "source": "CNBC",
+      "publication_date": "2026-08-03T15:33:56+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/03/were-trimming-an-industrial-and-buying-another-name-plus-2-more-stocks-were-eyeing-.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-03T15:24:45+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Hashdex to shut smallest Bitcoin ETF after more than two years",
+      "description": "The spot price Bitcoin exchange-traded fund, which was never able to attract more than $18 million in net assets, will pay out investors and sell its 225 BTC in the coming weeks.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-03T15:24:43+00:00",
+      "article_url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Univar Solutions Acquires H.M. Royal, Expanding Reach in Rubber, Plastics, and Adhesive Additives in the United States",
+      "description": "Univar Solutions Acquires H.M. Royal, Expanding Reach in Rubber, Plastics, and Adhesive Additives in the United States",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-03T15:04:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337722/0/en/Univar-Solutions-Acquires-H-M-Royal-Expanding-Reach-in-Rubber-Plastics-and-Adhesive-Additives-in-the-United-States.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
       "description": "Sony and Marvel's \"Spider-Man: Brand New Day\" set the record for the highest domestic opening weekend of all time with $360 million in ticket sales.",
@@ -29,16 +163,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-03T14:53:30+00:00",
       "article_url": "https://seekingalpha.com/news/4623536-mastercard-completes-bvnk-acquisition-to-expand-stablecoin-capabilities?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "DLR Group Acquires Science and Technology Design Firm McFarlane Architects",
-      "description": "SAN DIEGO--(BUSINESS WIRE)--Global integrated design firm DLR Group has acquired San Diego-based science and technology design firm McFarlane Architects.",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-03T14:50:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260803611009/en/DLR-Group-Acquires-Science-and-Technology-Design-Firm-McFarlane-Architects/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -65,16 +189,6 @@
         "forex",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Wall St starts the month strong as Mideast deal hopes rise - Reuters",
-      "description": "Wall St starts the month strong as Mideast deal hopes rise Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T14:11:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTC1HdWxXY3dmcFlCNm9FZ3N5VnVhSWg0ZHV4a1RRdUdlUVM5QUhNYUlueDN2akloUFFEUWRIWXNHeFk1VEFHMDhBRTV1XzY5TnBxUXlVQk96NkFMSnNuTURuTzhCOVRBUkVVT2p1VjBOZFBZdk4zM01WQlFDY1ZZTGhqR2NaeXNrVWN0Ym5aQ1VENmZ5aGRKRWRoMHlNRTVxMWxVSFVrOA?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -105,16 +219,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337652/0/en/Form-8-3-NextEnergy-Solar-Fund-Limited.html",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "US Construction Spending for June -0.1% vs 0.2% estimate",
-      "description": "<ul><li>Prior month 0.0% revised from 0.1%.</li><li>Construction spending -0.1% versus +0.2% estimate</li></ul> This article was written by Greg Michalowski at investinglive.com.",
-      "source": "Forexlive",
-      "publication_date": "2026-08-03T14:03:52+00:00",
-      "article_url": "https://investinglive.com/news/us-construction-spending-for-june-0-1-vs-0-2-estimate/",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -842,20 +946,6 @@
       ]
     },
     {
-      "headline": "Ethereum analysis at the start of this week: Bears are a little stronger but this trading map is the key for crypto traders",
-      "description": "<p>Ethereum price analysis today: ETH bears press $1,852, but support has not broken yet</p><p>Ethereum futures outlook score: -4 / +10</p><p>Bias: Moderately bearish while below $1,881.50, but sellers still need confirmed acceptance beneath $1,848.50 to activate the next downside leg.</p><p>Ethereu",
-      "source": "Forexlive",
-      "publication_date": "2026-08-03T06:56:35+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/ethereum-analysis-at-the-start-of-this-week-bears-are-a-little-stronger-but-this-trading-map-is-the-key-for-crypto-traders/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
       "description": "",
       "source": "CoinDesk",
@@ -1008,14 +1098,14 @@
       ]
     },
     {
-      "headline": "Gold gains as US dollar declines, hopes of Mideast deal hit oil - Reuters",
-      "description": "Gold gains as US dollar declines, hopes of Mideast deal hit oil Reuters",
+      "headline": "Gold eases as markets weigh Middle East uncertainty, inflation risks - Reuters",
+      "description": "Gold eases as markets weigh Middle East uncertainty, inflation risks Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-03T00:41:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnkxZDh5TElCa1dZeUtDT2JfblI5ZFJuQkZNQ1pvbHlkcWxHRUVfMk51N2t0ZDUtbEhOYW9aVjg5d3lMSkNXYlFMc0I5Z3o1bjh4c0pkZ3BsWkRYeWhOalNoOUZPN3pvYVRSb1NnT21rZy1TamRFMHN2MUp1WjhoSmZaT0prMExjTVk1aThUbHAwNEo3MmpsbTI2UFdsY2Z2Y0RlT2RB?oc=5",
       "asset_tags": [
-        "forex",
-        "commodities"
+        "commodities",
+        "macro"
       ]
     },
     {
@@ -1806,16 +1896,6 @@
       ]
     },
     {
-      "headline": "T-Mobile, Deutsche Telekom deal talks stall - Semafor",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-07-31T17:19:14+00:00",
-      "article_url": "https://seekingalpha.com/news/4622897-t-mobile-deutsche-telekom-deal-talks-stall---semafor?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
       "description": "",
       "source": "CoinDesk",
@@ -1833,26 +1913,6 @@
       "article_url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "BNP PARIBAS GROUP: ARVAL COMPLETES THE ACQUISITION OF ATHLON",
-      "description": "ARVAL COMPLETES THE ACQUISITION OF ATHLON",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-31T16:53:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336978/0/en/BNP-PARIBAS-GROUP-ARVAL-COMPLETES-THE-ACQUISITION-OF-ATHLON.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "GROUPE BNP PARIBAS : ARVAL A FINALISÉ L’ACQUISITION D’ATHLON",
-      "description": "ARVAL A FINALISÉ L’ACQUISITION D’ATHLON",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-07-31T16:53:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336978/0/fr/GROUPE-BNP-PARIBAS-ARVAL-A-FINALIS%C3%89-L-ACQUISITION-D-ATHLON.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1984,66 +2044,6 @@
       "source": "Reuters",
       "publication_date": "2026-07-31T14:46:45+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUERJVzM5MU9rRDVOc3RfUFdneGROMFVWdTlZU2d2RW0yVWtmcDk4cWhodHYtTF9CQlV0dmdIWmhlTUZFQllhWjZxb2RCTk1hTmxpcmxxNV8xM0pNaVh6ZThGZUdtTDVNOFhFSkhtRTdGOGk1RGZybVBQRXBxVVJLbXlfNFRSWUhiRXJfbDV2NUxFY1dlQ1Vsd3pJckNaenpNNVdSaWFn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Russian court confiscates 123 real estate assets belonging to Jehovah's Witnesses - Reuters",
-      "description": "Russian court confiscates 123 real estate assets belonging to Jehovah's Witnesses Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-31T14:07:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMk1jY1RoT3VZakNwanQxdTA1eDY1ZmtSdlFvNFVySkFGUTFpOEdncTMxZlU3VEJpbVlCNzFHZzFvbkttYW9uR2dtTE9JQi1rNGh6OElsX3NCWU52c21GMWVSRE1DN0NrOUl4TlZsMHBrVVotb00xZXdTRExxVUkxQXhiRGlqZkMyNFktMDMtOVdUSk04YnBEOGJNOWZPdVhGVTdNellCWnNwTHE1R1RuSVc1NzBMRFV4QUJv?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "ECB says digital euro app will exceed EU accessibility standards",
-      "description": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-31T14:05:25+00:00",
-      "article_url": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "AMLBot launches AI Tracer for self-service blockchain investigations",
-      "description": "Crypto forensics company AMLBot launched an AI-enabled tool allowing users with no specialist knowledge to trace their digital assets, even after they are stolen.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-31T13:59:56+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-forensics-firm-launches-ai-tracing-service-track-your-stolen-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Circle secures New York trust charter as crypto regulatory push accelerates",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-31T13:35:17+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Circle receives New York trust charter for subsidiary",
-      "description": "The New York trust charter allows Circle’s subsidiary to provide fiduciary and custody services under state banking law.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-31T13:27:10+00:00",
-      "article_url": "https://cointelegraph.com/news/circle-receives-new-york-trust-charter-for-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "GM to launch new in-vehicle AI system later this year",
-      "description": "General Motors plans to launch a proprietary in-vehicle artificial intelligence system that's better tailored for its customers later this year.",
-      "source": "CNBC",
-      "publication_date": "2026-07-31T13:20:52+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/31/gm-in-vehicle-ai-system.html",
       "asset_tags": [
         "general"
       ]
