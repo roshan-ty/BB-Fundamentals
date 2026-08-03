@@ -1,26 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-02T23:14:38.421372+00:00",
+    "last_updated": "2026-08-03T00:16:36.766711+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 24,
-      "equities": 37,
+      "crypto": 67,
+      "forex": 18,
+      "equities": 38,
+      "macro": 23,
       "general": 80,
-      "crypto": 66,
-      "forex": 17,
       "commodities": 9
     }
   },
   "articles": [
     {
-      "headline": "Economic and event calendar in Asia 03 August 2026 - Australia holiday",
-      "description": "<p>We've had the data from NZ already:</p><ul><li>number of new dwelling consents-3.6% m/m and +32.1% y/y </li></ul><p>The focus is on the private survey China manufacturing PMI. Official data were not encouraging:</p><ul><li><a href=\"https://investinglive.com/news/china-july-manufacturing-pmi-49-2-",
-      "source": "Forexlive",
-      "publication_date": "2026-08-02T22:53:19+00:00",
-      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-03-august-2026-australia-holiday/",
+      "headline": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
+      "description": "The “sickening” loss of $90 million of Bitcoin from cold storage weighs heavily on sentiment, as the Clarity Act stalls with just five days left to hold a Senate vote.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-02T23:44:04+00:00",
+      "article_url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Australia manufacturing PMI hits 52.0 as output growth returns in July",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The rise to 52.0 signals a modest but genuine improvement in Australian manufacturing conditions, with production and new orders both returning to growth for the first time in several months, a mildly positive read for dome",
+      "source": "Forexlive",
+      "publication_date": "2026-08-02T23:20:48+00:00",
+      "article_url": "https://investinglive.com/news/australia-manufacturing-pmi-hits-52-0-as-output-growth-returns-in-july/",
+      "asset_tags": [
+        "forex",
+        "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Lone Star Funds Acquires Multi-Family Residential Portfolio in Central Tokyo",
+      "description": "DALLAS & NEW YORK & LONDON & TOKYO--(BUSINESS WIRE)--Lone Star Funds (“Lone Star”) today announced that an affiliate of Lone Star Real Estate Fund VII, L.P has successfully completed the acquisition of a multi-family residential portfolio (a total of 1,166 units) in central Tokyo. Located in the Shi",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-02T23:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260731445233/en/Lone-Star-Funds-Acquires-Multi-Family-Residential-Portfolio-in-Central-Tokyo/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -312,16 +334,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-01T15:00:00+00:00",
       "article_url": "https://seekingalpha.com/news/4623039-sa-asks-who-else-could-make-a-bid-for-paypal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Formosa Plastics Corporation, U.S.A. Announces Merger With Formosa Industries Corporation",
-      "description": "LIVINGSTON, N.J.--(BUSINESS WIRE)--Formosa Plastics Corporation, U.S.A. today announced the completion of its merger with Formosa Industries Corporation, effective August 1, 2026.",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-01T14:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260801424605/en/Formosa-Plastics-Corporation-U.S.A.-Announces-Merger-With-Formosa-Industries-Corporation/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -2034,16 +2046,6 @@
       "article_url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "German inflation rises in July, economy grows more than expected in Q2 - Reuters",
-      "description": "German inflation rises in July, economy grows more than expected in Q2 Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-30T13:18:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlVmQWpZSDUtb0Z2b1NqMTkzTXhScDctbnZBVXkta2syTXJFZk5VV19UOFQyUGhJM1o0MVZ2OEVrN2REdEJlOUZkbm16eEQtNVFqdm1QcUZpbHl2QmFQNkY2TFNEMU4ySWJvc2NXRVFBVlNNZlFtazcySVYxNXgxeUN6dEZnTmNUejBZSkl2eWpTbVpJc3cyV0daWjMzU0daOFRv?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
