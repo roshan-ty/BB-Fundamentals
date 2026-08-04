@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-04T21:40:23.463804+00:00",
+    "last_updated": "2026-08-04T22:44:37.542980+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 35,
       "macro": 24,
-      "equities": 34,
-      "general": 94,
+      "general": 93,
       "crypto": 59,
-      "commodities": 10,
-      "forex": 15
+      "forex": 15,
+      "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+      "description": "CNBC's Jim Cramer said the collapse of AI-focused hedge fund Situational Awareness removed a major source of forced selling.",
+      "source": "CNBC",
+      "publication_date": "2026-08-04T22:22:22+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "DXP Enterprises, Inc. Announces Acquisition of Mequipco Ltd.",
+      "description": "HOUSTON--(BUSINESS WIRE)-- #Canada--DXP Enterprises, Inc. (NASDAQ: DXPE) today announced that it has completed the acquisition of Mequipco Ltd. (“Mequipco”). Founded in 1974, Mequipco is headquartered in Calgary, Alberta Canada and operates out of three locations servicing Western Canada including B",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-04T21:51:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260804144979/en/DXP-Enterprises-Inc.-Announces-Acquisition-of-Mequipco-Ltd./?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Economic and event calendar in Asia 05 August 2026 - New Zealand jobs report",
       "description": "<p></p><p>The jobs report from New Zealand and China's private survey services PMI are the headlines for data on the session ahead. </p><ul><li>NZ unemployment is expected to reach a near 11 year high, Middle East fighting weighing on the economy</li></ul><p></p> This article was written by Eamonn S",
@@ -24,16 +44,6 @@
       ]
     },
     {
-      "headline": "Essential Utilities Reports Q2 2026 Results",
-      "description": "BRYN MAWR, Pa.--(BUSINESS WIRE)--Essential Utilities Inc. (NYSE: WTRG) today reported results for the second quarter ended June 30, 2026. Company Highlights “Our commitment to operational efficiency, proactive cost optimization, and value driven customer experience investments underpins our confiden",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-04T20:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260803594126/en/Essential-Utilities-Reports-Q2-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Limbach acquires CYMCOR for purchase price of $30M",
       "description": "",
       "source": "SeekingAlpha",
@@ -41,6 +51,16 @@
       "article_url": "https://seekingalpha.com/news/4625306-limbach-acquires-cymcor-for-purchase-price-of-30m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-04T20:26:21+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -124,16 +144,6 @@
       ]
     },
     {
-      "headline": "Qatar says progress made toward US-Iran talks on ending war - Reuters",
-      "description": "Qatar says progress made toward US-Iran talks on ending war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-04T18:02:02+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Open USD rattled Circle's stock, but its key backers still support USDC",
       "description": "",
       "source": "CoinDesk",
@@ -150,6 +160,17 @@
       "publication_date": "2026-08-04T17:54:00+00:00",
       "article_url": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
       "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Stocks jump to records after upbeat company forecasts; oil, yen weaken - Reuters",
+      "description": "Stocks jump to records after upbeat company forecasts; oil, yen weaken Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T17:31:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ?oc=5",
+      "asset_tags": [
+        "forex",
         "equities"
       ]
     },
@@ -1371,6 +1392,16 @@
       ]
     },
     {
+      "headline": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+      "description": "Qatar says mediators make progress in efforts to end US-Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T01:06:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap - Reuters",
       "description": "Gold rises on softer oil prices; US jobs data, Fed rate outlook on tap Reuters",
       "source": "Reuters",
@@ -1409,17 +1440,6 @@
       "article_url": "https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Stocks jump to records after upbeat company forecasts; oil, yen weaken - Reuters",
-      "description": "Stocks jump to records after upbeat company forecasts; oil, yen weaken Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-04T00:38:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities"
       ]
     },
     {
@@ -2027,26 +2047,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "How Iran is widening its pressure campaign to force US concessions - Reuters",
-      "description": "How Iran is widening its pressure campaign to force US concessions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T09:47:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-03T09:38:53+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
