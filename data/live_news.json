@@ -1,18 +1,170 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-04T05:27:48.964399+00:00",
+    "last_updated": "2026-08-04T08:02:40.727076+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 84,
       "crypto": 64,
-      "equities": 42,
-      "general": 82,
-      "forex": 13,
-      "commodities": 12,
-      "macro": 25
+      "macro": 25,
+      "forex": 12,
+      "commodities": 10,
+      "equities": 38
     }
   },
   "articles": [
+    {
+      "headline": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
+      "description": "The ruling leaves New York’s case against Kalshi in place while allowing the CFTC to renew its request before Judge Victor Marrero.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-04T07:49:22+00:00",
+      "article_url": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Nigeria sets crypto tax collection rules for digital asset platforms",
+      "description": "The framework specifies how existing tax obligations apply to crypto disposals and rewards, with some withheld amounts payable in the originating token.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-04T07:25:32+00:00",
+      "article_url": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "CSG acquires the Gnaschwitz industrial site in Germany and plans to invest more than EUR 100 million in its initial development",
+      "description": "Industrial and technology group CSG, through its German subsidiary CSG Energetic Materials Germany GmbH, has completed the acquisition of the 57-hectare Gnaschwitz industrial site near Bautzen in the German state of Saxony. The site was acquired from MAXAM. As part of the initial phase of the site's",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-04T06:50:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338046/0/en/CSG-acquires-the-Gnaschwitz-industrial-site-in-Germany-and-plans-to-invest-more-than-EUR-100-million-in-its-initial-development.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bending Spoons to acquire Airtable in $1.285B all-cash deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-04T06:44:44+00:00",
+      "article_url": "https://seekingalpha.com/news/4624296-bending-spoons-to-acquire-airtable-in-1_285b-all-cash-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bending Spoons to buy Airtable in $1.3B all-cash deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-04T06:41:05+00:00",
+      "article_url": "https://seekingalpha.com/news/4624298-bending-spoons-to-buy-airtable-in-13b-all-cash-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "What are the main events for today?",
+      "description": "<p>EUROPEAN SESSION</p><p>In the European session, we don't have much on the agenda other than a couple of low tier releases like the Spanish employment change and Italian retail sales data. The figures won't change anything for the ECB, so the market reaction will be muted.</p><p>Market focus remai",
+      "source": "Forexlive",
+      "publication_date": "2026-08-04T06:31:00+00:00",
+      "article_url": "https://investinglive.com/news/what-are-the-main-events-for-today-17/",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bending Spoons has entered into a definitive agreement to acquire Airtable for $1.285 billion",
+      "description": "MILAN--(BUSINESS WIRE)--Bending Spoons enters into a definitive agreement to acquire Airtable in an all-cash deal valuing it at $1.285B.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-04T06:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-1.285-billion/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Rio Tinto shelves prospects of renewed Glencore bid after standstill - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-04T06:17:49+00:00",
+      "article_url": "https://seekingalpha.com/news/4624284-rio-tinto-shelves-prospects-of-renewed-glencore-bid-after-standstill---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-04T06:12:20+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Aramco posts 44% rise in net profit as Iran war drives up oil prices - Reuters",
+      "description": "Aramco posts 44% rise in net profit as Iran war drives up oil prices Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T06:05:07+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto firms are still seeking frontier AI access, only a select few have it",
+      "description": "Crypto executives say restricting powerful AI models may initially be justified, but it doesn’t make sense as open-source alternatives become more capable.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-04T06:00:23+00:00",
+      "article_url": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "OPEC+ oil output hike is irrelevant for now, not for later - Reuters",
+      "description": "OPEC+ oil output hike is irrelevant for now, not for later Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T06:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1F5SEtvVzlTU0VibXRmNGx4ZldyYllQcHBfSEkzRHVLVGdrNUxMLUZtQXZsT1pTWjJ4Z1F0ekFyN3NkWjRITjdCc2NtcmpFZ0k2OWN5Z25WOVVFVHpJNEVWQkU3emxZYkUtVFhFand1cWVHSWUyRUpQa1FOOUtPWlRKUzRVQUs3V3oxcWphVzVKUUhSSUNZaHNtdHVkM1U5VXE2Q0ZPNzE4UG5WQmdVS2cwZlU3UnNN?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-04T05:39:18+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin nears $64,000 as traders look past Strategy's BTC sales and Coldcard sweeps",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-04T05:21:13+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-nears-usd64-000-as-traders-look-past-the-fourth-coldcard-sweep",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Toyota lifts annual forecast despite Q1 profit drop on weak China sales - Reuters",
+      "description": "Toyota lifts annual forecast despite Q1 profit drop on weak China sales Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T05:08:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one",
       "description": "",
@@ -31,6 +183,16 @@
       "article_url": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change - Reuters",
+      "description": "Oil traders set to wind down UAE exchange positions after ADNOC benchmark change Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T04:46:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTIzRWd4cTNxUHJ2NTJfQTNMVjIyRnJrN0U0NGFMNzNHdVJscGsxQ0tPeHljNVVjd0p0MU1FM3FEcXdfR05zR3c5QVB4czU0V1BfamdIVUtLdWZNa3BCb0ozM2NPZkU2WFNFSGFKbmVkUXZiOGNhbnBZRWQwNkNINWlWTm5QdW1hbXpCZDBDVXhUZmQ1b0ZLZ2dOelRJbkVlN0RjNXozSUdmVXdnSW01VnVBTzIyTVVzY2VmRUNPTlczWGZSNzQ5eQ?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -55,20 +217,6 @@
       ]
     },
     {
-      "headline": "investingLive Asia-Pacific market moving news: Hormuz incident and Iran threats",
-      "description": "<ul><li><a href=\"https://investinglive.com/stock-market-update/nikkei-slips-on-yen-intervention-fears-as-kospi-wobbles-kosdaq-surges\" rel=\"follow\">Nikkei slips on yen intervention fears as Kospi wobbles, Kosdaq surges</a></li><li><a href=\"https://investinglive.com/central-banks/japan-s-kiuchi-declin",
-      "source": "Forexlive",
-      "publication_date": "2026-08-04T03:36:00+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-hormuz-incident-and-iran-threats/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Mastercard completes $1.8B BVNK acquisition in stablecoin push",
       "description": "Mastercard said the tie-up would help banks, fintechs and enterprises expand stablecoin payments, payouts, settlement and treasury services.",
       "source": "Cointelegraph",
@@ -76,6 +224,16 @@
       "article_url": "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Rupee nudges higher, inflow-led boost runs into importer hedging drag - Reuters",
+      "description": "Rupee nudges higher, inflow-led boost runs into importer hedging drag Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T02:56:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONXZxeFNDdDRBUUFmVU9XeDVzcEFMMzQ1SVFzZHFsWlZaNFdtb25RdkN2WEI1OUZ6WEt3OHlITUpjZjMxSDVGa2JoQ1poU2RMaVhVU2d0bFQxczFiREtFcDVDVC1zTzNvcVFhYkNOeTczdVh4eThDZEZpeG5wWVJXRDlRZWgtcVllLTBXZnJIVkR4QV9ucHh0TFlCdEpGcnUwUElWakdBakFIcHUxU1U4TFZhRFFQYWJsMDlz?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -209,16 +367,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Riassunto: Moreau Paris, storica maison francese di pelletteria di lusso, acquistata da un produttore leader nel settore",
-      "description": "PARIGI--(BUSINESS WIRE)--ASTEREN annuncia che il Tribunale Commerciale di Parigi ha approvato l'acquisizione di Moreau Paris, una delle maison di pelletteria di lusso più prestigiose della Francia, da parte di Cardinal Invest, proprietaria del produttore francese di articoli di lusso Groupe Lécuyer.",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-03T21:58:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260803775950/it/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -444,16 +592,6 @@
       ]
     },
     {
-      "headline": "OPEC+ oil output hike is irrelevant for now, not for later - Reuters",
-      "description": "OPEC+ oil output hike is irrelevant for now, not for later Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T16:28:11+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1F5SEtvVzlTU0VibXRmNGx4ZldyYllQcHBfSEkzRHVLVGdrNUxMLUZtQXZsT1pTWjJ4Z1F0ekFyN3NkWjRITjdCc2NtcmpFZ0k2OWN5Z25WOVVFVHpJNEVWQkU3emxZYkUtVFhFand1cWVHSWUyRUpQa1FOOUtPWlRKUzRVQUs3V3oxcWphVzVKUUhSSUNZaHNtdHVkM1U5VXE2Q0ZPNzE4UG5WQmdVS2cwZlU3UnNN?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Potential AstraZeneca purchase of Bristol-Myers unlikely for now - analyst",
       "description": "",
       "source": "SeekingAlpha",
@@ -461,6 +599,17 @@
       "article_url": "https://seekingalpha.com/news/4623661-potential-astrazeneca-purchase-of-bristol-myers-unlikely-for-now-analyst?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "European shares start August higher on US-Iran diplomacy hopes - Reuters",
+      "description": "European shares start August higher on US-Iran diplomacy hopes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-03T16:21:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTFMX3ViRVNlS2F6ZEUtaU9RMHgydW1RREh3MC1iX3puek9aYmN4WHJucExCRXFaa2tNSk9KRGF5bnhMN1hGY0dxYzJxdHJNOVJwQndjSkFCOFRaNEFqRDc1eTFGU1RESk9sVU9UNWVGUDR3RkdTUkQ0ZjJ5anVBT2hmQ2dKRTBhSy1za1psQkZ6bzdrRXNnVUZncDRzT1dnMmVqU0Nvcw?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities"
       ]
     },
     {
@@ -1185,27 +1334,6 @@
       ]
     },
     {
-      "headline": "Integer to Be Acquired by KKR in Transaction Valued at Approximately $5.7 Billion",
-      "description": "~ Integer Stockholders to Receive $127 Per Share in Cash ~",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-03T10:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337312/26755/en/Integer-to-Be-Acquired-by-KKR-in-Transaction-Valued-at-Approximately-5-7-Billion.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Supernus Pharmaceuticals and Indivior Pharmaceuticals to Merge, Creating a Diversified CNS Biopharmaceutical Leader with Significant Scale",
-      "description": "ROCKVILLE, Md. and RICHMOND, Va., Aug. 03, 2026 (GLOBE NEWSWIRE) -- Supernus Pharmaceuticals, Inc. (Nasdaq: SUPN) and Indivior Pharmaceuticals, Inc. (Nasdaq: INDV) today announced that they have entered into a definitive agreement to combine in a tax-free all-stock merger of equals transaction to cr",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-03T10:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337311/19871/en/Supernus-Pharmaceuticals-and-Indivior-Pharmaceuticals-to-Merge-Creating-a-Diversified-CNS-Biopharmaceutical-Leader-with-Significant-Scale.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
       "headline": "Live updates: Traders say bitcoin sell-off from $65,000 points to thin volume, not panic selling",
       "description": "",
       "source": "CoinDesk",
@@ -1261,26 +1389,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SPIRE HEALTHCARE GROUP PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-03T09:46:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337292/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-SPIRE-HEALTHCARE-GROUP-PLC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-03T09:41:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337290/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
       "description": "",
       "source": "CoinDesk",
@@ -1288,16 +1396,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Form 8.3 -Rotork plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-03T09:29:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337286/0/en/Form-8-3-Rotork-plc.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1371,6 +1469,16 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Hackers hit Bitcoin’s safest hiding place in ongoing attack",
+      "description": "Hackers exploit a flaw in Coldcard wallets, draining $86 million in Bitcoin from over 4,500 accounts in an ongoing attack.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-03T06:16:55+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/hackers-target-bitcoin-s-safest-hiding-place-in-ongoing-attack",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -1647,6 +1755,16 @@
       ]
     },
     {
+      "headline": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts - Reuters",
+      "description": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-02T15:31:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "Strategy leaves preferred STRC dividend at 12% as price still below par",
       "description": "Investors have previously benefited from a payout boost when the preferred STRC shares traded well below their $100 par value for a month.",
       "source": "Cointelegraph",
@@ -1788,16 +1906,6 @@
       ]
     },
     {
-      "headline": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts - Reuters",
-      "description": "OPEC+ agrees September oil hike, completing rollback of voluntary cuts Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-02T07:04:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUxtS1l6d0U4NVcxelJCQ1EwSGpaQ3BjNXJHUlpQcVlfZXJjMWU5WllQR21KdDZ0dlo2NDI0cW1RVXd3U0FiTHZMRHNDNng5ZXZseU9lT19KeG1RY18xRGNTVzBjdHpzOWpYQkwxTENWWko4NmtFQm5iQzFvQWdfeGhvQVZSMHdrZjhzRFREVnN2RWQyanBEdGp0T19mazNxR0ZiRXdFRVlvX1RZNW5mVFgyYlUxeS15QlZfOHhWY1UzSzFTZk13Yw?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Israeli strikes kill 18 in Gaza, minister says no deal to halt attacks - Reuters",
       "description": "Israeli strikes kill 18 in Gaza, minister says no deal to halt attacks Reuters",
       "source": "Reuters",
@@ -1936,119 +2044,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-      "description": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
-      "source": "CNBC",
-      "publication_date": "2026-08-01T12:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Russia expands crypto mining ban to Moscow through 2032",
-      "description": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-01T10:23:41+00:00",
-      "article_url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-      "description": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-01T09:23:56+00:00",
-      "article_url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-01T09:01:08+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin ETFs end July in the green despite late-month selling",
-      "description": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-01T07:23:07+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bloomberg puts off adding Indian bonds to its global index",
-      "description": "Bloomberg delays adding Indian bonds to its global index, disappointing traders and prompting expected selling in the bond market.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-01T06:15:14+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-31/bloomberg-defers-inclusion-of-indian-bonds-in-global-index-ms8wqbxp",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-01T06:09:51+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-01T05:55:46+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Data centre boom fuels demand for workforce housing",
-      "description": "A typical 100-megawatt data centre employs hundreds of workers to build it, although it needs only dozens to eventually operate it, according to a University of Southern California Climate Centre report",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-01T04:37:09+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-31/data-center-boom-fueling-demand-for-workforce-housing",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dollar logs its worst week in over 3 months amid Fed doubts",
-      "description": "Traders boosted their bullish dollar bets ahead of the Fed meeting, turning the most upbeat since 2014 as of Tuesday, according to Commodity Futures Trading Commission data released Friday",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-01T04:32:54+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-31/dollar-heads-for-worst-week-in-three-months-as-fed-doubts-grow",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Indian companies plan for fresh price hikes, testing inflation outlook",
-      "description": "Consumer prices rose above the Reserve Bank of India’s 4% target for the first time in nearly a year and a half in June as food and fuel costs climbed",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-01T04:27:14+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
