@@ -1,27 +1,132 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-04T02:12:56.168123+00:00",
+    "last_updated": "2026-08-04T05:27:48.964399+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 12,
-      "equities": 43,
-      "macro": 23,
-      "crypto": 62,
-      "general": 85,
-      "commodities": 11
+      "crypto": 64,
+      "equities": 42,
+      "general": 82,
+      "forex": 13,
+      "commodities": 12,
+      "macro": 25
     }
   },
   "articles": [
     {
-      "headline": "Australia household spending beats, up 0.8% in June (expected +0.2%, prior +1.3%)",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The scale of the beat, four times the consensus forecast and following an even larger jump in May, is likely to reinforce the view that consumer demand remains resilient despite three RBA rate hikes already delivered this y",
+      "headline": "A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-04T04:48:40+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/04/a-bitcoin-wallet-dormant-since-2013-moved-usd31-million-and-it-s-not-the-only-one",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
+      "description": "Galaxy Research said 90% of the stolen Bitcoin remains unmoved as investigators examine a suspected fourth wave that could lift losses to $130 million.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-04T04:47:13+00:00",
+      "article_url": "https://cointelegraph.com/news/coldcard-bitcoin-theft-100-million-three-waves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
+      "description": "Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursues its 5% acquisition target.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-04T03:52:56+00:00",
+      "article_url": "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Status of US-Iran talks uncertain as ship struck in Hormuz - Reuters",
+      "description": "Status of US-Iran talks uncertain as ship struck in Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T03:41:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific market moving news: Hormuz incident and Iran threats",
+      "description": "<ul><li><a href=\"https://investinglive.com/stock-market-update/nikkei-slips-on-yen-intervention-fears-as-kospi-wobbles-kosdaq-surges\" rel=\"follow\">Nikkei slips on yen intervention fears as Kospi wobbles, Kosdaq surges</a></li><li><a href=\"https://investinglive.com/central-banks/japan-s-kiuchi-declin",
       "source": "Forexlive",
-      "publication_date": "2026-08-04T01:47:08+00:00",
-      "article_url": "https://investinglive.com/news/australia-household-spending-beats-up-0-8-in-june-expected-0-2-prior-1-3/",
+      "publication_date": "2026-08-04T03:36:00+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-moving-news-hormuz-incident-and-iran-threats/",
       "asset_tags": [
         "forex",
         "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Mastercard completes $1.8B BVNK acquisition in stablecoin push",
+      "description": "Mastercard said the tie-up would help banks, fintechs and enterprises expand stablecoin payments, payouts, settlement and treasury services.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-04T02:58:51+00:00",
+      "article_url": "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Telegram delisting from App Store hits crypto traders, GRAM slides",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The removal is likely to be felt most acutely among crypto traders who rely on Telegram as a primary communication and trading channel, given the app's central role in many token communities and trading groups. GRAM, the di",
+      "source": "Forexlive",
+      "publication_date": "2026-08-04T02:25:02+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/telegram-delisting-from-app-store-hits-crypto-traders-gram-slides/",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
+      "description": "Fake romance crypto investment scams net $9 million in a single week in Hong Kong, as Malaysian authorities lose it over a crypto conference’s after-party.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-04T02:03:26+00:00",
+      "article_url": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Gold holds ground with Middle East turmoil, US jobs data in focus - Reuters",
+      "description": "Gold holds ground with Middle East turmoil, US jobs data in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T01:05:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzFHZFRoSEVvd0hvWk5nQl9nYVZPdGJSSTRMcWdPMFc5MS1NYnVtNFdvOEpwQVJHbmZtMWJYTzRmcnJCNkt1bmpBb0ZfTUsycW5SZXFDTWdiU0JrOUl1ek9lVC1qZWVMYjJ5bVQwTy11MkNpVDF6RW8xMm9GY0d1YnB0RDJ5REhSZjZ5QXAzOE15QzVWNk5SRERBUjJOM1oxc1VXdHNR?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain - Reuters",
+      "description": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T01:02:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Yen clings to intervention gains as traders stay alert to more - Reuters",
+      "description": "Yen clings to intervention gains as traders stay alert to more Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T01:02:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3VzRDl6d2tuSmN4M2xWZ080QWhfVWFjRGw4MjRwakpXMndBZ25zUWZzdXRwbmJVQ3ViYVJjS1hPdlFJR3MxX00xLW92YnZXak1HYi1nQ0phY3Y3amRKWjBKZ243Nm9YaEplbnBPVUNibG5jeTYtM0x0cmtNM3ctYzN4UjEyUk8xSnhhelZFNnlBZWQxQmR0dDlHWThJVGJTbGo4b09FalJmSVhI?oc=5",
+      "asset_tags": [
+        "forex",
         "macro"
       ]
     },
@@ -127,16 +232,6 @@
       ]
     },
     {
-      "headline": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds - Reuters",
-      "description": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T21:19:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Newbridge Acquisition to merge with Startech",
       "description": "",
       "source": "SeekingAlpha",
@@ -213,6 +308,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-03T20:25:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/03/3337906/0/en/Hillman-to-Acquire-Kanebridge-Establishes-Industrial-Master-Distribution-Presence-in-U-S.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds - Reuters",
+      "description": "Voters prefer Democrats over Republicans on economy for first time in a decade, Reuters/Ipsos poll finds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-03T20:18:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWE5YTnBRcFkwQUx5NXBHMGMtaFFHTWh3d1pSRmVodEV1SkRnQmVHbUQ2RDRVZ1U0SUROd2U4YUo4VW95WmFHNWlnQUVkOU1NelRpd0VSVzNTa3o1d1ZqT0JfbjBtTTFTVW9JZVFFbUdsT1Y4U045WElfZFhabjRUZWdKY3BMVVIxWnEwRXlZcjE3bWNTV3UzbGNzdjdOM3FhX2lpckxaR2RJQkhfNlFwc080VEV3RUJUVzNRNFQySkxYQQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -359,18 +464,6 @@
       ]
     },
     {
-      "headline": "Hyperscale Data Buys 67 Bitcoin Bringing Bitcoin Treasury to Approximately 849 Bitcoin",
-      "description": "LAS VEGAS, July 2, 2026 /PRNewswire/ — Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (“AI“) data center company anchored by Bitcoin (“Hyperscale Data” or the “Company“), today announced that from between June 30, 2026, and July 1, 2026, the Company has acquired an additiona",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-08-03T16:19:10+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/hyperscale-data-buys-67-bitcoin-bringing-bitcoin-treasury-to-approximately-849-bitcoin/",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "BlackRock launches tokenized money market funds for stablecoin reserves",
       "description": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.",
       "source": "Cointelegraph",
@@ -391,8 +484,8 @@
       ]
     },
     {
-      "headline": "US signs deal to boost Patriot and THAAD missile parts production - reuters.com",
-      "description": "US signs deal to boost Patriot and THAAD missile parts production reuters.com",
+      "headline": "US signs deal to boost Patriot and THAAD missile parts production - Reuters",
+      "description": "US signs deal to boost Patriot and THAAD missile parts production Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-03T15:35:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVpSLU9DNzZlb3plSWpueFdNUFN3ZmxuZkQxN1RhRTlaZlBteHFVVEVXN0p4NnBOY2paYTNwNGlxaGdfWGRCRjVXazlOLVUtUVZnNlB4eFB1RFBKQjBtXzQtbEN6djVNZGs5dWJBTXYtVmxSVEtfU1I1WFdJWmU4dEQ2eU8xX1Z5MVNCV1pjdkJ6dVRaVnNwbm9HbmVSaFFqd3k1aGdmbW44NEUyRENTZmtMZk9iVGxpRklr?oc=5",
@@ -472,6 +565,16 @@
         "forex",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices - Reuters",
+      "description": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-03T14:25:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlhBWjU3Vnk4RkhNa1N0cExPUjhxenRiTGVQbVVzakwxRWdhMU9ieVZvSm5fZU4yYkJaREVJR3ltYUhXZW1JYkx6c1lJS1ZYVkM4WVZZSGQza3ZQMDVTYVg5ZktqbGh6RjhWN2wzRTNZUDg0U0JEU2R3N3U2NkVmYjNlOFhHTHFUYmd1QzFGRlg1V2lzWnhabkVVLUt3YmVQS0dGeUwtUnVKb2xMZjQzOGZvY0NKQQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1138,21 +1241,21 @@
       ]
     },
     {
-      "headline": "How Iran is widening its pressure campaign to force US concessions - Reuters",
-      "description": "How Iran is widening its pressure campaign to force US concessions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T10:02:50+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Iran executes two people accused of spying for Israel - Reuters",
       "description": "Iran executes two people accused of spying for Israel Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-03T09:53:04+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVpPMnE4MnRQckNZZXg0SU9TYTI4WG5qdmc2aUhydFU0LXlJS04taFVoOU5idUFqb3ZtSFZsVUlpYUhackVhN2lGQUlYQ3hqekNxYkkxd1E1aDU2TGVZTEJQc3V5U1EwVzJLRDdiQmdITzZFYlI4TWZzOTBtT2c5bTREN2tvVVZWUk1hb1EwSlVmRHpSaVJvTDdINzFCaTFHRFI0?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "How Iran is widening its pressure campaign to force US concessions - Reuters",
+      "description": "How Iran is widening its pressure campaign to force US concessions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-03T09:47:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2VYbG9DT1JoZWlaZkxlVTc4T01mcjJ0cU9rc2FCWWxuY1dONTVmN0ZTU1RUZzlLUTNGbzgzYURCTFFqZzRWVXZSWXZKZC1Ldm05dFVOdmNZdnlxRVBBUzE2VDVjSU1wMlFXMkFBeDlKeVBuRWQxa2tYV1hPb0hvOHdRd0JvUGREek5HZXhuVXpMR0RBZzdKSE1fNmIyQWVzRVdfUEEzdkt5Zm1XNUVOVnpnbEg3bnNu?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1339,6 +1442,36 @@
       "article_url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Oil slumps as Trump holds off Iran attack, says talks will resume",
+      "description": "Brent for October lost as much as 7.3% in early Asia trade, after futures surged almost a quarter in July in their biggest monthly gain since March.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-03T04:03:58+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-02/latest-oil-market-news-and-analysis-for-aug-3",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "India’s IPO boom cools as weak markets force issuers to cut back",
+      "description": "Companies raised $5.78 billion through IPOs so far in 2026, compared with $7.32 billion in the year-earlier period. That follows record fundraising of $22.36 billion in 2025 and $20.65 billion in 2024.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-03T03:04:17+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/india-s-ipo-boom-cools-as-weak-markets-force-issuers-to-cut-back",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "India plans ₹45,000 crore rail upgrades along China, Pakistan and Bangladesh borders",
+      "description": "The spending — set to unfold over the next 18 to 24 months — will help build new tracks, platforms and network strengthening across Punjab, West Bengal, Himachal Pradesh, Rajasthan, Assam and several northeastern states, sources said",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-03T02:50:04+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/india-plans-5-billion-border-rail-upgrade-in-strategic-push",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1915,137 +2048,6 @@
       "publication_date": "2026-08-01T04:27:14+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
       "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "UKMTO reports two tanker incidents off Oman - Reuters",
-      "description": "UKMTO reports two tanker incidents off Oman Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-01T03:29:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnUzTS16X1VtV0ZDQ3FkZENqY1RCbTZrN05WcFpTSFNYT2FEVG5PdTZCaklocGFNWmdpYkhVQWVnZVcyeGhSeTBhVjdVeDFRM3doNHdrX29BWXJpN0lTVFFjTms0SkpZbmNhaXpTSl9IYU13U2YweFNiOGFOby1UX1lZUnBaZEhNUFVYeFpMcy1yaGc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Yemen's Houthis deny plans to impose fees on ships sailing through Red Sea - Reuters",
-      "description": "Yemen's Houthis deny plans to impose fees on ships sailing through Red Sea Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-31T23:40:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXFnemRGaWFpV3lfb2VYX1JWTkxKRndHU1prTTUzLWpuRGlpcDVucEFYeXRVME1kZmhLV0lJdjlnNk41c01LMzNUU0ZPVENYdjVMUDQ1bFAxZy1sdUJ1em9MZld0YXdFR2dxejJsZUliZWNzTkJGVmpxSWxYVkJZd0FLTXZkcnZVeGxSUFhsUF8zbnUtUTFsMGs4QUtCUTN2Y1dpYUI2WmtBTUloV2NhaTNiSmJGTmxvbGlrR1Vn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Exxon, Chevron warn of continued high fuel prices from Iran war - Reuters",
-      "description": "Exxon, Chevron warn of continued high fuel prices from Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-31T21:31:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjdEbTVuZzlMdmNabW90dk04NEdXMUdBUFNzR2FpcDJYZE9RWnlQdXFNV1NtZkVWZ2J1M0dzTXhwVGJFYlNsUkp2d211bFB4eXRQQXk3RWJ5c1hBZ1BUYnF3VXNiSzFweUpEaktkOUsyLVBISHlZY2dneU5RTnkyeXNTejVUZlpJa3hURjFsMGZkSVUxVUw4QUg0N3pqZjg0UlZVdTNGSG9kZw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US, Israel planning to bombard energy-related targets in Iran, CBS reports - Reuters",
-      "description": "US, Israel planning to bombard energy-related targets in Iran, CBS reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-31T21:23:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXpvc21vbVJNVjc3NWg0ZnppblFCM3dmQXFVVTNhc1A1YkhoSTA4Q0tFZ0hQbFN0WUdtRlBza0J1dzBFenk3NW85U0ZWLXA0N1llLVFCNUdmRy1JU2NzOTE2bTFTdmlYUXdZNUphTE1uSE84ZXA0WjBYNkUtX2NBbWpUS08taFBRc0xNdGtoV0F6SHpfdU15dFB1WllYNnVwQkxFWThYelpLZnQyRml2Q0MwLVZ2blFDWl9raA?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Trump says Iran not to blame for Minnesota cyberattack - Reuters",
-      "description": "Trump says Iran not to blame for Minnesota cyberattack Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-31T20:54:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcm5JeENGckR6azVYeXVLbU5qd0hJakxZdHRseXFxbzVFSVBQeldZVUpXcjJ1X1VxRnpzeWdCSmdET1llWXRRZUNFNEpOa3d3WEJ3bl9kUVZpb3pLczdoa1BYeV9sVWYydUFOWGZoZElWYTdpazdIdGNvNkFNc2RFazltMDBVNXJyaWY5T2JKbXkwMmRrM2ZkcQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-31T20:50:58+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-      "description": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-31T20:10:21+00:00",
-      "article_url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "description": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to said the company growing too quickly.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-07-31T19:16:19+00:00",
-      "article_url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump hails Gaza deal, while Hamas and Israeli officials see hurdles - Reuters",
-      "description": "Trump hails Gaza deal, while Hamas and Israeli officials see hurdles Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-07-31T18:35:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjNyWTNWX1YxTjU0OEJlQjZZRWxGa3dLSDlrTzRma0dNMzczQm1sNldhbVRsT0Q0OVc4OXpSeXMyYXNCM21EX1BhbVd3XzdCeXhFdUktZEVFZjgtYXhiS1pfWEFKS2htMktkZDdyQTBmOGlmOFc0enhNNlFiRWdwVWJYUzBwdXZkTi0wTlRMNWh2d0VIS2tqaWo5WXNxcEl1VFdDRlN5VmdGaXFURG5ralM2RzNBLTFINFMzRzhNYjNWbnRVZTV4c0pzU0F1XzA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Andy Jassy soothed concerns over Amazon's massive AI spending. Here's how he did it",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-07-31T18:34:20+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/31/andy-jassy-soothed-concerns-over-amazons-massive-ai-spending-heres-how-he-did-it-.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-07-31T18:24:55+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-      "description": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-      "source": "CNBC",
-      "publication_date": "2026-07-31T18:20:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
-      "description": "Options traders and market makers in Chicago were quick to buy dips below 7,500 in the benchmark index Friday, but almost as quick to sell rallies above that level.",
-      "source": "CNBC",
-      "publication_date": "2026-07-31T18:07:36+00:00",
-      "article_url": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
-      "asset_tags": [
-        "equities",
         "macro"
       ]
     }
