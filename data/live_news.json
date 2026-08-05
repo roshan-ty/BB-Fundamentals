@@ -1,27 +1,70 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-05T01:09:43.268824+00:00",
+    "last_updated": "2026-08-05T04:28:07.184090+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 94,
       "forex": 18,
-      "macro": 22,
-      "equities": 35,
-      "general": 93,
-      "crypto": 57,
-      "commodities": 10
+      "equities": 34,
+      "commodities": 12,
+      "crypto": 56,
+      "macro": 23
     }
   },
   "articles": [
     {
-      "headline": "Japan services PMI: Growth slows in July as selling prices near record high",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The combination of softening services growth and near-record selling price increases points to a stagflation-adjacent dynamic that is likely to keep pressure on the Bank of Japan to continue tightening, consistent with the ",
+      "headline": "Bybit’s EU payments arm secures Austrian e-money license",
+      "description": "Bybit’s Austrian payments subsidiary gained regulatory approval to develop card, merchant, open-banking and person-to-person payment services.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-05T04:03:16+00:00",
+      "article_url": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific market news 5 August 2026: Gold jumped above US$4130",
+      "description": "<ul><li><a href=\"https://investinglive.com/central-banks/follow-up-kiwi-dips-as-jobless-rate-climbs-ahead-of-rbnz-s-september-decision\" rel=\"follow\">Follow up - Kiwi dips as jobless rate climbs ahead of RBNZ's September decision</a></li><li><a href=\"https://investinglive.com/commodities/gold-climbs-",
       "source": "Forexlive",
-      "publication_date": "2026-08-05T00:38:56+00:00",
-      "article_url": "https://investinglive.com/news/japan-services-pmi-growth-slows-in-july-as-selling-prices-near-record-high/",
+      "publication_date": "2026-08-05T03:42:15+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-5-august-2026-gold-jumped-above-us-4130/",
       "asset_tags": [
         "forex",
+        "equities",
+        "commodities",
+        "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Ethereum researchers want to rein in staking, critics say it could backfire",
+      "description": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-05T02:30:07+00:00",
+      "article_url": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Oil steadies after two-day slump as investors eye Hormuz traffic - Reuters",
+      "description": "Oil steadies after two-day slump as investors eye Hormuz traffic Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-05T01:26:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+      "description": "Qatar says mediators make progress in efforts to end US-Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-05T00:56:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -33,6 +76,16 @@
       "asset_tags": [
         "forex",
         "macro"
+      ]
+    },
+    {
+      "headline": "Stock indexes register records after upbeat company forecasts; oil drops - Reuters",
+      "description": "Stock indexes register records after upbeat company forecasts; oil drops Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T23:03:39+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -202,17 +255,6 @@
       "publication_date": "2026-08-04T17:54:00+00:00",
       "article_url": "https://www.cnbc.com/2026/08/04/chipotle-stock-falls-salmonella-outbreak-minnesota.html",
       "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Stocks jump to records after upbeat company forecasts; oil, yen weaken - Reuters",
-      "description": "Stocks jump to records after upbeat company forecasts; oil, yen weaken Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-04T17:31:57+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FbUhCcDNQSE1IQ3dnM055RTJNZ0N1WHYtTUswbUtjZmRTS3FwbEtKZkd5Ti1WT0JndWtUSEJJTktud19OQzRELW93em1SMFdjcnphTVBMQ1BPMzBJLTdEYmxMbnJ2bFB4NVN4ZVlKYjIyZUlFZGx3RUljSQ?oc=5",
-      "asset_tags": [
-        "forex",
         "equities"
       ]
     },
@@ -424,16 +466,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-04T16:17:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338649/0/zh-hans/Univar-Solutions-%E6%94%B6%E8%B4%AD-H-M-Royal-%E6%89%A9%E5%A4%A7%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%A9%A1%E8%83%B6-%E5%A1%91%E6%96%99%E5%8F%8A%E8%83%B6%E7%B2%98%E5%89%82%E5%8A%A9%E5%89%82%E9%A2%86%E5%9F%9F%E7%9A%84%E5%B8%83%E5%B1%80.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
-      "description": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-04T16:16:40+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1014,6 +1046,16 @@
       ]
     },
     {
+      "headline": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say - Reuters",
+      "description": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T10:08:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
       "description": "",
       "source": "CoinDesk",
@@ -1323,6 +1365,17 @@
       ]
     },
     {
+      "headline": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
+      "description": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T05:09:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities"
+      ]
+    },
+    {
       "headline": "Toyota lifts annual forecast and unveils $6 billion buyback, but shares fall - Reuters",
       "description": "Toyota lifts annual forecast and unveils $6 billion buyback, but shares fall Reuters",
       "source": "Reuters",
@@ -1373,6 +1426,28 @@
       ]
     },
     {
+      "headline": "Gold steady as West Asia talks weigh on interest rate outlook",
+      "description": "The US and Iran both signalled that negotiations to restore shipping through the Strait of Hormuz were ongoing, raising hopes for a pickup in supply that would soften energy-driven inflation",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-04T04:03:47+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "OpenAI, Anthropic, Google to join White House AI safety meeting",
+      "description": "The framework has not yet been released publicly, and Trump’s order indicated that some of its benchmarks would remain confidential",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-04T04:03:15+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-03/openai-anthropic-google-to-join-white-house-ai-safety-meeting",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
       "description": "Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursues its 5% acquisition target.",
       "source": "Cointelegraph",
@@ -1381,6 +1456,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Tata’s battery unit Agratas turns to in-house tech for making Lithium cells amid China curbs",
+      "description": "The move is a deliberate pivot for Agratas after executives assessed that the chances of a technology deal with a Chinese firm are close to nil, the people said, given Beijing’s stringent restrictions on exports of critical manufacturing know-how.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-04T03:12:10+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-04/tata-s-battery-unit-turns-to-own-tech-for-making-lithium-cells",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -1411,16 +1496,6 @@
       "article_url": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
-      "description": "Qatar says mediators make progress in efforts to end US-Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-04T01:06:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1523,17 +1598,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention - Reuters",
-      "description": "Oil drops, stocks gain amid Iran peace hopes; yen firms as investors watch for further intervention Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T21:29:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities"
       ]
     },
     {
@@ -1984,68 +2048,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVm1qbVZqQ2FBVWIxQXlqS194RWlkSkNnWnd6SFZyWUhWeFpMRlRjTWRZVldjQWZrcU01R0NlMDZKZ0hYVllHZzNVZndvMThyRVlzamJUaEh3N2RHa2lmOWZKU3VNZ3NnbHkyWTRuZEN4ZVE1R2luSlplSkNuVDlkTXVhS2xVS0JBS2lzSHFDcW9Oc25zV3RpN0hQanFOODlGZFY2Q0F3?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Factories faced weaker demand, higher costs in July as Iran war grinds on - Reuters",
-      "description": "Factories faced weaker demand, higher costs in July as Iran war grinds on Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T11:08:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQTNZM3pLQ2FfRnJkQWNoNHN0N1dkTmY1cHN3NjNTbUtVREwzUFVhX1ZXNV9VQXphRG5DWTh3eVRHV0ZzdjQ5a0RaSVEzUkdxbUVSMHBVM2w5dzRmWnYtLWRPYmZtcmJLTEw1V0U5RWJuaDhGVmNfaC1VMXlaM0NJU19ZQy1halJsWEM0YzctWVF4UHhuSmZIQlgyeDBtRjVGTDBBX05VU2JfazZiQ3p1U1hTSkJJeDZ2NlpTVGh5NnY4RnVa?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "War-fueled oil rally set to lift shale profits to highest since 2022 - Reuters",
-      "description": "War-fueled oil rally set to lift shale profits to highest since 2022 Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-03T11:01:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLVFzcUtGdkZDcXkyMnhCWFdsRmlkbGxVTi1jc3dlTXFNdXEtWHU1dDhQTzlsZ1lmZ3lvOGdqSmZfWnhXczNXRXBZTVhiWFhvaVZOeEVUZVMtLUhoYXEzMWNQNm9fUzFvSlNJZm9TZUdWbDlJTVl3R1k0eUtyNHB3X2oycDEtb3NYZXlGSVVZc2dubVh6U3l4bkY3VF9RWVRPWEE2QXVJdDR0TlhUS1lMb2hOLUk?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Ripple invests in Zilo and Licuido to assist tokenized capital markets push",
-      "description": "Ripple made a strategic investment in Zilo and Licuido as it looks to enable the use of tokenized funds as collateral from the point of issuance.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-03T10:58:36+00:00",
-      "article_url": "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-03T10:51:37+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bithumb now targets 2028 IP after major internal restructuring",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-03T10:41:08+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Live updates: Traders say bitcoin sell-off from $65,000 points to thin volume, not panic selling",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-03T10:29:23+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
       ]
     }
   ]
