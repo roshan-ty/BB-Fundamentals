@@ -1,18 +1,80 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-05T22:00:00.408910+00:00",
+    "last_updated": "2026-08-05T23:08:39.060326+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 55,
       "forex": 12,
-      "commodities": 10,
-      "equities": 41,
+      "equities": 40,
+      "macro": 8,
       "general": 100,
-      "macro": 7
+      "commodities": 11,
+      "crypto": 54
     }
   },
   "articles": [
+    {
+      "headline": "Trump administration refunds $100bn of struck down tariffs",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The scale of the refund underscores how significant the Supreme Court's February ruling has been for importers, with more than half of the $166 billion collected under the struck down tariffs now returned. For companies tha",
+      "source": "Forexlive",
+      "publication_date": "2026-08-05T22:53:28+00:00",
+      "article_url": "https://investinglive.com/news/trump-administration-refunds-100bn-of-struck-down-tariffs/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Jim Cramer says investors should consider buying SpaceX for their kids",
+      "description": "CNBC’s Jim Cramer said investors should view SpaceX as a multigenerational investment, whose biggest opportunities may take decades to fully materialize.",
+      "source": "CNBC",
+      "publication_date": "2026-08-05T22:40:41+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/05/jim-cramer-investors-should-consider-buying-spacex-kids.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Intermountain Power Agency Announces the Issuance of a Request for Proposals for Acquisition of IPP Coal-Fueled Generating Units",
+      "description": "RFP process conducted in cooperation with Utah Energy Council seeks qualified proposals for potential continued use of coal resources RFP process conducted in cooperation with Utah Energy Council seeks qualified proposals for potential continued use of coal resources",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-05T22:09:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/05/3339854/0/en/Intermountain-Power-Agency-Announces-the-Issuance-of-a-Request-for-Proposals-for-Acquisition-of-IPP-Coal-Fueled-Generating-Units.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Highwater and Taylor Bros Unite to Advance Australia's Sovereign Naval Capability",
+      "description": "HOBART, Australia & PORTLAND, Ore.--(BUSINESS WIRE)--Highwater, a leading provider of naval services to the U.S., Australian, and Allied navies, today announced the acquisition of Taylor Bros Marine Pty Ltd (“Taylor Bros” or the “Company”), the leading naval outfitting and habitability company in Au",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-05T22:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260805974880/en/Highwater-and-Taylor-Bros-Unite-to-Advance-Australias-Sovereign-Naval-Capability/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-05T21:40:33+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-05T21:30:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
       "description": "The lawmaker reportedly sent a letter to the Commerce Secretary demanding answers about the administration’s treatment of the UAE following investments in the Trump family’s crypto company.",
@@ -34,6 +96,16 @@
       ]
     },
     {
+      "headline": "Gloo agrees to acquire Cedarstone to expand AI-powered nonprofit services",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-05T21:01:04+00:00",
+      "article_url": "https://seekingalpha.com/news/4626841-gloo-agrees-to-acquire-cedarstone-to-expand-ai-powered-nonprofit-services?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Four Corners Property Trust acquires 5 Novant Health Urgent Care properties for $11.7M",
       "description": "",
       "source": "SeekingAlpha",
@@ -41,16 +113,6 @@
       "article_url": "https://seekingalpha.com/news/4626773-fcpt-acquires-5-novant-health-urgent-care-properties-for-117m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Radian Announces Second Quarter 2026 Financial Results",
-      "description": "WAYNE, Pa.--(BUSINESS WIRE)--Radian Group Inc. (NYSE: RDN) today reported net income from continuing operations of $118 million, or $0.87 per diluted share, for the quarter ended June 30, 2026. This compares with net income from continuing operations of $154 million, or $1.11 per diluted share for t",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-05T20:35:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260731129910/en/Radian-Announces-Second-Quarter-2026-Financial-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -67,20 +129,10 @@
       "headline": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
       "description": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-05T20:02:10+00:00",
+      "publication_date": "2026-08-05T20:19:22+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
-      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-05T19:44:24+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -355,17 +407,6 @@
       "article_url": "https://www.cnbc.com/2026/08/05/were-pocketing-gains-in-2-stocks-that-are-hitting-new-record-highs.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "EURUSD tests the week's high and looks toward the 100 day MA/other resistance targets",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The EURUSD bias remains tilted to the upside after yesterday's pullback stalled in the swing area between 1.1498 and 1.1506. Buyers defended that support zone, the price held above the rising 100-hour moving average, and the pair went on to close higher. To",
-      "source": "Forexlive",
-      "publication_date": "2026-08-05T15:19:37+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/eurusd-tests-the-week-s-high-and-looks-toward-the-100-day-ma-other-resistance-targets/",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     },
     {
@@ -1231,6 +1272,16 @@
       ]
     },
     {
+      "headline": "India's July services sector growth slides to over four-year low as demand wilts, PMI shows - Reuters",
+      "description": "India's July services sector growth slides to over four-year low as demand wilts, PMI shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-05T05:30:28+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUGpFbG9rSnhVUUhSOW1DdFVjSXVrY29CclhpMEdIWjR1dzBKMWV3RVRPaDFCWVhiSFJmbU41d2hyS0lYb2lRN09ncnR0cGxaanpFaUk4VmhnUTRBZ0lXMmFDYkZPSzlTdmhfRFZrRFltS2t5LTBOeEtZVkZsVDVVVTRLa2FTVUYwdElvY2JTeW44bWRHVjVMazY3bG9SQ0ZVeUZkSEQybUNEYVFQTGVvV1lHVUd5Qk40amRYMGJ0YmlTbkU?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
       "description": "",
       "source": "CoinDesk",
@@ -1341,6 +1392,16 @@
       "asset_tags": [
         "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Qatar says mediators make progress in efforts to end US-Iran war - Reuters",
+      "description": "Qatar says mediators make progress in efforts to end US-Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-05T00:11:03+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1676,56 +1737,6 @@
       ]
     },
     {
-      "headline": "Univar Solutions, H.M. Royal 인수하며 미국 고무·플라스틱·접착제 첨가제 시장 사업 확대",
-      "description": "100년 이상 축적한 기술 전문성과 고객 신뢰를 바탕으로 미국 주요 시장에서 서비스 및 공급 역량 강화",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-04T16:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338649/0/ko/Univar-Solutions-H-M-Royal-%EC%9D%B8%EC%88%98%ED%95%98%EB%A9%B0-%EB%AF%B8%EA%B5%AD-%EA%B3%A0%EB%AC%B4-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1-%EC%A0%91%EC%B0%A9%EC%A0%9C-%EC%B2%A8%EA%B0%80%EC%A0%9C-%EC%8B%9C%EC%9E%A5-%EC%82%AC%EC%97%85-%ED%99%95%EB%8C%80.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "ユニバー・ソリューションズ、H.M.ロイヤルを買収し、米国におけるゴム、プラスチックおよび接着剤用添加剤分野での事業拡大を図る",
-      "description": "100年にわたる技術的専門知識と顧客との信頼関係を結集し、米国の主要市場におけるサービスと供給体制を強化する",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-04T16:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338649/0/ja/%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC-%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA-H-M-%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%92%E8%B2%B7%E5%8F%8E%E3%81%97-%E7%B1%B3%E5%9B%BD%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B4%E3%83%A0-%E3%83%97%E3%83%A9%E3%82%B9%E3%83%81%E3%83%83%E3%82%AF%E3%81%8A%E3%82%88%E3%81%B3%E6%8E%A5%E7%9D%80%E5%89%A4%E7%94%A8%E6%B7%BB%E5%8A%A0%E5%89%A4%E5%88%86%E9%87%8E%E3%81%A7%E3%81%AE%E4%BA%8B%E6%A5%AD%E6%8B%A1%E5%A4%A7%E3%82%92%E5%9B%B3%E3%82%8B.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Univar Solutions Mengakuisisi H.M. Royal, Memperluas Jangkauan di Pasar Bahan Aditif untuk Karet, Plastik, dan Perekat di Amerika Serikat",
-      "description": "Memperkuat layanan dan rantai pasok di pasar-pasar utama AS dengan memadukan satu abad keahlian teknis dan hubungan pelanggan yang dilandasi kepercayaan",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-04T16:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338649/0/id/Univar-Solutions-Mengakuisisi-H-M-Royal-Memperluas-Jangkauan-di-Pasar-Bahan-Aditif-untuk-Karet-Plastik-dan-Perekat-di-Amerika-Serikat.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Univar Solutions רוכשת את H.M. Royal ומרחיבה את פעילותה בתחום התוספים לגומי, פלסטיק ודבקים בארצות הברית",
-      "description": "מחזקת את השירות והאספקה ​​בשווקי מפתח בארה\"ב, תוך שילוב של מאה שנות מומחיות טכנית וקשרי לקוחות מבוססי-אמון.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-04T16:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338649/0/he/Univar-Solutions-%D7%A8%D7%95%D7%9B%D7%A9%D7%AA-%D7%90%D7%AA-H-M-Royal-%D7%95%D7%9E%D7%A8%D7%97%D7%99%D7%91%D7%94-%D7%90%D7%AA-%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%AA%D7%94-%D7%91%D7%AA%D7%97%D7%95%D7%9D-%D7%94%D7%AA%D7%95%D7%A1%D7%A4%D7%99%D7%9D-%D7%9C%D7%92%D7%95%D7%9E%D7%99-%D7%A4%D7%9C%D7%A1%D7%98%D7%99%D7%A7-%D7%95%D7%93%D7%91%D7%A7%D7%99%D7%9D-%D7%91%D7%90%D7%A8%D7%A6%D7%95%D7%AA-%D7%94%D7%91%D7%A8%D7%99%D7%AA.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Univar Solutions übernimmt H.M. Royal und baut seine Marktpräsenz im Bereich Additive für Gummi, Kunststoffe und Klebstoffe in den USA weiter aus",
-      "description": "Stärkt Service und Versorgung in den wichtigsten US-Märkten durch die Bündelung von über 100 Jahren technischer Expertise und gewachsenen Kundenbeziehungen",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-04T16:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338649/0/de/Univar-Solutions-%C3%BCbernimmt-H-M-Royal-und-baut-seine-Marktpr%C3%A4senz-im-Bereich-Additive-f%C3%BCr-Gummi-Kunststoffe-und-Klebstoffe-in-den-USA-weiter-aus.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Oil prices tumble after Bessent says Strait of Hormuz deal may come this week",
       "description": "Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz would allow freedom of navigation.",
       "source": "CNBC",
@@ -2025,17 +2036,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZk1aaE1KdFZ3UXpNOG1tblJXdWRLRE1RTjI1RjJnM25PeU9ROFRNZ01SX05NVXdPMFJhTDItblZRYXh3NnRkak5UVEtlRzZVWGl3b0Ixd0JPZjFtc3FVdXdMR29KZmx4aF9hMGRwdkRXQWdyNzJfTVRZRG5SdmMyaGVORGpJOTRXUDFFZDJheEtKdWxhOGJTMmNEYVg5Tm9zVUdTdU1DYUNYN2lwbzR5UjdHMlF5Nkt6MEM5OUdHZElvUGROOUxIMg?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
-      "description": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-04T10:47:39+00:00",
-      "article_url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "crypto"
       ]
     }
   ]
