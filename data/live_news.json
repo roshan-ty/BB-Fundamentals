@@ -1,27 +1,37 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-04T23:46:58.853134+00:00",
+    "last_updated": "2026-08-05T01:09:43.268824+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 37,
-      "crypto": 59,
-      "macro": 23,
-      "forex": 16,
-      "general": 92,
+      "forex": 18,
+      "macro": 22,
+      "equities": 35,
+      "general": 93,
+      "crypto": 57,
       "commodities": 10
     }
   },
   "articles": [
     {
-      "headline": "Australia services PMI hits six-month high of 53.6 as new orders return",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The renewed rise in new orders, the first in five months, alongside the composite index's jump to its fastest expansion pace since January, points to a domestic recovery gaining genuine traction rather than a one-off bounce",
+      "headline": "Japan services PMI: Growth slows in July as selling prices near record high",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The combination of softening services growth and near-record selling price increases points to a stagflation-adjacent dynamic that is likely to keep pressure on the Bank of Japan to continue tightening, consistent with the ",
       "source": "Forexlive",
-      "publication_date": "2026-08-04T23:07:31+00:00",
-      "article_url": "https://investinglive.com/news/australia-services-pmi-hits-six-month-high-of-53-6-as-new-orders-return/",
+      "publication_date": "2026-08-05T00:38:56+00:00",
+      "article_url": "https://investinglive.com/news/japan-services-pmi-growth-slows-in-july-as-selling-prices-near-record-high/",
       "asset_tags": [
-        "equities",
-        "crypto",
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation",
+      "description": "MADRID & STAMFORD, Conn.--(BUSINESS WIRE)--Banco Santander, S.A. (“Santander”) and Webster Financial Corporation (“Webster”) today announced that they have received the required approval from the Board of Governors of the Federal Reserve System for Santander's previously announced acquisition of Web",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-04T23:52:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260804258528/en/Santander-Receives-Federal-Reserve-Approval-for-the-Acquisition-of-Webster-Financial-Corporation/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "forex",
         "macro"
       ]
     },
@@ -53,16 +63,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338965/0/en/Cygnus-Metals-Limited-Scheme-Transaction-Update.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "استحواذ Visa على BioCatch",
-      "description": "سان فرانسيسكو وتل أبيب، إسرائيل--(BUSINESS WIRE)--اليوم، أعلنت Visa (رمزها في بورصة نيويورك: V) عن توقيعها اتفاقية نهائية للاستحواذ على BioCatch، وهي شركة رائدة في مجال توفير معلومات الاحتيال متعددة الإشارات والقائمة على السلوك، من صناديق تديرها شركة Permira ومساهمون آخرون مقابل 2.4 مليار دولار نقدً",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-04T22:26:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260803606204/ar/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -161,6 +161,16 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-04T18:45:47+00:00",
       "article_url": "https://seekingalpha.com/news/4625118-western-union-jumps-on-takeover-speculation?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Asia crude and fuel imports recover, still shy of pre-Iran war levels - Reuters",
+      "description": "Asia crude and fuel imports recover, still shy of pre-Iran war levels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T18:43:50+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGVwVDlqUHgzUTZBLWFQWGVUNWZWS0hmM3hiRElSNFNDcVhtc2pPMUI4X1lzY2pBNlFBRTdKd0s3MDlaY0NhWVV0N0lsU2RGTzI0cGJ3eFo4SFR2dEV0VFY1a2lzZW4yenVWYUFpMmNJU1pxQi15N19DZ2VfLVlTVmJuR2lZd1MyVzJHVkJXaWMyeTNRSHhPQzZybDQydmdjNnExMnRXTmNaMW1TUl9rb1BzOWI3VVR2d0QxZHdBT2NrU2hJellTTDl3?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -274,6 +284,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-04T16:21:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWxZWjEzUHh2dXNYYUxyS2RjbUhHTXh1RHpVTjZwUUpScFlZbnFUVDkwUlR3bXJMU3otWDY4Q2cyTml6dXV2YVJIZkdiN0lnZUV0T19VN1QwRUY4ZmU5bjNhUHJfU2tWeEw4RVFoTUN4R2lGaW1WSXpzUWxaVmZWSF9kRGhLcE9GU1lxaHp4N0xnNFp0MG9lMkZEeTd4TTEyTTBySlEzYVJFM0RSdjFTRHJZbnFmdFBISndla004RHVTQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 - Reuters",
+      "description": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112 Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T16:19:30+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzdKSkNaWjdlN2xsLTdua0JNdGNsWVI1OVdUZ2gyQk5oQ3YwcW1GNnhmbVQ5MnNjSnRKMmlTaGFHck1Bb01rbUNsOEFDTExqZHJwUTJHYzA4YzVmSUs5NjB1Mi1JNE94RFlrVmJOSzJLZjhPbDM2cm51a0dvUmlhazZhT1QzUFF6XzRVcEhIZ1JrV2EySE5PV2JkaVVhRTYyNXZObm9FcVpRSG96YUN4Ym5PNA?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -414,16 +434,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-04T16:16:40+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Asia crude and fuel imports recover, still shy of pre-Iran war levels - Reuters",
-      "description": "Asia crude and fuel imports recover, still shy of pre-Iran war levels Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-04T16:04:20+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORGVwVDlqUHgzUTZBLWFQWGVUNWZWS0hmM3hiRElSNFNDcVhtc2pPMUI4X1lzY2pBNlFBRTdKd0s3MDlaY0NhWVV0N0lsU2RGTzI0cGJ3eFo4SFR2dEV0VFY1a2lzZW4yenVWYUFpMmNJU1pxQi15N19DZ2VfLVlTVmJuR2lZd1MyVzJHVkJXaWMyeTNRSHhPQzZybDQydmdjNnExMnRXTmNaMW1TUl9rb1BzOWI3VVR2d0QxZHdBT2NrU2hJellTTDl3?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -634,6 +644,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-04T13:38:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338460/0/en/Form-8-3-Advanced-Medical-Solutions-Group.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
+      "description": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T13:32:48+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1232,16 +1252,6 @@
       ]
     },
     {
-      "headline": "CSG acquires the Gnaschwitz industrial site in Germany and plans to invest more than EUR 100 million in its initial development",
-      "description": "Industrial and technology group CSG, through its German subsidiary CSG Energetic Materials Germany GmbH, has completed the acquisition of the 57-hectare Gnaschwitz industrial site near Bautzen in the German state of Saxony. The site was acquired from MAXAM. As part of the initial phase of the site's",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-04T06:50:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338046/0/en/CSG-acquires-the-Gnaschwitz-industrial-site-in-Germany-and-plans-to-invest-more-than-EUR-100-million-in-its-initial-development.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Two tankers with Saudi oil exit Red Sea over weekend, data shows - Reuters",
       "description": "Two tankers with Saudi oil exit Red Sea over weekend, data shows Reuters",
       "source": "Reuters",
@@ -1282,6 +1292,16 @@
       ]
     },
     {
+      "headline": "Trump says talks with Iran under way but Tehran denies any planned - Reuters",
+      "description": "Trump says talks with Iran under way but Tehran denies any planned Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-04T05:57:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdzJzZHNCZzdLcHhDVWdCSEpLMEpVckJUQXFxcjhrcEdHWmlWQ183T3g0dUtwWldQLTVfQ0FCbGRaXzV3Y2tnS0laLS1LeU1KcGJKRVhvX2xyV1I1Q0cxSDF0dWJ6ZWpaOFZJTWZac045VWduTklfeUl2QUhKcXZtbE9EY1MtR0p0MUNZOXEtbEpFejVqeXFQaHRRcVFBbkNhUU41eGM3ZldtVFg3U09UY205bjRlUFU?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
       "description": "",
       "source": "CoinDesk",
@@ -1289,16 +1309,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
-      "description": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-04T05:32:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2032,18 +2042,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-03T10:29:23+00:00",
       "article_url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitcoin may find bear market bottom in August: 10x Research",
-      "description": "Bitcoin could confirm an August bear-market bottom, though rising Treasury yields could force the Fed to raise rates in September, according to 10x Research.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-03T10:25:32+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities",
         "crypto",
