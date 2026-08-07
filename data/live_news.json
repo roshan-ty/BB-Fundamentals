@@ -1,18 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T17:12:04.496418+00:00",
+    "last_updated": "2026-08-07T18:06:35.775779+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 105,
-      "commodities": 14,
+      "crypto": 58,
       "equities": 26,
-      "crypto": 59,
-      "macro": 16,
-      "forex": 8
+      "commodities": 14,
+      "general": 107,
+      "forex": 9,
+      "macro": 15
     }
   },
   "articles": [
+    {
+      "headline": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "description": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expands across major blockchain ecosystems.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T17:36:45+00:00",
+      "article_url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Reform UK chair calls for probe into SBF-linked donation: Report",
+      "description": "As the chairman of the Reform UK calls for an investigation into a FTX-linked political donation, the party’s leader prepares to face voters amid his own crypto-related scandal.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T17:03:50+00:00",
+      "article_url": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "A huge day and week for Corning as the S&P 500 approaches another record high",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-08-07T16:59:17+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
     {
       "headline": "NetApp تستحوذ على JetStream Software لتعزيز المرونة السيبرانية والارتقاء بحماية البيانات في عصر الذكاء الاصطناعي",
       "description": "سان خوسيه، كاليفورنيا--(BUSINESS WIRE)--أعلنت NetApp® (المدرجة في ناسداك بالرمز: NTAP)، وهي الشركة الرائدة في مجال البنى التحتية الذكية للبيانات، اليوم عن استحواذها على شركة JetStream Software، الرائدة في مجال التعافي من الكوارث وترحيل بيئات VMware.يواصل عملاء المؤسسات الاعتماد على منصة VMware لتشغي",
@@ -31,6 +62,19 @@
       "article_url": "https://seekingalpha.com/news/4629405-voya-says-toms-capital-materials-contain-inaccurate-misleading-statements?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin Holds $65,000 as Ethereum Tests Support: Is the Crypto Breakout Still Alive?",
+      "description": "<p id=\"bitcoin-holds-65000-after-weak-us-jobs-report-and-crypto-bill-delay-is-the-breakout-still-alive\">Bitcoin holds $65,000 after weak US jobs report and crypto bill delay: Is the breakout still alive?</p><p>Bitcoin futures remain marginally constructive above the 64,990-65,005 support zone, but F",
+      "source": "Forexlive",
+      "publication_date": "2026-08-07T16:33:33+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-holds-65-000-as-ethereum-tests-support-is-the-crypto-breakout-still-alive/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "crypto",
+        "macro"
       ]
     },
     {
@@ -104,6 +148,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "ADNOC says attacks on vessels, staff significantly impacting operations - Reuters",
+      "description": "ADNOC says attacks on vessels, staff significantly impacting operations Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T15:07:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFZ2Y0RPOWN5S0dKcGVuQTgweVRpcHJfS1RMeFNXWjJHTkxjQU9oR3NhSGhGekVndEg5aS1QS1Jadm9ZUGU2QVdIa3pGY0VXa0dmZE9EOEZZLWd5Z194SEZNcXF6eWRjbUdkSWxfWVJXdkt4Y1I2UGJNZ0NpQ2NkZTJhREd4YzB2MlExUjdJRnFPZUZ1UFdfUF9jVXg2OHlfVHVSYW1zd0ZPaC1qTTRpaTNoV040WVFrZF8xRTV3?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -802,6 +856,16 @@
       ]
     },
     {
+      "headline": "Prices in UK housing market flat in July as Iran war weighs - Reuters",
+      "description": "Prices in UK housing market flat in July as Iran war weighs Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T06:42:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVV5bXd6ZlZEc2lxeHNwbkVocjdyaGphQ25XTXFQZm14ZW56YUtSTkpiRlB3SVJKT0pjcTBlR1pONlNFNUhTYnlhLXBObFp3VnFJbWNORTlXVm5sMzZteU9ZbWh4ZzktVnQ0UzU1UC1SbWRvNC1yd2RFdkV1WFRIYzNrQkNjSXpSRE1xQXhvVUpoeXF0Xy1uVTljcw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in Scholarly Publishing Solutions",
       "description": "MUMBAI, India, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Lumina Datamatics, a global leader in content, retail support, and technology solutions, today announced the completion of its acquisition of TNQTech, a leading Chennai-based publishing technology company. This transaction marks a significant mileston",
       "source": "GlobalNewswire",
@@ -865,7 +929,7 @@
       "headline": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks - Reuters",
       "description": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-07T04:41:15+00:00",
+      "publication_date": "2026-08-07T04:33:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdYbS1fZXZGWktSZkVpMk4temZNOUY1cEFsQUxTRXRNQnJUai1lY2xTMDE5dmFMZjUyUzZQclRyQUJuVTFVXzB6RGtpeXlFeU8xZjNiVWp4dVVNTkVWcVhCVEpsVVdTa1lsZEVfVUlSWHBlMjh0UDNYdkpjS3BHVjA2MUUtSXU0OTNEZ1lCUW9iYkliLUxSN2JSTTlFbEktaGRTb2UzcUxNMjlaZGtQSmt1S1FWYzlvdlkwdDM3WjY0dHZTRU9VWFFB?oc=5",
       "asset_tags": [
         "general"
@@ -889,6 +953,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Europe's getting hotter, markets are taking note - Reuters",
+      "description": "Europe's getting hotter, markets are taking note Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T04:02:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGVzcGFNZ1c5WlpIeXI4dWlKLUNPWmNUYXFCbWxCazFPV2swT3dyR0ZvUW54X2Nnb3ZsMWh5NmtoUHpUb3B4V1l2dV9aTGd6V2tlbTQ1aGNrUEIzdWZ3YkhWNW81dDFGdVhmdnM4N3dka1lYTy1ZZFZaSGE4RzZBTVJCTm8wb21CUGN0aTd0MU5NMFNjd2lUV2k4dTRsNG9XWWhFdmtB?oc=5",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
@@ -963,14 +1037,13 @@
       ]
     },
     {
-      "headline": "Crypto news - US Senate pushes CLARITY Act crypto vote to September as recess nears",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The postponement removes near term regulatory clarity for digital asset markets, extending the uncertainty firms have cited as a constraint on custody and product planning since the bill cleared committee in May. A Septembe",
-      "source": "Forexlive",
-      "publication_date": "2026-08-07T02:05:21+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/crypto-news-us-senate-pushes-clarity-act-crypto-vote-to-september-as-recess-nears/",
+      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
+      "description": "Everybody wants energy security post the Iran war, but how? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T02:06:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
       "asset_tags": [
-        "commodities",
-        "crypto"
+        "commodities"
       ]
     },
     {
@@ -995,16 +1068,6 @@
       ]
     },
     {
-      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
-      "description": "Everybody wants energy security post the Iran war, but how? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T01:03:56+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Crypto market maker Wintermute launches US broker-dealer",
       "description": "Wintermute said the registration allows the firm to position itself for the growth of tokenized securities in the US.",
       "source": "Cointelegraph",
@@ -1012,6 +1075,16 @@
       "article_url": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Petrobras posts third-highest profit as Middle East conflict lifts oil prices - Reuters",
+      "description": "Petrobras posts third-highest profit as Middle East conflict lifts oil prices Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T22:51:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUJiMmZaWlhUbWxheDM5M3ptaEZfV3JoUXBMU1dIQzFhTmN6MXQzbUNRTEFfZ3drVnFmc29GOHRZcTBXWENDZERRa0l2MFJQS1FRRmdvOGRsRnpNT05GNURYNjRnSm5fblIxYzVuZDA4YkxFZFJVcXR1dnl3RHROTDhtdENSRUpOQlBDTDdrSmFySHVsdzcwNV9wN3lMTjRwbXRRcQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1967,78 +2040,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
-      "description": "US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T06:57:31+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T06:10:43+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
-      "description": "Criminals are reportedly using fake websites and falsified documents to target customers searching for licensed crypto providers.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T06:07:14+00:00",
-      "article_url": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Record low gas stocks expose Europe to risk of price spikes - Reuters",
-      "description": "Record low gas stocks expose Europe to risk of price spikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T06:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG1wdFRFMFBsYmRrS3NqZjhZSjdmcm93UXZyVXpsTlNRVG90Y0R5elJPTXBDbHVlaHBFQUlKRmc3Rlc1a3g3dExyQndEd0xMUG5fSGVwVUxMSU94LXZzVHVELW8yaEpCY2c2T2E5bi0wc3I0Y19mVThhX1FWYWxnMkk5QmhLTXNSZ0NKdUFqNzJDaTFzQ3hCN1RVMGlZNXVBanBsOEFCZ3E?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities"
-      ]
-    },
-    {
-      "headline": "Oil traders double down on Iran deal bet as odds worsen - Reuters",
-      "description": "Oil traders double down on Iran deal bet as odds worsen Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T06:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTlrUTg0TjljZzBlaVJyRkJnS21MLU9TblltYU1oUm1NLVRqX1NnVEZvM2ZCTlMwXzBtUWk5cE1pSE5ZTnFYeGVtZjNZcnBlaU1iRHdfYlVzN3pyd0VYM3ZXRTJzcHhUYlNMT1ZmRU15eHhqZi1FNkpKa04waEk2YXA2X2QtUVBKcmZtMjRkWDd6anFaQzBJeXlhUXZmZTZxYUxYcU4wUjFNUnliUDk4YWVRb2FCZTFmV1FHQnFWck8wd0k?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Fed’s Cook says she’d support rate hike if disinflation stalls",
-      "description": "Federal Reserve Governor Lisa Cook said she is “prepared to act” if inflation remains too high above the Fed’s target rate.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T05:44:04+00:00",
-      "article_url": "https://cointelegraph.com/markets/feds-cook-warns-persistent-inflation-could-prompt-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker - Reuters",
-      "description": "Gulf shipping traffic down after Houthis say they attacked Saudi tanker Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T05:37:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVTZaTFF1d0RtUUU0YWlhZ0RkNW9nXzcwWVhfdUlaMnByRGhLcDVCbFhOeE0xa0dJZk5yaU1DaUVKSXpHMTZCY2pMS0NoZERmUWRVRGtjSDVuenBmTjBlOHZZX3MzVzBZS3lMSm9EUXpneVlCaC1NcW9tQ1YzN0ZJMGlmdmJmWlcxMlpMQjZfUEJIdHMtNFhCeXE1QjFXMGh1RGItaDFZaXZPcFNwWWM1Q3R3ZUxtUGlSZ1NoVWRuMmpMVkU?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
