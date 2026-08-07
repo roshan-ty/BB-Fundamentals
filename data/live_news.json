@@ -1,24 +1,107 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T15:13:09.301696+00:00",
+    "last_updated": "2026-08-07T16:12:02.487624+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 108,
-      "crypto": 59,
+      "commodities": 13,
+      "general": 106,
       "equities": 26,
-      "commodities": 11,
-      "forex": 9,
-      "macro": 16
+      "crypto": 59,
+      "macro": 17,
+      "forex": 9
     }
   },
   "articles": [
+    {
+      "headline": "Celsius jumps on report Rockstar Energy founder takes stake, wants to be CEO",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-07T15:45:35+00:00",
+      "article_url": "https://seekingalpha.com/news/4629308-celsius-jumps-on-report-rockstar-energy-founder-takes-stake-wants-to-be-ceo?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Article Student Living Acquires Signature Apartments at University of Kentucky",
+      "description": "CHICAGO--(BUSINESS WIRE)--Article Student Living, a student housing developer, investor, and operator, acquires Signature Apartments near the University of Kentucky.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-07T15:44:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260807508905/en/Article-Student-Living-Acquires-Signature-Apartments-at-University-of-Kentucky/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+      "description": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+      "source": "CNBC",
+      "publication_date": "2026-08-07T15:26:56+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
+      "description": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T15:23:15+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
+      "description": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T15:07:49+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%",
+      "description": "<ul><li>One year inflation 3.6% vs 3.7%</li><li>Three year inflation unchanged at 3.3%</li><li>Five year inflation unchanged at 3.0%</li><li>Current and expected personal finances improved</li><li>Labor market expectations were mixed</li></ul><p>No big surprises in this one.</p> This article was wri",
+      "source": "Forexlive",
+      "publication_date": "2026-08-07T15:01:20+00:00",
+      "article_url": "https://investinglive.com/news/new-york-fed-survey-one-year-inflation-expectations-dip-to-3-6-from-3-7/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
+      "description": "Everybody wants energy security post the Iran war, but how? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T14:59:21+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
     {
       "headline": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
       "description": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
       "source": "CNBC",
       "publication_date": "2026-08-07T14:54:51+00:00",
       "article_url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T14:31:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -64,16 +147,6 @@
       ]
     },
     {
-      "headline": "Sia收購Seven Consulting，進一步加速在澳洲的擴張",
-      "description": "巴黎--(BUSINESS WIRE)--(美國商業資訊)-- Sia收購澳洲管理顧問公司Sev en Consulting，持續拓展國際業務。Seven Consulting以其在業務轉型領域的專長而聞名，服務於澳洲眾多大型銀行、政府機構、交通運輸及郵政、零售及消費品、能源及公用事業企業。 Seven Consulting成立於2002年，擁有超過100名顧問，其中一半常駐雪梨，另一半分別位於墨爾本和馬尼拉。該公司透過為知名銀行、政府機構、交通運輸、零售以及能源與公用事業客戶提供複雜且至關重要的業務轉型專案支援而建立起良好的聲譽。其客戶包括NAB、Macquarie、ASX、Cuscal、F",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-07T13:36:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260807318423/zh-HK/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
       "description": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
       "source": "Cointelegraph",
@@ -81,6 +154,16 @@
       "article_url": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Oil prices drop as investors weigh potential Hormuz deal between Iran and Gulf states - Reuters",
+      "description": "Oil prices drop as investors weigh potential Hormuz deal between Iran and Gulf states Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T13:13:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -172,18 +255,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US July non-farm payrolls -23K vs +80K expected",
-      "description": "<ul><li class=\"whitespace-normal break-words pl-2\"><a href=\"https://investinglive.com/news/us-june-non-farm-payrolls-57k-vs-110k-expected-20260702/\" rel=\"follow\">Prior </a>was +57K (revised to +20K)</li><li class=\"whitespace-normal break-words pl-2\">Two-month net revision -103K</li><li class=\"whites",
-      "source": "Forexlive",
-      "publication_date": "2026-08-07T12:30:24+00:00",
-      "article_url": "https://investinglive.com/news/us-july-non-farm-payrolls-23k-vs-80k-expected/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
       ]
     },
     {
@@ -337,16 +408,6 @@
       ]
     },
     {
-      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
-      "description": "Everybody wants energy security post the Iran war, but how? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T11:59:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Millrose Properties commits up to $1.25B to support Dream Finders' Beazer acquisition",
       "description": "",
       "source": "SeekingAlpha",
@@ -392,16 +453,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-07T11:40:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3341048/0/en/man-group-plc-form-8-3-bodycote-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
-      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T11:23:59+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -681,6 +732,16 @@
       ]
     },
     {
+      "headline": "India's government set to exceed key fundraising goal on state-firm stake sales, sources say - Reuters",
+      "description": "India's government set to exceed key fundraising goal on state-firm stake sales, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T07:36:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGpIdTVlM3k4VWVxb1VNUFhFNHphUVFTUG42WndtMm55OFpQUFZMeE80UGxuVjhzWjFHZ3dMUG1OS1cxOW92eTlkdGEwakpKcXNmbXVLWkdkTTRPWGNld1FKVWVBVzFuQlFXR0V2dGJHc0NJWm01dkJZd19qR2dsbzVxTzgxWHFpSWIxZXROSkV6b0RQZlhESGFDZkV6RUJkTDItVXFhNEpveW9QeHc5NGtpb3RmdjF0dmk0SEhPeWRXUk9BV2ZJ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Form 8.3 - [GOOCH & HOUSEGO PLC - 21 07 2026] - (CGWL)",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -851,6 +912,17 @@
       ]
     },
     {
+      "headline": "US stocks, bonds rally after soft jobs report; yen bounces back - Reuters",
+      "description": "US stocks, bonds rally after soft jobs report; yen bounces back Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T02:16:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities"
+      ]
+    },
+    {
       "headline": "Senate won't vote on crypto Clarity Act before its summer break",
       "description": "",
       "source": "CoinDesk",
@@ -890,16 +962,6 @@
       "asset_tags": [
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil prices drop as investors weigh potential Hormuz deal between Iran and Gulf states - Reuters",
-      "description": "Oil prices drop as investors weigh potential Hormuz deal between Iran and Gulf states Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T00:47:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1440,16 +1502,6 @@
       ]
     },
     {
-      "headline": "Virginia governor says she will 'intervene' in NextEra-Dominion merger",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-06T14:48:19+00:00",
-      "article_url": "https://seekingalpha.com/news/4627859-virginia-governor-says-she-will-intervene-in-nextera-dominion-merger?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Tata Sons faces continued listing uncertainty after RBI classification - Reuters",
       "description": "Tata Sons faces continued listing uncertainty after RBI classification Reuters",
       "source": "Reuters",
@@ -1699,16 +1751,6 @@
       "asset_tags": [
         "forex",
         "crypto"
-      ]
-    },
-    {
-      "headline": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts - Reuters",
-      "description": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T11:22:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkpnYUF2THhmeU1oTWlVZDhlRDBFZ05MMEExSXk4Sldrd3BZQ01ZTUpTc0tsbW5pYWJrcThGSkpXbkhWZHVvSzRYRjV6X3cyanUxQ2NKVXlxUkxFYXFtXzhQZlJCMV92dklHUzk5ZlZ4SUVhdElSX0VuWDBPYkdGbEtKS3NsVVhWUk80SUI3UzZ5cGt2LVh3bFRkeDNOa0F0T0d2NVhSUHFILXFUcjR4c0FjSVNzS2o0RWlZUHF4eWhYQ3ZSZmoxY2l2WFhETTgtYlpQNWJyNk5kUQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1999,47 +2041,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWHFKcW5BTzV2QS1RcmpOMWlER0lPV3hEYjNHN0FuSW96NGFkSzZfdjZvMlhDd1lIb3NkNEo4WWlGRHlzaW1uckVfVE44ell6VjVrbllObmE3ejBaM3BILXBLN3BYM0tlaFZmQm9hblBMVnBRQ1BDWVdsUHJsd1lZU09YVENMb01raEl6T0hZZEdEcW1qc3ZzdGJFQnNMeVlsVU0zQVktUll5bVdUT2liNktocFAzYmp1SEhVelZBeThla3VjSFh3bWx3?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T04:59:11+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Morning Bid: AI stocks learn to fly — but ain't got wings - Reuters",
-      "description": "Morning Bid: AI stocks learn to fly — but ain't got wings Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T04:52:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVdyc053UEtXR1QxVFh6Q0xDYjlVYUxyaXdYZG05c0lkaHhoQnhZSnJGaXhPTFhoMkEwMUIzdE0tV2F0WGI1NGtxdTJGWklQV3JfYjRmU2dYXzQzNXBpeDRhT09ITGN3aGM4ekdDb2xzejNjUldiSVY5U1ZlWFJFaDYycG8ybzZKYlY1NG5R?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "AI’s volatile power demand is damaging its own data centers",
-      "description": "Power increments equivalent to the consumption of factories, towns or even cities can appear and disappear within seconds, creating repeated shocks that connected equipment struggles to absorb",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-06T04:49:33+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-06/data-centers-are-being-damaged-by-ai-s-volatile-power-demand",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T04:46:17+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
