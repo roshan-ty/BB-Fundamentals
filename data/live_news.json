@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T18:06:35.775779+00:00",
+    "last_updated": "2026-08-07T19:12:20.321260+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 58,
+      "general": 109,
+      "crypto": 56,
       "equities": 26,
       "commodities": 14,
-      "general": 107,
       "forex": 9,
-      "macro": 15
+      "macro": 14
     }
   },
   "articles": [
+    {
+      "headline": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
+      "description": "US Senate passes Russia sanctions championed by Graham; US House next Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T18:50:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Circle expands USDC to OKX ecosystem with X Layer launch",
       "description": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expands across major blockchain ecosystems.",
@@ -55,6 +65,16 @@
       ]
     },
     {
+      "headline": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T16:53:56+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Voya says Toms Capital materials contain inaccurate, misleading statements",
       "description": "",
       "source": "SeekingAlpha",
@@ -75,6 +95,26 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T16:32:41+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
+      "description": "Everybody wants energy security post the Iran war, but how? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T16:08:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -1034,16 +1074,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
-      "description": "Everybody wants energy security post the Iran war, but how? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T02:06:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -2008,37 +2038,6 @@
       "asset_tags": [
         "forex",
         "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "What we know about North Korean forces joining Russia's war against Ukraine - Reuters",
-      "description": "What we know about North Korean forces joining Russia's war against Ukraine Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T07:50:02+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPck5RYzRha0ZtTldodHlHZENRNDVadTRPNGoxblhlYmNsOG9iUzhlemNsSFZ2RDZqLUVJWHRTQXluejluUW04Rks5M3l4ZDd1OXBWeVpwODFfRjJHeFlPN2d2S0RSbjFXZkVBWDNmTGZfRFpCWkF4ZTJ4ZlJoRDBVSkhTbHR0UmJEQTduQ3Jra2ZueHhQalhxZXBVRXNBb3NuLWgyRktBM1czU3lrdUNVZndZNlBrXzJjbFlsdS1yTnF0amdiQndQNlVCWWd1WUxQWncw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Live updates: Coinbase lets U.K. users trade U.S. equities. BTC trades near $65,000",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T07:26:23+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T07:14:11+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
-      "asset_tags": [
         "crypto"
       ]
     }
