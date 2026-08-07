@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T22:18:36.705788+00:00",
+    "last_updated": "2026-08-07T22:58:13.701004+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 110,
       "forex": 9,
       "crypto": 57,
       "macro": 16,
-      "general": 110,
       "equities": 26,
       "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
+      "description": "US Senate passes Russia sanctions championed by Graham; US House next Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T22:20:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T22:19:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Donald Trump’s media company to terminate Crypto.com deal",
       "description": "The president’s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
@@ -23,16 +43,6 @@
         "forex",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
-      "description": "US Senate passes Russia sanctions championed by Graham; US House next Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T21:24:24+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -54,16 +64,6 @@
       "article_url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
-      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T20:20:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1732,16 +1732,6 @@
       ]
     },
     {
-      "headline": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say - Reuters",
-      "description": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T15:54:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Houthi attacks kill at least 30 Yemeni government troops - Reuters",
       "description": "Houthi attacks kill at least 30 Yemeni government troops Reuters",
       "source": "Reuters",
@@ -2043,6 +2033,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Ukrainian drones kill two civilians in Russia's Bryansk region, governor says - Reuters",
+      "description": "Ukrainian drones kill two civilians in Russia's Bryansk region, governor says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T10:58:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWURUVkNHRjdmOVNRQWFrLVZfTkZKeW5VTl96NENUX0xyZHVqdHVjWE85Z3VndnpSNmIyNmgtTlplLWVuNXJ4eXJ1bkE5M0Y3ZElSazRkRVIyWEgzYkFCTnB6UFVBem1jRVp1T2xrWml1UHVTVVFiQmthNTc2R3dUYUlib09fYXNCb2Q1X0Y2QTNNb282VWVlRnE4SmlnZDBLdFJkWlBoMHZZeVlkbGRvZWhreXNLWjRrSkd0T3ZR?oc=5",
+      "asset_tags": [
+        "general"
       ]
     }
   ]
