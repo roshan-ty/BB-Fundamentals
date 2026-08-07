@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T19:12:20.321260+00:00",
+    "last_updated": "2026-08-07T20:02:50.096692+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 109,
-      "crypto": 56,
-      "equities": 26,
+      "general": 111,
+      "crypto": 54,
+      "equities": 24,
       "commodities": 14,
-      "forex": 9,
+      "forex": 7,
       "macro": 14
     }
   },
   "articles": [
+    {
+      "headline": "Cursor says SpaceX deal could be done by end of next week - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-07T19:49:55+00:00",
+      "article_url": "https://seekingalpha.com/news/4629527-cursor-says-spacex-deal-could-be-done-by-end-of-next-week---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Brighthouse Financial dips amid a report about accounting issues in Aquarian sale",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-07T19:29:31+00:00",
+      "article_url": "https://seekingalpha.com/news/4629475-brighthouse-financial-dips-amid-a-report-about-accounting-issues-in-aquarian-sale?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz - Reuters",
+      "description": "US official: We expect a deal soon between Iran and Oman on Strait of Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T19:15:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkZHc1FWRXNSWG5BdjNhZ0dqOEdNUFUtUl80NTNFYkFrM2RrLVBiSXlOOFdaek5hcEhIMl84OVJLZnVDMzNodFBScmliaFdNYUpaN21uQ3V3VmQ2V1p3MGZ0QUozdTJQb09EcTJ1VERWc3E0d1Z5dkNvalFEcEVSQzRQejkwZmdybVJTVDJPbk4wMS1hWFBOaXJKaTE4MUxHNS1STUFxTzN4S0ZDSmtZOXFhdUZaa0d1?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
       "description": "US Senate passes Russia sanctions championed by Graham; US House next Reuters",
@@ -21,6 +51,26 @@
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T18:42:44+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report - Reuters",
+      "description": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T18:18:41+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUkNKX1cxNjJBMmFrZ2tXYVNiMmxxWGJ4R1ZBb1FhNHZDTndjZVR5YW5GMzFNcWs1dnFDMGRTc0c1bFB0cnB1ZEJYek5Kb0FtcVNXSDRWZ3UtRmdrVUJYSDZBR0dVYWlaWkh4Q3lDLU9hMzc5QzVPZVNjRng0cEJxcHdsRWRqWGoyNERWbzBFVnlRN1FxeGhDbEZSMGxqQmQtTlhheUE4cFpGdlJRYXp3SThPaEJmcEl4czViLW9PZ3BGSkZId3FFRGF3OA?oc=5",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -115,16 +165,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Oil gains on US jobs report, worries over peace talks - Reuters",
-      "description": "Oil gains on US jobs report, worries over peace talks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T16:01:06+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1098,6 +1138,16 @@
       ]
     },
     {
+      "headline": "Oil gains on pending Iran-Oman deal over Hormuz - Reuters",
+      "description": "Oil gains on pending Iran-Oman deal over Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T00:47:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Crypto market maker Wintermute launches US broker-dealer",
       "description": "Wintermute said the registration allows the firm to position itself for the growth of tokenized securities in the US.",
       "source": "Cointelegraph",
@@ -1336,17 +1386,6 @@
       "article_url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz - Reuters",
-      "description": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T19:30:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -1877,6 +1916,17 @@
       ]
     },
     {
+      "headline": "EXCLUSIVE: Sinopec steps up Russian oil imports to offset Mideast supply cuts, traders and tracker say - Reuters",
+      "description": "EXCLUSIVE: Sinopec steps up Russian oil imports to offset Mideast supply cuts, traders and tracker say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T11:22:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNldJczB0MXMxMnZEaExVV3M1T0ZTM3JxUG1Fci1GVGNMaFd4c1ZsQnh0enBKVUdoSXJScU9aVDgzaFpqTkl5NEZ1LUlTQzhXWWRodjZDU25JeExHLXJDNXNnZ2IyOGxKXzZHaHBRVXczS05wY1JsdU5UcllxVjR4TnNkVXU2RzdIaDhrN21zaWhhYlJOeXJ3cGh5T0hSeGItVlVzbWhGY19MU2JMcEFjdUJrdUQyd2NFVVF3S0Q5R2NsMVAwMnQ1ZXc0SQ?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts - Reuters",
       "description": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts Reuters",
       "source": "Reuters",
@@ -1984,60 +2034,6 @@
       "publication_date": "2026-08-06T09:38:54+00:00",
       "article_url": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
-      "description": "Tokenized real-world assets moved beyond issuance as RWA deposits more than tripled to $7.4 billion, while lending and trading activity expanded despite a broader industry slowdown.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T09:28:20+00:00",
-      "article_url": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "NFT startup founder charged with misusing funds from $10 million fundraising",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T09:19:03+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Yen stablecoin issuer JPYC’s Series B reaches $38M",
-      "description": "JPYC said it plans to use the new capital to expand its financial and Web3 ecosystem and accelerate adoption of its yen-pegged token.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T08:44:43+00:00",
-      "article_url": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Germany detains Ukrainian suspected of spying on defence firm - Reuters",
-      "description": "Germany detains Ukrainian suspected of spying on defence firm Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T08:44:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVZsenJmTllxM3hOb0xfS2tRNnpabXllZmpONG5KZFU3OTFJV1M3Vy1NU3g1TW1MRVd3RV9zekhpQVo4WDZFM0JMVnZqbkhqNm9YOVg2Y1hsbXBiVG5hWnFHVFRNdXJDMEhOZURLbG12eVhLSmFoNXFJckJRTWM1d0VzMGw3SVNwNEU3bUpMWnRFd0M2UnlEcVJra0p1Zw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%",
-      "description": "Nasdaq-listed PowerCompute refinanced $18 million of debt through a Bitcoin-backed facility carrying an initial interest rate of about 2%.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T07:56:34+00:00",
-      "article_url": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "equities",
         "crypto"
       ]
     }
