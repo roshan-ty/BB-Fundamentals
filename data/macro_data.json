@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Federal Reserve Economic Data (FRED) API",
-    "last_updated": "2026-08-07T12:06:02.680439Z",
+    "last_updated": "2026-08-07T13:46:32.005743Z",
     "historical_years": 40,
     "total_series": 7
   },
@@ -12525,15 +12525,21 @@
           "value": 4.2,
           "rolling_12_month_moving_average": 4.316666666666667,
           "historical_percentile": 0.1967
+        },
+        {
+          "date": "2026-07-01",
+          "value": 4.1,
+          "rolling_12_month_moving_average": 4.316666666666666,
+          "historical_percentile": 0.167
         }
       ],
       "summary_statistics": {
-        "current_value": 4.2,
+        "current_value": 4.1,
         "minimum_value": 3.4,
         "maximum_value": 14.8,
-        "mean_value": 5.6699,
-        "standard_deviation": 1.6682,
-        "current_percentile": 0.1967
+        "mean_value": 5.6666,
+        "standard_deviation": 1.668,
+        "current_percentile": 0.167
       }
     },
     {
@@ -15406,24 +15412,30 @@
         },
         {
           "date": "2026-05-01",
-          "value": 158927.0,
-          "rolling_12_month_moving_average": 158561.0,
+          "value": 158861.0,
+          "rolling_12_month_moving_average": 158555.5,
           "historical_percentile": 1.0
         },
         {
           "date": "2026-06-01",
-          "value": 158984.0,
-          "rolling_12_month_moving_average": 158603.16666666666,
+          "value": 158881.0,
+          "rolling_12_month_moving_average": 158589.08333333334,
           "historical_percentile": 1.0
+        },
+        {
+          "date": "2026-07-01",
+          "value": 158858.0,
+          "rolling_12_month_moving_average": 158615.41666666666,
+          "historical_percentile": 0.9958
         }
       ],
       "summary_statistics": {
-        "current_value": 158984.0,
+        "current_value": 158858.0,
         "minimum_value": 99588.0,
-        "maximum_value": 158984.0,
-        "mean_value": 131654.8079,
-        "standard_deviation": 15660.7764,
-        "current_percentile": 1.0
+        "maximum_value": 158881.0,
+        "mean_value": 131711.1292,
+        "standard_deviation": 15692.9375,
+        "current_percentile": 0.9958
       }
     },
     {
