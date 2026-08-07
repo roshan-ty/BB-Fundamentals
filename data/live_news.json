@@ -1,18 +1,81 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T00:34:29.716524+00:00",
+    "last_updated": "2026-08-07T03:36:12.436221+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 44,
-      "forex": 14,
-      "equities": 32,
-      "macro": 16,
-      "general": 115,
-      "commodities": 12
+      "forex": 15,
+      "commodities": 10,
+      "macro": 14,
+      "general": 116,
+      "crypto": 45,
+      "equities": 29
     }
   },
   "articles": [
+    {
+      "headline": "Beijing's export engine holds up on AI demand despite fresh US tariffs - July exports beat forecasts",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The stronger than expected export print, even as growth cooled from June's pace, suggests China's manufacturing base is still finding external demand to lean on despite a soft domestic consumption backdrop and the weakest q",
+      "source": "Forexlive",
+      "publication_date": "2026-08-07T03:25:15+00:00",
+      "article_url": "https://investinglive.com/news/beijing-s-export-engine-holds-up-on-ai-demand-despite-fresh-us-tariffs-july-exports-beat-forecasts/",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US Senate pushes CLARITY Act vote to September: Report",
+      "description": "Senate Majority Leader John Thune reportedly confirmed that the chamber was “punting” the vote until September.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T02:49:53+00:00",
+      "article_url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Court Grants Final Order Approving Acquisition of Kneat by Thoma Bravo",
+      "description": "Court grants final order approving acquisition of Kneat by Thoma Bravo.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-07T02:47:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340908/0/en/court-grants-final-order-approving-acquisition-of-kneat-by-thoma-bravo.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
+      "description": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T02:17:07+00:00",
+      "article_url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Senate won't vote on crypto Clarity Act before its summer break",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T02:14:43+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Crypto news - US Senate pushes CLARITY Act crypto vote to September as recess nears",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The postponement removes near term regulatory clarity for digital asset markets, extending the uncertainty firms have cited as a constraint on custody and product planning since the bill cleared committee in May. A Septembe",
+      "source": "Forexlive",
+      "publication_date": "2026-08-07T02:05:21+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/crypto-news-us-senate-pushes-clarity-act-crypto-vote-to-september-as-recess-nears/",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Crypto market maker Wintermute launches US broker-dealer",
       "description": "Wintermute said the registration allows the firm to position itself for the growth of tokenized securities in the US.",
@@ -21,19 +84,6 @@
       "article_url": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Japan household spending falls for seventh month, clouding BOJ rate path",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The scale of the miss, a 6.4% month-on-month drop against an expected 3.1% decline, weakens the case for a September Bank of Japan hike by casting doubt on the strength of domestic demand even as real wages continue to rise",
-      "source": "Forexlive",
-      "publication_date": "2026-08-06T23:55:09+00:00",
-      "article_url": "https://investinglive.com/news/japan-household-spending-falls-for-seventh-month-clouding-boj-rate-path/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -57,11 +107,31 @@
       ]
     },
     {
+      "headline": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns - Reuters",
+      "description": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T22:15:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Biogen Completes Acquisition of RayThera Inc.",
       "description": "Lead program now in Phase 1 development Lead program now in Phase 1 development",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T22:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/Biogen-Completes-Acquisition-of-RayThera-Inc.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/biogen-completes-acquisition-of-raythera-inc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say - Reuters",
+      "description": "Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T22:03:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWlCbG9KRkh2aHRNSjBWS25TWEM3V3Y5aDlfbFcwNGZIaldpZ25rNlpGUGVtcDFRQ0JUWnZ5NnhwSGJSZjBSRm5idU9iNFNUcEMxcFJDb0FrcjBUU2JvemN0OWYxazdOS3hzMHBxVVJvOVlsQ1RQcEIyT0R0NXFxSU01SDJJdm1hZklPSEYxSEQxS0t6WFpMemlDdWpFcXh5bW0wMUM3ODBBSjVPVHNJTk5rQ2ViSHdTWWlQeWQ0YjR4MjJNVTdXNDBqcw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -81,24 +151,24 @@
       "description": "Irving, TX, Aug. 06, 2026 (GLOBE NEWSWIRE) -- United Flow Technologies (UFT), a leading technical distributor and solutions provider serving the municipal and industrial water and wastewater treatment markets and a portfolio company of Berkshire Partners, today announced the addition of Iron Horse E",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T21:46:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340871/0/en/United-Flow-Technologies-Expands-Mid-Atlantic-Presence-with-Acquisition-of-Iron-Horse-Environmental.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340871/0/en/united-flow-technologies-expands-mid-atlantic-presence-with-acquisition-of-iron-horse-environmental.html",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "Saudi Arabia expects imminent attacks from north and south, senior official says - reuters.com",
-      "description": "Saudi Arabia expects imminent attacks from north and south, senior official says reuters.com",
+      "headline": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat - Reuters",
+      "description": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-06T21:43:07+00:00",
+      "publication_date": "2026-08-06T21:43:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "Trump says he thinks war with Iran will end 'pretty soon' - reuters.com",
-      "description": "Trump says he thinks war with Iran will end 'pretty soon' reuters.com",
+      "headline": "Trump says he thinks war with Iran will end 'pretty soon' - Reuters",
+      "description": "Trump says he thinks war with Iran will end 'pretty soon' Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T21:11:54+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1cxUm9wLUhEVGJsRnRJd0xDWmh6LUk2bThTQ0RSWFJDRFZ1OFNKWU5ab2t5ZGJIdjVnSkliUTI0N3dhNnBpSEJGSmRWWl80Z3NNT0lnUEItRGVxT2dsRU1fS3A0MVUzblJsOWx4bGlLY0JNa3FDT2lpY1hhNkMycnl2UWlFbEUxUFRKWGJDQ0k4eG5EZlRXTk1IajFlYkZjRk5PWW84WFR2MnVBeFE?oc=5",
@@ -167,13 +237,23 @@
       ]
     },
     {
-      "headline": "Stocks close lower as investors eye Mideast talks, earnings - reuters.com",
-      "description": "Stocks close lower as investors eye Mideast talks, earnings reuters.com",
+      "headline": "Stocks close lower as investors eye Mideast talks, earnings - Reuters",
+      "description": "Stocks close lower as investors eye Mideast talks, earnings Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T20:22:37+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2poa2tBUFVOZFo0R0Q4T2lKVF9aWk5CWGd1Y1A0aXlTOFE1c1JBNlF3bk9qLVlnSUFmMTZoT05MVExKZk9oQzVhUmg4SnBLZ29vLUFDMU1Qb1lOZmd5ZVZHRGVuaTJHWWJyUjFRV19pU3U4NmItdkd0d2JaNWVUSmJZcFBSVEtPVDQyd1RySlA0Q2VCT3RZSzlsSUFPY2FsLUtNMWlubFpQbkZiVmt6TjBZdmRZeXlPMFBZ?oc=5",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Pakistan broadens foreign media curbs to local staff, drawing backlash - Reuters",
+      "description": "Pakistan broadens foreign media curbs to local staff, drawing backlash Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T20:19:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0d1dkk0cXAwVmZ3VkdFSjNMMVdfbk1PSS1VYmdMSzhkSFNaeXFfamx0Y05yazRnQ1BQd3lYRlF2bnJSRDJ0Q0Nxd3JIbDdhaEJDay00MHlrODNUai1jY000OV8weFgxVHMwQVE4akJkOVNLVFFHSzVaaDVuQXhZcVB3SjdVdkl4b2JUcVdLV2JpYU5FcURhNkowTG4xNW85aFByQTZhUmRjZDZoT1NPVlQ3bGpla0tRRXZ3UjNJZU56VVU?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -191,7 +271,7 @@
       "description": "SAN FRANCISCO, Aug. 06, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (Nasdaq: IRTC), a leading digital health care company focused on creating trusted solutions that detect, predict and prevent disease, today announced that it and its wholly owned subsidiary, iRhythm Technologies, Inc., have ente",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T20:06:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340771/0/en/iRhythm-to-Acquire-VitalConnect-Expanding-Its-Cardiac-Monitoring-Platform-Across-Ambulatory-Inpatient-and-Hospital-to-Home-Care.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340771/0/en/irhythm-to-acquire-vitalconnect-expanding-its-cardiac-monitoring-platform-across-ambulatory-inpatient-and-hospital-to-home-care.html",
       "asset_tags": [
         "equities",
         "crypto"
@@ -212,7 +292,7 @@
       "description": "News Summary:",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T20:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340748/0/en/AMD-Acquires-Taalas-to-Advance-Compute-Solutions-for-Rapidly-Growing-AI-Inference-Market.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340748/0/en/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market.html",
       "asset_tags": [
         "general"
       ]
@@ -222,7 +302,7 @@
       "description": "ARKO Petroleum Corp Announces Agreement to Acquire the Business of U.S. Petroleum Partners, LLC (“USPP”)",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T20:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340719/0/en/ARKO-Petroleum-Corp-Announces-Agreement-to-Acquire-the-Business-of-U-S-Petroleum-Partners-LLC-USPP-a-Vertically-Integrated-Fuel-Supply-and-Distribution-Platform-Expected-to-Increas.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340719/0/en/arko-petroleum-corp-announces-agreement-to-acquire-the-business-of-u-s-petroleum-partners-llc-uspp-a-vertically-integrated-fuel-supply-and-distribution-platform-expected-to-increas.html",
       "asset_tags": [
         "general"
       ]
@@ -235,17 +315,6 @@
       "article_url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz - reuters.com",
-      "description": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T19:30:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -279,8 +348,8 @@
       ]
     },
     {
-      "headline": "ConocoPhillips says any Qatar LNG project delays likely limited to months - reuters.com",
-      "description": "ConocoPhillips says any Qatar LNG project delays likely limited to months reuters.com",
+      "headline": "ConocoPhillips says any Qatar LNG project delays likely limited to months - Reuters",
+      "description": "ConocoPhillips says any Qatar LNG project delays likely limited to months Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T18:10:03+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQclJHc1JhVDNlajFqVzZoZ3kwdC04QUx3ZE1FNkNCWTJHT215V0pudVA5ZHFDSHZVd18yQnVhTDFkemlpLVFtVkoyMnhRYWd6eDlQdmo1T29TSWE1eWFPcU9wZHFIbnh3T3YxbVFfcFJhcktnZzNPdEJ2RlU3WUxEWWRCRWpIVU1GeEtLMFJEQmNoektOeTJVdjc4ajR1My1xenlPeXp4RGNqVGgzMUpVRXI2bWIwa2k5MUlJMDd3aw?oc=5",
@@ -289,8 +358,8 @@
       ]
     },
     {
-      "headline": "Proposed Hormuz passage deal not feasible for shipping industry, sources say - reuters.com",
-      "description": "Proposed Hormuz passage deal not feasible for shipping industry, sources say reuters.com",
+      "headline": "Proposed Hormuz passage deal not feasible for shipping industry, sources say - Reuters",
+      "description": "Proposed Hormuz passage deal not feasible for shipping industry, sources say Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T17:56:57+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajNmWTdWUHQ1RkRPd0FjWUUzSkd5cTNhN1NxREdIUUxGZklfbGEycml6emw1VThlRXk3YU5aakNULU5DanUwclZDWEpLUTg0c0xjRElxaTlKU2NiRHJzT1JiVmltOTVlQ1hNcGkxaTNjYndSX29leFl6S1l0OGxJd0hfSGZKOEwzZ3JVOURWVGgtY2JWUDZ2aXFoTWNDZV83eXllTko1WjVCSmpCb2IwM0ZNTTRTdDdxaXJGOHhZS2laUTg?oc=5",
@@ -329,18 +398,8 @@
       ]
     },
     {
-      "headline": "Trump's Iran dilemma: He's stuck in war with no exit in sight - reuters.com",
-      "description": "Trump's Iran dilemma: He's stuck in war with no exit in sight reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T16:56:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTElxYUFULUk1M0M2d29aa3BiZGJHZ3BPMEpDaG9vUlRkUDUzTU5MMUYtbTlDVkt6VGpMc2g0VnpsWmRpSWhZMmxjVVIzc2NGb3psRjdCUGNUYXdFRzdHd1N1Ni1oM3BySjNWTUZiQzVSVEJWTEticG9SQUF6OHIzN0NTeWtBUlpNS2FWVWo4OEppcmVxSzlvMXBkWmVKWllteFI2QmlKVUIxUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iranian parliamentary committee reviews draft bill to bar US, Israeli ships from Hormuz, Fars says - reuters.com",
-      "description": "Iranian parliamentary committee reviews draft bill to bar US, Israeli ships from Hormuz, Fars says reuters.com",
+      "headline": "Iranian parliamentary committee reviews draft bill to bar US, Israeli ships from Hormuz, Fars says - Reuters",
+      "description": "Iranian parliamentary committee reviews draft bill to bar US, Israeli ships from Hormuz, Fars says Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T16:56:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRFZOdUowaEpSY3VBZWRQSmRjOGZRXzUtM0xDV3BHOTJCYk9VUTdkc1dLUUU2c1hsOTY0c3R3c294bnVoYzJ4eWgxX0k4QVdpaVViSHRsdXBlTzFpZVpXZ20yNzV2cndvUk04N29XOUIxSUl0VlJWM3BDMVJIQWFwcDN0Wl9CRzdMZlM0SlBjYUNtTmtrSU9BQXBnXzh1bWI2OXBPUVlpcVYxclZ5S3pTdDU5VGNVNzRuU0RfeU1BU0lXNG9uZXRLUG14TEI?oc=5",
@@ -359,8 +418,8 @@
       ]
     },
     {
-      "headline": "European shares extend run of record highs on earnings, US-Iran optimism - reuters.com",
-      "description": "European shares extend run of record highs on earnings, US-Iran optimism reuters.com",
+      "headline": "European shares extend run of record highs on earnings, US-Iran optimism - Reuters",
+      "description": "European shares extend run of record highs on earnings, US-Iran optimism Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T16:51:14+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakF6Y2hyYnJRN2R4aGtqMmpVMWVZVWI1cWR1bjNsaWNVMThaRDVwTU53VnZaUkZlWGpXd1RHZGNqR0pKNnBKTEtBMzRqc01tZ2YwbXdGWkt0d2tabko4ZnVaUHFKNFJnb1VIMjZ1Q0ZPby16YTdmQ2xfcUo5OFJqSWI4Q3JadUNIOFFVb1hUTERJZHY2T0JrTDdhUUswS1NEMXM1SHlWZUJrOVUxWVlR?oc=5",
@@ -381,8 +440,8 @@
       ]
     },
     {
-      "headline": "US is set to import most Middle East crude since Iran war began - reuters.com",
-      "description": "US is set to import most Middle East crude since Iran war began reuters.com",
+      "headline": "US is set to import most Middle East crude since Iran war began - Reuters",
+      "description": "US is set to import most Middle East crude since Iran war began Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T16:41:46+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHVYaG56WVdrSW5UZkJwY1g4V01nUDRIbzY3dWt2UDBkWGhwcnhkZ0d5aU5QeTlNYnlfS05femN1aVZraXhjallpRGJEWjhoNi1fUERZbjVmQUhGSUVldzJobkJxOERWY2VSUlJfTHc2Z3BhdWlNX1hueVpzRXhqNWp1UHl6Q3dBa2xnNW1ubTBSNzA3bjMtSEwteGxvYVJhUzVOby1IU29WY3o2dzdiU1Rn?oc=5",
@@ -408,6 +467,16 @@
       "article_url": "https://www.cnbc.com/2026/08/06/jim-cramer-says-this-is-a-good-rule-to-follow-when-stocks-double-.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Trump's Iran dilemma: He's stuck in war with no exit in sight - Reuters",
+      "description": "Trump's Iran dilemma: He's stuck in war with no exit in sight Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T16:35:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTElxYUFULUk1M0M2d29aa3BiZGJHZ3BPMEpDaG9vUlRkUDUzTU5MMUYtbTlDVkt6VGpMc2g0VnpsWmRpSWhZMmxjVVIzc2NGb3psRjdCUGNUYXdFRzdHd1N1Ni1oM3BySjNWTUZiQzVSVEJWTEticG9SQUF6OHIzN0NTeWtBUlpNS2FWVWo4OEppcmVxSzlvMXBkWmVKWllteFI2QmlKVUIxUQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -457,7 +526,7 @@
       "description": "Independent CPA leads the PRT and supports the settlement planners who use it, without competitive conflict Independent CPA leads the PRT and supports the settlement planners who use it, without competitive conflict",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T16:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340558/0/en/Alexis-Talia-Named-Director-of-the-Plaintiff-Recovery-Trust.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340558/0/en/alexis-talia-named-director-of-the-plaintiff-recovery-trust.html",
       "asset_tags": [
         "general"
       ]
@@ -467,7 +536,7 @@
       "description": "Infoblox, the leading platform for preemptive security and critical network services, today announced it has completed its acquisition of Kentik.",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T16:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340557/0/en/Infoblox-Completes-Kentik-Acquisition-to-Bring-Together-Authoritative-DNS-Asset-Visibility-and-Real-Time-Network-Intelligence.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340557/0/en/infoblox-completes-kentik-acquisition-to-bring-together-authoritative-dns-asset-visibility-and-real-time-network-intelligence.html",
       "asset_tags": [
         "crypto"
       ]
@@ -477,7 +546,7 @@
       "description": "Portland Bolt & Manufacturing Co., LLC (Portland Bolt), a leading domestic manufacturer, has acquired Threadline Products, Inc. (Threadline).",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T15:47:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340524/0/en/Portland-Bolt-Acquires-Threadline-Products-Expanding-East-Coast-Manufacturing-and-Distribution-Capabilities.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340524/0/en/portland-bolt-acquires-threadline-products-expanding-east-coast-manufacturing-and-distribution-capabilities.html",
       "asset_tags": [
         "macro"
       ]
@@ -487,7 +556,7 @@
       "description": "TORONTO, Aug. 06, 2026 (GLOBE NEWSWIRE) -- Altus Group Limited (“Altus” or “the Company”) (TSX: AIF), a leading provider of commercial real estate (“CRE”) intelligence, announced today it acquired Valos (U.K.) Limited, an AI-powered platform automating the property valuation and lending workflow.",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T15:45:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340520/0/en/Altus-Group-acquires-Valos-an-AI-powered-platform-that-connects-UK-s-valuers-and-lenders-in-the-property-valuation-workflow.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340520/0/en/altus-group-acquires-valos-an-ai-powered-platform-that-connects-uk-s-valuers-and-lenders-in-the-property-valuation-workflow.html",
       "asset_tags": [
         "general"
       ]
@@ -558,7 +627,7 @@
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T14:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340459/0/en/Form-8-3-DCC-plc.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340459/0/en/form-8-3-dcc-plc.html",
       "asset_tags": [
         "general"
       ]
@@ -588,7 +657,7 @@
       "description": "Acquisition brings together two proudly BC-based organizations and expands Westland’s presence across the Southern Interior Acquisition brings together two proudly BC-based organizations and expands Westland’s presence across the Southern Interior",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T14:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340426/0/en/Westland-Insurance-acquires-Interior-Savings-Insurance.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340426/0/en/westland-insurance-acquires-interior-savings-insurance.html",
       "asset_tags": [
         "crypto"
       ]
@@ -638,7 +707,7 @@
       "description": "8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T13:19:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340391/0/en/Form-8-3-Picton-Property-Income-Limited.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340391/0/en/form-8-3-picton-property-income-limited.html",
       "asset_tags": [
         "general"
       ]
@@ -648,7 +717,7 @@
       "description": "8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T13:16:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340389/0/en/Form-8-3-NextEnergy-Solar-Fund-Limited.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340389/0/en/form-8-3-nextenergy-solar-fund-limited.html",
       "asset_tags": [
         "commodities"
       ]
@@ -664,8 +733,8 @@
       ]
     },
     {
-      "headline": "Most Gulf bourses in red as markets eye diplomacy - reuters.com",
-      "description": "Most Gulf bourses in red as markets eye diplomacy reuters.com",
+      "headline": "Most Gulf bourses in red as markets eye diplomacy - Reuters",
+      "description": "Most Gulf bourses in red as markets eye diplomacy Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T13:15:01+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmoybDZrTmNjbmJtdGZpdVhGZ2hfNkswOFpjS3hBclJiSzIybTlRQ09sdGY4S2dablB5bGwwMFRJeHZUdHFsZkRzU29DWTZ6aFVLZmE2UFEwdldSN3dZSmlyVkgxMXkzS2pnN2tRMlRRRUtaMVh5UHJadEhUa3FPVkI0c3kyaHNEWFR6MDhkY1BYXzNBQ3p1WkVPRU1EX2JGeVRvbWlOMTJqY1hmakVnakE0RVF3anRLSXZv?oc=5",
@@ -678,7 +747,7 @@
       "description": "8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T13:14:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340380/0/en/Form-8-3-LondonMetric-Property-Plc-Schroder-Real-Estate-Investment-Trust-Limited.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340380/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
       "asset_tags": [
         "general"
       ]
@@ -688,7 +757,7 @@
       "description": "8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T13:08:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340377/0/en/Form-8-3-Advanced-Medical-Solutions-Group.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340377/0/en/form-8-3-advanced-medical-solutions-group.html",
       "asset_tags": [
         "general"
       ]
@@ -718,7 +787,7 @@
       "description": "M2S Group Strengthens Iconex Market Position and Footprint Through Acquisition of Heartland Label Printers M2S Group Strengthens Iconex Market Position and Footprint Through Acquisition of Heartland Label Printers",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340349/0/en/Iconex-Acquires-Heartland-Label-Printers.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340349/0/en/iconex-acquires-heartland-label-printers.html",
       "asset_tags": [
         "general"
       ]
@@ -738,7 +807,7 @@
       "description": "VANCOUVER, Columbia Británica, Aug. 06, 2026 (GLOBE NEWSWIRE) -- ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), proveedor de soluciones tecnológicas especializado en drones con IA (inteligencia artificial), Drones como Servicio (DaaS), soluciones SaaS empresariales y computación ",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T12:48:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340311/0/es/ZenaTech-completa-su-adquisici%C3%B3n-n%C3%BAmero-27-de-Drones-como-Servicio-expandi%C3%A9ndose-a-Idaho-y-fortaleciendo-los-servicios-de-topograf%C3%ADa-con-drones-e-ingenier%C3%ADa-civil-para-clientes-gub.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340311/0/es/zenatech-completa-su-adquisici%C3%B3n-n%C3%BAmero-27-de-drones-como-servicio-expandi%C3%A9ndose-a-idaho-y-fortaleciendo-los-servicios-de-topograf%C3%ADa-con-drones-e-ingenier%C3%ADa-civil-para-clientes-gub.html",
       "asset_tags": [
         "equities"
       ]
@@ -774,8 +843,8 @@
       ]
     },
     {
-      "headline": "EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard - reuters.com",
-      "description": "EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard reuters.com",
+      "headline": "EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard - Reuters",
+      "description": "EXCLUSIVE: Iran warns Gulf states: tell Trump to desist or we hit you hard Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T12:31:46+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0dwSU95VFRkYTBfdlZyQVRjek1GbUp0d285UjJ5SUFlV2RvNm00S0dWZ0JBbXFUbGx5OG5pV2drM0l6UGVCTFdNeGxIRU00REVTYkZZa2VZVjlEZzhtcmdBejgtclFqd3VrOUVWSVNQUi14a2s1VEI1TTgxa0U1RmdscUFlVGJqTW9yNFVhQlZDZ1RYMG4wazBwSjlZVG1SMEhpbDNqQm4xNDNVeHN6NQ?oc=5",
@@ -788,7 +857,7 @@
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T12:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340297/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340297/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
       "asset_tags": [
         "equities"
       ]
@@ -798,7 +867,7 @@
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T12:29:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340280/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-GAMMA-COMMUNICATIONS-PLC-Ordinary-Shares.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340280/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
       "asset_tags": [
         "equities"
       ]
@@ -868,7 +937,7 @@
       "description": "PARIS and NEW YORK , Aug. 06, 2026 (GLOBE NEWSWIRE) -- Pasqal Holding SAS (\"Pasqal\"), a global leader in neutral-atom quantum computing, today announced that its joint registration statement on Form F-4 (the \"Registration Statement\") with Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) (\"Bleichroed",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-06T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340237/0/en/Pasqal-F-4-Declared-Effective-by-SEC-in-Connection-with-Proposed-Business-Combination-with-Bleichroeder-Acquisition-Corp-II.html",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340237/0/en/pasqal-f-4-declared-effective-by-sec-in-connection-with-proposed-business-combination-with-bleichroeder-acquisition-corp-ii.html",
       "asset_tags": [
         "equities"
       ]
@@ -1028,8 +1097,8 @@
       ]
     },
     {
-      "headline": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - reuters.com",
-      "description": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds reuters.com",
+      "headline": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds - Reuters",
+      "description": "As Iran war drags on, Americans are bracing for more chaos in Middle East, Reuters/Ipsos poll finds Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T10:56:07+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXI5TE1EUEdoRUpxYzZfdDNOck5jT29pcUNLdnl4TjE2Q1Y1bnlkZS02MmFzY25KUUwxTnZxNTVxWTQybmkxUExnUWN4OXdTT2xCR3RDcmU2eHpZdEhIMWU5QURfWjl5eDNQaGliMUlRYVhYdEgxY1hPbU1zOS1rTXhRX1F2MjRaajl5cmw1Y3ZrSUpBQnNKMFFWV2E1bHN4NXR3cEFwSWJhMjN0bkxkcFV1UmNiNFpKMjdLQ3REbEt3Z1dUbXB2TlU2MA?oc=5",
@@ -1059,8 +1128,8 @@
       ]
     },
     {
-      "headline": "Morning Bid: Gold stirs - reuters.com",
-      "description": "Morning Bid: Gold stirs reuters.com",
+      "headline": "Morning Bid: Gold stirs - Reuters",
+      "description": "Morning Bid: Gold stirs Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T10:42:11+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVgtbWFpX004ano5Mkw5RkRZWUdETjMwZjJJYzBkMDNDNGNBaElDMTA0Yk9NYy10T0o1eGxSMjdMWGQtVnJZOUdMcXY3QXFYRGtmWGV2Ri1vQ1ItUlNHNkh4T0ZVald5OG9pUkRDOE9xdFgxYVRDMjJiT3lYeGRiR2ZjU1oyekNTalFlOV9COFdTbmdqa0lZ?oc=5",
@@ -1274,6 +1343,16 @@
       ]
     },
     {
+      "headline": "What we know about North Korean forces joining Russia's war against Ukraine - Reuters",
+      "description": "What we know about North Korean forces joining Russia's war against Ukraine Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T07:50:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPck5RYzRha0ZtTldodHlHZENRNDVadTRPNGoxblhlYmNsOG9iUzhlemNsSFZ2RDZqLUVJWHRTQXluejluUW04Rks5M3l4ZDd1OXBWeVpwODFfRjJHeFlPN2d2S0RSbjFXZkVBWDNmTGZfRFpCWkF4ZTJ4ZlJoRDBVSkhTbHR0UmJEQTduQ3Jra2ZueHhQalhxZXBVRXNBb3NuLWgyRktBM1czU3lrdUNVZndZNlBrXzJjbFlsdS1yTnF0amdiQndQNlVCWWd1WUxQWncw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Live updates: Coinbase lets U.K. users trade U.S. equities. BTC trades near $65,000",
       "description": "",
       "source": "CoinDesk",
@@ -1337,8 +1416,8 @@
       ]
     },
     {
-      "headline": "Oil traders double down on Iran deal bet as odds worsen - reuters.com",
-      "description": "Oil traders double down on Iran deal bet as odds worsen reuters.com",
+      "headline": "Oil traders double down on Iran deal bet as odds worsen - Reuters",
+      "description": "Oil traders double down on Iran deal bet as odds worsen Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T06:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTlrUTg0TjljZzBlaVJyRkJnS21MLU9TblltYU1oUm1NLVRqX1NnVEZvM2ZCTlMwXzBtUWk5cE1pSE5ZTnFYeGVtZjNZcnBlaU1iRHdfYlVzN3pyd0VYM3ZXRTJzcHhUYlNMT1ZmRU15eHhqZi1FNkpKa04waEk2YXA2X2QtUVBKcmZtMjRkWDd6anFaQzBJeXlhUXZmZTZxYUxYcU4wUjFNUnliUDk4YWVRb2FCZTFmV1FHQnFWck8wd0k?oc=5",
@@ -1481,8 +1560,18 @@
       ]
     },
     {
-      "headline": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome - reuters.com",
-      "description": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome reuters.com",
+      "headline": "ONGC Videsh seeks operatorship of Venezuela oil blocks after securing US licence",
+      "description": "ONGC Videsh Ltd recently secured a license from the US Office of Foreign Assets Control, giving it “full freedom” to operate in Venezuela",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-06T03:29:40+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-05/ongc-overseas-unit-seeks-operatorship-of-venezuela-oil-blocks",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome - Reuters",
+      "description": "Israel strikes south Lebanon after soldiers killed, talks continue in Rome Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T03:27:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWNLdnd6QTJNaVRGaG5aOVJqRjBnOFAzT05ubjAxY2dya0luUWg4Rk5xZU5KOXF2aEEzY3pQcDlLWXhvQmlNcXBKMTk4M09lWHFqM0ltOXlyeXdxQTFVRTZTTDR2Rl9pNFlDQm1PdFhpRE1zc1hhTzQ2MkZPR0lFbmZ4WXVLRzVLcmdOLXc1QVhUNm1GQlY4MWgxekxSM1NtOGNPS0tlbnJlSDRybFdZNFlqM2k0b1NNeWFaZA?oc=5",
@@ -1491,8 +1580,19 @@
       ]
     },
     {
-      "headline": "Trump reiterates his positive portrayal of Iran talks - reuters.com",
-      "description": "Trump reiterates his positive portrayal of Iran talks reuters.com",
+      "headline": "Why the RBI is emerging as an Asian rate outlier",
+      "description": "The Reserve Bank of India is emerging as one of Asia’s monetary policy holdouts, confident the latest oil shock won’t derail economic growth or fuel the kind of persistent inflation that would warrant higher interest rates.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-06T03:10:04+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-06/why-the-rbi-is-emerging-as-an-asian-rate-outlier-in-five-charts",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Trump reiterates his positive portrayal of Iran talks - Reuters",
+      "description": "Trump reiterates his positive portrayal of Iran talks Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T02:55:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYkljYWk5RVFGOXRJR0hycTRVWW1CTGZ6aFFlcU1MLTlJTUVMWFVvMDVmRm1qTzZyZ1RWaE92S1AzeE1QZHdTZFd0aFkwQ05oVDllUmlScmNtM2xPcUlJalE3Nk1Sbm10cGNjcEZOblcwbTdWTVNYVEFObVNIZzhJV20yUkVVTkFQQ2hlNGxobi1KVzZvQzk5Tm9IVQ?oc=5",
@@ -1501,14 +1601,23 @@
       ]
     },
     {
-      "headline": "Dollar ticks up as markets await Iran deal news, look towards payrolls - reuters.com",
-      "description": "Dollar ticks up as markets await Iran deal news, look towards payrolls reuters.com",
+      "headline": "Vedanta Aluminium seeks ₹13,500 crore bank loan after group demerger",
+      "description": "Axis Bank, HDFC Bank and ICICI Bank are said to back the firm with a long-term rupee loan to refinance existing debt following the group’s restructuring.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-06T02:44:25+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-06/billionaire-agarwal-s-vedanta-unit-seeks-mega-loan-after-business-split",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dollar climbs versus yen as investors await US jobs data - Reuters",
+      "description": "Dollar climbs versus yen as investors await US jobs data Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T02:01:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2VsMnRGWG5QTmNmeVNLM21MZHV1dkdiRnBOWnNrZUdicjNhZTB3M3JjLTdJVGk0VTc4VjhEUkxtdUpGZ0J5bV9BMklYVWhSb1lMQkFlWk1JRm5SY3BmcU1tUkhUbWNaRGZDUHhNcW42RU1QZ0Y0ODdxWXZSa1l4OWxfSVlhMEx1ODdCZUI5UlJRUUpmMEJ4Z3lFOERXVWFXRGRjV3h1MjRlQQ?oc=5",
       "asset_tags": [
-        "forex",
-        "macro"
+        "forex"
       ]
     },
     {
@@ -1542,16 +1651,6 @@
       ]
     },
     {
-      "headline": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns - reuters.com",
-      "description": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T01:27:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Bitcoin Red Team reports 5K findings in sweeping security audit",
       "description": "“There’s a lot of chaos right now in the ecosystem. We absolutely understand that many people are being bombarded with security issues right now,” said Bitcoin developer Calle.",
       "source": "Cointelegraph",
@@ -1562,8 +1661,8 @@
       ]
     },
     {
-      "headline": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz - reuters.com",
-      "description": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz reuters.com",
+      "headline": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz - Reuters",
+      "description": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T01:07:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw?oc=5",
@@ -1572,8 +1671,19 @@
       ]
     },
     {
-      "headline": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - reuters.com",
-      "description": "Stocks mixed with Nasdaq down; US oil eases on Iran talks reuters.com",
+      "headline": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz - Reuters",
+      "description": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T00:51:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Stocks mixed with Nasdaq down; US oil eases on Iran talks - Reuters",
+      "description": "Stocks mixed with Nasdaq down; US oil eases on Iran talks Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T23:12:05+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjNOaFJhdXRJblJMNldJM09LeFJDOXNqY2Y0R3dhcGt3S1ZyNm1peFdvVlBfN2RrNmtCYVhQa3pzenI5VlBld2c2Y0JPLTAzNWRhTWxUYWxjNEpvWGxIYlR3M2NLdGg5RnpRSmtYVVVwamJfYTZ5S1JaQ3J5QjFEQ3B0WQ?oc=5",
@@ -1582,8 +1692,8 @@
       ]
     },
     {
-      "headline": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - reuters.com",
-      "description": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq reuters.com",
+      "headline": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
+      "description": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T23:07:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
@@ -1632,16 +1742,6 @@
       ]
     },
     {
-      "headline": "Intermountain Power Agency Announces the Issuance of a Request for Proposals for Acquisition of IPP Coal-Fueled Generating Units",
-      "description": "RFP process conducted in cooperation with Utah Energy Council seeks qualified proposals for potential continued use of coal resources RFP process conducted in cooperation with Utah Energy Council seeks qualified proposals for potential continued use of coal resources",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-05T22:09:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/05/3339854/0/en/Intermountain-Power-Agency-Announces-the-Issuance-of-a-Request-for-Proposals-for-Acquisition-of-IPP-Coal-Fueled-Generating-Units.html",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
       "description": "",
       "source": "CoinDesk",
@@ -1682,16 +1782,6 @@
       ]
     },
     {
-      "headline": "Gloo agrees to acquire Cedarstone to expand AI-powered nonprofit services",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-05T21:01:04+00:00",
-      "article_url": "https://seekingalpha.com/news/4626841-gloo-agrees-to-acquire-cedarstone-to-expand-ai-powered-nonprofit-services?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security - Reuters",
       "description": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security Reuters",
       "source": "Reuters",
@@ -1699,16 +1789,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXhKWmZFYjctT3FLTWdsTnkyVVdsRnRoRkZCaXBIWk9hcFhnSEU2YV9UZjM1end5SjFKTzFsYXFWY2RGR2lYcEotR0RDSkZwcTVXWF9CeUM2eGZFTGhodk5DMmk2Tm1BbHp0YXRzX3pOb241N2dGQ0tFYnR1elBQU0tzWUxvTFhyZ2JUYWRqY0lkYWlvbzlGS1gwRUpYYkhuQkxJaEdFQ3JYbFdQRmZXNEk4bV9EMkNFdnA1NQ?oc=5",
       "asset_tags": [
         "forex"
-      ]
-    },
-    {
-      "headline": "Four Corners Property Trust acquires 5 Novant Health Urgent Care properties for $11.7M",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-05T20:41:47+00:00",
-      "article_url": "https://seekingalpha.com/news/4626773-fcpt-acquires-5-novant-health-urgent-care-properties-for-117m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1722,11 +1802,11 @@
       ]
     },
     {
-      "headline": "AXIS Agrees to Acquire Renewal Rights to DUAL North America's Excess Liability Business",
-      "description": "Acquisition Strengthens AXIS' Casualty Platform with High-Performing Book, Ensuring Continuity for Brokers and Policyholders Acquisition Strengthens AXIS' Casualty Platform with High-Performing Book, Ensuring Continuity for Brokers and Policyholders",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-05T20:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/05/3339779/0/en/AXIS-Agrees-to-Acquire-Renewal-Rights-to-DUAL-North-America-s-Excess-Liability-Business.html",
+      "headline": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
+      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-05T20:37:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1772,8 +1852,8 @@
       ]
     },
     {
-      "headline": "Israeli military strikes southern Lebanon after evacuation warning to village - reuters.com",
-      "description": "Israeli military strikes southern Lebanon after evacuation warning to village reuters.com",
+      "headline": "Israeli military strikes southern Lebanon after evacuation warning to village - Reuters",
+      "description": "Israeli military strikes southern Lebanon after evacuation warning to village Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T19:17:01+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
@@ -1792,8 +1872,8 @@
       ]
     },
     {
-      "headline": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - reuters.com",
-      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes reuters.com",
+      "headline": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes - Reuters",
+      "description": "EXCLUSIVE: Iran threatens to hit Gulf states if US launches new strikes Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T19:07:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajFnaXk0anVrT2IwaV9XMDBma0pMQU53ZF9LRUJiT01nWjJsdG5FZXhwUjNtZFp2Yy1NV3Q4dFRIeUxzV1pCWk9RMVVZNk1UbWxxMFdiNEdNTG5KSVBVWTRCaWFJSFNlT3RiMFF6RWtqN2pnRThTUU9GaHNfelhwV3RZTXdfMzJwUk1aVlFXZ0FBNk1qWFFmd2xIRWNVWVpmQl9DSkE2NnhMaXlJZ2FFeQ?oc=5",
@@ -1822,8 +1902,8 @@
       ]
     },
     {
-      "headline": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - reuters.com",
-      "description": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins reuters.com",
+      "headline": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins - Reuters",
+      "description": "Phillips 66 beats quarterly estimates as Iran war boosts US refining margins Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T18:38:47+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdjb1Q5RzUtcnRaUmV5U2FuN0dBcUZwT3RMa2pqVVVocG8zZmRPV2E1NjhlRTR6TXBsN1NHQ21EUTJvQ0JvV2NtbXhWbHVjMUN3NHFvTzlVR0IxUmxHaTFUbEpNX0xJSFFncjE4UllwaTJ2bm9UVTdHd00xOVBuTmZJVXRCekZPclluTDhFQUF2S3MwcG5rR3VrOE5TdFBHd3piYTRjTW9yVldvZGFVV3lfa1pLNlIzTXloYQ?oc=5",
@@ -1832,18 +1912,8 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Brave Bison Group Plc",
-      "description": "Downing LLPLEI: 213800G3X76VBG9SB5045 August 2026Form 8.3 re. Brave Bison Group Plc",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-05T18:38:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/05/3339594/0/en/Form-8-3-Brave-Bison-Group-Plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden - reuters.com",
-      "description": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden reuters.com",
+      "headline": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden - Reuters",
+      "description": "Yemen's Houthis say they attacked Saudi oil tankers in Red Sea, Gulf of Aden Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T18:34:15+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWEQwU2pxeTRYSXhNQWtrT3hmNFhmOUx6eVUzUUt4aVBtOEpub01Fa3U5S0ZOYXRmU2oyb0t4WEpRRXZ3VmwxWksyYkNRcF9GbFJvbEpkMGxWWVY5alo2NS1LdDFzMWVPdmYtV082T3JOaVpoYW5NTFNncUxHZndSdnUzMXdWWHNXQWQ3NXZXMy02MDloQ3dWTHJhWHBfS2pNVnZoUXBEcVZKQm1HZXl5Ug?oc=5",
@@ -1862,19 +1932,8 @@
       ]
     },
     {
-      "headline": "Lower bonds yields, Iran talks set gold on track for largest daily growth since February - reuters.com",
-      "description": "Lower bonds yields, Iran talks set gold on track for largest daily growth since February reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-05T18:27:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSmlKVnBzQTlPclFHcWhMcVpJeXB0eVQ1ODYxMTk1bkRLbDVybnI4dXhqQ01HaDR1N1FULU03ZDhZWUlEMkFtV2Z3RmFTWHhpVDFlRi0wRG9ZSkFlWVFTUFhXUFVjN3A5Zm1FSnNUbHlwWHF4OEo0TkxvZVV2OEdJNS1ZdG9OQ3V4ME43NV9QeXpSSnVQUEdIb1Jn?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Gulf oil exports steady in July, still 40% below pre-war mark - reuters.com",
-      "description": "Gulf oil exports steady in July, still 40% below pre-war mark reuters.com",
+      "headline": "Gulf oil exports steady in July, still 40% below pre-war mark - Reuters",
+      "description": "Gulf oil exports steady in July, still 40% below pre-war mark Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T18:25:22+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1c5cDdsaENzVWRTM3JoaUFicGFuczBDdm5GY2tkLWJhN0pSVk81MTlYMm1CQlNmQ1c5ZHZJUUFnLUhFd29CZmRjaEhkR0k3aEZRQW1JR3BKbVZiLVQ5UFJrSFZCTEFIMHpSakZ3TW5IZDctci1sT1piR2VzcGhNU21fN3FDd3ZLaEJ3dFBXdjY2Wjd4aEtwblhlTHJETENxWG5lRDNlWEpCM2ZS?oc=5",
@@ -1900,16 +1959,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Lucid CEO says there are no discussions about a take private",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-05T18:06:36+00:00",
-      "article_url": "https://seekingalpha.com/news/4626524-lucid-ceo-says-they-are-no-discusions-about-a-take-private?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1943,26 +1992,6 @@
       ]
     },
     {
-      "headline": "AlTi soars after report Franklin Templeton is in talks to purchase",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-05T17:01:26+00:00",
-      "article_url": "https://seekingalpha.com/news/4626376-alti-soars-after-report-franklin-templeton-ins-talks-to-purchase?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "MoneyPass Group Launches as an Independent Network and Cash Infrastructure Company",
-      "description": "MoneyPass Group began operating as an independent company following the close of a previously announced joint venture between Bridgeport Partners & Fiserv.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-05T17:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/05/3339575/0/en/MoneyPass-Group-Launches-as-an-Independent-Network-and-Cash-Infrastructure-Company.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
       "description": "A Midwest Democratic primary that raised accusations of payback from the cryptocurrency industry ended with the unseating of two-term incumbent Shri Thanedar.",
       "source": "Cointelegraph",
@@ -1974,8 +2003,8 @@
       ]
     },
     {
-      "headline": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC - reuters.com",
-      "description": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC reuters.com",
+      "headline": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC - Reuters",
+      "description": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T16:44:59+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGd5eGNIbFJTUDl0MlJHQ01RR3F5NVhNaVJuTVpvZ0FJMHlrNnFhQ1hsOUFyNWI0c1cyX0RwbTRwTHNrTE1yQ0NzUmlmMXBPYkM1Q1Vya3hOOFRQXzVHOEhHemQtd1dQcXlrcFVZRUh3T0RoWkRiam9jUWxhNld2MjRPMjNwd3hhaWVlZ2IwN2UzaS05NG04dHVCM0FidUxtQjBNcy1GWThaRE9RT1VmOGFzT2g1MEhiUVludGVGaWhCUQ?oc=5",
@@ -2004,46 +2033,13 @@
       ]
     },
     {
-      "headline": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says - reuters.com",
-      "description": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says reuters.com",
+      "headline": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says - Reuters",
+      "description": "Iran and Oman reach understanding on coordinates of route through Hormuz, Iran ministry says Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T16:29:20+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOXZPbkhCTjRpQkNteVlfOVVkTkR4eGpFUFJTZmZySE5WQW1MakpaR1NUVEtXM0VucEpRbml6dUk1R2lsbE5vN3V5M0dHTHZad2JXUEsyUTlvVXFQU0hpNnE5Z3h4d0NMSE9OcXNocHRJQ1Q0eXV6M0phX05BeDFJblF1eDBpRGY2YzNGVHBCT21ISmRUSXhQc2V4dW9SeklwUkY5dmpsTWdzQWNHY2ZLX3NTNXNOeVhOejFRWUN2bURYYS1vOW9URmJR?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Hyperscale Data Bitcoin Treasury, Cash, Restricted Cash, and Silver Holdings of Approximately $106.7 Million Represents 117.06% of Current Market Capitalization of Common Stock",
-      "description": "Company Holds Approximately 780.4838 Bitcoin and 10,000 Ounces of Silver as it Advances its AI Data Center and Robotics Operations LAS VEGAS, June 30, 2026 /PRNewswire/ — Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (“AI“) data center company anchored by Bitcoin (“Hypersca",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-08-05T16:19:13+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/hyperscale-data-bitcoin-treasury-cash-restricted-cash-and-silver-holdings-of-approximately-106-7-million-represents-117-06-of-current-market-capitalization-of-common-stock/",
-      "asset_tags": [
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "China eases controls on fuel exports for a second month, sources say - reuters.com",
-      "description": "China eases controls on fuel exports for a second month, sources say reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-05T15:52:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHRMR3J2NzJaT2hKV1ZTem4wMWhSQVF4NnNNQ19WNXFLaUNVamQ5Slg4NjB6Y0ZpWkN0SWYxeFZrVnF5QXhGSXl6UnNyMXRFVXRQVUtsaURERFRDM25FaW9DQW9QRDZPdmpuMTNGdHVpSFNPcG1Da0VtMXNpVk1OVXVMVlVFS3RHekhiT19FelYwMFFGMVI5QnNzNkJUY0tQMWxMUk5RR0hIWDVyN293?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "SpaceX gives Nvidia a much-needed boost. Plus, Cramer on an 'undervalued' stock",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "publication_date": "2026-08-05T15:50:51+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
