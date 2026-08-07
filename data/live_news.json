@@ -1,18 +1,153 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T09:13:54.510369+00:00",
+    "last_updated": "2026-08-07T10:14:18.785465+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 110,
-      "crypto": 51,
+      "general": 108,
       "equities": 28,
+      "commodities": 10,
+      "forex": 14,
       "macro": 15,
-      "forex": 15,
-      "commodities": 10
+      "crypto": 54
     }
   },
   "articles": [
+    {
+      "headline": "Form 8.5 (EPT/RI) - Kore Potash Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-07T09:54:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340975/0/en/form-8-5-ept-ri-kore-potash-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-07T09:52:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340974/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-07T09:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340972/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-07T09:50:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340970/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-07T09:45:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340963/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - AEW UK REIT plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-07T09:45:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340965/0/en/form-8-5-ept-ri-aew-uk-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump says a rate hike isn't completely up to Warsh, it's up to the Board",
+      "description": "<ul><li>A rate hike is not completely up to Warsh</li><li>He's got a board that' very political </li><li>It's up to the board</li><li>I think Warsh is great, I won't criticize him</li></ul><p class=\"PDq2pG_selectionAnchorContainer\"></p><p>Speaking in an interview with Punchbowl News, Trump said a po",
+      "source": "Forexlive",
+      "publication_date": "2026-08-07T09:32:41+00:00",
+      "article_url": "https://investinglive.com/news/trump-says-a-rate-hike-isn-t-completely-up-to-warsh-it-s-up-to-the-board/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "CleanSpark misses Wall Street revenue estimates as shares sink",
+      "description": "CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street’s consensus estimate.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T09:25:56+00:00",
+      "article_url": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T09:24:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Sia Accelerates Its Expansion in Australia with the Acquisition of Seven Consulting",
+      "description": "PARIS--(BUSINESS WIRE)--Sia continues its international expansion with the acquisition of Seven Consulting, an Australian management consulting firm.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-07T09:17:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260807655037/en/Sia-Accelerates-Its-Expansion-in-Australia-with-the-Acquisition-of-Seven-Consulting/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
+      "description": "Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated providers under the bloc’s crypto framework.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T09:14:17+00:00",
+      "article_url": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
+      "description": "Industry figures warned that continued legislative limbo could slow institutional adoption, revive regulation by enforcement and push innovation offshore.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T09:01:14+00:00",
+      "article_url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T08:46:17+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Form 8.3 - [GOOCH & HOUSEGO PLC - 06 08 2026] - (CGWL)",
       "description": "FORM 8.3",
@@ -31,6 +166,27 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340946/0/en/form-8-3-advanced-medical-solutions-group-plc-06-08-2026-cgwl.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Dollar set for weekly gain as traders eye Iran talks, US jobs data - Reuters",
+      "description": "Dollar set for weekly gain as traders eye Iran talks, US jobs data Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T08:35:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T08:01:28+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -54,6 +210,16 @@
       ]
     },
     {
+      "headline": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-07T07:44:57+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
       "headline": "Form 8.3 - [GOOCH & HOUSEGO PLC - 21 07 2026] - (CGWL)",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -61,17 +227,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340936/0/en/form-8-3-gooch-housego-plc-21-07-2026-cgwl.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "What is the distribution of forecasts for the US NFP?",
-      "description": "<p style=\"font-style: normal; font-weight: 400; font-size: 16px; line-height: 22px; vertical-align: baseline; border: 0; margin: 0 0 20px; padding: 0; font-family: Inter, InterFallback, serif; color: rgba(0, 0, 0, 1); letter-spacing: normal; text-indent: 0; white-space: normal; background-color: rgb",
-      "source": "Forexlive",
-      "publication_date": "2026-08-07T07:29:47+00:00",
-      "article_url": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp/",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -90,28 +245,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-07T07:24:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3340933/0/en/form-8-3-gooch-housego-plc-31-07-2026-cgwl.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Mitsubishi Electric to Wholly Acquire Polish-based MEDCOM, Manufacturer of Electrical Equipment for Railcars",
-      "description": "TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO: 6503) announced today that it has agreed to acquire additional shares of MEDCOM Sp. z o. o., a Polish manufacturer of electrical equipment for railcars, via its wholly owned subsidiary Mitsubishi Electric Europe B.V. The acquisition wil",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-07T07:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260807139477/en/Mitsubishi-Electric-to-Wholly-Acquire-Polish-based-MEDCOM-Manufacturer-of-Electrical-Equipment-for-Railcars/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "AI demand keeps China's export engine humming, but risks loom - Reuters",
-      "description": "AI demand keeps China's export engine humming, but risks loom Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T06:14:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -247,6 +380,16 @@
       ]
     },
     {
+      "headline": "AI demand keeps China's export engine humming, but risks loom - Reuters",
+      "description": "AI demand keeps China's export engine humming, but risks loom Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T02:42:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
       "description": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
       "source": "Cointelegraph",
@@ -278,17 +421,6 @@
       ]
     },
     {
-      "headline": "Dollar set for weekly gain as traders eye Iran talks, US jobs data - Reuters",
-      "description": "Dollar set for weekly gain as traders eye Iran talks, US jobs data Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T02:05:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
-      "asset_tags": [
-        "forex",
-        "macro"
-      ]
-    },
-    {
       "headline": "Gold heads for best week since January, US jobs data in focus - Reuters",
       "description": "Gold heads for best week since January, US jobs data in focus Reuters",
       "source": "Reuters",
@@ -299,8 +431,8 @@
       ]
     },
     {
-      "headline": "Oil rises on concerns over Strait of Hormuz reopening plans - Reuters",
-      "description": "Oil rises on concerns over Strait of Hormuz reopening plans Reuters",
+      "headline": "Oil prices firm on concerns over Strait of Hormuz plans - Reuters",
+      "description": "Oil prices firm on concerns over Strait of Hormuz plans Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-07T00:47:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
@@ -369,8 +501,8 @@
       ]
     },
     {
-      "headline": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat - Reuters",
-      "description": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat Reuters",
+      "headline": "Saudi expects imminent two-pronged attack from Iran's allies, official says - Reuters",
+      "description": "Saudi expects imminent two-pronged attack from Iran's allies, official says Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-06T21:43:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5",
@@ -1247,74 +1379,12 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T11:24:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340136/0/en/Form-8-3-Advanced-Medical-Solutions-Group-plc-Octopus-Investments.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts - Reuters",
-      "description": "US presses on with Ukraine Patriot missile talks, sources say, despite Trump's doubts Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T11:22:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkpnYUF2THhmeU1oTWlVZDhlRDBFZ05MMEExSXk4Sldrd3BZQ01ZTUpTc0tsbW5pYWJrcThGSkpXbkhWZHVvSzRYRjV6X3cyanUxQ2NKVXlxUkxFYXFtXzhQZlJCMV92dklHUzk5ZlZ4SUVhdElSX0VuWDBPYkdGbEtKS3NsVVhWUk80SUI3UzZ5cGt2LVh3bFRkeDNOa0F0T0d2NVhSUHFILXFUcjR4c0FjSVNzS2o0RWlZUHF4eWhYQ3ZSZmoxY2l2WFhETTgtYlpQNWJyNk5kUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T11:16:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340135/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-DCC-Energy-PLC-Ordinary-Shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
       "headline": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
       "description": "",
       "source": "CoinDesk",
       "publication_date": "2026-08-06T11:14:47+00:00",
       "article_url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
       "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Tarsus Pharmaceuticals to Acquire Alkeus Pharmaceuticals and Advance Eye Care Leadership Position",
-      "description": "Adds a potential blockbuster opportunity with gildeuretinol (ALK-001), a differentiated Phase 3 oral investigational medicine designed to target the underlying biology of Stargardt disease, one of the largest inherited retinal diseases with no FDA-approved therapy",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T11:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340125/0/en/Tarsus-Pharmaceuticals-to-Acquire-Alkeus-Pharmaceuticals-and-Advance-Eye-Care-Leadership-Position.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "OpenFX Acquires Global Ledger to Launch Multi-Currency Accounts for Fintechs",
-      "description": "OpenFX is launching multi-currency accounts for fintechs after acquiring Global Ledger. Hold USD locally, pay into 100+ countries. Request early access.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340101/0/en/OpenFX-Acquires-Global-Ledger-to-Launch-Multi-Currency-Accounts-for-Fintechs.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Harrow Acquires Global Rights to TYRVAYA®, the First and Only FDA-Approved Nasal Spray for Dry Eye Disease",
-      "description": "NASHVILLE, Tenn., Aug. 06, 2026 (GLOBE NEWSWIRE) -- Harrow (Nasdaq: HROW), a leading provider of ophthalmic disease management solutions in North America, today announced that it has entered into a definitive agreement to acquire TYRVAYA® (varenicline solution) nasal spray 0.03 mg from Viatris Inc.,",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340081/0/en/Harrow-Acquires-Global-Rights-to-TYRVAYA-the-First-and-Only-FDA-Approved-Nasal-Spray-for-Dry-Eye-Disease.html",
-      "asset_tags": [
-        "equities",
         "crypto"
       ]
     },
@@ -1349,16 +1419,6 @@
       ]
     },
     {
-      "headline": "Oil traders double down on Iran deal bet as odds worsen - Reuters",
-      "description": "Oil traders double down on Iran deal bet as odds worsen Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T10:45:49+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTlrUTg0TjljZzBlaVJyRkJnS21MLU9TblltYU1oUm1NLVRqX1NnVEZvM2ZCTlMwXzBtUWk5cE1pSE5ZTnFYeGVtZjNZcnBlaU1iRHdfYlVzN3pyd0VYM3ZXRTJzcHhUYlNMT1ZmRU15eHhqZi1FNkpKa04waEk2YXA2X2QtUVBKcmZtMjRkWDd6anFaQzBJeXlhUXZmZTZxYUxYcU4wUjFNUnliUDk4YWVRb2FCZTFmV1FHQnFWck8wd0k?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Bitcoin, ether benefit as traders seek safety of largest tokens",
       "description": "",
       "source": "CoinDesk",
@@ -1390,16 +1450,6 @@
       ]
     },
     {
-      "headline": "Sunrise Realty Trust, Inc. and Southern Realty Trust Inc. Announce Definitive Merger Agreement",
-      "description": "Merger Would Consolidate Two Transitional CRE Lenders Focused on the Southern U.S. Into a Single Public Company",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T10:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340039/0/en/Sunrise-Realty-Trust-Inc-and-Southern-Realty-Trust-Inc-Announce-Definitive-Merger-Agreement.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
       "headline": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
       "description": "Hadrian is one of a number of defense tech startups raising large sums and benefiting from President Trump's plans to upgrade the U.S. military.",
       "source": "CNBC",
@@ -1427,16 +1477,6 @@
       "article_url": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Man Group PLC : Form 8.3 - Bodycote Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T09:36:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340000/0/en/Man-Group-PLC-Form-8-3-Bodycote-Plc.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1564,6 +1604,16 @@
       "asset_tags": [
         "forex",
         "equities"
+      ]
+    },
+    {
+      "headline": "Oil traders double down on Iran deal bet as odds worsen - Reuters",
+      "description": "Oil traders double down on Iran deal bet as odds worsen Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T06:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYTlrUTg0TjljZzBlaVJyRkJnS21MLU9TblltYU1oUm1NLVRqX1NnVEZvM2ZCTlMwXzBtUWk5cE1pSE5ZTnFYeGVtZjNZcnBlaU1iRHdfYlVzN3pyd0VYM3ZXRTJzcHhUYlNMT1ZmRU15eHhqZi1FNkpKa04waEk2YXA2X2QtUVBKcmZtMjRkWDd6anFaQzBJeXlhUXZmZTZxYUxYcU4wUjFNUnliUDk4YWVRb2FCZTFmV1FHQnFWck8wd0k?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -1983,61 +2033,11 @@
       ]
     },
     {
-      "headline": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes - Reuters",
-      "description": "Oil prices mixed as investors ponder Strait of Hormuz reopening hopes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-05T20:37:05+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDd2cFJ5Z2dsbTliajVMY1o5eVQ3Q3djdGVaYXA2aVhJQUROSVk5NmVjSkUydkw0YUItOGI1VFl1Wl9uZVY2SWhZLVZZY2hFTTFyaEoxM0otRWQ0Vzk4bjdEV18yYkhQS05GUzQ5dHdsY0wwemg4cG53dnZkVmx0M1pMdzl2cDk2MDBlZlN3ZVY0RVMxU2JNcE5Ta2Nrd3l4OVpvTnlIY0hscHRpOUozRVpDUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Etsy lays off 12% of workforce as part of restructuring plan - Reuters",
       "description": "Etsy lays off 12% of workforce as part of restructuring plan Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-05T20:29:19+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWh3SWlrVGlSZDBVdnBWajVZS3N1ejdBVVN6SlY2V3JIdVRQOVc2VGFtX1Y1MHNsblFON3pWVkhZbHU4WmtoQWZWNlZJQUZLMDlkMTEyNDBycEd1Y3BMMXRHUDNnSHZMNHdFY3FycS12R080bTZ5TEVfQmFzOE1ONzJ5WlpMS0trVFV6T3lpRFo2WVRiSUpOWW5hZDlZczgtdnhYeEVZRnBrQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US Senate confirms Schwartz as CDC director - Reuters",
-      "description": "US Senate confirms Schwartz as CDC director Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-05T20:18:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUlSeHMyTFMzMzBSYXp5UHJJZ2dQTEZJYTJ5c1dtdWZHaXJ0WUNMRnVIRkpJY2c5dlRWcVdybmVPbFhJcHZ1XzBaZHRPWUJlY181eDItTEtraEY3d0V6dGJRVE9ReXFJcnktcGJEY25nRWtTbGFpRzQ5UXZXSkVVRWJZYTNrM21fQ0E?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EBay forecasts upbeat quarterly revenue as high-value categories drive momentum - Reuters",
-      "description": "EBay forecasts upbeat quarterly revenue as high-value categories drive momentum Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-05T20:10:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTlJN3V3S1FoeFE2LTlIZVVwNWdWaXQwajB0Nk1qNEJScTd5TmVIMlJyQnRRc2xDV25nWmp0WWVJaEFZS3hCY3NIa3l2M3k2aFNLMkpreF9jZ0xzSlQ3NzhEai1Rb190enVyeFp6RURwRkxjU05oOUNFcmZ6U1oxRHpKZkdNUzRhZ0dCeTBzZ2t1dHVwVThZRUYxWFlRWVJaRFRaenVRN1NvTmM0MGc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Senator Lummis still pushing for CLARITY vote before August recess",
-      "description": "US lawmakers have only a few days to hold a vote on a crypto market structure bill before a recess begins that could push consideration into the 2026 election season or beyond.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-05T19:18:24+00:00",
-      "article_url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Israeli military strikes southern Lebanon after evacuation warning to village - Reuters",
-      "description": "Israeli military strikes southern Lebanon after evacuation warning to village Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-05T19:17:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
       "asset_tags": [
         "general"
       ]
