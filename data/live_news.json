@@ -1,18 +1,83 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-07T20:02:50.096692+00:00",
+    "last_updated": "2026-08-07T20:55:16.401103+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 25,
       "general": 111,
-      "crypto": 54,
-      "equities": 24,
-      "commodities": 14,
-      "forex": 7,
-      "macro": 14
+      "forex": 8,
+      "commodities": 15,
+      "crypto": 55,
+      "macro": 15
     }
   },
   "articles": [
+    {
+      "headline": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "description": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+      "source": "CNBC",
+      "publication_date": "2026-08-07T20:22:17+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T20:20:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ashland jumps on report it's exploring sale after takeover interest",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-07T20:14:21+00:00",
+      "article_url": "https://seekingalpha.com/news/4629535-ashland-jumps-on-report-its-exploring-sale-after-takeover-interest?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
+      "description": "<ul><li><a href=\"https://investinglive.com/news/us-july-non-farm-payrolls-23k-vs-80k-expected\" rel=\"follow\">US July non-farm payrolls -23K vs +80K expected</a></li><li><a href=\"https://investinglive.com/news/canada-july-employment-change-xxk-vs-15k-expected\" rel=\"follow\">Canada July employment chang",
+      "source": "Forexlive",
+      "publication_date": "2026-08-07T20:10:09+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-turn-negative-dollar-drops/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
+      "description": "Brent climbs $1 on uncertainty over end to Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T20:05:14+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
+      "description": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-07T20:02:20+00:00",
+      "article_url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Cursor says SpaceX deal could be done by end of next week - report",
       "description": "",
@@ -39,6 +104,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-07T19:15:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkZHc1FWRXNSWG5BdjNhZ0dqOEdNUFUtUl80NTNFYkFrM2RrLVBiSXlOOFdaek5hcEhIMl84OVJLZnVDMzNodFBScmliaFdNYUpaN21uQ3V3VmQ2V1p3MGZ0QUozdTJQb09EcTJ1VERWc3E0d1Z5dkNvalFEcEVSQzRQejkwZmdybVJTVDJPbk4wMS1hWFBOaXJKaTE4MUxHNS1STUFxTzN4S0ZDSmtZOXFhdUZaa0d1?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump to host mining CEOs as administration seeks minerals for defense supply chains - Reuters",
+      "description": "Trump to host mining CEOs as administration seeks minerals for defense supply chains Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T19:11:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -241,13 +316,13 @@
       ]
     },
     {
-      "headline": "New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%",
-      "description": "<ul><li>One year inflation 3.6% vs 3.7%</li><li>Three year inflation unchanged at 3.3%</li><li>Five year inflation unchanged at 3.0%</li><li>Current and expected personal finances improved</li><li>Labor market expectations were mixed</li></ul><p>No big surprises in this one.</p> This article was wri",
-      "source": "Forexlive",
-      "publication_date": "2026-08-07T15:01:20+00:00",
-      "article_url": "https://investinglive.com/news/new-york-fed-survey-one-year-inflation-expectations-dip-to-3-6-from-3-7/",
+      "headline": "What is the Patriot missile system and why are supplies depleted worldwide? - Reuters",
+      "description": "What is the Patriot missile system and why are supplies depleted worldwide? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T15:00:03+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmtXR0FpcFZzbEtPOEtrS25wVmRwYk10UTlkMzZ1M292dEZZUjdvbEhyMF8yb2FSUFBRbmF3U2NMTm1CSXhCbVkzZUtNRWprV3hLWFhUVnY1UGFYbnB0OVF5SVRQek9OeFo0WHkwZ1NKM090OVZoYjRDZ2lMaWxrNHNpVVVjZEF1SWtGZFVvUWt6emhuZm40NFdsRnlTNGVmQk9ZeC15a2pYZzNH?oc=5",
       "asset_tags": [
-        "macro"
+        "general"
       ]
     },
     {
@@ -256,16 +331,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-07T14:54:51+00:00",
       "article_url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
-      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T14:31:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -662,16 +727,6 @@
       ]
     },
     {
-      "headline": "Trump to host mining CEOs as administration seeks minerals for defense supply chains - Reuters",
-      "description": "Trump to host mining CEOs as administration seeks minerals for defense supply chains Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T10:27:48+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOC1sWW4tTHpEM1NiQWVIbnZMRVlvcVcyNTl2UE1QU1lqSlBVaTlNai1UUm1yR0htazhtZjA1N3Jtb2dEaHhnWklPREdWdG52a0FrTjBMamVaM1FlR1JmSzZycUpWY3pKUzA4V3pRTk9FRzRsTklOMEhvQlRybVVjTHRNbjByQ3ZHY25ja2JERjBXdDUzNXo1WDNFeEFGa3hZTnZUR2lxWTZIQ2p5M01qV0lnUXBFQm1JRVdlZk90MkZhTWplb3RZdVJ0ZktrNmFKM0dr?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Dream Finders Homes to buy Beazer Homes in $2.2B all-cash deal",
       "description": "",
       "source": "SeekingAlpha",
@@ -946,6 +1001,16 @@
       ]
     },
     {
+      "headline": "AI demand keeps China's export engine humming, but risks loom - Reuters",
+      "description": "AI demand keeps China's export engine humming, but risks loom Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T06:14:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Lumina Datamatics Completes Acquisition of TNQTech, Creating a Global Leader in Scholarly Publishing Solutions",
       "description": "MUMBAI, India, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Lumina Datamatics, a global leader in content, retail support, and technology solutions, today announced the completion of its acquisition of TNQTech, a leading Chennai-based publishing technology company. This transaction marks a significant mileston",
       "source": "GlobalNewswire",
@@ -1009,7 +1074,7 @@
       "headline": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks - Reuters",
       "description": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-07T04:33:00+00:00",
+      "publication_date": "2026-08-07T04:41:15+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdYbS1fZXZGWktSZkVpMk4temZNOUY1cEFsQUxTRXRNQnJUai1lY2xTMDE5dmFMZjUyUzZQclRyQUJuVTFVXzB6RGtpeXlFeU8xZjNiVWp4dVVNTkVWcVhCVEpsVVdTa1lsZEVfVUlSWHBlMjh0UDNYdkpjS3BHVjA2MUUtSXU0OTNEZ1lCUW9iYkliLUxSN2JSTTlFbEktaGRTb2UzcUxNMjlaZGtQSmt1S1FWYzlvdlkwdDM3WjY0dHZTRU9VWFFB?oc=5",
       "asset_tags": [
         "general"
@@ -1076,16 +1141,6 @@
       ]
     },
     {
-      "headline": "AI demand keeps China's export engine humming, but risks loom - Reuters",
-      "description": "AI demand keeps China's export engine humming, but risks loom Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T02:42:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmhJQUR2QVh5SHpuWDZ2ZFk3RWdCbDlINEY1MEZuc0tRbkJQT3FuRmQ1WDdtd2owTmhJeDdIU09EYkFiNEJpTnA3cWhQQ1dnWUpkWDJPVENiZDIzTXlNUlRNenF2VlRXM29EbFFJelBiTUhuU1cycU5EV3RvaVhIbU4yc0pNWDM2aGlCaGtSTG5ySGx3aXhFcTNRTkZ4cFlva3k0cA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
       "description": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
       "source": "Cointelegraph",
@@ -1135,16 +1190,6 @@
       "asset_tags": [
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil gains on pending Iran-Oman deal over Hormuz - Reuters",
-      "description": "Oil gains on pending Iran-Oman deal over Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T00:47:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1995,46 +2040,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVgtbWFpX004ano5Mkw5RkRZWUdETjMwZjJJYzBkMDNDNGNBaElDMTA0Yk9NYy10T0o1eGxSMjdMWGQtVnJZOUdMcXY3QXFYRGtmWGV2Ri1vQ1ItUlNHNkh4T0ZVald5OG9pUkRDOE9xdFgxYVRDMjJiT3lYeGRiR2ZjU1oyekNTalFlOV9COFdTbmdqa0lZ?oc=5",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Situational Awareness returns with $400M investment after nearly collapsing: Report",
-      "description": "Situational Awareness reportedly made a $400 million investment in an undisclosed company, days after the hedge fund nearly collapsed following July’s AI stock crash.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T10:41:49+00:00",
-      "article_url": "https://cointelegraph.com/markets/situational-awareness-400m-investment-nearly-collapsing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
-      "description": "Hadrian is one of a number of defense tech startups raising large sums and benefiting from President Trump's plans to upgrade the U.S. military.",
-      "source": "CNBC",
-      "publication_date": "2026-08-06T09:54:58+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "PODCAST: Strait stakes - Reuters",
-      "description": "PODCAST: Strait stakes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T09:52:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkpkUE9paDVsaXNueF95SndKQVFHdFVfR1BjYUp0bmJOOVo3OXlSWEJJQndiVGZ4cVo1SHh1eEs1MkdGWWNCQ2Fwa3g4TmFmMkEzVkJXMXF2eEhnYVNUdEtZcC1pb0owanZrczllZTc3OFc3NkpjbmJsaHRJVUNwUlVNbnU?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Russian president signs crypto law, core rules take effect in 2026",
-      "description": "Russian President Vladimir Putin signed a crypto law establishing market rules for exchanges, custodians and investors, with core provisions taking effect in September 2026.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T09:38:54+00:00",
-      "article_url": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
