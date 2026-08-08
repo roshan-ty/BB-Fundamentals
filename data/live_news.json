@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-08T14:36:32.698576+00:00",
+    "last_updated": "2026-08-08T15:06:08.236334+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 54,
-      "general": 112,
+      "crypto": 56,
+      "general": 111,
+      "forex": 11,
       "equities": 26,
-      "macro": 16,
-      "forex": 10,
+      "macro": 15,
       "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-08T14:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Bitcoin will never fall below $60K again: Nansen founder",
       "description": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
@@ -31,6 +41,17 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-08T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+      "asset_tags": [
+        "forex",
+        "crypto"
       ]
     },
     {
@@ -1299,7 +1320,7 @@
       "headline": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks - Reuters",
       "description": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-07T04:33:00+00:00",
+      "publication_date": "2026-08-07T04:41:15+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdYbS1fZXZGWktSZkVpMk4temZNOUY1cEFsQUxTRXRNQnJUai1lY2xTMDE5dmFMZjUyUzZQclRyQUJuVTFVXzB6RGtpeXlFeU8xZjNiVWp4dVVNTkVWcVhCVEpsVVdTa1lsZEVfVUlSWHBlMjh0UDNYdkpjS3BHVjA2MUUtSXU0OTNEZ1lCUW9iYkliLUxSN2JSTTlFbEktaGRTb2UzcUxNMjlaZGtQSmt1S1FWYzlvdlkwdDM3WjY0dHZTRU9VWFFB?oc=5",
       "asset_tags": [
         "general"
@@ -2022,26 +2043,6 @@
       "article_url": "https://www.cnbc.com/2026/08/06/how-nasa-engineer-built-lucrative-voiceover-acting-side-hustle.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
-      "description": "Fox has decided not to renegotiate its current TV deal with the NFL until the expiration of the league's opt-out clause in 2030, said CEO Lachlan Murdoch.",
-      "source": "CNBC",
-      "publication_date": "2026-08-06T13:57:20+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Step App winds down after four years as FITFI token sinks",
-      "description": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T13:52:36+00:00",
-      "article_url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
