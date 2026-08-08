@@ -1,18 +1,59 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-08T11:46:51.715362+00:00",
+    "last_updated": "2026-08-08T12:56:49.336243+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 54,
-      "forex": 9,
+      "equities": 26,
+      "macro": 16,
       "general": 114,
-      "macro": 15,
-      "equities": 24,
-      "commodities": 14
+      "crypto": 53,
+      "forex": 9,
+      "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
+      "description": "Otis positions itself as a long-term growth stock, but shares are down due to setbacks in its elevator service business and investors chasing the AI trade.",
+      "source": "CNBC",
+      "publication_date": "2026-08-08T12:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "A record-breaking week for options powers S&P 500 surge; volatility gauge is near 2026 low",
+      "description": "The broad market benchmark soared to records this week, benefiting from options activity and a calmer VIX.",
+      "source": "CNBC",
+      "publication_date": "2026-08-08T11:49:22+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/08/record-breaking-week-for-options-powers-sp-500-surge.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz - Reuters",
+      "description": "UAE says Iran attacked ADNOC vessel with missile in Strait of Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-08T11:46:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQajV4Uk9FTWd2WFJTWWVSZS1pdkl4OGFERFdzeExaYy1udkYxWGdXYWxRdHUwd2kwLVRtRTdhRkdVdUZuNXZ3U09EQUR3OXUwUzVtZmZZeWZkWmlkTThUTDBYNVBjbE9IWVBQZnhhcHBfcFVnZTc0NG1uMk54dElXNkhzQUFZR3VkRW5QZkthVjdfdTJOaXR6YWxiZmtfdzJROGg3bWFuOVhuV2ZkTDNLNkg4d18?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran's Revolutionary Guard says re-opening Strait of Hormuz does not depend on talks with Oman - Reuters",
+      "description": "Iran's Revolutionary Guard says re-opening Strait of Hormuz does not depend on talks with Oman Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-08T10:41:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM2lHbkI1OWxqUXdmZjN1SmEyTGFVSXVWTmowOFdFTzdWdTh2dVhIZFA1dF9IVy1fQ0dEZ2RtR0kxdkVOdDIzRFZVVkhaNXhyRjN2T292Q2d2UV9hUC15ZC00V0pFa1FoWUpfLWg0YTh1c2V6aUgwblZwTVhtX2dQZHFXN3N3X3hFNHI0bWViZUhXR3kyc0VxVzlnY2Z4RnhuN3dSeEUySjRBZks0cVlnSkk0X1NPNG03MGJCZTgwSU1UeWtqVDZfLUNwSQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
       "description": "",
@@ -1999,46 +2040,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-06T13:15:01+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcmoybDZrTmNjbmJtdGZpdVhGZ2hfNkswOFpjS3hBclJiSzIybTlRQ09sdGY4S2dablB5bGwwMFRJeHZUdHFsZkRzU29DWTZ6aFVLZmE2UFEwdldSN3dZSmlyVkgxMXkzS2pnN2tRMlRRRUtaMVh5UHJadEhUa3FPVkI0c3kyaHNEWFR6MDhkY1BYXzNBQ3p1WkVPRU1EX2JGeVRvbWlOMTJqY1hmakVnakE0RVF3anRLSXZv?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Family offices back clean energy and sustainability startups in July as dealmaking holds steady",
-      "description": "Private investment firms of John Doerr and other billionaires are backing geothermal energy, nylon recycling and more.",
-      "source": "CNBC",
-      "publication_date": "2026-08-06T13:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/06/family-offices-sustainability-startups-july-dealmaking.html",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
-      "description": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T13:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
-      "description": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T12:55:44+00:00",
-      "article_url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T12:46:42+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
       "asset_tags": [
         "general"
       ]
