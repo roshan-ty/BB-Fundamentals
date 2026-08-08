@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-08T16:39:25.550209+00:00",
+    "last_updated": "2026-08-08T17:14:04.606851+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 13,
       "crypto": 58,
+      "macro": 16,
+      "forex": 12,
       "general": 108,
       "equities": 26,
-      "macro": 15,
       "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+      "description": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-08T16:20:17+00:00",
+      "article_url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
       "description": "",
@@ -2033,17 +2044,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmtNNXV0bmtoZ3g2MVQzTUktLUl0U2R2YlA3Qk83WFZmQXJMYjQ0LU1Za0dHQklueDZ6N2JwQzhvV0VpZTdNVkI0YjdlMWlfcmUwSVU2c3YtUDJCdk1pb3YwY1dFYXdMd3FuMUxMb2dnSEVUZHVtWktubVNjU2RSUnNaLS16Y0hsclh5Wk1Kb09oQzRvT3pSNWZqblZfN2NIQzBfYmw1RkxEbll1Mnc?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T15:07:00+00:00",
-      "article_url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-      "asset_tags": [
-        "forex",
-        "crypto"
       ]
     }
   ]
