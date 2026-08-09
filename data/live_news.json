@@ -1,18 +1,30 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-09T03:54:27.031799+00:00",
+    "last_updated": "2026-08-09T05:10:34.721560+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 108,
-      "crypto": 59,
-      "macro": 16,
-      "forex": 12,
       "equities": 24,
-      "commodities": 12
+      "commodities": 12,
+      "macro": 16,
+      "general": 108,
+      "crypto": 58,
+      "forex": 11
     }
   },
   "articles": [
+    {
+      "headline": "China's July CPI cools to six-month low as producer prices also ease",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">Softer than expected CPI and PPI readings reinforce the picture of a two-speed Chinese economy, with strong exports and factory output offset by weak domestic demand, adding to the case for the accelerated fiscal spending B",
+      "source": "Forexlive",
+      "publication_date": "2026-08-09T04:29:04+00:00",
+      "article_url": "https://investinglive.com/news/china-s-july-cpi-cools-to-six-month-low-as-producer-prices-also-ease/",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
     {
       "headline": "Verizon mobile service down for thousands of customers in the U.S., Downdetector shows",
       "description": "Verizon recommended that customers who are still impacted by the outage restart their devices. The company did not provide ⁠a reason for ⁠the outage.",
@@ -369,20 +381,6 @@
       "article_url": "https://seekingalpha.com/news/4629535-ashland-jumps-on-report-its-exploring-sale-after-takeover-interest?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/us-july-non-farm-payrolls-23k-vs-80k-expected\" rel=\"follow\">US July non-farm payrolls -23K vs +80K expected</a></li><li><a href=\"https://investinglive.com/news/canada-july-employment-change-xxk-vs-15k-expected\" rel=\"follow\">Canada July employment chang",
-      "source": "Forexlive",
-      "publication_date": "2026-08-07T20:10:09+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-turn-negative-dollar-drops/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -1462,7 +1460,7 @@
       "headline": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks - Reuters",
       "description": "Vessel traffic through Hormuz dwindles this week as markets watch Iran-Oman talks Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-07T04:33:00+00:00",
+      "publication_date": "2026-08-07T04:41:15+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjdYbS1fZXZGWktSZkVpMk4temZNOUY1cEFsQUxTRXRNQnJUai1lY2xTMDE5dmFMZjUyUzZQclRyQUJuVTFVXzB6RGtpeXlFeU8xZjNiVWp4dVVNTkVWcVhCVEpsVVdTa1lsZEVfVUlSWHBlMjh0UDNYdkpjS3BHVjA2MUUtSXU0OTNEZ1lCUW9iYkliLUxSN2JSTTlFbEktaGRTb2UzcUxNMjlaZGtQSmt1S1FWYzlvdlkwdDM3WjY0dHZTRU9VWFFB?oc=5",
       "asset_tags": [
         "general"
@@ -1611,16 +1609,6 @@
       ]
     },
     {
-      "headline": "Dollar climbs versus yen as investors await US jobs data - Reuters",
-      "description": "Dollar climbs versus yen as investors await US jobs data Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T23:58:39+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2VsMnRGWG5QTmNmeVNLM21MZHV1dkdiRnBOWnNrZUdicjNhZTB3M3JjLTdJVGk0VTc4VjhEUkxtdUpGZ0J5bV9BMklYVWhSb1lMQkFlWk1JRm5SY3BmcU1tUkhUbWNaRGZDUHhNcW42RU1QZ0Y0ODdxWXZSa1l4OWxfSVlhMEx1ODdCZUI5UlJRUUpmMEJ4Z3lFOERXVWFXRGRjV3h1MjRlQQ?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
       "headline": "Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’",
       "description": "",
       "source": "Bloomberg",
@@ -1728,6 +1716,16 @@
       "article_url": "https://cointelegraph.com/news/crypto-pac-florida-alaska-wyoming-primary-races?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Dollar climbs versus yen as investors await US jobs data - Reuters",
+      "description": "Dollar climbs versus yen as investors await US jobs data Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-06T21:06:30+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2VsMnRGWG5QTmNmeVNLM21MZHV1dkdiRnBOWnNrZUdicjNhZTB3M3JjLTdJVGk0VTc4VjhEUkxtdUpGZ0J5bV9BMklYVWhSb1lMQkFlWk1JRm5SY3BmcU1tUkhUbWNaRGZDUHhNcW42RU1QZ0Y0ODdxWXZSa1l4OWxfSVlhMEx1ODdCZUI5UlJRUUpmMEJ4Z3lFOERXVWFXRGRjV3h1MjRlQQ?oc=5",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
