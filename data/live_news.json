@@ -1,18 +1,32 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-09T13:55:47.398604+00:00",
+    "last_updated": "2026-08-09T14:39:29.725484+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 105,
-      "equities": 23,
-      "macro": 19,
-      "crypto": 60,
       "forex": 11,
-      "commodities": 12
+      "equities": 23,
+      "commodities": 11,
+      "crypto": 60,
+      "macro": 17,
+      "general": 107
     }
   },
   "articles": [
+    {
+      "headline": "Newsquawk week ahead: RBA announcement and US retail sales",
+      "description": "<ul><li>Mon: BoJ Summary of Opinions</li><li>Tue: RBA Announcement</li><li>Wed: German Final Inflation (Jul), IEA OMR, OPEC MOMR, US CPI (Jul)</li><li>Thu: Norges Bank Announcement, UK GDP (Q2), US PPI (Jul)</li><li>Fri: EZ Employment (Q2) and GDP 2nd Estimate (Q2), US Retail Sales (Jul), US Univers",
+      "source": "Forexlive",
+      "publication_date": "2026-08-09T13:34:42+00:00",
+      "article_url": "https://investinglive.com/news/newsquawk-week-ahead/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
       "description": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
@@ -35,6 +49,26 @@
       ]
     },
     {
+      "headline": "Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks - Reuters",
+      "description": "Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-09T13:09:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTHltYW1BZ2tteEtoRWZwSUVpMy1vMVZTTF9HUzJYcUxZeGN0TGdPTzJ6dzB4clFRTWNDRkR1ZUVRT1BmbnNiZm9tQkZRdFZHSmVydXdDOHVnZERHVElJZm0zSk1HdG51LVZCRjVpakpfWDZiWXh0X0lmN0dQangwM01QNU5DY1BmNmdCR3FOX0FYQjdCNF9teE5zc0tTOXA3WWQyYUswOS1oYzVKUzdnNFdGdU5KREFyUnlyWVZSZld6c1NPa3Q4?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms - Reuters",
+      "description": "Netanyahu says Israel won't pull out of Gaza before Hamas disarms Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-09T13:09:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
       "description": "",
       "source": "CoinDesk",
@@ -45,11 +79,31 @@
       ]
     },
     {
-      "headline": "Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says - Reuters",
-      "description": "Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says Reuters",
+      "headline": "Iran's Pezeshkian recently met Supreme Leader Khamenei, state media says - Reuters",
+      "description": "Iran's Pezeshkian recently met Supreme Leader Khamenei, state media says Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-09T11:50:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+      "publication_date": "2026-08-09T12:22:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTd6TExsQVUzWU1OTlNGdzREQVBSY2R5STlrTVBra3ZPOWozaERiVC1zd3FDMmJJOTEwS2pIemlUcUNZZ2l5Y1JGMjljUHlqTWJ4RC1fRjFRNEtuc1JCd1BFOEM5VzRwRnAyc3N0ejEtOGlhT2Y5VHNPWXd1a2puYXNxTS1fQjJpSzFrTlpYUDd5UFlCRFloQWhQZDdNM1FqZEFOYXNpYmEtTmdpUFFockU0TnhKSVpfNmd5SmRJZmp3UQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
+      "description": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-09T12:16:34+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Passage of ships to Black Sea continues smoothly, Turkish officials say - Reuters",
+      "description": "Passage of ships to Black Sea continues smoothly, Turkish officials say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-09T11:33:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0gyU21ScmZKOEVnYlkwcjVrb2hwZ0I4M01vYkRrS0ZsclJPejZINnRibXNCOWdTYVp5WG81Y3BndlhncFdHTkpJV1NuNkhvdzdQNkktWjhQVk8zQmpKQUhodGMzYmdyOV84bWFwZHdWN0RxRFppVnZobk5pWEd0ejBhWklHcnljNUp1emF4ckdFcWJRY2xFeUNYNnl2cDI1Z0ROMlBYbTlFbE1kdWJBM09Na0M3LWdEbmc?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -115,16 +169,6 @@
       ]
     },
     {
-      "headline": "China July factory-gate inflation eases to 3-month low, CPI slows - Reuters",
-      "description": "China July factory-gate inflation eases to 3-month low, CPI slows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T04:35:04+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVNBcVdFSHViUm10d0NJVTdNYVJOdDgwZ3FvTy1JbFVwTVVlWmN1a1B3UjRaTWdYOG5VRm0yZWZXUWVKMEtLVzk4azgwcHVuX1Y3LWFrMGhnam0zRFU1dnRFQlBaSmpEOUVzM0sxUVYybml4QkIwNlVIck1LNE5wQTBEcWUtaFhZMGdCTFpnS0R5QTNDLWJheUNGT3VINWtSRzBFek13?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact - Reuters",
       "description": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact Reuters",
       "source": "Reuters",
@@ -132,6 +176,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBVeVBiZENRc3B0WldHbXZqbXBjLU5ucDVuODRNY3pIWFRKaWlES0lzRDVoWEFjOFBLQVkxeGVHd0pHWWV6Y0V0OFphUk81YksyX3BHQ0I2MVY2RHdfNDY1dE9XdGozaVQ0RWsyaXNieWlRT2RYdHNRNEp4ZHptOHBBTVFST2pfZXVIbkJZUlIteElMRTlQWEt5eGZ6RU9JMjRtUmdCYWVXUUM0TUE?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "China July factory-gate inflation eases to 3-month low, CPI slows - Reuters",
+      "description": "China July factory-gate inflation eases to 3-month low, CPI slows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-09T01:43:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVNBcVdFSHViUm10d0NJVTdNYVJOdDgwZ3FvTy1JbFVwTVVlWmN1a1B3UjRaTWdYOG5VRm0yZWZXUWVKMEtLVzk4azgwcHVuX1Y3LWFrMGhnam0zRFU1dnRFQlBaSmpEOUVzM0sxUVYybml4QkIwNlVIck1LNE5wQTBEcWUtaFhZMGdCTFpnS0R5QTNDLWJheUNGT3VINWtSRzBFek13?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -223,6 +277,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Bulgaria says drone explodes in its airspace, no damage - Reuters",
+      "description": "Bulgaria says drone explodes in its airspace, no damage Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-08T15:33:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTJIOVhtd1lJa0ptSGkzVHF4SVNjT0xLVWVJZmdqVXhGQTJNWGF2UklzYldoUmJHNVQ1QnRsbUJLM3k4OUs0aG5mbk43czBEOUE2bDAyakI4a25YWFo0YjdObVRyVGJGeWFaUGZ1eDBhSkVaOUN3NXNDX09pVmFtbmZlSC1ZWWt0eDFVVDNVVWtEbmx3czcwV3E4c0k?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -504,20 +568,6 @@
       ]
     },
     {
-      "headline": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/us-july-non-farm-payrolls-23k-vs-80k-expected\" rel=\"follow\">US July non-farm payrolls -23K vs +80K expected</a></li><li><a href=\"https://investinglive.com/news/canada-july-employment-change-xxk-vs-15k-expected\" rel=\"follow\">Canada July employment chang",
-      "source": "Forexlive",
-      "publication_date": "2026-08-07T20:10:09+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-turn-negative-dollar-drops/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
       "description": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
       "source": "Cointelegraph",
@@ -564,6 +614,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-07T19:41:34+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYThtNWRuaTFwZXA0d2VNMmlWY1JteFZFdF9JSjlYZG4yWmxJN2RidHdaMWtCQ2hSdGdBdHRpY2pDZXpsaFZ0dlZDX0RzcHJCN0p1anRHbmd1R284b29IMjNleVRfMGJTb0ZHVHNpVURuaUdDemVrSVY3eVJwemxyLW1zdzRSN2JTQzhJTUxtVW5XLW1SenJIc1hlVFN1cURqc0E1T0p5OFYtQlVOR1lha2VsNzNKOG42R19IdExmejhLQlUxR3FV?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
+      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T19:35:07+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1471,16 +1531,6 @@
       ]
     },
     {
-      "headline": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates - Reuters",
-      "description": "Saudi Arabia, Turkey, Pakistan pledge mutual defence as Middle East turmoil escalates Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T07:33:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2lUV2RTOWpHY1ZMeHh4SVNOUnV4TXZNQjZoa2ZXSmg1SnNGX2lGOEJUdy0taTQyNmJaRzNKdHdNUEQtYzhsOFROeEhHWk11LUlKTy13VmE0dlJuSHpveG1xSTBjNTZZOXJrWGNyU1NSbUpraEFHdTBjNHowdWluRUU5a0lsY3NuY1FmMDViMVJMMkN4VzVydm9aeng4eWxDV1lkVFBwWTNTVzFTaTJJcWxoUFdBTE9zZUx1U0VNYnlQTFNQd18yYg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Form 8.3 - [GOOCH & HOUSEGO PLC - 21 07 2026] - (CGWL)",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1988,57 +2038,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-06T19:56:57+00:00",
       "article_url": "https://www.cnbc.com/2026/08/06/american-airlines-flight-upgrades-become-harder-to-get.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz - Reuters",
-      "description": "Gold pares gains to trade steady as oil rises on Iran proposal to bar 'hostile' vessels in Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T19:44:58+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWd6ZjFIZXZHQ2JsNi1UdXBvS1JIUm0xYWtjaDQ1UXVOczhzTzZLNEY0ZTRtb1l5N2lrY09ERHFySlMyakJJNndhRUx5M0FabFZ5TllJZWZPU05na2VqMkRVckJ2VndLdUlFUGd1NklHQlN6V1VJUzRxS09jUmtVVWhMTGRuVlN3YzctZjhBWVI2UUZkQkJqZ0NvdF9uQ1I0RGtCNVNORThqQQ?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz - Reuters",
-      "description": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T19:37:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTmw0WV9PeEJVU0pBczd6UzhWSjdUMlQ2aDhwUGxDbWdvc3hMakw5d3h3Q2wxMXNRakctZjRlTW8wNi1PNnU2eDY0anYxakZYSkZBSVN6SUhJOEF4aW1HSTVnUWREc3k2dFBvUEl0azM4TXFoV1I1S1pJRVlVUm1SakpIeVFqM0wxS2gtMDFvc3ktZ05QYjc3VXRtSHdsNk9hLWUwb3VxTzBFcVhBeUx3Zm82Zw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Papa John's CEO says not selling, sticking with transformation plan",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-06T19:20:05+00:00",
-      "article_url": "https://seekingalpha.com/news/4628180-papa-johns-ceo-says-not-selling-sticking-with-transformation-plan?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "NEWSLETTER: High seas drama: Hormuz and Black Sea roil global trade - Reuters",
-      "description": "NEWSLETTER: High seas drama: Hormuz and Black Sea roil global trade Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T19:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQclZOSG1LVjNJS3d6NTFkdURobkxyV2tEZl9rNm8xNllOTVU4RDFYNGVtZmRzbFZncGM3WUJTN2UyWjBjbGc3c3FMQXk3emZkTzU4d0o0UHptN09ueVZ0amtLMHZJSDFWbGllR2hiNVBhcnplZUNVVzlWQzN4Q2t3bUJGSG5UNllLUGo3SEtQWENxS1k3dU4wY3FTbC1wT0JwV0p6aDVUaTA?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "We're adding a critical enabler of AI computing to our Bullpen watchlist",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-06T18:36:52+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/06/were-adding-a-critical-enabler-of-ai-computing-to-our-bullpen-watchlist.html",
       "asset_tags": [
         "general"
       ]
