@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-09T11:15:38.198590+00:00",
+    "last_updated": "2026-08-09T11:50:47.887205+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "crypto": 59,
@@ -13,6 +13,16 @@
     }
   },
   "articles": [
+    {
+      "headline": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "description": "The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-09T11:00:53+00:00",
+      "article_url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Brazil targets crypto fraud with up to 24-hour transfer hold",
       "description": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
@@ -2028,16 +2038,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONUJlYkNHU01pX081SFpYMFJ0SFh1SjRUcTJYbXZXWVJzNVdvSG9wd2otSnVPNkNlVUMxTVc5MnhYdnBLTGxWU3FLMWxpN19TcllydUJ4QXFGQzZaTjYySWt2VXJKUTljZjFoSWcwc0Nfd2tPMXIwRmU2RVJZV0d5cE9MWnRVTGV2MUxzX3d3OU8?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US appellate court mandate affirms Sam Bankman-Fried conviction",
-      "description": "Three circuit judges disputed the former FTX CEO’s claims that the defunct crypto exchange’s investors could have been made whole and wouldn’t have experienced any losses.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-06T17:17:34+00:00",
-      "article_url": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
