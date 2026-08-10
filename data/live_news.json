@@ -1,34 +1,54 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-10T21:50:57.296321+00:00",
+    "last_updated": "2026-08-10T22:23:22.504087+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 11,
       "general": 97,
-      "forex": 10,
-      "equities": 35,
+      "equities": 36,
       "commodities": 11,
-      "macro": 21,
-      "crypto": 64
+      "macro": 20,
+      "crypto": 63
     }
   },
   "articles": [
+    {
+      "headline": "Onex Partners and Co-Investors Complete Acquisition of AirSprint",
+      "description": "All amounts in U.S. dollars unless otherwise stated",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-10T21:45:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3342333/0/en/onex-partners-and-co-investors-complete-acquisition-of-airsprint.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "WEBTOON to take 60% stake in RI Games Holdings",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-10T21:17:26+00:00",
+      "article_url": "https://seekingalpha.com/news/4630353-webtoon-to-take-60-percent-stake-in-ri-games-holdings?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "RBC Bearings Incorporated Announces Acquisition of PSC Couplings, LLC",
+      "description": "OXFORD, Conn.--(BUSINESS WIRE)--RBC Bearings Incorporated (NYSE: “RBC”), a leading international manufacturer of highly engineered precision bearings, components and essential systems for the industrial, aerospace and defense industries, today announced that its Dodge Industrial, Inc. subsidiary has",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-10T21:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260810842941/en/RBC-Bearings-Incorporated-Announces-Acquisition-of-PSC-Couplings-LLC/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Judge stays CFTC’s case against US solider over prediction market bets",
       "description": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
       "source": "Cointelegraph",
       "publication_date": "2026-08-10T20:50:59+00:00",
       "article_url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "OpenGate Capital تعتزم الاستحواذ على Maersk Training، ذراع شركة Maersk العالمي للتدريب على السلامة وتقديم خدمات السلامة المتعلقة بالغاز",
-      "description": "نيويورك وباريس--(BUSINESS WIRE)--أعلنت OpenGate Capital (\"OpenGate\")، وهي شركة عالمية للاستثمار في الأسهم الخاصة، اليوم أنها أبرمت اتفاقية نهائية للاستحواذ على Maersk Training وشركتها التابعة Maersk H2S Safety Services. ويجري فصل الشركة، التي توفر خدمات التدريب على السلامة وخدمات السلامة المتعلقة با",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-10T20:37:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260809089711/ar/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -1128,8 +1148,8 @@
       ]
     },
     {
-      "headline": "Trump demands Iran pay compensation for deaths as Hormuz deal hopes fade - Reuters",
-      "description": "Trump demands Iran pay compensation for deaths as Hormuz deal hopes fade Reuters",
+      "headline": "Hopes for Hormuz deal fade as Trump demands Iranian reparations - Reuters",
+      "description": "Hopes for Hormuz deal fade as Trump demands Iranian reparations Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-09T23:03:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5",
@@ -1798,6 +1818,16 @@
       ]
     },
     {
+      "headline": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
+      "description": "Brent climbs $1 on uncertainty over end to Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T20:05:14+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
       "description": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
       "source": "Cointelegraph",
@@ -1814,16 +1844,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-07T19:55:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVFVVXl3ZF9BaXRrU2lhbFhMNjZtZS1xaGtSWGNEbFZOMFdQR3BfeHBYUkJlSW80NTVpQVlYTHdQRWx4RDlZQTBsLWRjNnA3TlA0Y3RUSy1DOWx6WkRjd3ZHdndaTjZXT1lNRTFQV0JTVVkxSWNxWHRTZlM4MVl5eHQ2S3VpS3djanNlNkR5T2JucGlDSzRvUVlDNFhvWGRoNFJJc2FEWkNVQVg2Y05ULWNpQjZ4M0lSRHB4QjJB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Brent climbs $1 on uncertainty over end to Iran war - Reuters",
-      "description": "Brent climbs $1 on uncertainty over end to Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T19:54:35+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2028,26 +2048,6 @@
       "article_url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-07T15:22:44+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "How a five-second trick let traders drain millions from Polymarket",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-07T15:09:07+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
-      "asset_tags": [
         "macro"
       ]
     }
