@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-10T20:59:52.335831+00:00",
+    "last_updated": "2026-08-10T21:50:57.296321+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 96,
+      "general": 97,
       "forex": 10,
       "equities": 35,
       "commodities": 11,
-      "macro": 22,
-      "crypto": 65
+      "macro": 21,
+      "crypto": 64
     }
   },
   "articles": [
+    {
+      "headline": "Judge stays CFTC’s case against US solider over prediction market bets",
+      "description": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-10T20:50:59+00:00",
+      "article_url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "OpenGate Capital تعتزم الاستحواذ على Maersk Training، ذراع شركة Maersk العالمي للتدريب على السلامة وتقديم خدمات السلامة المتعلقة بالغاز",
       "description": "نيويورك وباريس--(BUSINESS WIRE)--أعلنت OpenGate Capital (\"OpenGate\")، وهي شركة عالمية للاستثمار في الأسهم الخاصة، اليوم أنها أبرمت اتفاقية نهائية للاستحواذ على Maersk Training وشركتها التابعة Maersk H2S Safety Services. ويجري فصل الشركة، التي توفر خدمات التدريب على السلامة وخدمات السلامة المتعلقة با",
@@ -39,6 +49,16 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-10T20:28:06+00:00",
       "article_url": "https://seekingalpha.com/news/4630252-arena-group-acquires-infosentience?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
+      "description": "Wall Street ends down as expectations of Hormuz deal fade Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T20:22:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1037,8 +1057,8 @@
       ]
     },
     {
-      "headline": "Gold inches down from seven-week high, US inflation data in focus - Reuters",
-      "description": "Gold inches down from seven-week high, US inflation data in focus Reuters",
+      "headline": "Gold drifts near seven-week high on buying momentum as inflation data looms - reuters.com",
+      "description": "Gold drifts near seven-week high on buying momentum as inflation data looms reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-10T02:22:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEF0Uk1tb1JuQWhENTdaLVRfN2ZtbExLM3RoUFVJZ0IzNkhCYlZuc3R2dTY5ZHJxWVJBZVpQbHBES0NybEFsRVkxUFRmT0lVSVMxeUFxOEJKb2ZMWUFDSDh5WHh6S2NscTc1dE5uUFJTalpGLUltVllCX085a2lUbndIeDRVU0NvUmVINTRjU1BnZm9oREFxbUFPeVhTSllrc1h2d29vN0E?oc=5",
@@ -2029,27 +2049,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
-      "description": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-07T15:07:49+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "ADNOC says attacks on vessels, staff significantly impacting operations - Reuters",
-      "description": "ADNOC says attacks on vessels, staff significantly impacting operations Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T15:07:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZFZ2Y0RPOWN5S0dKcGVuQTgweVRpcHJfS1RMeFNXWjJHTkxjQU9oR3NhSGhGekVndEg5aS1QS1Jadm9ZUGU2QVdIa3pGY0VXa0dmZE9EOEZZLWd5Z194SEZNcXF6eWRjbUdkSWxfWVJXdkt4Y1I2UGJNZ0NpQ2NkZTJhREd4YzB2MlExUjdJRnFPZUZ1UFdfUF9jVXg2OHlfVHVSYW1zd0ZPaC1qTTRpaTNoV040WVFrZF8xRTV3?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
