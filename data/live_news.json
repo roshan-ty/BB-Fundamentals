@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-10T22:23:22.504087+00:00",
+    "last_updated": "2026-08-10T23:06:47.587675+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "forex": 11,
-      "general": 97,
+      "general": 98,
+      "crypto": 63,
       "equities": 36,
-      "commodities": 11,
-      "macro": 20,
-      "crypto": 63
+      "commodities": 10,
+      "macro": 19
     }
   },
   "articles": [
@@ -24,6 +24,16 @@
       ]
     },
     {
+      "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
+      "description": "Wall Street ends down as expectations of Hormuz deal fade Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T21:27:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "WEBTOON to take 60% stake in RI Games Holdings",
       "description": "",
       "source": "SeekingAlpha",
@@ -31,6 +41,16 @@
       "article_url": "https://seekingalpha.com/news/4630353-webtoon-to-take-60-percent-stake-in-ri-games-holdings?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-10T21:12:07+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -69,16 +89,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-10T20:28:06+00:00",
       "article_url": "https://seekingalpha.com/news/4630252-arena-group-acquires-infosentience?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
-      "description": "Wall Street ends down as expectations of Hormuz deal fade Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T20:22:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1128,12 +1138,13 @@
       ]
     },
     {
-      "headline": "Oil prices jump, Wall Street under pressure with Hormuz, inflation in focus - Reuters",
-      "description": "Oil prices jump, Wall Street under pressure with Hormuz, inflation in focus Reuters",
+      "headline": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus - Reuters",
+      "description": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-10T00:25:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
       "asset_tags": [
+        "equities",
         "macro"
       ]
     },
@@ -1233,6 +1244,16 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-09T15:51:24+00:00",
       "article_url": "https://seekingalpha.com/news/4629669-israel-seen-likely-to-reject-4_2b-hapag-lloyd-deal-for-zim?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift - Reuters",
+      "description": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-09T15:20:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGs5LVJQSnlqLXhUVEdVN1h2OTdZaXlLVzVnaW9xVk50VGdvM004MWpQNXIyLUVxMjV1aGhoSXhVcmhlMmZqNVltVUhyblg2MmtIbjBpZldLSmRLLWxCX0xvVGhmVFJKbk81S1NQQnM0TTYzM0tTLUotcC1DQ1JGVGx6dG8xVktZOHJydHNnODNvXzhKWDhXVENkX2RWRnJBM1Aw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2027,28 +2048,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
-      "description": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
-      "source": "CNBC",
-      "publication_date": "2026-08-07T15:26:56+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
-      "description": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-07T15:23:15+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
       ]
     }
   ]
