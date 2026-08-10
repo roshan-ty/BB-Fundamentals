@@ -1,18 +1,51 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-10T03:27:34.448629+00:00",
+    "last_updated": "2026-08-10T05:06:55.586660+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 21,
-      "general": 108,
-      "crypto": 59,
-      "macro": 17,
+      "crypto": 60,
       "forex": 9,
-      "commodities": 11
+      "equities": 21,
+      "commodities": 12,
+      "macro": 17,
+      "general": 105
     }
   },
   "articles": [
+    {
+      "headline": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
+      "description": "Australia’s financial watchdog has suspended Cryptolink’s registration for three months, adding to a crackdown that previously saw the Bitcoin ATM operator fined $56,340.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-10T04:32:36+00:00",
+      "article_url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific Financial Market news: No Hormuz deal in sight",
+      "description": "<ul><li><a href=\"https://investinglive.com/commodities/icymi-citi-lifts-q3-brent-forecast-to-80-dollars-as-iran-war-drags-on\" rel=\"follow\">ICYMI - Citi lifts Q3 Brent forecast to 80 dollars as Iran war drags on</a></li><li><a href=\"https://investinglive.com/stock-market-update/kosdaq-circuit-breaker",
+      "source": "Forexlive",
+      "publication_date": "2026-08-10T03:39:00+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-no-hormuz-deal-in-sight/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crypto’s first quantum attack will look like an unexplained breach: Quantus founder",
+      "description": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-10T03:34:53+00:00",
+      "article_url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "MEXC SpaceX Products See Surging Demand as Cumulative Futures Trading Volume Surpasses $7.1 Billion",
       "description": "VICTORIA, Seychelles, June 30, 2026 /PRNewswire/ — MEXC, a pioneer in 0-fee digital asset trading, continues to see explosive demand for its SpaceX-series products. Cumulative subscriptions across the two phases of the SPACEX(PRE) Launchpad surpassed $173 million, drawing over 74,000 participants, w",
@@ -21,6 +54,16 @@
       "article_url": "https://cryptocurrencynews.com/crypto/mexc-spacex-products-see-surging-demand-as-cumulative-futures-trading-volume-surpasses-7-1-billion/",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "China is balancing Asia's crude oil demand by itself - Reuters",
+      "description": "China is balancing Asia's crude oil demand by itself Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T01:16:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -67,15 +110,15 @@
       "headline": "Iran ties Hormuz reopening to US concessions on several demands - Reuters",
       "description": "Iran ties Hormuz reopening to US concessions on several demands Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-09T23:06:01+00:00",
+      "publication_date": "2026-08-09T23:03:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "Oil rises on uncertainty over reopening of Hormuz - Reuters",
-      "description": "Oil rises on uncertainty over reopening of Hormuz Reuters",
+      "headline": "Oil rises as Iran tempers hopes for swift Hormuz reopening - Reuters",
+      "description": "Oil rises as Iran tempers hopes for swift Hormuz reopening Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-09T22:17:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
@@ -99,16 +142,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-09T19:24:40+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
-      "description": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T18:55:32+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -174,20 +207,6 @@
       ]
     },
     {
-      "headline": "Newsquawk week ahead: RBA announcement and US retail sales",
-      "description": "<ul><li>Mon: BoJ Summary of Opinions</li><li>Tue: RBA Announcement</li><li>Wed: German Final Inflation (Jul), IEA OMR, OPEC MOMR, US CPI (Jul)</li><li>Thu: Norges Bank Announcement, UK GDP (Q2), US PPI (Jul)</li><li>Fri: EZ Employment (Q2) and GDP 2nd Estimate (Q2), US Retail Sales (Jul), US Univers",
-      "source": "Forexlive",
-      "publication_date": "2026-08-09T13:34:42+00:00",
-      "article_url": "https://investinglive.com/news/newsquawk-week-ahead/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’",
       "description": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
       "source": "CNBC",
@@ -244,6 +263,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-09T12:22:49+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTd6TExsQVUzWU1OTlNGdzREQVBSY2R5STlrTVBra3ZPOWozaERiVC1zd3FDMmJJOTEwS2pIemlUcUNZZ2l5Y1JGMjljUHlqTWJ4RC1fRjFRNEtuc1JCd1BFOEM5VzRwRnAyc3N0ejEtOGlhT2Y5VHNPWXd1a2puYXNxTS1fQjJpSzFrTlpYUDd5UFlCRFloQWhQZDdNM1FqZEFOYXNpYmEtTmdpUFFockU0TnhKSVpfNmd5SmRJZmp3UQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
+      "description": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-09T11:43:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1768,6 +1797,16 @@
       ]
     },
     {
+      "headline": "Political struggle of far-right ally Smotrich shows faultline in Netanyahu coalition - Reuters",
+      "description": "Political struggle of far-right ally Smotrich shows faultline in Netanyahu coalition Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T05:08:41+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSjdSeTNnQlh4RFJiamZoUEt3YWNBdXU4Zk9kdnV0eUZYZVFQTm15QlVOSnFEMDh5eWdwazRfSzFsT0t6VHVJcDhBTUNoMmlMMmViLTFwZER3UFZmU0UzUF9iaUpTRU5YXy1LNDVBZWFHenBhR2dtN3NYRm1zOEVsbzA4YU5SVWh2anlBMGE3V1NTOGJsVFp1ZjdEaU0wVnVYeks0WEJuYVFHOEF0YXJGcTQ2MEpMOUZqOWg1ZDRKVGtsckdjRWNVVXRwbEo?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
       "description": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.",
       "source": "Cointelegraph",
@@ -1994,46 +2033,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-06T22:03:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWlCbG9KRkh2aHRNSjBWS25TWEM3V3Y5aDlfbFcwNGZIaldpZ25rNlpGUGVtcDFRQ0JUWnZ5NnhwSGJSZjBSRm5idU9iNFNUcEMxcFJDb0FrcjBUU2JvemN0OWYxazdOS3hzMHBxVVJvOVlsQ1RQcEIyT0R0NXFxSU01SDJJdm1hZklPSEYxSEQxS0t6WFpMemlDdWpFcXh5bW0wMUM3ODBBSjVPVHNJTk5rQ2ViSHdTWWlQeWQ0YjR4MjJNVTdXNDBqcw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Power struggle erupts at Ondo Finance after founder’s death",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-06T21:59:33+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "United Flow Technologies Expands Mid-Atlantic Presence with Acquisition of Iron Horse Environmental",
-      "description": "Irving, TX, Aug. 06, 2026 (GLOBE NEWSWIRE) -- United Flow Technologies (UFT), a leading technical distributor and solutions provider serving the municipal and industrial water and wastewater treatment markets and a portfolio company of Berkshire Partners, today announced the addition of Iron Horse E",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T21:46:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340871/0/en/united-flow-technologies-expands-mid-atlantic-presence-with-acquisition-of-iron-horse-environmental.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bomb planted on minibus kills two near Damascus, Syrian officials say - Reuters",
-      "description": "Bomb planted on minibus kills two near Damascus, Syrian officials say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T21:31:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFkyalJWQ2txUksxbXpvMFRkWUJYSkVlNjBGTXVjRnFJOF9ONkJ2ZWUyUG9uMmxWSENpMFpoSUlZdzRwNVJZWU1wY0tHSmxCNy04S2xBQjRvYWtEeVNPb3hpQ0tIY2ZiR3BqRURVazhJSG9uZFBfc1EwTzVGZWs1cHpUUzlYU3hkZ3hJLWVmcGZaSl9ONFdlbzhPajNiYWo3RkQ4T1BqWVY0c2twZlFINFBmZDdOMXJ2cjZMSEhQOGFXMmh5cEEwaXR3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump says he thinks war with Iran will end 'pretty soon' - Reuters",
-      "description": "Trump says he thinks war with Iran will end 'pretty soon' Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T21:11:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1cxUm9wLUhEVGJsRnRJd0xDWmh6LUk2bThTQ0RSWFJDRFZ1OFNKWU5ab2t5ZGJIdjVnSkliUTI0N3dhNnBpSEJGSmRWWl80Z3NNT0lnUEItRGVxT2dsRU1fS3A0MVUzblJsOWx4bGlLY0JNa3FDT2lpY1hhNkMycnl2UWlFbEUxUFRKWGJDQ0k4eG5EZlRXTk1IajFlYkZjRk5PWW84WFR2MnVBeFE?oc=5",
       "asset_tags": [
         "general"
       ]
