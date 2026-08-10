@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-10T16:28:32.042486+00:00",
+    "last_updated": "2026-08-10T17:27:34.077338+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 94,
       "equities": 35,
       "crypto": 64,
-      "general": 94,
+      "forex": 11,
       "macro": 22,
-      "commodities": 13,
-      "forex": 9
+      "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "Total Synergy and Monograph Join Forces to Build a Global, AI-Enabled Standard for A&E Practice Management",
+      "description": "SAN FRANCISCO--(BUSINESS WIRE)--A&E software companies Total Synergy and Monograph join forces to build a global, AI-enabled standard for A&E practice management.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-10T16:21:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260723509212/en/Total-Synergy-and-Monograph-Join-Forces-to-Build-a-Global-AI-Enabled-Standard-for-AE-Practice-Management/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
       "description": "Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the Strait of Hormuz oil route, while analysis praised “exceptionally strong” institutional BTC inflows.",
@@ -66,6 +76,16 @@
       ]
     },
     {
+      "headline": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-10T15:02:14+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
       "headline": "Guardian Fire Services Completes Acquisition of Houston Fire & Security",
       "description": "NASHVILLE, Tenn., Aug. 10, 2026 (GLOBE NEWSWIRE) -- Guardian Fire Services, a national leader in fire and life safety services, today announced that it has completed the acquisition of Houston Fire & Security, a provider of commercial fire protection and security systems and services to Houston and ",
       "source": "GlobalNewswire",
@@ -76,13 +96,14 @@
       ]
     },
     {
-      "headline": "Pinnacle Technology Solutions Announces Acquisition of Network Solutions",
-      "description": "ASHEVILLE, N.C.--(BUSINESS WIRE)-- #AIInfrastructure--Pinnacle Technology Solutions, LLC (“PTS”) www.pinnacletg.com, a leading U.S. Hybrid IT Solutions Provider, today announced the acquisition of Network Solutions, LLC. (“NSI”) www.nsi1.com, further strengthening PTS’ ability to deliver AI-powered ",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-10T14:35:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260810472838/en/Pinnacle-Technology-Solutions-Announces-Acquisition-of-Network-Solutions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "Solana lending giant Jupiter now lets the same dollar earn twice",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-10T14:30:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
       "asset_tags": [
-        "general"
+        "forex",
+        "crypto"
       ]
     },
     {
@@ -924,12 +945,13 @@
       ]
     },
     {
-      "headline": "Global stocks tick up with Hormuz and inflation in focus - Reuters",
-      "description": "Global stocks tick up with Hormuz and inflation in focus Reuters",
+      "headline": "Oil prices jump, Wall Street and European shares under pressure with Hormuz, inflation in focus - Reuters",
+      "description": "Oil prices jump, Wall Street and European shares under pressure with Hormuz, inflation in focus Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-10T00:25:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
       "asset_tags": [
+        "forex",
         "equities",
         "macro"
       ]
@@ -955,8 +977,8 @@
       ]
     },
     {
-      "headline": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening - Reuters",
-      "description": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening Reuters",
+      "headline": "Oil rises 3% as Iran tempers hopes of Hormuz reopening - Reuters",
+      "description": "Oil rises 3% as Iran tempers hopes of Hormuz reopening Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-09T22:17:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
@@ -2028,26 +2050,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Russia cracks down on 9 crypto exchanges in Moscow City",
-      "description": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-07T12:28:41+00:00",
-      "article_url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
-      "description": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-07T12:13:40+00:00",
-      "article_url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
