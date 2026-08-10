@@ -1,24 +1,85 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-10T05:06:55.586660+00:00",
+    "last_updated": "2026-08-10T06:21:32.634214+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 60,
+      "crypto": 63,
+      "general": 105,
+      "macro": 18,
       "forex": 9,
-      "equities": 21,
-      "commodities": 12,
-      "macro": 17,
-      "general": 105
+      "equities": 18,
+      "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
+      "description": "Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-10T05:18:27+00:00",
+      "article_url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Eldridge Acquires Ownership Stake in AI Firm Sudolabs",
+      "description": "NEW YORK--(BUSINESS WIRE)--Eldridge today announced it has acquired a significant stake in Sudolabs, a provider of custom agentic AI systems and consulting services for enterprise clients. The investment will accelerate Sudolabs’ growth in the United States through the formation of a strategic partn",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-10T05:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260809298363/en/Eldridge-Acquires-Ownership-Stake-in-AI-Firm-Sudolabs/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Elis poursuit le développement de son réseau en Amérique latine avec une nouvelle acquisition au Mexique",
+      "description": "Elis poursuit le développement de son réseau en Amérique latine avec une nouvelle acquisition au Mexique",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-10T05:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341523/0/fr/elis-poursuit-le-d%C3%A9veloppement-de-son-r%C3%A9seau-en-am%C3%A9rique-latine-avec-une-nouvelle-acquisition-au-mexique.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Elis continues to expand its network in Latin America with a new acquisition in Mexico",
+      "description": "Elis continues to expand its network in Latin America with a new acquisition in Mexico",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-10T05:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341523/0/en/elis-continues-to-expand-its-network-in-latin-america-with-a-new-acquisition-in-mexico.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin tops $65,000 with US inflation data due this week",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-10T04:39:37+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
       "description": "Australia’s financial watchdog has suspended Cryptolink’s registration for three months, adding to a crackdown that previously saw the Bitcoin ATM operator fined $56,340.",
       "source": "Cointelegraph",
       "publication_date": "2026-08-10T04:32:36+00:00",
       "article_url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-10T04:26:01+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
       "asset_tags": [
         "crypto"
       ]
@@ -84,16 +145,6 @@
       "article_url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "I Squared Capital to Acquire oOh!media, a Leading Out-of-Home Media Infrastructure Platform in Australia and New Zealand",
-      "description": "MIAMI & SYDNEY, Australia--(BUSINESS WIRE)--I Squared Capital (“I Squared”), a leading independent global infrastructure investor, today announced that it has entered into a Scheme Implementation Agreement with oOh!media Limited (ASX: OML) to acquire all of its issued shares by way of a scheme of ar",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-09T23:45:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260809564542/en/I-Squared-Capital-to-Acquire-oOh%21media-a-Leading-Out-of-Home-Media-Infrastructure-Platform-in-Australia-and-New-Zealand/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1223,6 +1274,16 @@
       ]
     },
     {
+      "headline": "Take Five: Markets aren't going on a summer holiday - Reuters",
+      "description": "Take Five: Markets aren't going on a summer holiday Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T12:09:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95bFE4bk1VbURLVUdtX3lfYVA1SEZnNzVfb3ZHR2ZPQVdxT2ZEVjVmSGNSM0JuX2tzcWxVcGNSaDI1ajk5ZElPcFpzQUhWcHA0T2pCeUJ0enpRTFFpQm14dmtLZmtnaU9RS2swdnlKQ041cEo1dDlMN1hwenRQQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "OpenFX adquiere Global Ledger para lanzar cuentas multidivisa para empresas fintech",
       "description": "El cofundador de Novo, Tyler McIntyre, se incorpora como director de banca; OpenFX lanzará una lista de espera para su producto de cuentas multidivisa, y las primeras 100 empresas que se inscriban recibirán créditos por comisiones por un valor de 30.000 dólares. El cofundador de Novo, Tyler McIntyre",
       "source": "GlobalNewswire",
@@ -1975,66 +2036,6 @@
       "article_url": "https://cointelegraph.com/news/crypto-market-maker-wintermute-launches-us-broker-dealer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’",
-      "description": "",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-06T23:47:32+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns - Reuters",
-      "description": "Stocks fall ahead of Friday's US jobs data; oil gains on Iran concerns Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T23:44:20+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE5UZ1dJanFrQ1hFUUNWWmM2N2cxckRKUFYtOHNLUHhtVkdpLXpmNXZjeVMzd2dycVUxSmVlNU54aE1DLVFnMmY0VnVsZk1IT1puQVQydHlUS19RNkVhRXlfbU1fdlhIZ0tORnBOWHl4a2dUZFUyZFpoUzZuZDFkUFZucw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Petrobras posts third-highest profit as Middle East conflict lifts oil prices - Reuters",
-      "description": "Petrobras posts third-highest profit as Middle East conflict lifts oil prices Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T22:51:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUJiMmZaWlhUbWxheDM5M3ptaEZfV3JoUXBMU1dIQzFhTmN6MXQzbUNRTEFfZ3drVnFmc29GOHRZcTBXWENDZERRa0l2MFJQS1FRRmdvOGRsRnpNT05GNURYNjRnSm5fblIxYzVuZDA4YkxFZFJVcXR1dnl3RHROTDhtdENSRUpOQlBDTDdrSmFySHVsdzcwNV9wN3lMTjRwbXRRcQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Jim Cramer highlights 5 investing themes — and the stocks to buy for each",
-      "description": "CNBC’s Jim Cramer said earnings season reinforced five investing themes he thinks will produce the market's best buying opportunities.",
-      "source": "CNBC",
-      "publication_date": "2026-08-06T22:23:25+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/06/jim-cramer-5-investing-themes-stocks-to-buy.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Biogen Completes Acquisition of RayThera Inc.",
-      "description": "Lead program now in Phase 1 development Lead program now in Phase 1 development",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-06T22:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/biogen-completes-acquisition-of-raythera-inc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say - Reuters",
-      "description": "Turkey, Saudi Arabia, Pakistan to sign joint defence agreement in Saudi Arabia on Friday, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-06T22:03:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWlCbG9KRkh2aHRNSjBWS25TWEM3V3Y5aDlfbFcwNGZIaldpZ25rNlpGUGVtcDFRQ0JUWnZ5NnhwSGJSZjBSRm5idU9iNFNUcEMxcFJDb0FrcjBUU2JvemN0OWYxazdOS3hzMHBxVVJvOVlsQ1RQcEIyT0R0NXFxSU01SDJJdm1hZklPSEYxSEQxS0t6WFpMemlDdWpFcXh5bW0wMUM3ODBBSjVPVHNJTk5rQ2ViSHdTWWlQeWQ0YjR4MjJNVTdXNDBqcw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
