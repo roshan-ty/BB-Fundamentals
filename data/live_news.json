@@ -1,18 +1,69 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-10T13:06:17.106051+00:00",
+    "last_updated": "2026-08-10T14:24:37.463840+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 100,
+      "equities": 32,
+      "crypto": 60,
+      "macro": 22,
+      "general": 99,
       "forex": 10,
-      "equities": 31,
-      "crypto": 62,
-      "macro": 20,
-      "commodities": 13
+      "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "The Club's top 10 things to watch in the stock market Monday",
+      "description": "Apple was downgraded at Jefferies, and Intel is selling stock to fund its investment agenda.",
+      "source": "CNBC",
+      "publication_date": "2026-08-10T13:19:20+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/10/the-clubs-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Samenvatting: OpenGate Capital neemt Maersk Training over, de internationale tak van Maersk voor veiligheidsopleidingen en gasveiligheid",
+      "description": "NEW YORK & PARIJS--(BUSINESS WIRE)--OpenGate Capital (“OpenGate”), een internationale participatiemaatschappij, maakte vandaag bekend dat het een definitief akkoord heeft ondertekend om Maersk Training en zijn dochteronderneming Maersk H2S Safety Services over te nemen. Het bedrijf, een aanbieder va",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-10T13:16:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260809079796/nl/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitdeer increased Bitcoin mining output by nearly fivefold in Q2",
+      "description": "Bitdeer mined 2,694 BTC in Q2, but ended the quarter holding just 150 BTC after liquidating its treasury earlier this year.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-10T13:07:42+00:00",
+      "article_url": "https://cointelegraph.com/news/bitdeer-bitcoin-mining-output-fivefold-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "HBT Financial to buy Tri-County Financial in $205M deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-10T13:02:54+00:00",
+      "article_url": "https://seekingalpha.com/news/4629891-hbt-financial-to-buy-tri-county-financial-in-205m-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Xcellon Biologics Acquires GMP Manufacturing Facility from NextCure, Becoming an End-to-End CRDMO for Next-Generation Bioconjugates and Complex Biologics",
+      "description": "Acquisition of the GMP biologics manufacturing facility expands Xcellon’s integrated capabilities from discovery through clinical supply and strengthens U.S. biomanufacturing Acquisition of the GMP biologics manufacturing facility expands Xcellon’s integrated capabilities from discovery through clin",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-10T13:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341861/0/en/xcellon-biologics-acquires-gmp-manufacturing-facility-from-nextcure-becoming-an-end-to-end-crdmo-for-next-generation-bioconjugates-and-complex-biologics.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Jazz Pharmaceuticals to acquire Actio Biosciences for $1.32B",
       "description": "",
@@ -63,16 +114,6 @@
         "forex",
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Town Lane Announces Launch of Platform Venture with Axis Partners and Acquisition of 23-Property Industrial Outdoor Storage Portfolio",
-      "description": "NEW YORK & ATLANTA--(BUSINESS WIRE)--Town Lane Announces Launch of Platform Venture with Axis Partners and Acquisition of 23-Property Industrial Outdoor Storage Portfolio",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-10T12:32:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260810124033/en/Town-Lane-Announces-Launch-of-Platform-Venture-with-Axis-Partners-and-Acquisition-of-23-Property-Industrial-Outdoor-Storage-Portfolio/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -147,6 +188,20 @@
       ]
     },
     {
+      "headline": "investingLive European session wrap: Yen drops, markets tentative to start the week",
+      "description": "<p>Headlines:</p><ul><li><a href=\"https://investinglive.com/forex/the-usd-is-at-a-crossroads-ahead-of-cpi-while-the-aud-awaits-rba-rate-decision\" rel=\"follow\">The USD is at a crossroads ahead of CPI, while the AUD awaits RBA rate decision</a></li><li><a href=\"https://investinglive.com/news/iran-fore",
+      "source": "Forexlive",
+      "publication_date": "2026-08-10T11:57:58+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-european-session-wrap-yen-drops-markets-tentative-to-start-the-week/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
       "headline": "K Wave Media Appoints New Chairman and Co-CEO to Accelerate AI and Semiconductor Acquisition Strategy",
       "description": "Joongjae Lee becomes Chairman; Richard Kim joins Ted Kim as Co-Chief Executive Officer; Company confirms active due diligence and a pending corporate name change Joongjae Lee becomes Chairman; Richard Kim joins Ted Kim as Co-Chief Executive Officer; Company confirms active due diligence and a pendin",
       "source": "GlobalNewswire",
@@ -184,6 +239,26 @@
       "article_url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
       "asset_tags": [
         "commodities"
+      ]
+    },
+    {
+      "headline": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? - Reuters",
+      "description": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T11:36:10+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnBEVG1SUHZxZmRmdkNDQzUwSnFRTEF2SVFBWUF6SmZlTDZlb0tGa1V1dE5OZFFGVU5EQXhHd0QteldVRkhySVprMVd2TFh5aFA5S2thQjFKX1hsajBlSHBTM2tFNkRuVmpTR3ExSUVQcEcyVExxNVpRZVkwZnBFT1hpV01BcDc5anBpZmF3MHkwd05UZ3BWWTR5TTlaQXdFSkNsX19IMzl3UTZMVmx5RFhsRjdJNHRfMmc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump's Gaza plan hinges on Hamas disarmament, Israeli withdrawals - Reuters",
+      "description": "Trump's Gaza plan hinges on Hamas disarmament, Israeli withdrawals Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T11:35:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTFducWRWa3BFR0MtLTM1TkdwRG82VDAwZndhU3Q3Y3piejFoR3pJWlZpTkpZOWIxSXo0QldwZmZDWkNta0t0c183OVcwYTg4b0Q5Qzc1YmFpTVNIV2IwbERDS1Fsby1WN2JVbkRMa05RdXJCTF9zMGZ0RkVUVXptb3B5T2hBTm1fclJGV0lxblVKSFhuY2FTbXBXRTFPYVNWajZEOE0tS0NYdGR4OGdKeUh4TjVjZw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -780,8 +855,8 @@
       ]
     },
     {
-      "headline": "Oil edges higher as Iran tempers hopes of swift Hormuz reopening - Reuters",
-      "description": "Oil edges higher as Iran tempers hopes of swift Hormuz reopening Reuters",
+      "headline": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening - Reuters",
+      "description": "Oil rises nearly 2% as Iran tempers hopes of Hormuz reopening Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-09T22:17:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
@@ -887,20 +962,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Newsquawk week ahead: RBA announcement and US retail sales",
-      "description": "<ul><li>Mon: BoJ Summary of Opinions</li><li>Tue: RBA Announcement</li><li>Wed: German Final Inflation (Jul), IEA OMR, OPEC MOMR, US CPI (Jul)</li><li>Thu: Norges Bank Announcement, UK GDP (Q2), US PPI (Jul)</li><li>Fri: EZ Employment (Q2) and GDP 2nd Estimate (Q2), US Retail Sales (Jul), US Univers",
-      "source": "Forexlive",
-      "publication_date": "2026-08-09T13:34:42+00:00",
-      "article_url": "https://investinglive.com/news/newsquawk-week-ahead/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -1646,6 +1707,16 @@
       ]
     },
     {
+      "headline": "Everybody wants energy security post the Iran war, but how? - Reuters",
+      "description": "Everybody wants energy security post the Iran war, but how? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-07T15:47:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "Celsius jumps on report Rockstar Energy founder takes stake, wants to be CEO",
       "description": "",
       "source": "SeekingAlpha",
@@ -1977,76 +2048,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3341075/0/zh-hans/openfx-%E6%94%B6%E8%B4%AD-global-ledger-%E6%97%A8%E5%9C%A8%E4%B8%BA%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%8E%A8%E5%87%BA%E5%A4%9A%E5%B8%81%E7%A7%8D%E8%B4%A6%E6%88%B7.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "After a Clarity Act funeral, the crypto world would keep turning",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-07T12:00:00+00:00",
-      "article_url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Aeternum Announces Acquisition of an Option to Acquire 51% of American Renaissance Minerals, Sponsor of the Nkamouna Cobalt-Nickel-Manganese Project in Cameroon",
-      "description": "Aeternum Announces Acquisition of an Option to Acquire 51% of American Renaissance Minerals",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-07T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3341068/0/en/aeternum-announces-acquisition-of-an-option-to-acquire-51-of-american-renaissance-minerals-sponsor-of-the-nkamouna-cobalt-nickel-manganese-project-in-cameroon.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Millrose Properties commits up to $1.25B to support Dream Finders' Beazer acquisition",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-07T11:47:47+00:00",
-      "article_url": "https://seekingalpha.com/news/4629046-millrose-properties-commits-up-to-125b-to-support-dream-finders-beazer-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-07T11:45:49+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-07T11:42:20+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Man Group PLC : Form 8.3 - Bodycote Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-07T11:40:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3341048/0/en/man-group-plc-form-8-3-bodycote-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
-      "description": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-07T11:05:01+00:00",
-      "article_url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
