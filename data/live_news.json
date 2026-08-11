@@ -1,27 +1,86 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-11T19:45:35.663694+00:00",
+    "last_updated": "2026-08-11T20:27:48.442066+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 8,
-      "macro": 21,
-      "crypto": 70,
-      "general": 87,
-      "equities": 37,
-      "commodities": 14
+      "general": 86,
+      "crypto": 72,
+      "macro": 20,
+      "equities": 36,
+      "commodities": 14,
+      "forex": 7
     }
   },
   "articles": [
     {
-      "headline": "USDCHF buyers trying to take control again as the ups and downs continue for the pair",
-      "description": "<p class=\"isSelectedEnd\">The roller-coaster price action in the USDCHF continues, but for now the buyers remain in control.</p><p class=\"isSelectedEnd\"></p><p class=\"isSelectedEnd\">The pair remains above both its 100-hour moving average at 0.80956 and its 200-hour moving average at 0.80902, and toda",
-      "source": "Forexlive",
-      "publication_date": "2026-08-11T19:19:03+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usdchf-buyers-trying-to-take-control-again-as-the-ups-and-downs-continue-for-the-pair/",
+      "headline": "We're lifting our price target on Cardinal Health after issuing rosy profit guidance",
+      "description": "The quarter wasn't totally clean, but strong profitability matters the most.",
+      "source": "CNBC",
+      "publication_date": "2026-08-11T19:59:28+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/11/were-lifting-our-price-target-on-cardinal-health-after-issuing-rosy-profit-guidance-.html",
       "asset_tags": [
-        "forex",
+        "general"
+      ]
+    },
+    {
+      "headline": "MoneyGram expands crypto cash ramps to Solana",
+      "description": "MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T19:53:02+00:00",
+      "article_url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia Wednesday, August 12, 2026 is nearly empty",
+      "description": "<p>Not much of note here.</p><p>Japanese markets retrun from a holiday Tuesday (that stretched to a long weekend for many in the markets!).</p><p></p> This article was written by Eamonn Sheridan at investinglive.com.",
+      "source": "Forexlive",
+      "publication_date": "2026-08-11T19:52:09+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-august-12-2026-is-nearly-empty/",
+      "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Following Senate delay, crypto bill has a narrow window to become law",
+      "description": "After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T19:42:08+00:00",
+      "article_url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Andersen Expands Presence in the United Kingdom and United States with Two Strategic Acquisitions",
+      "description": "SAN FRANCISCO--(BUSINESS WIRE)--Andersen Group Inc. today announced the acquisition of UK Andersen, LLP in Great Britain along with SPR Consulting.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-11T19:42:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260811114661/en/Andersen-Expands-Presence-in-the-United-Kingdom-and-United-States-with-Two-Strategic-Acquisitions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "AstraZeneca held talks with Bristol-Myers through spring, summer - FT",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-11T19:20:38+00:00",
+      "article_url": "https://seekingalpha.com/news/4630962-astrazeneca-held-talks-with-bristol-myers-through-spring-summer---ft?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall Street falls as US-Iran peace optimism fades - Reuters",
+      "description": "Wall Street falls as US-Iran peace optimism fades Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T18:43:28+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -60,26 +119,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-11T17:43:07+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Wall St inches lower as tech drags, US-Iran peace optimism fades - Reuters",
-      "description": "Wall St inches lower as tech drags, US-Iran peace optimism fades Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T17:39:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
-      "description": "MIDVALE, Utah--(BUSINESS WIRE)--CHG Healthcare, the nation’s leading physician workforce experts, today announced it has acquired KREWE Anesthesia, a staffing firm specializing in certified registered nurse anesthetist (CRNA) staffing. The acquisition strengthens CHG’s ability to meet growing client",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-11T17:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260810981985/en/CHG-Healthcare-Acquires-KREWE-Anesthesia-To-Expand-CRNA-Staffing-Capabilities-Meeting-Rising-Client-Needs/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -1192,8 +1231,8 @@
       ]
     },
     {
-      "headline": "Oil prices hold near one-week high as Hormuz talks advance - Reuters",
-      "description": "Oil prices hold near one-week high as Hormuz talks advance Reuters",
+      "headline": "Oil hits new one-week high as supply disruptions outweigh Strait of Hormuz talks - Reuters",
+      "description": "Oil hits new one-week high as supply disruptions outweigh Strait of Hormuz talks Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-11T00:38:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
@@ -1628,16 +1667,6 @@
       ]
     },
     {
-      "headline": "HBT Financial to buy Tri-County Financial in $205M deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-10T13:02:54+00:00",
-      "article_url": "https://seekingalpha.com/news/4629891-hbt-financial-to-buy-tri-county-financial-in-205m-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Gulf Shares mixed on uncertainty over Hormuz deal - Reuters",
       "description": "Gulf Shares mixed on uncertainty over Hormuz deal Reuters",
       "source": "Reuters",
@@ -2017,37 +2046,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ0V2YVUtVDBTRWNFMk85UERyby1qRkNveUZvWnNIZjFaUk05Q0xKWlJUWDNLT3htQWo4R09jeHZHbDFFV2gxWWtxcTdrMnk2aHpkbHVtVDBMWTNqX3dJcHRBcEh2eWg1YTJoWEpSYmxaNldMaFFleWpwVVRTRUpwN210dzdPd1hQdW5SZW5pV2VYc3gzamdvMllmRERsSFctYkZiZFJrZktwYWNscFZsdFRvOGpBeVhESlBPRXlqVXJiSTFIYnduLWw3amZ0c293UWJ0Vy1VZjNGTWs?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-      "description": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-10T00:32:21+00:00",
-      "article_url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
-      "description": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-10T00:31:34+00:00",
-      "article_url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus - Reuters",
-      "description": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T00:25:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     }
   ]
