@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-11T07:41:33.471669+00:00",
+    "last_updated": "2026-08-11T08:39:46.460252+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 65,
-      "forex": 10,
+      "crypto": 67,
+      "forex": 9,
       "macro": 21,
-      "general": 92,
-      "commodities": 10,
-      "equities": 34
+      "general": 91,
+      "equities": 34,
+      "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+      "description": "Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of capacity from the Bitcoin miner’s Rockdale campus in Texas.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T08:00:26+00:00",
+      "article_url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "A $2 trillion asset class is getting a new blockchain rail",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-11T07:19:09+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "South Korea drops Travel Rule threshold for crypto transfers",
       "description": "South Korea will remove its 1 million won Travel Rule threshold and apply information-sharing requirements to all transfers between registered crypto service providers.",
@@ -75,6 +95,16 @@
       ]
     },
     {
+      "headline": "Gulf shipping traffic via Strait of Hormuz falls to six vessels - Reuters",
+      "description": "Gulf shipping traffic via Strait of Hormuz falls to six vessels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T05:00:13+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3lVMjZBYTN2WlJSTnRXUVlyRmd5dXYxNnV0ekRtTUg4VEF5cC0yM3NoV1lNNEhoTF9wandNSUNLMEFyeHNnU0w4Z2NuOXhKUzdCMlAtdms2SGxpV0t0WGNlcl9MaTdYSTZVMlh5bGVBM0ZnNUVCcVhKWWF2VU1sdTVadEV6M2s0X0tWWF9wWWhlV3h2dlBSaUFHM2VMNTdy?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
       "description": "Luke Dashjr lost his BIP editor privileges after developers raised concerns over his role in BIP 110 and its stalled minority fork.",
       "source": "Cointelegraph",
@@ -96,16 +126,6 @@
       ]
     },
     {
-      "headline": "Gulf shipping traffic via Strait of Hormuz falls to six vessels - Reuters",
-      "description": "Gulf shipping traffic via Strait of Hormuz falls to six vessels Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T04:44:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3lVMjZBYTN2WlJSTnRXUVlyRmd5dXYxNnV0ekRtTUg4VEF5cC0yM3NoV1lNNEhoTF9wandNSUNLMEFyeHNnU0w4Z2NuOXhKUzdCMlAtdms2SGxpV0t0WGNlcl9MaTdYSTZVMlh5bGVBM0ZnNUVCcVhKWWF2VU1sdTVadEV6M2s0X0tWWF9wWWhlV3h2dlBSaUFHM2VMNTdy?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "White House vows to get CLARITY across ‘finish line’ in September",
       "description": "Patrick Witt says the Trump administration will keep negotiating with Democrats as the Senate prepares for a September CLARITY vote.",
       "source": "Cointelegraph",
@@ -123,16 +143,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "China is balancing Asia's crude oil demand by itself - Reuters",
-      "description": "China is balancing Asia's crude oil demand by itself Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T03:50:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -735,6 +745,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "China is balancing Asia's crude oil demand by itself - Reuters",
+      "description": "China is balancing Asia's crude oil demand by itself Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T12:00:34+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0lBeUJuUi1Nek03cm1rOF9xMFhxS2RNa1NUNkxqQk9UT1dYOENkMHduLUx3ei12d3VQZmxLSlV6cFd3cDZXc05JcnJ3YnRXRjl2b3VMb2M0T1R3OUpVUnhfVWNxY1d0akVsQ1U0V1hkOEE1eUZWN2FySzNXcHRmLXJpNlR2SWlRekRYbkVld1VqNDI5S0RFdWFVUHBJQXF2bl9FMDZJUmotVzlfZlBidUhVTWpRTVMzYWZlTQ?oc=5",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -2006,16 +2026,6 @@
       ]
     },
     {
-      "headline": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters",
-      "description": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-08T00:06:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Northlight Wine Collective Acquires Meyer Family Vineyards and Mayhem Wines",
       "description": "Acquisition of acclaimed British Columbia winery and brands establishes the foundation of a new long-term investment platform for premium Canadian wine businesses Acquisition of acclaimed British Columbia winery and brands establishes the foundation of a new long-term investment platform for premium",
       "source": "GlobalNewswire",
@@ -2026,23 +2036,13 @@
       ]
     },
     {
-      "headline": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
-      "description": "US Senate passes Russia sanctions championed by Graham; US House next Reuters",
+      "headline": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters",
+      "description": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-07T22:20:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
+      "publication_date": "2026-08-07T23:02:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dollar drops as weak US jobs data pushes out Fed hike expectations - Reuters",
-      "description": "Dollar drops as weak US jobs data pushes out Fed hike expectations Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T22:02:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUNvR1pacXVtTWI3eUROeE54TXVYY3JEU1FNSFA4YlBaVFp6MDFXY0tFaFpqSFBfM2R2WTJQVDVtNG5RN3ozQkZLTTZpTGN5aDMzUE9uUVAyanZWN0VWcnVzWlF1aDh6Y0k2dlY4WWpsMFRMdFNoRW81Y1M2WW9qNTlPSWZVZGFnRVh1eEVTTXhWSlhOQkgyRFJfUm5nMGtGaHRUbnlITTRidldKOFg3ZEg5NnRLR3dj?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
