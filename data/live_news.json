@@ -1,18 +1,68 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-11T17:41:34.641732+00:00",
+    "last_updated": "2026-08-11T18:39:51.788899+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "commodities": 15,
+      "crypto": 70,
       "general": 87,
-      "macro": 22,
-      "crypto": 68,
+      "commodities": 15,
+      "macro": 20,
       "equities": 37,
       "forex": 7
     }
   },
   "articles": [
+    {
+      "headline": "Strategy CEO says company will resume Bitcoin accumulation this year",
+      "description": "The company has bought roughly 25 times more BTC than it has sold this year, despite recent sales that challenged its long-standing accumulation strategy.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T18:03:49+00:00",
+      "article_url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "ARP Digital secures Dubai VARA broker-dealer license",
+      "description": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it expands its Gulf presence beyond Bahrain.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T17:53:51+00:00",
+      "article_url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Hormuz to stay closed unless US meets Iran's conditions, Iran official says - Reuters",
+      "description": "Hormuz to stay closed unless US meets Iran's conditions, Iran official says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T17:45:22+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall St inches lower as tech drags, US-Iran peace optimism fades - Reuters",
+      "description": "Wall St inches lower as tech drags, US-Iran peace optimism fades Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T17:39:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "CHG Healthcare Acquires KREWE Anesthesia To Expand CRNA Staffing Capabilities, Meeting Rising Client Needs",
+      "description": "MIDVALE, Utah--(BUSINESS WIRE)--CHG Healthcare, the nation’s leading physician workforce experts, today announced it has acquired KREWE Anesthesia, a staffing firm specializing in certified registered nurse anesthetist (CRNA) staffing. The acquisition strengthens CHG’s ability to meet growing client",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-11T17:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260810981985/en/CHG-Healthcare-Acquires-KREWE-Anesthesia-To-Expand-CRNA-Staffing-Capabilities-Meeting-Rising-Client-Needs/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "EIA raises crude oil price forecasts as Middle East supply risks tighten outlook",
       "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The latest EIA outlook includes a notable upward revision to crude oil price forecasts for both 2026 and 2027, while also adjusting its expectations for global supply and demand. The agency also highlighted significant Middle East production disruptions in ",
@@ -24,13 +74,13 @@
       ]
     },
     {
-      "headline": "Wall St inches lower as tech drags, US-Iran peace optimism fades - Reuters",
-      "description": "Wall St inches lower as tech drags, US-Iran peace optimism fades Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T16:57:50+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+      "headline": "EToro reports second quarter crypto loss even as total profit beats estimates",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-11T17:12:11+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
       "asset_tags": [
-        "general"
+        "crypto"
       ]
     },
     {
@@ -126,21 +176,11 @@
       ]
     },
     {
-      "headline": "Recur Software Acquires FLAGS Software to Accelerate Product Investment and Global Growth",
-      "description": "SOLIHULL, England--(BUSINESS WIRE)-- #Automotive--Recur Software acquires FLAGS Software, a provider of quality management and production control software for complex manufacturing environments",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-11T15:44:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260811629022/en/Recur-Software-Acquires-FLAGS-Software-to-Accelerate-Product-Investment-and-Global-Growth/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Pakistan says US and Iran close to 'some sort' of deal despite attacks on shipping - Reuters",
-      "description": "Pakistan says US and Iran close to 'some sort' of deal despite attacks on shipping Reuters",
+      "headline": "Lebanon abolishes death penalty in first for region - Reuters",
+      "description": "Lebanon abolishes death penalty in first for region Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-11T15:34:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+      "publication_date": "2026-08-11T15:24:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWw3eUVpNlFseEtIMmVBNnhsN1dELUZxMUNrZkxzX3VpR0lRTnJ2UlZja3kxN1RibEpVVGdrLWUwQTBqeVNaTldNbXZUUGpBOVFLanN2d2E4NHg0RmVTdTNnRmhWZ1QwRUlsRU5oejd5M3Vpa0tKUTEwUm0wekNNQjM4LVVZMFhJbmJGVVVzUXItRVdXNDlGeXF5emsyOUU?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1597,16 +1637,6 @@
       ]
     },
     {
-      "headline": "Xcellon Biologics Acquires GMP Manufacturing Facility from NextCure, Becoming an End-to-End CRDMO for Next-Generation Bioconjugates and Complex Biologics",
-      "description": "Acquisition of the GMP biologics manufacturing facility expands Xcellon’s integrated capabilities from discovery through clinical supply and strengthens U.S. biomanufacturing Acquisition of the GMP biologics manufacturing facility expands Xcellon’s integrated capabilities from discovery through clin",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341861/0/en/xcellon-biologics-acquires-gmp-manufacturing-facility-from-nextcure-becoming-an-end-to-end-crdmo-for-next-generation-bioconjugates-and-complex-biologics.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
       "description": "Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve rose to $4.65 billion and its Bitcoin holdings fell to 840,447 BTC.",
       "source": "Cointelegraph",
@@ -2015,36 +2045,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-09T23:24:50+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzl5TEZoallFdF9oRFpZcHRETGZPXzRmYnNwRGU5eXBweFRkTFVEU0lSb2VDLVg0dFBueFhEeWc5YVlCdUJtckVvcXdVWndxMDRSdmREeGc3YzBkQUZLU2dmX2EwRVc3cmdXamhYRUhoTExqeklKZDhoaU9RM0NKNl90RkEwRGc1R1JMZ1BxWFU3VVBoZjBtaVl3U1J5YnZ1MTJv?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Hopes for Hormuz deal fade as Trump demands Iranian reparations - Reuters",
-      "description": "Hopes for Hormuz deal fade as Trump demands Iranian reparations Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T23:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmFvNGYwRDFRdHZrdWhBOWR0ZmVCdkZTSzRROXVNMG1UX1Azb04xa3ZCbEtYNkl4eFhSZG16b0xYeHNyd2tTdHhGWXFUTXJ6WFNVRjg3bmZYOEhEeHNaNHh4NU9qN0RQYXY3ZG13Qzh6Mk1LNG9jaGZraUZwRHVKY0hMZlFWUTdMOEpoaTRuemlPWEFJZUhsYk5TaUpNdWFqR1dId3NCM0xvYS1SNlNBMg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade - Reuters",
-      "description": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T22:17:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30 - Reuters",
-      "description": "Yemeni military says Houthi attack on Mocha kills 7, wounds 30 Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T20:18:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY1pLdDR5UUhyOFl0d1dQNFFWV3lPV1RkNVg0TFgtSjVidElQVlpTcmt1cFQ0QmI4bTNsOXdjNlozM1RWLU9DUThrNmNjTURRZV9sSjJPbTVIYTR2ZUZQYzQ2NGdFbVRsSVlzeno5NWhiajhucW8ySmYwc1B6cENtOHg1RVhBY0pKUUFHSENiM0w5dU1lNkNJNTB0S0FLSFNKZnpZRHJLaGZHSVk2OFg1X3B0TEUyT0R4V2EtWHoxY2pjVF9IOHl4ZEpZZGF3QQ?oc=5",
       "asset_tags": [
         "general"
       ]
