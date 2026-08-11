@@ -1,24 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-11T23:07:15.592481+00:00",
+    "last_updated": "2026-08-11T23:56:05.929949+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 90,
-      "crypto": 70,
-      "macro": 20,
       "forex": 8,
       "equities": 36,
-      "commodities": 13
+      "commodities": 13,
+      "crypto": 71,
+      "macro": 20,
+      "general": 90
     }
   },
   "articles": [
+    {
+      "headline": "Reuters Tankan hits highest manufacturing reading since March on chip boom",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The improvement in both readings, and particularly the jump in the chemicals and metal and machinery sub-indexes, points to semiconductor supply chain strength continuing to broaden out across Japan's industrial base rather",
+      "source": "Forexlive",
+      "publication_date": "2026-08-11T23:12:19+00:00",
+      "article_url": "https://investinglive.com/news/reuters-tankan-hits-highest-manufacturing-reading-since-march-on-chip-boom/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "New attacks on shipping as Iran war talks hit fresh impasse - Reuters",
       "description": "New attacks on shipping as Iran war talks hit fresh impasse Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-11T22:52:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzI4ZllHeXZmVDVJVE40M0w5NkYtdkFzM0RyYlZvY1pXbEJoc1d4RHNvVWxTem1kMEhGNUxmc0tZZmZ2ZkpZamtDNkd6bjRTVXhCVEF6dGhOSXltR0RQc3RPc0RFUzctZ00xRjAzX0hwNy1oYlU0a0dMYU9iUjdqYXZ4ZWM5YXhBMUhEREduYVo2QkVsT2ktQ19NaFNpUF85TmhFcnF1REktbFZfRklXb0EtbzZsLUZ1Vk53TFRR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Four crew, two rescuers killed in Red Sea attack; missile strike reported in Gulf - Reuters",
+      "description": "Four crew, two rescuers killed in Red Sea attack; missile strike reported in Gulf Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T22:38:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -42,19 +66,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "investingLive Americas FX news wrap 11 Aug: Stocks /yields Slip as markets await US CPI",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">U.S. markets are wrapping up Tuesday with stocks mostly lower, Treasury yields modestly lower across most of the curve, and the U.S. dollar little changed against the major currencies. The session was marked by fading optimism surrounding a potential U.S.-I",
-      "source": "Forexlive",
-      "publication_date": "2026-08-11T21:08:42+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-aug-stocks-yields-slip-as-markets-await-us-cpi/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -158,16 +169,6 @@
       ]
     },
     {
-      "headline": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat - Reuters",
-      "description": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T19:06:56+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
       "description": "",
       "source": "CoinDesk",
@@ -193,16 +194,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-11T17:53:51+00:00",
       "article_url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Four crew killed in Red Sea attack while missile strike reported in Gulf - Reuters",
-      "description": "Four crew killed in Red Sea attack while missile strike reported in Gulf Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T17:43:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1302,6 +1293,16 @@
       "article_url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Oil prices continue climb on US-Iran deal doubts; stocks retreat - Reuters",
+      "description": "Oil prices continue climb on US-Iran deal doubts; stocks retreat Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T01:41:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
