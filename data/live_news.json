@@ -1,18 +1,61 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-11T21:22:53.764675+00:00",
+    "last_updated": "2026-08-11T22:12:02.988678+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 21,
-      "equities": 37,
-      "general": 86,
-      "crypto": 72,
-      "commodities": 12,
-      "forex": 7
+      "forex": 8,
+      "equities": 36,
+      "commodities": 13,
+      "macro": 20,
+      "general": 88,
+      "crypto": 72
     }
   },
   "articles": [
+    {
+      "headline": "investingLive Americas FX news wrap 11 Aug: Stocks /yields Slip as markets await US CPI",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">U.S. markets are wrapping up Tuesday with stocks mostly lower, Treasury yields modestly lower across most of the curve, and the U.S. dollar little changed against the major currencies. The session was marked by fading optimism surrounding a potential U.S.-I",
+      "source": "Forexlive",
+      "publication_date": "2026-08-11T21:08:42+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-11-aug-stocks-yields-slip-as-markets-await-us-cpi/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "FGE NexantECA übernimmt Square Commodities und beschleunigt seine Green Molecules-Strategie",
+      "description": "LONDON--(BUSINESS WIRE)--FGE NexantECA gab heute den Abschluss der Übernahme von Square Commodities („SquareCo“) bekannt, der führenden Forschungs- und Datenanalyseplattform für den globalen Markt für erneuerbare Kraftstoffe. SquareCo wurde 2012 von Olivier Pellegrinelli gegründet und hat mit seinen",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-11T21:08:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260810638217/de/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "SEC to address crypto regulations in absence of CLARITY passage",
+      "description": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T20:59:07+00:00",
+      "article_url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Itaú joins Brazil tokenization pilot with OpenAssets",
+      "description": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T20:55:58+00:00",
+      "article_url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Dodge® Industrial Acquires PSC Couplings, Adding Disc Coupling Design and Manufacturing to Its Portfolio",
       "description": "The acquisition brings engineering expertise and proven product performance in a strategic segment of the metallic coupling market The acquisition brings engineering expertise and proven product performance in a strategic segment of the metallic coupling market",
@@ -24,21 +67,10 @@
       ]
     },
     {
-      "headline": "National CineMedia, Inc. Reports Results for Fiscal Second Quarter 2026",
-      "description": "CENTENNIAL, Colo.--(BUSINESS WIRE)--National CineMedia, Inc. (NASDAQ: NCMI) (the “Company” or “NCM”), the managing member of National CineMedia, LLC (NCM LLC), the operator of the largest cinema advertising platform in the U.S., today announced its consolidated results for the fiscal second quarter ",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-11T20:07:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260811587805/en/National-CineMedia-Inc.-Reports-Results-for-Fiscal-Second-Quarter-2026/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
       "headline": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
       "description": "Wall Street ends down as US-Iran peace optimism fades Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-11T20:01:37+00:00",
+      "publication_date": "2026-08-11T20:14:59+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
       "asset_tags": [
         "general"
@@ -62,16 +94,6 @@
       "article_url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Economic and event calendar in Asia Wednesday, August 12, 2026 is nearly empty",
-      "description": "<p>Not much of note here.</p><p>Japanese markets retrun from a holiday Tuesday (that stretched to a long weekend for many in the markets!).</p><p></p> This article was written by Eamonn Sheridan at investinglive.com.",
-      "source": "Forexlive",
-      "publication_date": "2026-08-11T19:52:09+00:00",
-      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-august-12-2026-is-nearly-empty/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -1272,16 +1294,6 @@
       ]
     },
     {
-      "headline": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade - Reuters",
-      "description": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T00:02:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
       "description": "Wall Street ends down as expectations of Hormuz deal fade Reuters",
       "source": "Reuters",
@@ -1708,6 +1720,16 @@
       ]
     },
     {
+      "headline": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact - Reuters",
+      "description": "Yemen's Houthis attack Saudi refinery after kingdom signs defence pact Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T12:42:39+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBVeVBiZENRc3B0WldHbXZqbXBjLU5ucDVuODRNY3pIWFRKaWlES0lzRDVoWEFjOFBLQVkxeGVHd0pHWWV6Y0V0OFphUk81YksyX3BHQ0I2MVY2RHdfNDY1dE9XdGozaVQ0RWsyaXNieWlRT2RYdHNRNEp4ZHptOHBBTVFST2pfZXVIbkJZUlIteElMRTlQWEt5eGZ6RU9JMjRtUmdCYWVXUUM0TUE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Strategy turns 1,690 BTC into $108.6M STRC buyback",
       "description": "Strategy sold 1,690 Bitcoin to repurchase STRC shares as its US dollar reserve rose to $4.65 billion and its Bitcoin holdings fell to 840,447 BTC.",
       "source": "Cointelegraph",
@@ -1988,6 +2010,16 @@
       ]
     },
     {
+      "headline": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
+      "description": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T04:42:35+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin tops $65,000 with US inflation data due this week",
       "description": "",
       "source": "CoinDesk",
@@ -2016,36 +2048,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Crypto’s first quantum attack will look like an unexplained breach: Quantus founder",
-      "description": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-10T03:34:53+00:00",
-      "article_url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "MEXC SpaceX Products See Surging Demand as Cumulative Futures Trading Volume Surpasses $7.1 Billion",
-      "description": "VICTORIA, Seychelles, June 30, 2026 /PRNewswire/ — MEXC, a pioneer in 0-fee digital asset trading, continues to see explosive demand for its SpaceX-series products. Cumulative subscriptions across the two phases of the SPACEX(PRE) Launchpad surpassed $173 million, drawing over 74,000 participants, w",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-08-10T03:13:03+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/mexc-spacex-products-see-surging-demand-as-cumulative-futures-trading-volume-surpasses-7-1-billion/",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "India’s NPCI targets 15-20 overseas markets to expand UPI globally",
-      "description": "NPCI plans to expand UPI across 15-20 overseas markets, targeting Indian diaspora payments while exploring Japan, Malaysia, Bahrain and AI-enabled transactions.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-10T03:09:55+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/india-s-upi-payments-developer-targets-diaspora-for-growth",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
