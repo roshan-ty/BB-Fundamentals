@@ -1,27 +1,97 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-11T14:44:17.527431+00:00",
+    "last_updated": "2026-08-11T15:44:19.030794+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "equities": 39,
+      "general": 87,
       "macro": 22,
+      "crypto": 68,
       "forex": 7,
-      "commodities": 13,
-      "general": 88,
-      "crypto": 67
+      "commodities": 13
     }
   },
   "articles": [
     {
-      "headline": "US July existing home sales 4.06m vs 4.05m expected",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/us-june-existing-home-sales-vs-4-20m-expected/\" rel=\"follow\">Prior </a>was 4.09m (revised to 4.13m)</li><li>Sales -1.7% vs -2.4% prior (revised to -1.4%)</li><li>Home prices +2.0% y/y</li><li>Median price $434,100</li><li>Inventory at 4.6 months vs 4.6",
+      "headline": "We're exiting our position in an industrial stock to make room for a new AI play",
+      "description": "The company's disappointing quarter last month put the stock on the chopping block.",
+      "source": "CNBC",
+      "publication_date": "2026-08-11T15:05:44+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/11/were-exiting-our-position-in-industrial-stock-to-make-room-for-a-new-ai-play.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "ICE begins U.S. investment-grade bond sale to fund MarketAxess deal - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-11T14:49:29+00:00",
+      "article_url": "https://seekingalpha.com/news/4630771-ice-begins-us-investment-grade-bond-sale-to-fund-marketaxess-deal---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Nasdaq and S&P indices little changed on the day. What are the technicals telling traders?",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The broader S&P and Nasdaq indices are mixed in intraday trading, with the S&P currently up around 0.07% while the Nasdaq is down -0.08%.</p><p>For the S&P index, the technical picture remains bullish as the index trades near its all-time high of 7793.68, r",
       "source": "Forexlive",
-      "publication_date": "2026-08-11T14:00:11+00:00",
-      "article_url": "https://investinglive.com/news/us-july-existing-home-sales-4-06m-vs-4-05m-expected/",
+      "publication_date": "2026-08-11T14:47:21+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/nasdaq-and-s-p-indices-little-changed-on-the-day-what-are-the-technicals-telling-traders/",
       "asset_tags": [
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-11T14:40:15+00:00",
+      "article_url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-11T14:39:12+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "S&P 500 muted as industrials counter tech drag; US-Iran peace prospects rise - Reuters",
+      "description": "S&P 500 muted as industrials counter tech drag; US-Iran peace prospects rise Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T14:29:56+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "UMH Properties gains after active Erez pushes for sale",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-11T14:02:48+00:00",
+      "article_url": "https://seekingalpha.com/news/4630725-umh-properties-gains-after-active-erez-pushes-for-sale?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Morgan Stanley unit acquires property in Kansas City for $158.5M",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-11T14:00:53+00:00",
+      "article_url": "https://seekingalpha.com/news/4630728-morgan-stanley-unit-acquires-property-in-kansas-city-for-1585m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -65,11 +135,11 @@
       ]
     },
     {
-      "headline": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal - Reuters",
-      "description": "S&P 500, Nasdaq open higher as investors weigh report of fresh U.S.-Iran peace deal Reuters",
+      "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
+      "description": "Gulf stocks fall on fading prospects of US-Iran deal Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-11T13:36:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+      "publication_date": "2026-08-11T13:36:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
       "asset_tags": [
         "equities"
       ]
@@ -80,6 +150,16 @@
       "source": "BusinessWire",
       "publication_date": "2026-08-11T13:35:00+00:00",
       "article_url": "http://www.businesswire.com/news/home/20260810795434/en/Stonepeak-Acquires-Rail-Served-Logistics-Asset-in-Fort-Worth-Texas/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Three killed in attacks on ships in Red Sea, Gulf, sources say - Reuters",
+      "description": "Three killed in attacks on ships in Red Sea, Gulf, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T13:32:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -454,6 +534,16 @@
       ]
     },
     {
+      "headline": "IHG's room revenue growth slows as Iran war offsets US, China growth - Reuters",
+      "description": "IHG's room revenue growth slows as Iran war offsets US, China growth Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T10:55:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkx5TVhHeUpxV2lJY0VPcnNCZDd0UmhYSXp2U0d0a2RwZ3BzV1JHR0xodDdBM0NNMTMwLTVqQy1NNFh0RUc0STBpdnlZdVNHQ0RKb2xHdWtuWG5rNExwN3NnMUxRb182Z3B6U25IaGJXWTBacTZPOVM1NjFMd2ZWUFNDLTNPVU9XY0c2VFZ0T0RiQ2NFVWFVWVEwX2RPVV9JOTRrckdyaWs4dw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
       "description": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
       "source": "Cointelegraph",
@@ -707,16 +797,6 @@
       ]
     },
     {
-      "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
-      "description": "Gulf stocks fall on fading prospects of US-Iran deal Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T08:45:55+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
       "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
       "source": "GlobalNewswire",
@@ -795,16 +875,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "IHG's room revenue growth slows as Iran war offsets US, China growth - Reuters",
-      "description": "IHG's room revenue growth slows as Iran war offsets US, China growth Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T06:06:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkx5TVhHeUpxV2lJY0VPcnNCZDd0UmhYSXp2U0d0a2RwZ3BzV1JHR0xodDdBM0NNMTMwLTVqQy1NNFh0RUc0STBpdnlZdVNHQ0RKb2xHdWtuWG5rNExwN3NnMUxRb182Z3B6U25IaGJXWTBacTZPOVM1NjFMd2ZWUFNDLTNPVU9XY0c2VFZ0T0RiQ2NFVWFVWVEwX2RPVV9JOTRrckdyaWs4dw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1428,16 +1498,6 @@
       ]
     },
     {
-      "headline": "Schouw & Co. share buy-back programme, week 32 2026",
-      "description": "On 2 January 2026, Schouw & Co. initiated a share buy-back programme as outlined in Company Announcement no. 59 of 18 December 2025. Under the programme, Schouw & Co. will acquire shares for up to DKK 240 million during the period 2 January to 31 December 2026.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T12:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341832/0/en/schouw-co-share-buy-back-programme-week-32-2026.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
       "description": "",
       "source": "CoinDesk",
@@ -1985,66 +2045,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-09T12:55:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXFfQ0YybkFMMlYyUVVIbDBSazRGN19SeDlzRTZFWklTek93NlY2S3MyNThpalc0aGFJQkg1c1NTWW1VUWstUGRhVzZ3LTIzaWdWbTZ3aV9MU21Td3l5NzhmaHZlZ1E1cGdRbDJ0WXlFOXhvSHZveFNQVjgxVkRxV3NXNkUwSEhFVXBpaUdXUjZLdzE3aS10dEZpRGhBRTZFczdIUkQ4bkw1TmtNMFJycFhTSkc4VmEzcEs0VHVFSQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Pope Leo renews call for Ukraine war to end - Reuters",
-      "description": "Pope Leo renews call for Ukraine war to end Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T12:43:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmI1RUZtWkNMSDM0NUxiWUEycWxxa0RmOWZNd0IzdW93UzRmRll6TTVDVzdBdERjMzlOeUlqNWRPT0xSbDhUTjZWSUVsRG1MTGpQVnpQMERDNEI3YjRmWDNGaWtlbWdZdjBSamdqaXRHT0N0NHMxUlZNNEVHemZfSEgyRm0?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran's Pezeshkian recently met Supreme Leader Khamenei, state media says - Reuters",
-      "description": "Iran's Pezeshkian recently met Supreme Leader Khamenei, state media says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T12:22:49+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTd6TExsQVUzWU1OTlNGdzREQVBSY2R5STlrTVBra3ZPOWozaERiVC1zd3FDMmJJOTEwS2pIemlUcUNZZ2l5Y1JGMjljUHlqTWJ4RC1fRjFRNEtuc1JCd1BFOEM5VzRwRnAyc3N0ejEtOGlhT2Y5VHNPWXd1a2puYXNxTS1fQjJpSzFrTlpYUDd5UFlCRFloQWhQZDdNM1FqZEFOYXNpYmEtTmdpUFFockU0TnhKSVpfNmd5SmRJZmp3UQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz - Reuters",
-      "description": "Iran says Oman deal is in 'final stages' but US must act to open Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T11:43:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlSazBucFNIOGZ3aG91cDZhcTFfMWI4NWMycVczNWtmVHRKTU54WlJud1JqVUxCOW84U1p0OU5aSjdBNnJHS2xmLVVIaVdGZUpNemJKaTA5aV9TU1NHaHlZMEo1X1VjX2wxTExReTl0Tk5SYkRsMWsxWUo3UWw3UE1iV0N2UmJydWZFeHZpX01Ba1NISVdtei01OXRnMUtpem80dW5wa1FKNnhNQzZOMGlJMG8?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Passage of ships to Black Sea continues smoothly, Turkish officials say - Reuters",
-      "description": "Passage of ships to Black Sea continues smoothly, Turkish officials say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T11:33:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0gyU21ScmZKOEVnYlkwcjVrb2hwZ0I4M01vYkRrS0ZsclJPejZINnRibXNCOWdTYVp5WG81Y3BndlhncFdHTkpJV1NuNkhvdzdQNkktWjhQVk8zQmpKQUhodGMzYmdyOV84bWFwZHdWN0RxRFppVnZobk5pWEd0ejBhWklHcnljNUp1emF4ckdFcWJRY2xFeUNYNnl2cDI1Z0ROMlBYbTlFbE1kdWJBM09Na0M3LWdEbmc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
-      "description": "The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-09T11:00:53+00:00",
-      "article_url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
-      "description": "Talks with US won't happen while interim deal is breached, Iranian minister says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-09T10:52:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
       "asset_tags": [
         "general"
       ]
