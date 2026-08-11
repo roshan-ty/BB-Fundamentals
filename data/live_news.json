@@ -1,27 +1,188 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-11T09:40:49.555150+00:00",
+    "last_updated": "2026-08-11T10:33:29.922722+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 9,
+      "general": 87,
       "crypto": 68,
-      "equities": 34,
-      "commodities": 10,
-      "macro": 21,
-      "general": 90
+      "equities": 38,
+      "commodities": 11,
+      "macro": 19,
+      "forex": 8
     }
   },
   "articles": [
     {
-      "headline": "UK stats office to only decide in July next year on plausibility of transition to improved labour market data",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">This builds on the previous story here: <a href=\"https://investinglive.com/news/icymi-ons-to-only-lay-groundwork-for-labour-market-statistical-improvements-in-august/\" rel=\"follow\">ONS to only lay groundwork for labour market statistical imp",
-      "source": "Forexlive",
-      "publication_date": "2026-08-11T08:44:35+00:00",
-      "article_url": "https://investinglive.com/news/uk-stats-office-to-only-decide-in-july-next-year-on-plausibility-of-transition-to-improved-labour-market-data/",
+      "headline": "Oil climbs 2%, extending gains on dimming U.S.-Iran peace hopes - Reuters",
+      "description": "Oil climbs 2%, extending gains on dimming U.S.-Iran peace hopes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T10:16:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
       "asset_tags": [
-        "forex",
+        "general"
+      ]
+    },
+    {
+      "headline": "Coldcard hack losses: How investigators trace stolen Bitcoin",
+      "description": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and on-chain analysis that produce varying estimates.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T10:14:39+00:00",
+      "article_url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "US July NFIB small business optimism index 99.8 vs 97.5 expected",
+      "description": "<ul><li>Prior was 97.4</li></ul> This article was written by Giuseppe Dellamotta at investinglive.com.",
+      "source": "Forexlive",
+      "publication_date": "2026-08-11T10:00:06+00:00",
+      "article_url": "https://investinglive.com/news/us-july-nfib-small-business-optimism-index-xx-vs-97-5-expected/",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
+      "description": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
+      "source": "CNBC",
+      "publication_date": "2026-08-11T10:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DNO ASA - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342486/0/en/dimensional-fund-advisors-ltd-form-8-3-dno-asa-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Genel Energy plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:50:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342482/0/en/dimensional-fund-advisors-ltd-form-8-3-genel-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:48:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342481/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SPIRE HEALTHCARE GROUP PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:41:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342476/0/en/dimensional-fund-advisors-ltd-form-8-3-spire-healthcare-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:40:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342474/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:36:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342473/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:34:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342472/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:33:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342471/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:32:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342470/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 10 08 2026] - (CGWL)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:26:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342466/0/en/form-8-3-advanced-medical-solutions-group-plc-10-08-2026-cgwl.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
+      "description": "Keel completed the shutdown of its US Bitcoin mining operations as it pivots toward AI and high-performance computing infrastructure",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-11T09:24:15+00:00",
+      "article_url": "https://cointelegraph.com/news/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trump boarded secret Turkey flight via catering truck due to Iran threat – media - Reuters",
+      "description": "Trump boarded secret Turkey flight via catering truck due to Iran threat – media Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T09:23:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREluUlJXa0tGLWNUdk9DbkpRazRWWFZyQjlnblJiaC1xc3N1c2hUOXIwVGgwZXU4dlhfcERmX3MxMUltNFJ2TWVxb19ZbVRjRk00eGVWUlR0cW5jSTl5Y3M2dWhJc1I4NVVNdlV2a2U1MmR5Q2FaYnlhMk10a1lmNFNXQTBQZm5xaklVQUM2NlppTU9zeHV5ck9pTE1UVWU1eTNxZzB3d2pQNzkwQlhRTWZCbDhaRkZXR2pHR1FJYkZYanp2N2VIbmxkc0Y?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - [APTITUDE SOFTWARE GROUP PLC - 10 08 2026] - (CGAML)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-11T09:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342462/0/en/form-8-3-aptitude-software-group-plc-10-08-2026-cgaml.html",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -83,16 +244,6 @@
       "article_url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Oil rises as Iran and US trade demands for reopening Strait of Hormuz - Reuters",
-      "description": "Oil rises as Iran and US trade demands for reopening Strait of Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T07:27:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -238,35 +389,13 @@
       ]
     },
     {
-      "headline": "Gold rises for third straight session, inflation prints in focus - Reuters",
-      "description": "Gold rises for third straight session, inflation prints in focus Reuters",
+      "headline": "Gold eases from over two-month high as rising oil prices cloud rate outlook - Reuters",
+      "description": "Gold eases from over two-month high as rising oil prices cloud rate outlook Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-11T00:48:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3pfajk5NldmMDliSlhNU3ZYd1J6UGt3cWM4ZHBzTkxnYTVGbnVWU0ZOVFFqLUk2eFYyQnhxdUxiUFp5Y0lXTnpEOGIwMHBveTR5bzBvZmxjWTA4TmR6OUt0U1ZSd2V0dDhkMlg4TkpFdlFCSEtJN3BXYXJQMFZLZDgyZjR6UTRXeU5fRFZ1MHM1WXpCMEtTOF9CNmptQTJmNzBQN1JyMA?oc=5",
       "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Trump took secret flight out of Turkey due to Iran threat, the Washington Post reports - Reuters",
-      "description": "Trump took secret flight out of Turkey due to Iran threat, the Washington Post reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T00:32:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPREluUlJXa0tGLWNUdk9DbkpRazRWWFZyQjlnblJiaC1xc3N1c2hUOXIwVGgwZXU4dlhfcERmX3MxMUltNFJ2TWVxb19ZbVRjRk00eGVWUlR0cW5jSTl5Y3M2dWhJc1I4NVVNdlV2a2U1MmR5Q2FaYnlhMk10a1lmNFNXQTBQZm5xaklVQUM2NlppTU9zeHV5ck9pTE1UVWU1eTNxZzB3d2pQNzkwQlhRTWZCbDhaRkZXR2pHR1FJYkZYanp2N2VIbmxkc0Y?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus - Reuters",
-      "description": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T23:23:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
+        "commodities"
       ]
     },
     {
@@ -1041,16 +1170,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T10:23:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341646/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Ryman Hospitality Properties, Inc. to Acquire Grande Lakes Orlando Resort for $1.38 Billion",
       "description": "NASHVILLE, Tenn., Aug. 10, 2026 (GLOBE NEWSWIRE) -- Ryman Hospitality Properties, Inc. (NYSE: RHP) (the “Company”), a lodging real estate investment trust (“REIT”) specializing in group-oriented, upscale convention center resorts and entertainment experiences, today announced a definitive agreement ",
       "source": "GlobalNewswire",
@@ -1059,16 +1178,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SPIRE HEALTHCARE GROUP PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T10:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341643/0/en/dimensional-fund-advisors-ltd-form-8-3-spire-healthcare-group-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1094,24 +1203,13 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T10:13:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341641/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "headline": "China slams India for naming sites in disputed border region",
+      "description": "India attempting to replace the names long used by China is illegal and invalid, and cannot change the fact that Zangnan belongs to China, the Chinese Foreign Ministry said",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-10T09:44:50+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/china-slams-india-for-naming-sites-in-disputed-border-region",
       "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T10:11:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341640/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
+        "general"
       ]
     },
     {
@@ -1228,16 +1326,6 @@
       ]
     },
     {
-      "headline": "Novonesis to acquire remaining share of MicroBioGen to strengthen yeast capabilities",
-      "description": "Novonesis to acquire remaining share of MicroBioGen to strengthen yeast capabilities",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T07:24:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341556/0/en/novonesis-to-acquire-remaining-share-of-microbiogen-to-strengthen-yeast-capabilities.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
       "description": "",
       "source": "CoinDesk",
@@ -1299,26 +1387,6 @@
       ]
     },
     {
-      "headline": "Bluefin Bidco Limited - Form 8.1 (Opening Position Disclosure) - Irish Continental Group plc",
-      "description": "Ap9",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T06:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341540/0/en/bluefin-bidco-limited-form-8-1-opening-position-disclosure-irish-continental-group-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.1 (Opening Position Disclosure) - Irish Continental Group plc",
-      "description": "Ap9",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T06:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341538/0/en/form-8-1-opening-position-disclosure-irish-continental-group-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
       "description": "Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.",
       "source": "Cointelegraph",
@@ -1326,26 +1394,6 @@
       "article_url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Elis poursuit le développement de son réseau en Amérique latine avec une nouvelle acquisition au Mexique",
-      "description": "Elis poursuit le développement de son réseau en Amérique latine avec une nouvelle acquisition au Mexique",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T05:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341523/0/fr/elis-poursuit-le-d%C3%A9veloppement-de-son-r%C3%A9seau-en-am%C3%A9rique-latine-avec-une-nouvelle-acquisition-au-mexique.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Elis continues to expand its network in Latin America with a new acquisition in Mexico",
-      "description": "Elis continues to expand its network in Latin America with a new acquisition in Mexico",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T05:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3341523/0/en/elis-continues-to-expand-its-network-in-latin-america-with-a-new-acquisition-in-mexico.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1451,6 +1499,17 @@
       ]
     },
     {
+      "headline": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus - Reuters",
+      "description": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T00:25:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0JfVHdob1VJM3o3c2RjRHBySGdOb0h0OFVfVTNUdGo5ems0NjhoaGhMaVhpWG9iR3J4dlJkZVBlYVgwS0w2SUd6ZGZiLUtMUndydTZycjNJQ1l0MENqTmdpOTFycEZBRkJ3ZUEyWlM3RERCOGhoYk5ISEdLZnNIUm9HYw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Alleged Irish crime boss Kinahan charged with directing criminal organisation - Reuters",
       "description": "Alleged Irish crime boss Kinahan charged with directing criminal organisation Reuters",
       "source": "Reuters",
@@ -1541,16 +1600,6 @@
       ]
     },
     {
-      "headline": "Israel seen likely to reject $4.2B Hapag-Lloyd deal for ZIM",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-09T15:51:24+00:00",
-      "article_url": "https://seekingalpha.com/news/4629669-israel-seen-likely-to-reject-4_2b-hapag-lloyd-deal-for-zim?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift - Reuters",
       "description": "PODCAST: Israel rejects Gaza plan, Yemen Saudi strike and Taylor Swift Reuters",
       "source": "Reuters",
@@ -1566,16 +1615,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-09T15:00:00+00:00",
       "article_url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Key deals this week: Bending Spoons, Advanced Micro Devices, Visa, Prologis, and more",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-09T14:46:31+00:00",
-      "article_url": "https://seekingalpha.com/news/4629666-key-deals-this-week-bending-spoons-advanced-micro-devices-visa-prologis-and-more?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -1822,16 +1861,6 @@
       ]
     },
     {
-      "headline": "SA Asks: What's the outlook for Big Pharma M&A?",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-08T19:28:35+00:00",
-      "article_url": "https://seekingalpha.com/news/4629652-sa-asks-whats-the-outlook-for-big-pharma-ma?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Hardware wallet sales in Russia more than double as new crypto rules near",
       "description": "",
       "source": "CoinDesk",
@@ -2013,36 +2042,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-08T02:30:00+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact - Reuters",
-      "description": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T23:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeTlKQUF3VjE1MnpMNE5PNFRFZmloMHhQMjdHUmhwU0s4QWdWQVl6TFA4NjJCSi1qbnJyRFVjajVIamtFOVd3eHpSdlozSDd4YzlrdW93UHdfaGVDOEVicFByV1hkemlNTFFxbWxiNW5OWUJ4Y3FRbDBkd05nX05pTVNOUUpHc3hjVFlqR3daRnpBNkVDZF91dHV3WTJYQ0ZqLUh3VVVaMV9DU1FtWXlocDlxb3d0cGw1eFVKVA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
-      "description": "US Senate passes Russia sanctions championed by Graham; US House next Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-07T22:20:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
