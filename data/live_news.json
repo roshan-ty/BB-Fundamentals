@@ -1,24 +1,106 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T18:06:42.894437+00:00",
+    "last_updated": "2026-08-12T19:17:23.750257+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 101,
-      "commodities": 10,
-      "crypto": 58,
+      "general": 103,
+      "equities": 28,
+      "commodities": 12,
+      "crypto": 55,
       "macro": 25,
-      "forex": 12,
-      "equities": 28
+      "forex": 12
     }
   },
   "articles": [
+    {
+      "headline": "Andrew Peller Limited Receives Final Order Approving Arrangement With Fairfax Financial Holdings Limited",
+      "description": "GRIMSBY, Ontario, Aug. 12, 2026 (GLOBE NEWSWIRE) -- Andrew Peller Limited (\"Andrew Peller\" or the \"Company\") (TSX: ADW.A / ADW.B) today announced the receipt of the final order of the Ontario Superior Court of Justice (Commercial List) (the \"Final Order\") with respect to the previously-announced pla",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T18:57:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3344006/0/en/andrew-peller-limited-receives-final-order-approving-arrangement-with-fairfax-financial-holdings-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "CEO of Intel just gave Jim Cramer one more reason to call it his favorite stock",
+      "description": "Intel on Wednesday revealed CEO Lip-Bu Tan as a big buyer in the massive stock sale that the company announced this week.",
+      "source": "CNBC",
+      "publication_date": "2026-08-12T18:38:29+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/12/ceo-of-intel-just-gave-jim-cramer-one-more-reason-to-call-it-his-favorite-stock.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "The US government deficit in July was the highest in any month since 2021",
+      "description": "<p>This US fiscal picture isn't improving but it might not be quite as bad as it looks.</p><p>The July deficit of $432 billion compared to last year's level of $291 billion and exceeded the consensus estimate of $346 billion. The main problem is government spending as it hit a record for the month o",
+      "source": "Forexlive",
+      "publication_date": "2026-08-12T18:29:09+00:00",
+      "article_url": "https://investinglive.com/news/the-us-government-deficit-in-july-was-the-highest-in-any-month-since-2021/",
+      "asset_tags": [
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T18:13:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The S&P paces to snap a 2-day skid, and Goldman beefs up its asset management unit",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-08-12T18:13:44+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/12/the-sp-paces-to-snap-a-2-day-skid-and-goldman-beefs-up-its-asset-management-unit.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Bitwise cuts 14% of staff while still expecting growth",
+      "description": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T18:01:15+00:00",
+      "article_url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
       "description": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
       "source": "CNBC",
       "publication_date": "2026-08-12T17:57:44+00:00",
       "article_url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
+      "description": "Iranian photojournalist faces 15 years in prison over images, reporting Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T17:56:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
+      "description": "Iran says no progress on reviving interim peace deal with US Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T17:39:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -42,16 +124,6 @@
       "article_url": "https://seekingalpha.com/news/4631715-bank-of-america-to-acquire-499-stake-in-jio-credit-for-19b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US treasury sells 10 year notes at a high yield of 4.683%",
-      "description": "<ul><li>High yield 4.683%</li><li>WI 4.682%</li><li>Tail 0.1 basis points vs average of +0.3 basis points</li><li>Bid to cover 2.53X vs 6 month average of 2.47X</li><li>Directs 14.7% vs 17.7% average</li><li>Indirects 76.7% vs 71.3% average</li><li>Dealers 8.6% vs 11.0% average</li></ul><p>Auction G",
-      "source": "Forexlive",
-      "publication_date": "2026-08-12T17:04:00+00:00",
-      "article_url": "https://investinglive.com/news/us-treasury-sells-10-year-notes-at-a-high-yield-of-4-683/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -106,16 +178,6 @@
       ]
     },
     {
-      "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
-      "description": "Iran says no progress on reviving interim peace deal with US Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T16:17:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Transocean hasn't certified compliance with DOJ over Valaris deal - CTFN",
       "description": "",
       "source": "SeekingAlpha",
@@ -133,16 +195,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
-      "description": "Iranian photojournalist faces 15 years in prison over images, reporting Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T16:11:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -262,6 +314,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-12T14:20:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343827/0/en/davidson-kempner-capital-management-lp-form-8-3-easyjet-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "EU, 26 countries condemn Iran's executions of protesters - Reuters",
+      "description": "EU, 26 countries condemn Iran's executions of protesters Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T14:13:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ltMHdDSEFsNmlFUlJGbXVPWmhpUWp2U01YaEV1cGloSk9hT2ttWENpRmg1VjVrOE0xWXhac2dSQk5xZDFaUk5XY0NPWmtjdWZ5c2wyRDVHQUxRc0JHOTFQTnk3MlFNbWFzaE1LMldIdWNWUHVkU0dzbXNtYUo4dGs2MDRoVlBsaUtLTkdxZVRaTTdvbGpwUXR2NDB3bVZGRUNwU2FlVng?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1984,67 +2046,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T10:31:26+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "UKMTO reports incident involving container ship and military forces in Gulf of Oman - Reuters",
-      "description": "UKMTO reports incident involving container ship and military forces in Gulf of Oman Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T10:30:34+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRhcUpmUml0dmpfNkN5U2IxYjZTa3ZVcTNlNzdTV3ZZb0ZWWGFpSjFFb0ppdmNYNkVpUThTUTlmRHpIVFhOMjdEV2FkcUZkTHpKcDE5SWVYLVhwVm9Pb0k4Y1pMSjJycW54TG5rOUl5QUt1cldselUwSnNsZnRCY0JMZ2ZhUlZabS1ucUc3bjRIR0UwVGRfcldJTXVDSHgtMHRWdnZESThGRzBjMWdmbkhmSjQwckwzb285VmRXRUpGcktLLXc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T10:28:19+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Coldcard hack losses: How investigators trace stolen Bitcoin",
-      "description": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and on-chain analysis that produce varying estimates.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T10:14:39+00:00",
-      "article_url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T10:10:36+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "UK lawmakers question lenders over lack of banking for the country’s crypto firms",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T10:06:39+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
