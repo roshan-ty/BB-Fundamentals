@@ -1,18 +1,141 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T11:34:26.477345+00:00",
+    "last_updated": "2026-08-12T12:30:27.567168+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 63,
-      "general": 95,
-      "macro": 21,
-      "forex": 11,
+      "crypto": 64,
+      "macro": 23,
+      "general": 93,
       "equities": 30,
-      "commodities": 10
+      "commodities": 10,
+      "forex": 12
     }
   },
   "articles": [
+    {
+      "headline": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T11:19:32+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T11:15:00+00:00",
+      "article_url": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:12:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343536/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:10:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343533/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:09:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343530/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:08:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343529/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:06:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343528/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:05:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343527/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "StoneX Announces Acquisition of Banco Travelex, Expanding Brazil Payments and FX Capabilities",
+      "description": "StoneX enters into definitive agreement to acquire Banco Travelex, expanding its payments, FX and banking capabilities in Brazil.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343523/11961/en/stonex-announces-acquisition-of-banco-travelex-expanding-brazil-payments-and-fx-capabilities.html",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "StoneX anuncia aquisição do Banco Travelex e amplia sua oferta a clientes no Brasil",
+      "description": "A aquisição acelera a expansão da StoneX em pagamentos globais. Espera-se que a operação combinada processe aproximadamente US$ 6 bilhões em volume anual, atendendo cerca de 20 mil clientes. A aquisição acelera a expansão da StoneX em pagamentos globais. Espera-se que a operação combinada processe a",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343522/11961/pt/stonex-anuncia-aquisi%C3%A7%C3%A3o-do-banco-travelex-e-amplia-sua-oferta-a-clientes-no-brasil.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Auddia Files Definitive Proxy Statement and Sets Shareholder Meeting Date for Merger Vote",
+      "description": "Auddia Files Definitive Proxy Statement and Sets Shareholder Meeting Date for Merger Vote",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343513/0/en/auddia-files-definitive-proxy-statement-and-sets-shareholder-meeting-date-for-merger-vote.html",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Connexus and ASM Merge to Transform Real Estate Procurement and Drive Profitability",
+      "description": "Connexus and ASM merge to help real estate owners reduce costs, grow ancillary revenue, strengthen compliance, and maximize portfolio NOI.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343491/0/en/connexus-and-asm-merge-to-transform-real-estate-procurement-and-drive-profitability.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Iran reportedly maintains that there are no discussions over ceasefire extension as the pact doesn't exist anymore",
       "description": "<ul><li>There are no discussions with the US over extending ceasefire agreement</li><li>From Iran's perpsecitve, there is no ceasefire start date and therefore there is nothing to extend</li><li>The US violated the agreement 48 hours after it was reached and withdrew from it a few days later</li><li",
@@ -21,6 +144,17 @@
       "article_url": "https://investinglive.com/news/iran-reportedly-maintains-that-there-are-no-discussions-over-ceasefire-extension-as-the-pact-doesn-t-exist-anymore/",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T10:30:10+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/12/bitcoin-holds-near-usd64-000-as-u-s-inflation-data-looms-harmony-exploit-rattles-altcoins",
+      "asset_tags": [
+        "crypto",
+        "macro"
       ]
     },
     {
@@ -51,6 +185,16 @@
       "article_url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T10:17:05+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
@@ -192,6 +336,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-12T08:50:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343431/0/en/form-8-5-ept-ri-aew-uk-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "TKMS sees increased demand from Middle East following Iran war - Reuters",
+      "description": "TKMS sees increased demand from Middle East following Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T08:23:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1RWelRIclZrZEZHSldHVXVuZFJkb1FWcmNkZFRJZGV1UTFXa25ncnBqbjB6dk9vRWRRNDI4QzlHU3NvcE5ybjBUdWxEcDFkNGUzZ3JJYU55WUZnNl9NT1FNcWNkSlFNSW9FWktjZ3pYVkd4N3habThScWViVHVtenAxbkFEejdBdmNydjJ2UWxfM25NNlRDMk5jUk11amcwaE5YTldaWjgtbTlaX0cxeDlNdUFweGJoQm1HNw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -394,8 +548,8 @@
       ]
     },
     {
-      "headline": "Oil rises after attacks on ships in Hormuz, Bab el-Mandeb - Reuters",
-      "description": "Oil rises after attacks on ships in Hormuz, Bab el-Mandeb Reuters",
+      "headline": "Oil prices rise after ship attacks, US-Iran talks deadlock - Reuters",
+      "description": "Oil prices rise after ship attacks, US-Iran talks deadlock Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-12T00:58:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
@@ -404,8 +558,8 @@
       ]
     },
     {
-      "headline": "Dollar ticks up on Iran tensions, with US data in focus - Reuters",
-      "description": "Dollar ticks up on Iran tensions, with US data in focus Reuters",
+      "headline": "Dollar ticks up on Iran tension, with US data in focus - Reuters",
+      "description": "Dollar ticks up on Iran tension, with US data in focus Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-12T00:57:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
@@ -1418,31 +1572,11 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T09:48:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342481/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SPIRE HEALTHCARE GROUP PLC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-11T09:41:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342476/0/en/dimensional-fund-advisors-ltd-form-8-3-spire-healthcare-group-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T09:40:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342474/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
       "asset_tags": [
         "equities"
       ]
@@ -1455,47 +1589,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T09:36:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342473/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T09:34:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342472/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T09:33:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342471/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T09:32:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342470/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
       ]
     },
     {
@@ -1948,97 +2041,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-10T20:31:25+00:00",
       "article_url": "https://seekingalpha.com/news/4630243-penske-automotive-special-committee-hires-financial-legal-advisers-on-takeover-bid?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Arena Group acquires InfoSentience",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-10T20:28:06+00:00",
-      "article_url": "https://seekingalpha.com/news/4630252-arena-group-acquires-infosentience?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-10T20:20:06+00:00",
-      "article_url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Proficient Auto Logistics Agrees to Acquire Hansen & Adkins, Strengthening Market Leadership and Creating North America’s Largest Auto Haul Provider; Announces Launch of $75 Million Convertible Bond Offering",
-      "description": "JACKSONVILLE, Fla., Aug. 10, 2026 (GLOBE NEWSWIRE) -- Proficient Auto Logistics, Inc. (NASDAQ: PAL) (the “Company” or “Proficient”), a leading provider of auto transportation and logistics services, today announced a definitive agreement to acquire Hansen & Adkins (“H&A”), in a transaction that will",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-10T20:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/10/3342251/0/en/proficient-auto-logistics-agrees-to-acquire-hansen-adkins-strengthening-market-leadership-and-creating-north-america-s-largest-auto-haul-provider-announces-launch-of-75-million-con.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-10T20:03:24+00:00",
-      "article_url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Firefighters battle Zawiya refinery blaze after drone attacks - Reuters",
-      "description": "Firefighters battle Zawiya refinery blaze after drone attacks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T19:48:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXltbWpibFBieFlGQi1PQXlTWktFYXdFSENITmhTenpTVFhpSkhhMG1CMUJKTXo4VUdDX29YdVpmRHViaHowb3k0WjE1ajdjM0JldlRVN0ZVZVlMYU5HaXFlVWlqcmQ5Uk9JbWxsUkhVVUlFSzlMUFNnSnJyNnBhQkR1WVV6UjJFenJPaVNSVVh0YUpwUkduWTFXSkhEMW9IeVhJMFpB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Turkish parliament passes landmark law to advance PKK peace process - Reuters",
-      "description": "Turkish parliament passes landmark law to advance PKK peace process Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T19:47:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ29RNHpoTnE2N0RlbFFnS1dsTEFVWVRPX1dNOEVNOHNLUmNWcWs0a1dMOUx1U1hveGxlWTBwQjRKVmN2bFZuNkNfUzNrYmgtN0pKbkVqRHgxREhTaWJvQ3dPNWxBVFRqU1hqNmotY21oSW1YYTBraC1SMWJfdU1qRFNCbUhOLWtpQkpJU3dwNHpqcGg4NzJGTDNyNG9Rallkbkk0RmVZZ3lsaUlhM1JvSWZmakJmN1RibkE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
-      "description": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-10T19:47:01+00:00",
-      "article_url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
-      "description": "An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-10T19:35:19+00:00",
-      "article_url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Meta's latest model advances Zuckerberg's vision for personal AI assistants",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-10T19:09:56+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
       "asset_tags": [
         "general"
       ]
