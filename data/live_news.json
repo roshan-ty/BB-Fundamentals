@@ -1,24 +1,54 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T10:41:26.682913+00:00",
+    "last_updated": "2026-08-12T11:34:26.477345+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 96,
       "crypto": 63,
-      "forex": 12,
-      "commodities": 12,
+      "general": 95,
       "macro": 21,
-      "equities": 30
+      "forex": 11,
+      "equities": 30,
+      "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Iran reportedly maintains that there are no discussions over ceasefire extension as the pact doesn't exist anymore",
+      "description": "<ul><li>There are no discussions with the US over extending ceasefire agreement</li><li>From Iran's perpsecitve, there is no ceasefire start date and therefore there is nothing to extend</li><li>The US violated the agreement 48 hours after it was reached and withdrew from it a few days later</li><li",
+      "source": "Forexlive",
+      "publication_date": "2026-08-12T10:57:08+00:00",
+      "article_url": "https://investinglive.com/news/iran-reportedly-maintains-that-there-are-no-discussions-over-ceasefire-extension-as-the-pact-doesn-t-exist-anymore/",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "China’s answer to Boeing and Airbus makes first international flight — could COMAC challenge the aviation duopoly?",
       "description": "China’s C919 has made its first scheduled international commercial flight, a milestone in COMAC’s bid to challenge Boeing and Airbus globally.",
       "source": "CNBC",
       "publication_date": "2026-08-12T10:25:53+00:00",
       "article_url": "https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall St futures tick up heading into July inflation data - Reuters",
+      "description": "Wall St futures tick up heading into July inflation data Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T10:24:13+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Binance, RedotPay clash over fate of Singapore lawsuit",
+      "description": "Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T10:18:18+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
       ]
@@ -34,16 +64,13 @@
       ]
     },
     {
-      "headline": "What to expect from the US CPI report later today?",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">The US inflation data later will cover the month of July and the estimates are as per the following:</p><ul><li>Headline CPI +0.1% m/m est. (Prior -0.4%)</li><li>Headline CPI +3.4% y/y est. (Prior +3.5%)</li><li>Core CPI +0.2% m/m est. (Prio",
-      "source": "Forexlive",
-      "publication_date": "2026-08-12T10:05:14+00:00",
-      "article_url": "https://investinglive.com/news/what-to-expect-from-the-us-cpi-report-later-today/",
+      "headline": "Form 8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 11 08 2026 - (CGWL)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T09:59:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343448/0/en/form-8-3-advanced-medical-solutions-group-plc-11-08-2026-cgwl.html",
       "asset_tags": [
-        "forex",
-        "commodities",
-        "crypto",
-        "macro"
+        "general"
       ]
     },
     {
@@ -170,6 +197,16 @@
       ]
     },
     {
+      "headline": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
+      "description": "Iran to join BRICS development bank soon, central bank governor says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T08:11:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "Inside the fake crypto startup that fooled North Korean IT workers",
       "description": "Suspected North Koreans IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
       "source": "Cointelegraph",
@@ -265,6 +302,16 @@
       ]
     },
     {
+      "headline": "TUI avoids another profit warning as Iran war further dents travel bookings - Reuters",
+      "description": "TUI avoids another profit warning as Iran war further dents travel bookings Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T05:04:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXFRbkJoZFM5cC1hRjk2TmVxNk1EeHowRHJraXdlZUNqcmZfRHdpdTFyWE9rWkhQWlJnVlJfMVM4XzZTY1RtYm9BS2xPcUZRU1V4YzZPRWdhUGtUQlZRcjVzQmdQVEliUFB5bmNOYm1KVWVsS3ZWZi12c2tYYXFqM2g4WTFGTi1fbVZseWYxenR6RHdDWTNha052OGRWX0E2cS1mMFhvUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
       "description": "",
       "source": "CoinDesk",
@@ -316,13 +363,12 @@
       ]
     },
     {
-      "headline": "European stocks steady, oil rises before CPI - Reuters",
-      "description": "European stocks steady, oil rises before CPI Reuters",
+      "headline": "Global stocks inch up, oil steady before US CPI - Reuters",
+      "description": "Global stocks inch up, oil steady before US CPI Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-12T02:19:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
       "asset_tags": [
-        "forex",
         "equities",
         "macro"
       ]
@@ -375,16 +421,6 @@
       "article_url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
-      "description": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T23:29:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1040,6 +1076,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-11T12:49:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342733/0/en/thoma-bravo-completes-acquisition-of-kneat.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
+      "description": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T12:47:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1993,56 +2039,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-10T19:09:56+00:00",
       "article_url": "https://www.cnbc.com/2026/08/10/metas-latest-model-advances-zuckerbergs-vision-for-personal-ai-assistants.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows - Reuters",
-      "description": "OPEC oil output rises further in July led by Gulf producers, Reuters survey shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T18:59:25+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamx6ZmttRHhDNkRmaGxMNngyOFpJbkwxcVU4a3JqZFZ0U3ZXSzNmeUlNWkowUHh2Q29FYnhfNVZ3Wm15WUFsd1FjSDJfczk5Sk90bG1zV2I1emtmOGZuUHpNZTF6TXNGSDVEQXVhMjBRSHQ5TkJ2eWljS3lCU24tRGlCeWgwMlhOa0V0SGlLQUZDX0RDOFExS3VacFpzUWJQdFJEMUFfYVNzeWNzUVE2bmZrNTVkN2tBOVBneVR0dlp1SWwyS2JQLQ?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Coinsbuy offers $100K reward after Sunday security breach",
-      "description": "Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9 million was stolen.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-10T18:43:26+00:00",
-      "article_url": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Gaza Board of Peace official says plan is still operative - Reuters",
-      "description": "Gaza Board of Peace official says plan is still operative Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T18:35:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVy1SZ3FGanBZM2xpMFJ4bE9ZbHRLR2RoOUYzQ0tmQWNHSHZFcVFwcERuY2NzME1iaGplb0ZUTTNvLTFTdGpCVlVtS2dvX1Exb3J6dFRMVXZTY09NNjRMeGppblhFZ3lreTB4UHgxaWFvbkV5allpQk5XZjRRMm1WR0Z4ZzhuOG1pUGFOZGlSR0JkYUt4QzhTSHlGV25VV05sZzFLZUZMaTB3Z1V2?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? - Reuters",
-      "description": "Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T17:20:11+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnBEVG1SUHZxZmRmdkNDQzUwSnFRTEF2SVFBWUF6SmZlTDZlb0tGa1V1dE5OZFFGVU5EQXhHd0QteldVRkhySVprMVd2TFh5aFA5S2thQjFKX1hsajBlSHBTM2tFNkRuVmpTR3ExSUVQcEcyVExxNVpRZVkwZnBFT1hpV01BcDc5anBpZmF3MHkwd05UZ3BWWTR5TTlaQXdFSkNsX19IMzl3UTZMVmx5RFhsRjdJNHRfMmc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Mohsen Rezaei appointed as secretary of Iran's top security body - Reuters",
-      "description": "Mohsen Rezaei appointed as secretary of Iran's top security body Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T17:19:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX01YNGdkRGZ6S1FUOFNoaHVnTGRjSFJISXI1QTVqVDFfMzI0bTBhZFhrcDJRNTkzcmh0YmpjN1RMQzZqak5GSldnMXVMMnpkTTRoMWZQQ01tLUFhLUpzT1NPWDNSQzZGZmZHVnR3ZXZGbThMNHpVdFZkSjZOd21EUE96TWI0czAyUkVGR0dJZFlsZDVaNEkxbWVvNmlyb19nZTlEOEVoa1VaMzI3MDNGWA?oc=5",
       "asset_tags": [
         "general"
       ]
