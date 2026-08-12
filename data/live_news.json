@@ -1,18 +1,64 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T03:52:36.294660+00:00",
+    "last_updated": "2026-08-12T05:29:32.861442+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 92,
+      "equities": 35,
+      "crypto": 67,
       "forex": 9,
-      "commodities": 13,
-      "crypto": 68,
+      "commodities": 14,
       "macro": 20,
-      "equities": 35
+      "general": 92
     }
   },
   "articles": [
+    {
+      "headline": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+      "description": "The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T04:53:26+00:00",
+      "article_url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific Financial Market news: Oil edges higher",
+      "description": "<ul><li><a href=\"https://investinglive.com/news/australia-sets-world-leading-pay-floor-for-250-000-gig-delivery-workers\" rel=\"follow\">Australia sets world leading pay floor for 250,000 gig delivery workers</a></li><li><a href=\"https://investinglive.com/commodities/gulf-states-quietly-by-pass-choke-p",
+      "source": "Forexlive",
+      "publication_date": "2026-08-12T03:50:27+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-financial-market-news-oil-edges-higher/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Oil, gold prices rise as geopolitical tensions mount before CPI - Reuters",
+      "description": "Oil, gold prices rise as geopolitical tensions mount before CPI Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T02:19:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
+      "description": "Trump says his plane faced 'greater risk' in secret flight change Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T01:20:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Ravencoin hits record low as network exploit puts transactions at risk",
       "description": "Mining pools controlling most of Ravencoin’s hash rate are building a competing chain that could trigger a three-day reorganization.",
@@ -21,19 +67,6 @@
       "article_url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Goldman chief economist Hatzius expects a benign July US CPI print",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">Hatzius's forecast, a headline print around 0.05% month on month and core near 0.19%, would sit in line with or slightly below consensus and reinforce the softer trend he says began in June, a read that would ease pressure ",
-      "source": "Forexlive",
-      "publication_date": "2026-08-12T01:07:46+00:00",
-      "article_url": "https://investinglive.com/news/goldman-chief-economist-hatzius-expects-a-benign-july-us-cpi-print/",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -185,16 +218,6 @@
       "article_url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Oil prices settle up as Iran says Strait of Hormuz to stay shut - Reuters",
-      "description": "Oil prices settle up as Iran says Strait of Hormuz to stay shut Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T19:41:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1385,6 +1408,16 @@
       ]
     },
     {
+      "headline": "Oil prices settle up as Iran says Strait of Hormuz to stay shut - Reuters",
+      "description": "Oil prices settle up as Iran says Strait of Hormuz to stay shut Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T00:38:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pWdFZzeWRnNk5zclJaZzJnUnhXVnZnNHdFcFRtTlo3T00wd1RVdHF6QmNZRVJBSGNIMm50YW1ob0x4dENzeGFpTDlSNUdvbkZZNXBBLVc0WVFjVVRMUEl3NldGcFNtTXYybWJLVklxYlZnbUkzRVpyeU55b3FFZlhlRmVueEdTTHNGcnVVS05zUnZyWkJ5VkhIcmFwS01KYVNXaHVyeE1yZEhtd3Z4alAwUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Trump boarded secret Turkey flight via catering truck due to Iran threat, reports say - Reuters",
       "description": "Trump boarded secret Turkey flight via catering truck due to Iran threat, reports say Reuters",
       "source": "Reuters",
@@ -1473,6 +1506,16 @@
       "article_url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Diesel prices surge on tightening global supply - Reuters",
+      "description": "Diesel prices surge on tightening global supply Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-10T20:59:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFJETUJZOXZIeHFnWXFZTG1UTHpuQmpZeURCV1d6R0owSjFBa1FIRVdQTXJEZFh0cGRRblRtZE1IRjJNcHgyQ3dGWHdqelVGSFNYWFhHNjk5NmtEWEljY1RlSjk0WVZrTjZzaEd3TEw5UUNCVjdXdlpyRkVjTmFsS25RVGt3NnhxVTh4TmRrNXlQd2FPOE56cmxEX0c?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2003,49 +2046,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-10T09:44:50+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/china-slams-india-for-naming-sites-in-disputed-border-region",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - Reuters",
-      "description": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-10T09:21:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-10T09:09:32+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-10T08:57:04+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-10T07:52:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
       "asset_tags": [
         "general"
       ]
