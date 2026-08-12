@@ -1,28 +1,109 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T16:08:23.269724+00:00",
+    "last_updated": "2026-08-12T17:10:24.146654+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 100,
+      "crypto": 58,
+      "equities": 31,
       "forex": 12,
-      "equities": 30,
-      "macro": 25,
-      "general": 99,
-      "crypto": 59,
-      "commodities": 9
+      "commodities": 10,
+      "macro": 24
     }
   },
   "articles": [
     {
-      "headline": "The USDs fall fizzles. The declines are retraced and then some",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Traders appeared willing to give the CPI data the benefit of the doubt, particularly with housing accounting for roughly two-thirds of the overall increase. The initial market reaction sent the U.S. dollar lower, but across many of the major currency pairs,",
+      "headline": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters",
+      "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T16:43:32+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T16:34:24+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Diginex Limited Provides Update on Proposed Acquisition of Resulticks",
+      "description": "LONDON and NEW YORK, Aug. 12, 2026 (GLOBE NEWSWIRE) -- Diginex Limited (NASDAQ: DGNX) (“Diginex” or the “Company”), a provider of ESG, sustainability, and compliance solutions to institutional and corporate clients, today announced an update regarding its previously disclosed proposed acquisition of",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-12T16:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343944/0/en/diginex-limited-provides-update-on-proposed-acquisition-of-resulticks.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
+      "description": "Iran says no progress on reviving interim peace deal with US Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T16:17:33+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Transocean hasn't certified compliance with DOJ over Valaris deal - CTFN",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-12T16:15:43+00:00",
+      "article_url": "https://seekingalpha.com/news/4631635-transocean-hasnt-certified-compliance-with-doj-over-valaris-deal---ctfn?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T16:14:49+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
+      "description": "Iranian photojournalist faces 15 years in prison over images, reporting Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T16:11:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "European stocks close lower as traders head for the exits",
+      "description": "<p>As London/European traders head for the exits, the major European equity indices are closing mostly lower. There were no new record closes today, with France's CAC 40 leading the declines.</p><p>The closing levels show:</p><ul><li><p>German DAX: -0.17% at 26,346.30</p></li><li><p>France CAC 40: -",
       "source": "Forexlive",
-      "publication_date": "2026-08-12T15:36:45+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/the-usds-fall-fizzles-the-declines-are-retraced-and-then-some/",
+      "publication_date": "2026-08-12T16:09:29+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/european-stocks-close-lower-as-traders-head-for-the-exits/",
       "asset_tags": [
         "forex",
         "equities",
+        "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+      "description": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T16:07:59+00:00",
+      "article_url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -187,13 +268,14 @@
       ]
     },
     {
-      "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
-      "description": "Iran says no progress on reviving interim peace deal with US Reuters",
+      "headline": "Dollar slips as in-line CPI tempers rate-hike bets - Reuters",
+      "description": "Dollar slips as in-line CPI tempers rate-hike bets Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-12T13:39:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+      "publication_date": "2026-08-12T13:39:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
       "asset_tags": [
-        "general"
+        "forex",
+        "macro"
       ]
     },
     {
@@ -202,16 +284,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-12T13:35:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRGFZQ2Vnb3RrVVF5MGpzQzlrckRvMHM2bmtQRFFEdUdra2QxdEcwMEVTQk1GUDFBS25MS2Rmb05uZkd4Znp4aElvSEtFVzNXY1dtYUNHNmpWODhUSTFVRDc1a0VMR3NTVTlmNndDRlBnVWlfOFpZSXFRY01EUDh6WGJQb2xHY0daZGIwbzI3VWpfallqckphSVpIcHl0VkdqM3VyaUJUS1B4QVM5MXJZY0Rn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
-      "description": "Iranian photojournalist faces 15 years in prison over images, reporting Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T13:32:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1014,24 +1086,13 @@
       ]
     },
     {
-      "headline": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock - Reuters",
-      "description": "Oil prices dip as investors weigh lower demand forecasts against US-Iran talks deadlock Reuters",
+      "headline": "Oil prices little changed as investors weigh lower demand against US-Iran talks deadlock - Reuters",
+      "description": "Oil prices little changed as investors weigh lower demand against US-Iran talks deadlock Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-12T00:58:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dollar slips as in-line CPI tempers rate-hike bets - Reuters",
-      "description": "Dollar slips as in-line CPI tempers rate-hike bets Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T00:57:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-      "asset_tags": [
-        "forex",
-        "macro"
       ]
     },
     {
@@ -1827,26 +1888,6 @@
       ]
     },
     {
-      "headline": "Inc. Unveils the 2026 Inc. 5000 List, Recognizing America’s Fastest-Growing Private Companies",
-      "description": "Inc. unveils the 2026 Inc. 5000 List, recognizing America’s fastest-growing private companies, featuring companies including SpaceX, ShopMy, and Whatnot.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342560/0/en/inc-unveils-the-2026-inc-5000-list-recognizing-america-s-fastest-growing-private-companies.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "etoro to Acquire TradeZero to Accelerate US Expansion",
-      "description": "etoro to Acquire TradeZero to Accelerate US Expansion",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342552/0/en/etoro-to-acquire-tradezero-to-accelerate-us-expansion.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
       "description": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
       "source": "Cointelegraph",
@@ -2005,46 +2046,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/construction-giant-l-t-said-to-plan-india-rare-earth-magnet-bid",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-      "description": "Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of capacity from the Bitcoin miner’s Rockdale campus in Texas.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T08:00:26+00:00",
-      "article_url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Nvidia taps Wall Street for $500 billion funding commitment",
-      "description": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are coming together ‘to create pools of capital at attractive rates for Nvidia customers’",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-11T07:39:28+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Wipro’s Nifty exit reflects waning clout of IT giants",
-      "description": "BSE will replace Wipro in the gauge from Sept 30 as part of a semi-annual review. The switch comes as concerns over artificial intelligence and slowing global technology spending weigh on biggest software services firms.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-11T07:21:00+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/wipro-s-nifty-exit-reflects-waning-clout-of-indian-it-giants",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "A $2 trillion asset class is getting a new blockchain rail",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T07:19:09+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
