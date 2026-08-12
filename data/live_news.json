@@ -1,24 +1,97 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T20:07:06.371157+00:00",
+    "last_updated": "2026-08-12T20:59:51.741890+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 104,
-      "equities": 30,
       "commodities": 12,
-      "macro": 23,
-      "crypto": 53,
-      "forex": 12
+      "crypto": 50,
+      "general": 106,
+      "equities": 29,
+      "macro": 25,
+      "forex": 13
     }
   },
   "articles": [
     {
-      "headline": "White House Press Secretary Leavitt will be departing her role at the end of the month.",
-      "description": "<p>White House press secretary Karoline Leavitt will leave her role at the end of the month. Pres. Trump said that she is leaving to spend more time with her family. Levitt gave birth to her daughter and 2nd child on May 1.</p><p class=\"PDq2pG_selectionAnchorContainer\">Leavitt is a New Hampshire nat",
+      "headline": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "description": "The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T20:37:55+00:00",
+      "article_url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "description": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T20:22:46+00:00",
+      "article_url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "CoreWeave counters a key bear case on the AI trade. What it means for our data center stocks",
+      "description": "CoreWeave is seeing strong demand for six-year-old Nvidia chips, helping justify all the current AI capex.",
+      "source": "CNBC",
+      "publication_date": "2026-08-12T20:16:05+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/12/coreweave-counters-a-key-bear-case-on-the-ai-trade-what-it-means-for-our-data-center-stocks.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Equity Residential and AvalonBay Communities Announce Shareholder Approvals for Merger to Create Vivmark Residential",
+      "description": "ARLINGTON, Va. & CHICAGO--(BUSINESS WIRE)--AvalonBay Communities, Inc. (“AvalonBay”) (NYSE: AVB) and Equity Residential (NYSE: EQR) today announced that at their respective special meetings, AvalonBay stockholders and Equity Residential shareholders overwhelmingly approved all of the proposals neces",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-12T20:15:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260812892568/en/Equity-Residential-and-AvalonBay-Communities-Announce-Shareholder-Approvals-for-Merger-to-Create-Vivmark-Residential/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia Thursday, August 13, 2026 - RBNZ inflation expectations",
+      "description": "<p>RBNZ data due today. The RBNZ view 2 years as a reasonable time frame for monetary policy changes to impact the economy, hence it's the 2 year inflation expectations number that policy makers pay the most attention to. I'll have more to come on this separately. </p><p></p> This article was writte",
       "source": "Forexlive",
-      "publication_date": "2026-08-12T19:54:28+00:00",
-      "article_url": "https://investinglive.com/news/white-house-press-secretary-leavitt-will-be-departing-her-role-at-the-end-of-the-month/",
+      "publication_date": "2026-08-12T20:12:09+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-thursday-august-13-2026/",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "AEVEX to acquire BlackSea Technologies for up to $650 million",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-12T20:12:07+00:00",
+      "article_url": "https://seekingalpha.com/news/4631843-aevex-to-acquire-blacksea-technologies-for-up-to-650-million?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T19:59:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Paramount has spoken about creating a board to ensure CNN's independence - WSJ",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-12T19:53:03+00:00",
+      "article_url": "https://seekingalpha.com/news/4631801-paramount-has-spoken-about-creating-board-to-ensure-cnns-independence-wsj?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -83,16 +156,6 @@
       "article_url": "https://www.cnbc.com/2026/08/12/ceo-of-intel-just-gave-jim-cramer-one-more-reason-to-call-it-his-favorite-stock.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-      "description": "Credible missile threat led to secret aircraft switch for Trump, source says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T18:13:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -386,16 +449,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343820/0/en/form-8-3-dcc-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Optimum Energy Co. Announces Acquisition of Hussung Mechanical Contractors and HMC Service Company",
-      "description": "BATON ROUGE, La. & SEATTLE--(BUSINESS WIRE)--Optimum Energy Co., a global holistic infrastructure solutions company, today announced the acquisition of Hussung Mechanical Contractors and HMC Service Company, a full-service mechanical infrastructure services firm for healthcare systems, universities,",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-12T14:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260812343122/en/Optimum-Energy-Co.-Announces-Acquisition-of-Hussung-Mechanical-Contractors-and-HMC-Service-Company/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1956,27 +2009,6 @@
       ]
     },
     {
-      "headline": "Fort Technology Signs Agreements for the Acquisition of Logia USA - Fuel Integrity Solutions for Data Centers Company",
-      "description": "Toronto, Ontario, Aug. 11, 2026 (GLOBE NEWSWIRE) -- Fort Technology Inc. (Nasdaq: FRTT, TSXV: FORT) (“Fort” or the “Company”), today announced that it has entered into a share transfer agreement dated August 11, 2026 (the “Share Transfer Agreement”), with Logia USA Inc. (“Logia USA”), a company focu",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342652/0/en/fort-technology-signs-agreements-for-the-acquisition-of-logia-usa-fuel-integrity-solutions-for-data-centers-company.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Trading platform eToro's Q2 earnings beat expectations, revenue hit by cryptoassets",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T11:48:53+00:00",
-      "article_url": "https://seekingalpha.com/news/4630594-trading-platform-etoros-q2-earnings-beat-expectations-revenue-hit-by-cryptoassets?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
       "headline": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
       "description": "",
       "source": "CoinDesk",
@@ -2014,37 +2046,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T11:13:55+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin-backed lending is entering its institutional era: Two Prime",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T11:04:28+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
-      "description": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T10:55:00+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
