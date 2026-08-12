@@ -1,18 +1,80 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T17:10:24.146654+00:00",
+    "last_updated": "2026-08-12T18:06:42.894437+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 100,
-      "crypto": 58,
-      "equities": 31,
-      "forex": 12,
+      "general": 101,
       "commodities": 10,
-      "macro": 24
+      "crypto": 58,
+      "macro": 25,
+      "forex": 12,
+      "equities": 28
     }
   },
   "articles": [
+    {
+      "headline": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
+      "description": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
+      "source": "CNBC",
+      "publication_date": "2026-08-12T17:57:44+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T17:21:03+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bank of America to acquire up to 49.9% stake in Jio Credit for ~$1.9B",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-12T17:16:43+00:00",
+      "article_url": "https://seekingalpha.com/news/4631715-bank-of-america-to-acquire-499-stake-in-jio-credit-for-19b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US treasury sells 10 year notes at a high yield of 4.683%",
+      "description": "<ul><li>High yield 4.683%</li><li>WI 4.682%</li><li>Tail 0.1 basis points vs average of +0.3 basis points</li><li>Bid to cover 2.53X vs 6 month average of 2.47X</li><li>Directs 14.7% vs 17.7% average</li><li>Indirects 76.7% vs 71.3% average</li><li>Dealers 8.6% vs 11.0% average</li></ul><p>Auction G",
+      "source": "Forexlive",
+      "publication_date": "2026-08-12T17:04:00+00:00",
+      "article_url": "https://investinglive.com/news/us-treasury-sells-10-year-notes-at-a-high-yield-of-4-683/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "FlightAware drops Kalshi lawsuit one day after filing",
+      "description": "Following the initial lawsuit, at least one of Kalshi’s event contracts was changed to list “Primary Source Agency” as the entity behind verifying flight cancellation data.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T16:58:52+00:00",
+      "article_url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+      "description": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T16:50:25+00:00",
+      "article_url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
     {
       "headline": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters",
       "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster Reuters",
@@ -81,19 +143,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "European stocks close lower as traders head for the exits",
-      "description": "<p>As London/European traders head for the exits, the major European equity indices are closing mostly lower. There were no new record closes today, with France's CAC 40 leading the declines.</p><p>The closing levels show:</p><ul><li><p>German DAX: -0.17% at 26,346.30</p></li><li><p>France CAC 40: -",
-      "source": "Forexlive",
-      "publication_date": "2026-08-12T16:09:29+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/european-stocks-close-lower-as-traders-head-for-the-exits/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -175,6 +224,16 @@
       "article_url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Trump says US has 'total control' over Strait of Hormuz - Reuters",
+      "description": "Trump says US has 'total control' over Strait of Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T14:39:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1986,66 +2045,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Wall Street just endorsed Jensen Huang's 'big concept' for AI. What now?",
-      "description": "The first three-plus years of the AI buildout has been funded by record amounts of equity and debt issued by leading tech companies. Nvidia has a new idea.",
-      "source": "CNBC",
-      "publication_date": "2026-08-11T10:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/11/wall-street-endorsed-jensen-huangs-big-concept-for-ai-what-now.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T09:37:36+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
-      "description": "Keel completed the shutdown of its US Bitcoin mining operations as it pivots toward AI and high-performance computing infrastructure",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T09:26:00+00:00",
-      "article_url": "https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "BJP accuses Cockroach Party of hypocrisy over Jharkhand",
-      "description": "BJP accuses Cockroach Janta Party of hypocrisy for not supporting Jharkhand protests while previously leading demonstrations in New Delhi.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-11T08:46:41+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/modi-s-bjp-accuses-cockroach-party-of-hypocrisy-over-jharkhand",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Intel raises $20 billion in upsized share sale to fund AI plans",
-      "description": "Intel raises $20 billion in a share sale to boost AI initiatives, reflecting strong investor demand amid tech industry growth.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-11T08:24:46+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-10/intel-is-said-to-near-share-sale-upsize-to-raise-20-billion",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "L&T joins India’s race to build rare-earth magnet supply chain outside China",
-      "description": "The engineering giant is preparing to bid for a ₹7,280-crore incentive scheme aimed at building domestic capacity for the critical industrial component.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-11T08:19:07+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/construction-giant-l-t-said-to-plan-india-rare-earth-magnet-bid",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
