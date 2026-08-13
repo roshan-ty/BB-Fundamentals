@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T07:49:18.781183+00:00",
+    "last_updated": "2026-08-13T08:58:15.998872+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 23,
-      "general": 105,
       "equities": 28,
-      "crypto": 52,
-      "forex": 10,
-      "commodities": 10
+      "general": 105,
+      "commodities": 12,
+      "macro": 24,
+      "crypto": 50,
+      "forex": 10
     }
   },
   "articles": [
+    {
+      "headline": "Securitize falls 16% after earnings miss, tokenization revenue drops",
+      "description": "Securitize shares fell 16% from Wednesday’s close after the tokenization platform’s $14.4 million second-quarter revenue missed Wall Street estimates.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T08:29:01+00:00",
+      "article_url": "https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+      "description": "An $18.8 million unrealized digital asset loss and weaker trading margins pushed BitGo into the red in the second quarter.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T07:42:59+00:00",
+      "article_url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+      "description": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T07:14:19+00:00",
+      "article_url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
     {
       "headline": "Spain inflation nudges higher in July as both headline and core prices push up",
       "description": "<ul><li>July final CPI +3.6% vs +3.5% y/y prelim</li><li>Prior +3.2%</li><li>July final HICP +3.9% vs +3.8% y/y prelim</li><li>Prior +3.6%</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">Spain inflation is confirmed to accelerate again in July, with headline annual inflation seen",
@@ -24,16 +54,6 @@
       ]
     },
     {
-      "headline": "Oil eases as weaker demand outlook counters Mideast supply concerns - Reuters",
-      "description": "Oil eases as weaker demand outlook counters Mideast supply concerns Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T06:45:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Hyperscale Data Establishes Michigan AI Development Reserve Account and Plan to Provide Monthly Michigan AI Infrastructure Progress Reports",
       "description": "Customer Has Deposited Approximately $10.6 Million Under Previously Announced Master Services Agreement; Company Anticipates $120 Million of Dedicated Development Capital LAS VEGAS, June 29, 2026 /PRNewswire/ — Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (“AI“) data cente",
       "source": "Cryptocurrency News",
@@ -42,6 +62,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "UK economy gains from Gulf ceasefire, World Cup and sunshine - Reuters",
+      "description": "UK economy gains from Gulf ceasefire, World Cup and sunshine Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T06:13:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -145,6 +175,17 @@
       ]
     },
     {
+      "headline": "Gold off two-month peak as traders seek inflation cues - Reuters",
+      "description": "Gold off two-month peak as traders seek inflation cues Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T03:59:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWRyNnFQd2twNlNReDRyTy1GMGJWTktnY1RhMWY2SXZXRTluaDQ5TW8tdi11YTJ1VEppaUVwWTdyZkNUMGZMQXdIdG1Bdm9uQnNFOUNMY0UyREk2NU45UzF0SDlXcjNrWmswYldOZ3dKUzg2YUZaTjJZYm5lNldFTlFXcmJnVl94VGdfRnlEbElyRG1SZE9ERG5NRVNicUdJOXhNNDdLbTNEbzVTOFNpSWI0OUM4dw?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
       "description": "",
       "source": "CoinDesk",
@@ -153,6 +194,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil eases as weaker demand outlook counters Mideast supply concerns - Reuters",
+      "description": "Oil eases as weaker demand outlook counters Mideast supply concerns Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T01:08:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1334,10 +1385,30 @@
       ]
     },
     {
+      "headline": "UAE shuttles oil exports from Iraq through the Strait of Hormuz",
+      "description": "In the so-called shuttling tactics, vessels make short trips — often with their transponders turned off to avoid detection — before typically transferring their cargoes to other ships just outside the Gulf",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-12T08:21:08+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/uae-shuttles-oil-exports-from-iraq-through-the-strait-of-hormuz",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "India warns border strains could weigh on China relations",
+      "description": "India considers incidents along its disputed border with China “most serious” and “the state of the border affairs” will “reflect on the state of our larger bilateral ties,” the Ministry of External Affairs said in response to a question about a fresh militar…",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-12T08:17:39+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/india-warns-border-strains-could-weigh-on-china-relations",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
       "description": "Iran to join BRICS development bank soon, central bank governor says Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-12T08:11:36+00:00",
+      "publication_date": "2026-08-12T08:07:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
       "asset_tags": [
         "forex"
@@ -1967,76 +2038,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-11T15:16:25+00:00",
       "article_url": "https://seekingalpha.com/news/4630782-lionsgate-studios-ticks-highers-as-activist-anson-reportedly-renews-call-for-sale?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Disney to stream Formula E races worldwide under new deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T15:14:43+00:00",
-      "article_url": "https://seekingalpha.com/news/4630789-disney-to-stream-formula-e-races-worldwide-under-new-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "We're exiting our position in an industrial stock to make room for a new AI play",
-      "description": "The company's disappointing quarter last month put the stock on the chopping block.",
-      "source": "CNBC",
-      "publication_date": "2026-08-11T15:05:44+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/11/were-exiting-our-position-in-industrial-stock-to-make-room-for-a-new-ai-play.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "ICE begins U.S. investment-grade bond sale to fund MarketAxess deal - report",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T14:49:29+00:00",
-      "article_url": "https://seekingalpha.com/news/4630771-ice-begins-us-investment-grade-bond-sale-to-fund-marketaxess-deal---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Syria says IAEA will announce 'significant progress' on nuclear file - Reuters",
-      "description": "Syria says IAEA will announce 'significant progress' on nuclear file Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T14:41:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTBhX0V1QUM2N3JqM0Z0Ui1iSTFUT0pTYnBKWndCdkZteGQwM1BQSVVWR0V1ZUlfUGNXcUhZeTRtYVdzLWQ3cDlMYUpCTjhpSWFQWk9fMWtHYk5hRTgzZXVSdWRrOFF4bTFNRHRhRWcwc1lJck5FWW9NUEw2bnRsRC1YUFotZGRBcXBGSFlJb0QtejZXWGk2VTBNaXRUTU45bGFkOVFzREtLSWZPelBkSEVudlU2aUNE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T14:40:15+00:00",
-      "article_url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T14:39:12+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "UMH Properties gains after active Erez pushes for sale",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T14:02:48+00:00",
-      "article_url": "https://seekingalpha.com/news/4630725-umh-properties-gains-after-active-erez-pushes-for-sale?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
