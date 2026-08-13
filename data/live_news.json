@@ -1,29 +1,66 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T16:31:52.992879+00:00",
+    "last_updated": "2026-08-13T17:36:46.509924+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 11,
-      "equities": 40,
-      "commodities": 14,
-      "macro": 21,
-      "crypto": 50,
-      "general": 100
+      "macro": 23,
+      "general": 100,
+      "crypto": 51,
+      "equities": 38,
+      "commodities": 13,
+      "forex": 8
     }
   },
   "articles": [
     {
-      "headline": "European shares close lower despite the US tech push higher",
-      "description": "<p>European shares are closing lower on the day, failing to follow the mostly positive tone in U.S. equities. The declines come despite the softer-than-expected U.S. PPI data, which showed headline producer prices unchanged in July versus a 0.2% increase expected, while the year-on-year rate slowed ",
+      "headline": "US treasury sells 30 year bonds at a high yield of 5.216%",
+      "description": "<ul><li>High yield 5.216%</li><li>WI level at the time of the auction 5.212%</li><li>Tail 0.4 basis points vs average of -0.2 basis points</li><li>Bid to cover 2.39X vs average of 2.43X</li><li>Directs 21.6% vs average of 22.5%</li><li>Indirects 66.8% vs average of 67.0%</li><li>Dealers 11.6% vs ave",
       "source": "Forexlive",
-      "publication_date": "2026-08-13T16:06:12+00:00",
-      "article_url": "https://investinglive.com/news/european-shares-close-lower-despite-the-us-tech-push-higher/",
+      "publication_date": "2026-08-13T17:02:58+00:00",
+      "article_url": "https://investinglive.com/news/us-treasury-sells-30-year-bonds-at-a-high-yield-of-5-216/",
       "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
+      "description": "Iran, US make competing claims over control of Strait of Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T16:57:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Clear Channel Outdoor falls amid report on Mark Walter",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T16:30:16+00:00",
+      "article_url": "https://seekingalpha.com/news/4632574-clear-channel-outdoor-falls-amid-report-on-mark-walter?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dynatrace buying Arize should boost AI presence 'more aggressively,' BofA says",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T16:16:58+00:00",
+      "article_url": "https://seekingalpha.com/news/4632569-dynatrace-buying-arize-should-boost-ai-presence-more-aggressively-bofa-says?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
+      "description": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T16:15:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -46,6 +83,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones - Reuters",
+      "description": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T15:28:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVhsYXl4b0NkRk9GdFhWN0lBcU16ckh5aG9SakN2TzBSMGIxSVUxYm9TY3VndmdwM0YwMjlrTGZQMmNaTWJHTlhzZXFBM004ZHhsQm1wNDVMNFNfXzZtTVVFZXBaOWRNV3h2Wjc3dXZsbGlseE1LZ00wUno4ZkMwMGpOR3JxczRNaTlGdHZsWTd1a1lpZWNiQnBfYWl4TXhwQjNNRlRXeDhETTlrYkg3R01UeTJkQUdIbkhGN1dIVl85ZFpOdVF0ZlJB?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -192,16 +239,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-      "description": "Iran, US make competing claims over control of Strait of Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T13:11:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -993,24 +1030,24 @@
       ]
     },
     {
-      "headline": "Oil falls on weaker demand outlook and higher US stocks - Reuters",
-      "description": "Oil falls on weaker demand outlook and higher US stocks Reuters",
+      "headline": "Oil falls more than 3% on weaker global demand outlook and US crude buildup - Reuters",
+      "description": "Oil falls more than 3% on weaker global demand outlook and US crude buildup Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-13T01:08:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
       "asset_tags": [
-        "equities"
+        "general"
       ]
     },
     {
-      "headline": "Stocks rise with oil price below $90, euro edges up, Iran in focus - Reuters",
-      "description": "Stocks rise with oil price below $90, euro edges up, Iran in focus Reuters",
+      "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
+      "description": "Stocks rise as traders reduce rate hike bets, oil prices drop Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-13T01:02:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
       "asset_tags": [
-        "forex",
-        "equities"
+        "equities",
+        "macro"
       ]
     },
     {
@@ -1032,6 +1069,16 @@
       "article_url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - Reuters",
+      "description": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T23:29:17+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUNwdDR2X2Z6TlJ2NDZ5VVVESGN1bHdOU3RHSVY5aGJSdmJldVZ6YVh5ZDVNNUxJMFpValdCa0dKSFJBLUZzeTdEU1pmcmhMVjAtQzBFdm91QW1JZERManNpTlMtbzBEaVhnZTRybjF1YkxVVVBtLWE0Vk4xOW9NWWhJU19yUUdLYy1MNHpDTTFjb3F0ajMtZHl1THdCSG00NjFNQTgtUzZpNG1DN0cwWi1lR2VNdWJvQjBkNHYtSy1GcVRLQ3hYTXJVQ2ZZZW8?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -1207,6 +1254,16 @@
         "equities",
         "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
+      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T19:06:30+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1867,16 +1924,6 @@
       ]
     },
     {
-      "headline": "Connexus and ASM Merge to Transform Real Estate Procurement and Drive Profitability",
-      "description": "Connexus and ASM merge to help real estate owners reduce costs, grow ancillary revenue, strengthen compliance, and maximize portfolio NOI.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-12T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343491/0/en/connexus-and-asm-merge-to-transform-real-estate-procurement-and-drive-profitability.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
       "description": "",
       "source": "CoinDesk",
@@ -1935,16 +1982,6 @@
       "article_url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Form 8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 11 08 2026 - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-12T09:59:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343448/0/en/form-8-3-advanced-medical-solutions-group-plc-11-08-2026-cgwl.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2007,46 +2044,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "TKMS sees increased demand from Middle East following Iran war - Reuters",
-      "description": "TKMS sees increased demand from Middle East following Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T08:23:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1RWelRIclZrZEZHSldHVXVuZFJkb1FWcmNkZFRJZGV1UTFXa25ncnBqbjB6dk9vRWRRNDI4QzlHU3NvcE5ybjBUdWxEcDFkNGUzZ3JJYU55WUZnNl9NT1FNcWNkSlFNSW9FWktjZ3pYVkd4N3habThScWViVHVtenAxbkFEejdBdmNydjJ2UWxfM25NNlRDMk5jUk11amcwaE5YTldaWjgtbTlaX0cxeDlNdUFweGJoQm1HNw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UAE shuttles oil exports from Iraq through the Strait of Hormuz",
-      "description": "In the so-called shuttling tactics, vessels make short trips — often with their transponders turned off to avoid detection — before typically transferring their cargoes to other ships just outside the Gulf",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-12T08:21:08+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/uae-shuttles-oil-exports-from-iraq-through-the-strait-of-hormuz",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "India warns border strains could weigh on China relations",
-      "description": "India considers incidents along its disputed border with China “most serious” and “the state of the border affairs” will “reflect on the state of our larger bilateral ties,” the Ministry of External Affairs said in response to a question about a fresh militar…",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-12T08:17:39+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-11/india-warns-border-strains-could-weigh-on-china-relations",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran to join BRICS development bank soon, central bank governor says - Reuters",
-      "description": "Iran to join BRICS development bank soon, central bank governor says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T08:07:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
