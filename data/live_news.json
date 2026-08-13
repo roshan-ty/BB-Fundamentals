@@ -1,18 +1,88 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T11:10:50.139875+00:00",
+    "last_updated": "2026-08-13T11:59:30.972908+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 102,
+      "commodities": 13,
       "crypto": 50,
-      "general": 103,
-      "equities": 33,
-      "commodities": 12,
-      "macro": 22,
-      "forex": 12
+      "equities": 34,
+      "macro": 25,
+      "forex": 11
     }
   },
   "articles": [
+    {
+      "headline": "Whitebox Real Estate and Labora announce ownership transition",
+      "description": "Whitebox acquires Labora Real Estate's ownership stake and transitions sole ownership to Grand Pruitt. Whitebox acquires Labora Real Estate's ownership stake and transitions sole ownership to Grand Pruitt.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-13T11:45:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344416/0/en/whitebox-real-estate-and-labora-announce-ownership-transition.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "description": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
+      "source": "CNBC",
+      "publication_date": "2026-08-13T11:40:22+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "The ‘20% rule’ behind Giorgos Tsetis’ blueprint for a new kind of family office",
+      "description": "Family offices are built to be patient with their money. Giorgos Tsetis is not.",
+      "source": "CNBC",
+      "publication_date": "2026-08-13T11:30:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Accelerant Announces Second Quarter 2026 Results",
+      "description": "ATLANTA--(BUSINESS WIRE)--Accelerant Announces Second Quarter 2026 Results",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-13T11:24:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260813594706/en/Accelerant-Announces-Second-Quarter-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
+      "description": "Iran, US make competing claims over control of Strait of Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T11:02:47+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T11:02:43+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Rocket Lab Corporation Announces Progress on Iridium Acquisition: HSR Period Lapses; Form S-4 Filed; FCC Applications Filed; Capital Strategy Underway",
+      "description": "LONG BEACH, Calif., Aug. 13, 2026 (GLOBE NEWSWIRE) -- Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or the “Company”), a global leader in launch services and space systems, today announced substantial milestones in connection with its previously announced proposed acquisition of Iridium Commun",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-13T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344359/0/en/rocket-lab-corporation-announces-progress-on-iridium-acquisition-hsr-period-lapses-form-s-4-filed-fcc-applications-filed-capital-strategy-underway.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
       "description": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and decentralization.",
@@ -34,16 +104,6 @@
       ]
     },
     {
-      "headline": "Accelerant Enters into Definitive Agreement to be Acquired by Thoma Bravo",
-      "description": "ATLANTA--(BUSINESS WIRE)--Accelerant Enters into Definitive Agreement to be Acquired by Thoma Bravo",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-13T10:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260813457300/en/Accelerant-Enters-into-Definitive-Agreement-to-be-Acquired-by-Thoma-Bravo/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
       "headline": "Dynatrace to buy Arize in ~$915M cash-and-stock deal",
       "description": "",
       "source": "SeekingAlpha",
@@ -51,6 +111,17 @@
       "article_url": "https://seekingalpha.com/news/4632133-dynatrace-to-buy-arize-in-915m-cash-and-stock-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T10:15:32+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+      "asset_tags": [
+        "crypto",
+        "macro"
       ]
     },
     {
@@ -101,6 +172,17 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344292/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
       "asset_tags": [
         "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T09:39:52+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
+      "asset_tags": [
+        "crypto",
         "macro"
       ]
     },
@@ -195,6 +277,16 @@
       ]
     },
     {
+      "headline": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T09:18:19+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -225,6 +317,17 @@
         "forex",
         "equities",
         "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T09:14:15+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale",
+      "asset_tags": [
         "crypto",
         "macro"
       ]
@@ -1943,106 +2046,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUctM2tDd2gxSEhzQk9QV2dud0d0ajdkR0U2TmdlZ2VpQm44U1BhclBHQ184WVFFS1ZnX2l4c1dlb3FiMG9Ld0hSeUNJU0dFSTl6VHFzTVlRSXQ4Z3BUQWtvLW5oTFZJTGJiOG1Sb0dTSGN2V1lzcGJWemhYZjloZnI2YmtvcnZ3dHRGMkpSOGExM3RZTVFxeGFfWkNoXzhpUk5iX0QxVHVWYmpnT05rTnhFM25MeHNnek85UFlLdS15QQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dodge® Industrial Acquires PSC Couplings, Adding Disc Coupling Design and Manufacturing to Its Portfolio",
-      "description": "The acquisition brings engineering expertise and proven product performance in a strategic segment of the metallic coupling market The acquisition brings engineering expertise and proven product performance in a strategic segment of the metallic coupling market",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T20:39:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3343194/0/en/dodge-industrial-acquires-psc-couplings-adding-disc-coupling-design-and-manufacturing-to-its-portfolio.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "We're lifting our price target on Cardinal Health after issuing rosy profit guidance",
-      "description": "The quarter wasn't totally clean, but strong profitability matters the most.",
-      "source": "CNBC",
-      "publication_date": "2026-08-11T19:59:28+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/11/were-lifting-our-price-target-on-cardinal-health-after-issuing-rosy-profit-guidance-.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "MoneyGram expands crypto cash ramps to Solana",
-      "description": "MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T19:53:02+00:00",
-      "article_url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Following Senate delay, crypto bill has a narrow window to become law",
-      "description": "After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T19:42:08+00:00",
-      "article_url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "AstraZeneca held talks with Bristol-Myers through spring, summer - FT",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T19:20:38+00:00",
-      "article_url": "https://seekingalpha.com/news/4630962-astrazeneca-held-talks-with-bristol-myers-through-spring-summer---ft?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T19:06:23+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Venezuela and Israel resume consular services after 17-year diplomatic break - Reuters",
-      "description": "Venezuela and Israel resume consular services after 17-year diplomatic break Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T18:43:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDd2R1RWdGJZOXAwLTJTUS1qSnFuR1N5eHRRUzYySlYtUmU3ZVJ3UEVkdG54bmJOWHRXRldZcG01TXJZc1kySW1xUjh2WWk0WXhGRXg5UnBIMk1STnlXTTU3VlpRRFAwMHA5WGV3V3pqTUI3YVItMjdoWVRzUVJibXZ1Nk96ZW9ZY2pwU0NHRXowQ0RsbVlDczB0ZDNzMzFLZHBlMUtWeHYwOG5Xb1N4UWJobnRDQ1BmNDJZRUJB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Four killed in the Red Sea as Yemen's Houthis claim Tuesday ship attack - Reuters",
-      "description": "Four killed in the Red Sea as Yemen's Houthis claim Tuesday ship attack Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T18:22:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUExFQktvY2cyS2RZZW1TRzFEWkY2ZnR1VGVCM1FZei1ueVZ5UFJvWjNybWlVdy1NdWUtOXVnS2w2NWpoZ1JKZ1dKam8zQ2pISlZYTGxlVnVBcUZubW85RnloSXNxMXNmcktDMjZIUVZpZTl2TlgzX3A5Q0N5Ul92NlhsT2RrZDNZOUc2RDh0VHBXNWFoa29KczBzQnR2SjBFVS1ZV1VsVklzZkZUSXpQbkpzcTNSSnJMTDJvOG1PN3lNMmhYOWUtLW5B?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Canadian dollar hits two-month high as oil prices rise - Reuters",
-      "description": "Canadian dollar hits two-month high as oil prices rise Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T18:19:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkxkd1ZETWhxWUJaZVdGRDA5S0xudC0xbWZKaDEtOFVrc29uS0t2cmZLbGgyUVN2ckdYOTdXaEVNa1JRalNLLTZPZlptZGN2NzQwUUFTaEVTMXNSMWZHNnRuSkhySHRxX2JGMGxrOGgxTW41YlVURW92Q1lfQzhMZ2Y2WlRwNnA4QWlmRC1uY0VzTWluRk0weFh6WGU?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Strategy CEO says company will resume Bitcoin accumulation this year",
-      "description": "The company has bought roughly 25 times more BTC than it has sold this year, despite recent sales that challenged its long-standing accumulation strategy.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T18:03:49+00:00",
-      "article_url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
