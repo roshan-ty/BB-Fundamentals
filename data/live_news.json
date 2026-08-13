@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T19:41:41.904896+00:00",
+    "last_updated": "2026-08-13T20:24:19.104391+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 103,
       "crypto": 50,
-      "general": 102,
+      "commodities": 13,
       "equities": 35,
-      "macro": 22,
-      "forex": 7,
-      "commodities": 12
+      "macro": 21,
+      "forex": 6
     }
   },
   "articles": [
+    {
+      "headline": "Cramer: How words of wisdom from Gene Hackman help me make peace with investing mistakes",
+      "description": "This is an excerpt from the CNBC Investing Club's August Monthly Meeting, which was held Thursday.",
+      "source": "CNBC",
+      "publication_date": "2026-08-13T19:23:24+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
       "description": "More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.",
@@ -21,6 +31,27 @@
       "article_url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Workday jumps on report Silver Lake in talks to acquire",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T18:48:44+00:00",
+      "article_url": "https://seekingalpha.com/news/4632683-workday-jumps-on-report-silver-lakes-in-talks-to-acquire?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
+      "description": "Stocks rise as traders reduce rate hike bets, oil prices drop Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T18:41:41+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
       ]
     },
     {
@@ -1138,24 +1169,13 @@
       ]
     },
     {
-      "headline": "Oil falls more than 3% on weaker global demand outlook and US crude buildup - Reuters",
-      "description": "Oil falls more than 3% on weaker global demand outlook and US crude buildup Reuters",
+      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
+      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-13T01:08:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
-      "description": "Stocks rise as traders reduce rate hike bets, oil prices drop Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T01:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -1524,6 +1544,16 @@
       "article_url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
+      "description": "Trump says his plane faced 'greater risk' in secret flight change Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T16:34:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2009,36 +2039,6 @@
       "article_url": "https://www.cnbc.com/2026/08/12/china-comac-boeing-airbus.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Wall St futures tick up heading into July inflation data - Reuters",
-      "description": "Wall St futures tick up heading into July inflation data Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T10:24:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Binance, RedotPay clash over fate of Singapore lawsuit",
-      "description": "Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-12T10:18:18+00:00",
-      "article_url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bank of England to test stablecoin, digital currency use in cross-border finance",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-12T10:17:05+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
