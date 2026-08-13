@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-12T23:22:22.379562+00:00",
+    "last_updated": "2026-08-13T00:07:40.074062+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 107,
-      "equities": 31,
-      "forex": 13,
+      "general": 106,
       "crypto": 49,
-      "commodities": 13,
-      "macro": 24
+      "equities": 31,
+      "forex": 12,
+      "commodities": 12,
+      "macro": 23
     }
   },
   "articles": [
+    {
+      "headline": "Japan July PPI surges 7.2%, but lower than the expected 7.4%",
+      "description": "<p>Just the data in this post. </p><p>Japanese PPI July 2026:</p><ul><li>+7.2% y/y vs. expected +7.4% and prior + 7.1%</li><li>+0.1% m/m vs. expected +0.6% and prior +0.4%</li></ul><p>I'll have more to come on this separately.</p><p></p> This article was written by Eamonn Sheridan at investinglive.c",
+      "source": "Forexlive",
+      "publication_date": "2026-08-12T23:55:00+00:00",
+      "article_url": "https://investinglive.com/news/japan-july-ppi-surges-7-2-but-lower-than-the-expected-7-4/",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Arizona crypto ATM law helps 35 scam victims recover $171K",
+      "description": "Qualifying new customers can receive full reimbursement, including fees, if they notify both the operator and law enforcement within 30 days.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-12T23:42:51+00:00",
+      "article_url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T23:19:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "H.B. Fuller confirms $1.1B-$1.2B proposal for building adhesives unit",
       "description": "",
@@ -95,20 +125,6 @@
       ]
     },
     {
-      "headline": "investingLive Americas FX news wrap 12 Aug: CPI as expected. USD reverses declines and closes higher",
-      "description": "<ul><li><a href=\"https://investinglive.com/stocks/us-stocks-closed-mixed-the-dow-is-lower-nasdaq-indices-lead-the-upside-charge\" rel=\"follow\">US stocks closed mixed. The Dow is lower. NASDAQ indices lead the upside charge</a></li><li><a href=\"https://investinglive.com/news/white-house-press-secretar",
-      "source": "Forexlive",
-      "publication_date": "2026-08-12T21:00:10+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-12-aug-cpi-as-expected-usd-reverses-declines-and-closes-higher/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
       "description": "The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.",
       "source": "Cointelegraph",
@@ -171,16 +187,6 @@
       ]
     },
     {
-      "headline": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-      "description": "Credible missile threat led to secret aircraft switch for Trump, source says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T19:59:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
       "description": "Iran says no progress on reviving interim peace deal with US Reuters",
       "source": "Reuters",
@@ -209,6 +215,17 @@
       "asset_tags": [
         "equities",
         "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
+      "description": "Dollar gains, yen slips as US CPI meets expectations Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T19:00:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
+      "asset_tags": [
+        "forex",
         "macro"
       ]
     },
@@ -1322,13 +1339,13 @@
       ]
     },
     {
-      "headline": "Oil dips on demand forecasts, global equities gain - Reuters",
-      "description": "Oil dips on demand forecasts, global equities gain Reuters",
+      "headline": "Oil prices climb again, as global stocks gain - Reuters",
+      "description": "Oil prices climb again, as global stocks gain Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-12T02:19:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
       "asset_tags": [
-        "general"
+        "equities"
       ]
     },
     {
@@ -1359,17 +1376,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
-      "description": "Dollar gains, yen slips as US CPI meets expectations Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T00:57:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-      "asset_tags": [
-        "forex",
-        "macro"
       ]
     },
     {
@@ -2038,16 +2044,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Diageo challenges India rum ban, arguing lack of due process - Reuters",
-      "description": "Diageo challenges India rum ban, arguing lack of due process Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T12:19:25+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWp0NDZSaEcyOGd3NVIzSWFMejhvS3BEaHFmbVpla2lTclFiYUFfM2Z1d2lWR29EbFdQbm5vNjU2WVV1X01ManJsS1huSHBHS0FEYmhLb1cyY1lYMG9zLWVMVWZfNzRtcFhBSVMzQ1R2OFM2anc1NEkyUFRQdmhKdnRpWG9WVlZfR0xXOU5yZmhSNXlmNV9JSndJeTJTTWF6NGlVMEpDWQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
