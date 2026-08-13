@@ -1,18 +1,88 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T10:09:46.097673+00:00",
+    "last_updated": "2026-08-13T11:10:50.139875+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 50,
+      "general": 103,
       "equities": 33,
       "commodities": 12,
       "macro": 22,
-      "general": 103,
-      "crypto": 50,
       "forex": 12
     }
   },
   "articles": [
+    {
+      "headline": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
+      "description": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and decentralization.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T10:50:24+00:00",
+      "article_url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Accelerant to be taken private by Thoma Bravo for $20.25/Shr",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T10:43:13+00:00",
+      "article_url": "https://seekingalpha.com/news/4632204-accelerant-to-be-taken-private-by-thoma-bravo-for-2025shr?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Accelerant Enters into Definitive Agreement to be Acquired by Thoma Bravo",
+      "description": "ATLANTA--(BUSINESS WIRE)--Accelerant Enters into Definitive Agreement to be Acquired by Thoma Bravo",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-13T10:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260813457300/en/Accelerant-Enters-into-Definitive-Agreement-to-be-Acquired-by-Thoma-Bravo/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Dynatrace to buy Arize in ~$915M cash-and-stock deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T10:23:33+00:00",
+      "article_url": "https://seekingalpha.com/news/4632133-dynatrace-to-buy-arize-in-915m-cash-and-stock-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-13T10:02:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344311/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Global Net Lease Completes Acquisition of Modiv Industrial",
+      "description": "NEW YORK, Aug. 13, 2026 (GLOBE NEWSWIRE) -- On August 12, 2026, Global Net Lease, Inc. (NYSE: GNL) (“GNL” or the “Company”) completed its previously announced acquisition of Modiv Industrial, Inc. (“Modiv”), adding a portfolio of high-quality industrial net-lease properties across the United States.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-13T10:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344298/0/en/global-net-lease-completes-acquisition-of-modiv-industrial.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Man Group PLC : Form 8.3 - Senior plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-13T10:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344295/0/en/man-group-plc-form-8-3-senior-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Binance bStocks passes xStocks as second-largest tokenized stock issuer",
       "description": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
@@ -180,12 +250,33 @@
       ]
     },
     {
+      "headline": "Treasury yields dip as Wall Street awaits wholesale inflation data",
+      "description": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — fell over one basis point to 4.674%.",
+      "source": "CNBC",
+      "publication_date": "2026-08-13T08:40:17+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "Securitize falls 16% after earnings miss, tokenization revenue drops",
       "description": "Securitize shares fell 16% from Wednesday’s close after the tokenization platform’s $14.4 million second-quarter revenue missed Wall Street estimates.",
       "source": "Cointelegraph",
       "publication_date": "2026-08-13T08:29:01+00:00",
       "article_url": "https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
+      "description": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T08:10:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+      "asset_tags": [
+        "forex",
         "equities"
       ]
     },
@@ -383,17 +474,6 @@
       ]
     },
     {
-      "headline": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus - Reuters",
-      "description": "Stocks edge up with oil price below $90, dollar at 2-week high, Iran in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T01:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities"
-      ]
-    },
-    {
       "headline": "ASX shareholder plans to sue former directors over failed blockchain project",
       "description": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
       "source": "Cointelegraph",
@@ -452,16 +532,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "H.B. Fuller Confirms Receipt of Unsolicited Proposal for Building Adhesive Solutions Segment",
-      "description": "ST. PAUL, Minn.--(BUSINESS WIRE)--H.B. Fuller Company (“H.B. Fuller” or “the Company”) (NYSE: FUL), the world’s largest pureplay adhesives company, confirmed receipt of an unsolicited proposal today from Ancora Holdings Group to acquire its Building Adhesives Solutions (“BAS”) business for between $",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-12T21:31:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260812325424/en/H.B.-Fuller-Confirms-Receipt-of-Unsolicited-Proposal-for-Building-Adhesive-Solutions-Segment/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -545,6 +615,16 @@
       "asset_tags": [
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "UK, Italy among states considered to verify Hezbollah disarmament, sources say - Reuters",
+      "description": "UK, Italy among states considered to verify Hezbollah disarmament, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T20:15:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlhKaU95Z1hCOXBZNk1iSDh2NHU1ZElNNGUzcVFlV0liRmVfT0huNy1NdGRodXNwVFZyd0FieHJSakV0Rl95cXhwS3FIWUlqNklMbW1jZGNSMHl5WEVmbnNTRmhRMUxWcXdfZklseF9Ta1kzVFlzTFktbVJvV2lkaXFCYWRzV1FNU01hUkt6VV9JUTBjbmE2QVdmTmdHT1phM2E0cEluallfNGoyYk41bE5kX1ZSZVZKTjlsUDVxa2VBdTZfWmU4?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1418,16 +1498,6 @@
       ]
     },
     {
-      "headline": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-12T09:35:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343443/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
       "description": "",
       "source": "CoinDesk",
@@ -1836,10 +1906,10 @@
       ]
     },
     {
-      "headline": "Trading Day: Peace fog - reuters.com",
-      "description": "Trading Day: Peace fog reuters.com",
+      "headline": "Trading Day: Peace fog - Reuters",
+      "description": "Trading Day: Peace fog Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-11T21:24:10+00:00",
+      "publication_date": "2026-08-11T21:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTnR0TVJVQ1JVR1pFTXZPaWIwT2V3cmFzdzBQNUw3bWQ2cGxGcE9EOWVLd2laZVQyZzREZE9uVU1LQTJIV28yU29BcElxYXI1YnJ1ZHJXQllVMnFaX1h6aXh5WnloOXNPUDliazBLZ01yeldLRHRWeFdRVExMRFF1MnozSTl6WXF2Z29oX0N2QTR1dmpRTWVweDVhZ0pBQkhCU3FseE1R?oc=5",
       "asset_tags": [
         "general"
@@ -1973,76 +2043,6 @@
       "article_url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "ARP Digital secures Dubai VARA broker-dealer license",
-      "description": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it expands its Gulf presence beyond Bahrain.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T17:53:51+00:00",
-      "article_url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EToro reports second quarter crypto loss even as total profit beats estimates",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-11T17:12:11+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "FlightAware sues Kalshi over flight cancellation data",
-      "description": "The legal action against Kalshi focused on trademark infringement and injury to its reputation in addition to citing state authorities comparing the company’s contracts to gambling.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T16:55:14+00:00",
-      "article_url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
-      "description": "The CEO of the nation's largest single-family rental landlord said the new law banning large-scale investors from the market will lower prices in the long term.",
-      "source": "CNBC",
-      "publication_date": "2026-08-11T16:54:38+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/11/invitation-homes-ceo-institutional-homebuying-ban-prices.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump wants to split the MMR vaccine. Experts say that's unlikely — and comes with consequences",
-      "description": "Doctors and other experts say that splitting the measles, mumps and rubella shot has no scientific basis and is unlikely to get off the ground.",
-      "source": "CNBC",
-      "publication_date": "2026-08-11T16:50:04+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/11/mmr-vaccine-trump-wants-to-split-childhood-shot-up.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
-      "description": "Flowdesk’s VARA approval follows its MiCA authorization in France as crypto firms build regulated operations across major global markets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T16:39:17+00:00",
-      "article_url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
-      "description": "Nasdaq’s acquisition of the third-largest US alternative trading system comes as the exchange operator expands into tokenized securities and longer trading hours.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T16:34:40+00:00",
-      "article_url": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
