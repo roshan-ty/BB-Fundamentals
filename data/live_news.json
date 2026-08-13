@@ -1,27 +1,97 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T06:05:32.059103+00:00",
+    "last_updated": "2026-08-13T07:49:18.781183+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 12,
       "macro": 23,
-      "crypto": 50,
-      "general": 104,
-      "equities": 30,
-      "commodities": 12
+      "general": 105,
+      "equities": 28,
+      "crypto": 52,
+      "forex": 10,
+      "commodities": 10
     }
   },
   "articles": [
     {
-      "headline": "It's on to Jackson Hole next..",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">In case you missed it: <a href=\"https://investinglive.com/news/us-july-cpi-y-y-vs-3-4-expected/\" rel=\"follow\">US July CPI 3.4% y/y vs 3.4% expected</a></p><p class=\"text-align-justify\" style=\"text-align: justify;\">The US CPI report yesterday",
+      "headline": "Spain inflation nudges higher in July as both headline and core prices push up",
+      "description": "<ul><li>July final CPI +3.6% vs +3.5% y/y prelim</li><li>Prior +3.2%</li><li>July final HICP +3.9% vs +3.8% y/y prelim</li><li>Prior +3.6%</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">Spain inflation is confirmed to accelerate again in July, with headline annual inflation seen",
       "source": "Forexlive",
-      "publication_date": "2026-08-13T05:29:54+00:00",
-      "article_url": "https://investinglive.com/news/it-s-on-to-jackson-hole-next/",
+      "publication_date": "2026-08-13T07:00:15+00:00",
+      "article_url": "https://investinglive.com/news/spain-inflation-nudges-higher-in-july-as-both-headline-and-core-prices-push-up/",
       "asset_tags": [
-        "forex",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil eases as weaker demand outlook counters Mideast supply concerns - Reuters",
+      "description": "Oil eases as weaker demand outlook counters Mideast supply concerns Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T06:45:21+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Hyperscale Data Establishes Michigan AI Development Reserve Account and Plan to Provide Monthly Michigan AI Infrastructure Progress Reports",
+      "description": "Customer Has Deposited Approximately $10.6 Million Under Previously Announced Master Services Agreement; Company Anticipates $120 Million of Dedicated Development Capital LAS VEGAS, June 29, 2026 /PRNewswire/ — Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (“AI“) data cente",
+      "source": "Cryptocurrency News",
+      "publication_date": "2026-08-13T06:14:35+00:00",
+      "article_url": "https://cryptocurrencynews.com/crypto/hyperscale-data-establishes-michigan-ai-development-reserve-account-and-plan-to-provide-monthly-michigan-ai-infrastructure-progress-reports/",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "EQT offers $4.9B to acquire Australia’s Cleanaway Waste",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T06:05:40+00:00",
+      "article_url": "https://seekingalpha.com/news/4632082-eqt-offers-49b-to-acquire-australias-cleanaway-waste?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Helios Cash Offer for CAB Payments Holdings plc – Cash Offer update and Disclosure under Rule 2.10 of the Takeover Code (“Code”)",
+      "description": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY IN, INTO OR FROM ANY JURISDICTION WHERE TO DO SO WOULD CONSTITUTE A VIOLATION OF THE RELEVANT LAWS OR REGULATIONS OF THAT JURISDICTION",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-13T06:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344239/0/en/helios-cash-offer-for-cab-payments-holdings-plc-cash-offer-update-and-disclosure-under-rule-2-10-of-the-takeover-code-code.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Samsonite buys 85% stake in Shay Mitchell’s BÉIS for $178.5M",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T05:52:31+00:00",
+      "article_url": "https://seekingalpha.com/news/4632066-samsonite-buys-85-stake-in-shay-mitchells-beis-for-1785m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Metaplanet denies selling bitcoin worth $320 million",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T05:34:48+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T05:21:21+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -83,16 +153,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil eases as weaker demand outlook counters Mideast supply concerns - Reuters",
-      "description": "Oil eases as weaker demand outlook counters Mideast supply concerns Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T01:08:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1294,19 +1354,6 @@
       ]
     },
     {
-      "headline": "Bitcoin Forecast Today: Why BTC Is Struggling Below $64,000",
-      "description": "<p></p><p>Bitcoin Price Forecast: Why BTC Is Struggling Below $64,000 as Sellers Re-Take Control</p><p>Bitcoin futures are navigating a shaky short-term setup today. After a quick bounce from $63,260 stalled right around the $64,000 mark, sellers stepped right back into the driver's seat. While the ",
-      "source": "Forexlive",
-      "publication_date": "2026-08-12T07:29:02+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-forecast-today-why-btc-is-struggling-below-64-000/",
-      "asset_tags": [
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
       "description": "",
       "source": "CoinDesk",
@@ -1314,6 +1361,16 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "India options trading drops 27% as new auction upends strategies",
+      "description": "Many proprietary trading firms and high-frequency traders, which provide liquidity on expiry days, have either stayed away from the auction or reduced activity in the initial days",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-12T06:20:03+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/india-options-trading-drops-27-as-new-auction-upends-strategies",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -1982,66 +2039,6 @@
       "article_url": "https://seekingalpha.com/news/4630725-umh-properties-gains-after-active-erez-pushes-for-sale?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Morgan Stanley unit acquires property in Kansas City for $158.5M",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T14:00:53+00:00",
-      "article_url": "https://seekingalpha.com/news/4630728-morgan-stanley-unit-acquires-property-in-kansas-city-for-1585m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
-      "description": "Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization expands into the multitrillion-dollar maritime industry.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T13:59:20+00:00",
-      "article_url": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Polymarket makes moves to get house in order before expected boom times for prediction markets this fall",
-      "description": "The marketing changes come amid an investigation by the Commodity Futures Trading Commission into the company's promotional practices.",
-      "source": "CNBC",
-      "publication_date": "2026-08-11T13:56:28+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/11/polymarket-revamps-marketing-expands-us-hiring-ahead-of-fall-events.html",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Timothy J. Davies Joins SEDA as a Global Equities and Investment Management Expert",
-      "description": "SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced today that Timothy J. Davies joined the firm as Managing Director. SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced tod",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T13:40:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342852/0/en/timothy-j-davies-joins-seda-as-a-global-equities-and-investment-management-expert.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Gulf stocks fall on fading prospects of US-Iran deal - Reuters",
-      "description": "Gulf stocks fall on fading prospects of US-Iran deal Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T13:36:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWE51WXltVHpwZ1NDajBwY2hiNmo1N2hocHpnb2VSaHJ4SFoweUJOTkd4Y0h3djdlbVhCSnZnQ2MxUHdNWDN0dGRERlFLcTF4blVQZjFjZ29LWmFGaEthaXEzQnNuQTJHdl9SQ1p1MExiSE9aZWtNbWFBRFR2STlwemZCSndOTEN3UnZESFRoSWlNa1VLVXBnLUlyaENoT3lEQkE?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Nasdaq to acquire LeveL Markets, terms undisclosed",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T13:29:19+00:00",
-      "article_url": "https://seekingalpha.com/news/4630708-nasdaq-to-acquire-level-markets-terms-undisclosed?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
