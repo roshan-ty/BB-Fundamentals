@@ -1,18 +1,63 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T15:36:04.314866+00:00",
+    "last_updated": "2026-08-13T16:31:52.992879+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 41,
-      "crypto": 49,
+      "forex": 11,
+      "equities": 40,
+      "commodities": 14,
       "macro": 21,
-      "forex": 10,
-      "general": 100,
-      "commodities": 13
+      "crypto": 50,
+      "general": 100
     }
   },
   "articles": [
+    {
+      "headline": "European shares close lower despite the US tech push higher",
+      "description": "<p>European shares are closing lower on the day, failing to follow the mostly positive tone in U.S. equities. The declines come despite the softer-than-expected U.S. PPI data, which showed headline producer prices unchanged in July versus a 0.2% increase expected, while the year-on-year rate slowed ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-13T16:06:12+00:00",
+      "article_url": "https://investinglive.com/news/european-shares-close-lower-despite-the-us-tech-push-higher/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+      "description": "AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T16:00:23+00:00",
+      "article_url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
+      "description": "The crypto exchange operator’s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T15:36:45+00:00",
+      "article_url": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trezor reports data from 14K users exposed through shipping provider",
+      "description": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T15:25:14+00:00",
+      "article_url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
       "description": "Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.",
@@ -26,15 +71,23 @@
       ]
     },
     {
-      "headline": "AUDUSD is ticking to the upside helped by risk-on flows and technical breaks",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The AUDUSD moved lower yesterday after the post-CPI run to new highs going back to June 5 stalled and reversed into the close. The selling pressure carried into today’s session as the pair broke below both the 100-hour moving average at 0.70598 and the 100-",
-      "source": "Forexlive",
-      "publication_date": "2026-08-13T14:48:32+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/audusd-is-ticking-to-the-upside-helped-by-risk-on-flows-and-technical-breaks/",
+      "headline": "Crypto for Advisors: The crypto advice gap",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
       "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T14:43:38+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -53,16 +106,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-13T14:16:06+00:00",
       "article_url": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
-      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T14:02:06+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -362,6 +405,16 @@
       ]
     },
     {
+      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
+      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T12:00:32+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
       "description": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
       "source": "CNBC",
@@ -429,6 +482,26 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "ECB set to deliver final rate hike next month in shortest tightening drive since 2011 - Reuters",
+      "description": "ECB set to deliver final rate hike next month in shortest tightening drive since 2011 Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T11:13:22+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblFXZVRVbjlRQ21iNnNiTVFHbFpuRkRFVGFDdmRHX3N1dU1NWXpSM2N4Q01uUWdEOUMwb0oxWXptaGZyT3hxRWpQZGZJMS1OR1I5b2ZUYVRmNkxsa3NYZ3FxVW9Ub2ZJejJSMFd5VEtZNHdQYnpwS1V2dGJHZVQ2NkRycjJZSE9zdGJ0Y1BmeWdGcHFyUXNvNzA1VjhsbmZvaTFyaV9MVDFZd2dhRFZfWXBzQmdhNlNFZTV3bFp4WGp4dw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "EU curbs on Chinese solar inverters to bolster European suppliers, SMA Solar says - Reuters",
+      "description": "EU curbs on Chinese solar inverters to bolster European suppliers, SMA Solar says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T11:08:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1dkdWNRRWxqQmVWZ0w2bGdtY013eTJEeGlOYmdZakE2LXZpRS1jQnpmb3VNa3JsR0Q0clhfN0dlNWI5RUJvTlNKNzNydnh6VENoNWJsc1lvRTJZT2pVSU9rZWd2YVE0ZmhZQVpRellEdTBEWUJlc05pdVBwM2d4MEtzMkdNZVRHX1JqRUtPQS1hV0NvX2RsdTd1d1hxbWx0VXB6eDdNbFU5SjM1MVI0ZG8tdi1MTTRYVjA5U3RDSFlqeG05?oc=5",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
@@ -1134,16 +1207,6 @@
         "equities",
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
-      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T19:06:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1984,67 +2047,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2JtNW4wYnFaOEhaWW1QZHg3QkpONTVsa2VJUkk0ZEF0NW8wSHJkTU05YTF0UU1zSlJ0N25IekhhQ19XdmlEQ3BzcmhYUE5tZS1UT0NvcnUzVzU3cmpiY2dfbHBseXdER19yZkpNdG1iMFM3d2JZQk42YUVhMTI1ME9QNXo5UTVzdGhrUnVwaENpeHF2b2p2RUpPSnZHWmwzMTJiTVNpRUhYZ3M0VXhrZzJzUnRGOE10cHc?oc=5",
       "asset_tags": [
         "forex"
-      ]
-    },
-    {
-      "headline": "Inside the fake crypto startup that fooled North Korean IT workers",
-      "description": "Suspected North Koreans IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-12T07:34:58+00:00",
-      "article_url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-12T07:04:53+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "India options trading drops 27% as new auction upends strategies",
-      "description": "Many proprietary trading firms and high-frequency traders, which provide liquidity on expiry days, have either stayed away from the auction or reduced activity in the initial days",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-12T06:20:03+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/india-options-trading-drops-27-as-new-auction-upends-strategies",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Harmony considers rollback after suspected exploit inflates ONE supply",
-      "description": "Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platforms.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-12T06:02:52+00:00",
-      "article_url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-12T06:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "India's Tata shares extend losses after Chandrasekaran resigns - Reuters",
-      "description": "India's Tata shares extend losses after Chandrasekaran resigns Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T05:52:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNREcwOEJKeDlLYUVQZWI2Y0VaamZKN1VVSWZmckZGeWlQa1VvY3MwazFha09ySWxzQ1RfN05jRXJrN29KcU9veGZfSTBLTTV0dl95SlgwLWNadVAzZHlDZXhEbFg0Z0FzQWZ2OWlsTU15OFMwWWNHVVBUUF9XbVgya2VoQXJFdHNTOThvN19xSUVHaGZQbUNLZFd6V2lyRFFXbGNObk5nZWNMRjVHNmlUU3VHMmlOeGNTNF9zUQ?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
