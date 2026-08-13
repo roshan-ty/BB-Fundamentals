@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T00:07:40.074062+00:00",
+    "last_updated": "2026-08-13T02:44:01.123981+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 106,
+      "general": 105,
+      "equities": 33,
       "crypto": 49,
-      "equities": 31,
       "forex": 12,
       "commodities": 12,
-      "macro": 23
+      "macro": 22
     }
   },
   "articles": [
+    {
+      "headline": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks - Reuters",
+      "description": "Oil drops on lower demand forecasts despite deadlock in US-Iran talks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T01:08:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "ASX shareholder plans to sue former directors over failed blockchain project",
+      "description": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T01:00:57+00:00",
+      "article_url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Japan July PPI surges 7.2%, but lower than the expected 7.4%",
       "description": "<p>Just the data in this post. </p><p>Japanese PPI July 2026:</p><ul><li>+7.2% y/y vs. expected +7.4% and prior + 7.1%</li><li>+0.1% m/m vs. expected +0.6% and prior +0.4%</li></ul><p>I'll have more to come on this separately.</p><p></p> This article was written by Eamonn Sheridan at investinglive.c",
@@ -39,6 +60,26 @@
       "source": "Reuters",
       "publication_date": "2026-08-12T23:19:52+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-12T23:16:53+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "'If I go, you go, right?': Traveling on the presidential plane—without Trump - Reuters",
+      "description": "'If I go, you go, right?': Traveling on the presidential plane—without Trump Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T23:06:07+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1qZERoWkltdjF1bTJRWTZQaTJ6NVI1YVBVcVBQLXhuaFBoZ2o2bW9tNTlMR3VFNDlPSHdTUlZ6WkkzR1RkbXpMV1VYZUJRdk1Tano3emJQSGVVdUtlT3FWMWFrVjg3bFZlbUQzNlZuWDJ6M19pb0pjcDRoWjdoZW1iVk04MGRDd0RRSkZpUVJFaDZxem5JWE5SaXFfMVZBZmxub00xdk11SGZ3TFJuNzItSW9IaDB0dzBlVGp2R014eUZj?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -105,16 +146,6 @@
       ]
     },
     {
-      "headline": "'If I go, you go, right?': Traveling on the presidential plane - without Trump - Reuters",
-      "description": "'If I go, you go, right?': Traveling on the presidential plane - without Trump Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T21:20:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1qZERoWkltdjF1bTJRWTZQaTJ6NVI1YVBVcVBQLXhuaFBoZ2o2bW9tNTlMR3VFNDlPSHdTUlZ6WkkzR1RkbXpMV1VYZUJRdk1Tano3emJQSGVVdUtlT3FWMWFrVjg3bFZlbUQzNlZuWDJ6M19pb0pjcDRoWjdoZW1iVk04MGRDd0RRSkZpUVJFaDZxem5JWE5SaXFfMVZBZmxub00xdk11SGZ3TFJuNzItSW9IaDB0dzBlVGp2R014eUZj?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
       "description": "Iranian photojournalist faces 15 years in prison over images, reporting Reuters",
       "source": "Reuters",
@@ -133,6 +164,16 @@
       "asset_tags": [
         "commodities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Top US refiners see profits soar, step up investor rewards - Reuters",
+      "description": "Top US refiners see profits soar, step up investor rewards Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T20:24:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2FVR1ZIejBlNVBEMzQ5S2x1UHpjOHVldkJ1eEU1eVE4QkNGYVU1Z25GZloxaHJWUm1XejJpbHEwTlg4M0FkYkFCbVpSa2hDb3BRYUxpT3FwdlM4Z1psY0RYWWVGYnItQzBlWEpHeTF4Q2dMS2txOUhpQlQzcVgyQU9Ra2lGUVFMTGdMbnRCNWZfLVFybXkxUFlVQzZ6Nko3YlRPa25qZTF0Ny1fYmc?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -215,17 +256,6 @@
       "asset_tags": [
         "equities",
         "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
-      "description": "Dollar gains, yen slips as US CPI meets expectations Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T19:00:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
-      "asset_tags": [
-        "forex",
         "macro"
       ]
     },
@@ -407,6 +437,16 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-12T16:07:59+00:00",
       "article_url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ship recycler GMS buys two sanctions-hit tankers from US government - Reuters",
+      "description": "Ship recycler GMS buys two sanctions-hit tankers from US government Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T15:49:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVE9SN2ZuYm53OFFkb05FcG8yQm1OdUxNelVIcWRaUWJ0YThjdWRlbk4xUFk0YWg4T2hzb0h2ZXh1N2dncDFnaEg1NWZlNHZ0M0dON19SRlN1cWVDNWtRVUZjZVRaVjhNSFRJODdKV1pxMFdXakZtMzV6dmhlWW9Nd085cVRpck00VjBaS0drN19JT29ZV3hQUXZJWXZhd3kwN3N2Tkp3MDBYQ04ycWQ4TmVrZk4?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1379,6 +1419,17 @@
       ]
     },
     {
+      "headline": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
+      "description": "Dollar gains, yen slips as US CPI meets expectations Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T00:57:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
       "headline": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
       "description": "Regulators allege Goliath promised crypto liquidity-pool returns but instead paid earlier investors and funded its founder’s luxury spending.",
       "source": "Cointelegraph",
@@ -1386,6 +1437,16 @@
       "article_url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Air taxi firm Joby acquires defense tech company for $500 million - Reuters",
+      "description": "Air taxi firm Joby acquires defense tech company for $500 million Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T23:34:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR19tSGNrX0pFRjZvY0RpV0JCMWtnRGlDN2IzTHYyY0xFTDM3d0ZRSXh0UXB0bmFjclJKUmozbllfOTFnRW5yUF9kWTIwSEFuSy1DcDJ1eE5vdEhhUm92a0JxQlNYVXFCU2RLVGEwQ1BwM2dUSHQ2bG52Z0x0cDJMY3lfS2pHMlVNZ1Z0QXV4SnRRRks2dW1TSFBrcWUwdHI2a2twZWlCUktTbl9ZcW5ib2hqdFdKdk0wSlh6dllUX1c?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1417,6 +1478,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil prices continue climb on US-Iran deal doubts; stocks retreat - Reuters",
+      "description": "Oil prices continue climb on US-Iran deal doubts; stocks retreat Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-11T21:33:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1973,77 +2044,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342734/0/en/katapult-the-aaron-s-company-and-ccf-holdings-complete-business-combination-to-create-a-scaled-financial-solutions-platform-for-nonprime-consumers.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Thoma Bravo Completes Acquisition of Kneat",
-      "description": "Thoma Bravo acquires digital validation leader Kneat in all-cash transaction valued at approximately C$650 million.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T12:49:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342733/0/en/thoma-bravo-completes-acquisition-of-kneat.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman - Reuters",
-      "description": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T12:47:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXg2TDlnMzVlaTc1d1hoaFVFTG91b29XZzlBMC1hNGZ1REtpdDlTLXZFcGF5Mjg0N1ZvaVpSZlpEYkR6TUM1Mktja1k2TDdIVGlBZHBrMEFGdHNXSFFQV0s0eEY3aHRBcXNxa3FKUkR6Y1RmSVZOS0lwbGVZTVFKX3VUMzU5c2wwZ2VjZ1pqWU1PeDNhb0lOeFlzcDFnN1lS?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "HSBC Global Asset Management (UK) PLC - Form 8.3 - Bodycote plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T12:45:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342730/0/en/hsbc-global-asset-management-uk-plc-form-8-3-bodycote-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official - Reuters",
-      "description": "US fired on Panama-flagged ship that tried to break blockade of Iranian ports, WSJ reports citing US official Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-11T12:43:04+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTElqUlBOZlk3YzNMRzFoNEV6S1MxOXFhTXRaRF83Rjdzc1FxYUZZV3ZOZnJibWdPNmN5TWtrQnVRYzFyTWkwbjRVRjRqUWxhbExsdUxRN2ZOcDlwYV93U1ltaWRJdy0xYlBvSzhFLXM3TmV4VG1oOHRDWEdGTW44UEo1RkJDY2tqUG1zbjd5U3JSd1pDNVlpOTlxckxSYV93VXVVM2lpT1JGeVo5TmVUOEVZTEVsaVpLNk9BYnFqOWRTMHRoMElia2Nodw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "SpaceX takeover could ease Musk’s path to massive Tesla pay award: WSJ",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-11T12:38:24+00:00",
-      "article_url": "https://seekingalpha.com/news/4630669-spacex-takeover-could-ease-musk-s-path-to-massive-tesla-pay-award-wsj?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "GreetEat Signs Binding LOI to Acquire ChefKart",
-      "description": "GreetEat (OTC: GEAT) signs binding LOI to acquire ChefKart, expanding its technology-enabled consumer services platform into India.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-11T12:37:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/11/3342722/0/en/greeteat-signs-binding-loi-to-acquire-chefkart.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EToro to buy TradeZero as Q2 crypto revenue falls 30%",
-      "description": "Trading platform eToro will acquire TradeZero as part of its US expansion as it reported crypto-related revenue fell by about 30% compared to the second quarter of 2025.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-11T12:35:00+00:00",
-      "article_url": "https://cointelegraph.com/markets/etoro-buy-tradezero-crypto-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
       ]
     }
   ]
