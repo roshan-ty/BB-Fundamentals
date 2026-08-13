@@ -1,24 +1,86 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T22:58:45.386889+00:00",
+    "last_updated": "2026-08-13T23:46:20.365087+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 105,
-      "equities": 37,
-      "crypto": 47,
-      "macro": 19,
-      "forex": 7,
-      "commodities": 13
+      "equities": 36,
+      "crypto": 49,
+      "macro": 18,
+      "commodities": 12,
+      "forex": 6
     }
   },
   "articles": [
+    {
+      "headline": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T23:09:14+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
+      "description": "US could not verify Israeli warnings of Iran plots against Trump, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T22:52:42+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "NZ manufacturing growth cools to 54.3 in July after June's surge",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The pullback from June's standout reading looks more like a natural correction than a genuine turn in the cycle, with every sub-index still comfortably in expansion territory and the headline figure well above the survey's ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-13T22:36:13+00:00",
+      "article_url": "https://investinglive.com/news/nz-manufacturing-growth-cools-to-54-3-in-july-after-june-s-surge/",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-13T22:18:07+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens - Reuters",
+      "description": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T22:01:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFTRDhha2lGLW5hTU1KdDZnVjlxd2hEY1lqX3Zfd2NmVlRXZjVWbDNHMXdJem1SX1hsNUpoaF9lWHhYUVFmUWJ0SDBWRG5uOGMzYzI0MFh6ckthOWJNZXNtR0tJVFJFcEMtVjdwZVFpdURyczZ0NTkzMDh1dDJNRWxKQ2htMEpBQ3N2Q25OY19wRWxaYTVCTmJJRWprVFFSMWNITjl4QmUxQVN1MUFnNHRsRWJGYUpHZ1Ywb0Nn?oc=5",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Foods Connected Acquires HarvestMark Quality Insights Platform From iFoodDS",
       "description": "The acquisition demonstrates Foods Connected’s commitment to expanding quality and food safety capabilities in North America and Australia. The acquisition demonstrates Foods Connected’s commitment to expanding quality and food safety capabilities in North America and Australia.",
       "source": "GlobalNewswire",
       "publication_date": "2026-08-13T21:52:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3345027/0/en/foods-connected-acquires-harvestmark-quality-insights-platform-from-ifoodds.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump orders Navy to abandon carrier launch system, return to steam catapults - Reuters",
+      "description": "Trump orders Navy to abandon carrier launch system, return to steam catapults Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T21:42:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -94,19 +156,6 @@
       ]
     },
     {
-      "headline": "Fitch affirms US at AA+, keeps outlook stable amid growth slowdown",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The affirmation removes near term downgrade risk from the US sovereign story, but the accompanying commentary leans cautious rather than reassuring. Fitch's growth downgrade from 2.8% to 1.9% alongside a weakening labor mar",
-      "source": "Forexlive",
-      "publication_date": "2026-08-13T20:54:49+00:00",
-      "article_url": "https://investinglive.com/news/fitch-affirms-us-at-aa-keeps-outlook-stable-amid-growth-slowdown/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Citi to acquire Kard commerce media and rewards platform",
       "description": "",
       "source": "SeekingAlpha",
@@ -137,11 +186,11 @@
       ]
     },
     {
-      "headline": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
-      "description": "US could not verify Israeli warnings of Iran plots against Trump, sources say Reuters",
+      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
+      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-13T19:53:53+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
+      "publication_date": "2026-08-13T19:38:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -174,17 +223,6 @@
       "article_url": "https://seekingalpha.com/news/4632683-workday-jumps-on-report-silver-lakes-in-talks-to-acquire?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
-      "description": "Stocks rise as traders reduce rate hike bets, oil prices drop Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T18:41:41+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -1312,13 +1350,14 @@
       ]
     },
     {
-      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
-      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build Reuters",
+      "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
+      "description": "Stocks rise as traders reduce rate hike bets, oil prices drop Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-13T01:08:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+      "publication_date": "2026-08-13T01:02:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
       "asset_tags": [
-        "general"
+        "equities",
+        "macro"
       ]
     },
     {
@@ -1398,6 +1437,16 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-12T22:11:09+00:00",
       "article_url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ukraine has retaken 745 sq km in 'precision' operation this year, Zelenskiy says - Reuters",
+      "description": "Ukraine has retaken 745 sq km in 'precision' operation this year, Zelenskiy says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T21:24:50+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkoyOTlIR2NIRXptcnZtelYxMjBCbWMwbzhkZnlEczVZa0hZQk5wYlhaQkJkM04wdDlEYUFRX3c2bm1EalpMMW9mN20xZXBEQ3QwaTdoaXhVNEFvOWpibFVHMTFlbXJGd1VDR3ZqM2prY2pLSHlFUExPRVVSNzlXdHllVlRNbWpnX2YyV3pULXZuQmFIZHpUVXRna1EzekZKQWxvZzNFVVZsSEI1WlZpU2NVNTdWbzA?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1700,16 +1749,6 @@
       ]
     },
     {
-      "headline": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
-      "description": "Trump says his plane faced 'greater risk' in secret flight change Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T16:34:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Diginex Limited Provides Update on Proposed Acquisition of Resulticks",
       "description": "LONDON and NEW YORK, Aug. 12, 2026 (GLOBE NEWSWIRE) -- Diginex Limited (NASDAQ: DGNX) (“Diginex” or the “Company”), a provider of ESG, sustainability, and compliance solutions to institutional and corporate clients, today announced an update regarding its previously disclosed proposed acquisition of",
       "source": "GlobalNewswire",
@@ -1998,47 +2037,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
       "asset_tags": [
         "forex"
-      ]
-    },
-    {
-      "headline": "America doesn’t need a second-class payments system",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-12T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "description": "The July CPI report matched expectations, and CoreWeave's earnings report shows booming demand for Nvidia chips.",
-      "source": "CNBC",
-      "publication_date": "2026-08-12T12:50:34+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Goldman Sachs to buy options-based ETF provider NEOS for up to $2.25B",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-12T12:50:22+00:00",
-      "article_url": "https://seekingalpha.com/news/4631460-goldman-sachs-to-buy-options-based-etf-provider-neos-for-up-to-225b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Ancora offers up to $1.2B for H.B. Fuller building adhesives business",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-12T12:47:09+00:00",
-      "article_url": "https://seekingalpha.com/news/4631473-ancora-offers-up-to-12b-for-hb-fuller-building-adhesives-business?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
