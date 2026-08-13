@@ -1,18 +1,78 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-13T17:36:46.509924+00:00",
+    "last_updated": "2026-08-13T18:33:36.148504+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 23,
+      "crypto": 50,
       "general": 100,
-      "crypto": 51,
-      "equities": 38,
-      "commodities": 13,
-      "forex": 8
+      "equities": 37,
+      "macro": 23,
+      "forex": 8,
+      "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+      "description": "The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to address regulation related to crypto assets, artificial intelligence and prediction markets.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T18:18:50+00:00",
+      "article_url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Hewlett Packard Enterprise wins approval for DOJ settlement in Juniper deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-13T17:54:06+00:00",
+      "article_url": "https://seekingalpha.com/news/4632645-hewlett-packard-enterprise-wins-approval-for-doj-settlement-in-juniper-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "National Advertising Division Recommends Dreame Modify or Discontinue “2-Minute” Hair Drying Claims",
+      "description": "In a challenge brought by Dyson Inc., BBB National Programs’ National Advertising Division recommended that Dreame Technology modify or discontinue advertising claims that its hair styling tools dry hair in two minutes to avoid conveying the unsupported message that the products can dry long hair in",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-13T17:45:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344818/0/en/national-advertising-division-recommends-dreame-modify-or-discontinue-2-minute-hair-drying-claims.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+      "description": "The Blockchain Association argues the Fed should not have broad discretion to deny eligible state-chartered banks direct access to its payment system.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T17:36:09+00:00",
+      "article_url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
+      "description": "Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-13T17:28:54+00:00",
+      "article_url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
+      "description": "Are global oil stocks big enough to weather another six months of US-Iran war? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T17:15:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "US treasury sells 30 year bonds at a high yield of 5.216%",
       "description": "<ul><li>High yield 5.216%</li><li>WI level at the time of the auction 5.212%</li><li>Tail 0.4 basis points vs average of -0.2 basis points</li><li>Bid to cover 2.39X vs average of 2.43X</li><li>Directs 21.6% vs average of 22.5%</li><li>Indirects 66.8% vs average of 67.0%</li><li>Dealers 11.6% vs ave",
@@ -24,6 +84,16 @@
       ]
     },
     {
+      "headline": "H.B. Fuller Announces AMS Shareholders Approve Proposed Acquisition",
+      "description": "ST. PAUL, Minn.--(BUSINESS WIRE)--H.B. Fuller Company (“H.B. Fuller”) (NYSE: FUL), the world’s largest pureplay adhesives company, today announced that shareholders of Advanced Medical Solutions Group plc (“AMS”) (LSE:AMS) approved H.B. Fuller’s proposed acquisition of AMS at specially convened meet",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-13T17:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260812610667/en/H.B.-Fuller-Announces-AMS-Shareholders-Approve-Proposed-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
       "description": "Iran, US make competing claims over control of Strait of Hormuz Reuters",
       "source": "Reuters",
@@ -31,6 +101,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
+      "description": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T16:43:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -54,13 +134,13 @@
       ]
     },
     {
-      "headline": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
-      "description": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says Reuters",
+      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
+      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-13T16:15:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
+      "publication_date": "2026-08-13T16:07:25+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
       "asset_tags": [
-        "crypto"
+        "general"
       ]
     },
     {
@@ -175,18 +255,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
       "asset_tags": [
         "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Mobix Labs Signs Transformational Rare Earths Acquisition Agreement, Expanding National Security Platform",
-      "description": "IRVINE, Calif.--(BUSINESS WIRE)---- $MOBX #AerialIntelligence--Mobix Labs, Inc. (Nasdaq: MOBX) has signed a definitive agreement to acquire Special Project Delivery, expanding Mobix into rare earth elements, critical minerals, energy and strategic U.S. infrastructure — key resources underpinning Ame",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-13T13:40:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260812356788/en/Mobix-Labs-Signs-Transformational-Rare-Earths-Acquisition-Agreement-Expanding-National-Security-Platform/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities",
-        "commodities",
         "crypto"
       ]
     },
@@ -442,16 +510,6 @@
       ]
     },
     {
-      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
-      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T12:00:32+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
       "description": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
       "source": "CNBC",
@@ -509,16 +567,6 @@
       "article_url": "https://www.cnbc.com/2026/08/13/family-office-giorgos-tsetis-nutrafol.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-      "description": "Are global oil stocks big enough to weather another six months of US-Iran war? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T11:13:35+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1257,16 +1305,6 @@
       ]
     },
     {
-      "headline": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
-      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T19:06:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Andrew Peller Limited Receives Final Order Approving Arrangement With Fairfax Financial Holdings Limited",
       "description": "GRIMSBY, Ontario, Aug. 12, 2026 (GLOBE NEWSWIRE) -- Andrew Peller Limited (\"Andrew Peller\" or the \"Company\") (TSX: ADW.A / ADW.B) today announced the receipt of the final order of the Ontario Superior Court of Justice (Commercial List) (the \"Final Order\") with respect to the previously-announced pla",
       "source": "GlobalNewswire",
@@ -1893,37 +1931,6 @@
       ]
     },
     {
-      "headline": "StoneX Announces Acquisition of Banco Travelex, Expanding Brazil Payments and FX Capabilities",
-      "description": "StoneX enters into definitive agreement to acquire Banco Travelex, expanding its payments, FX and banking capabilities in Brazil.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-12T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343523/11961/en/stonex-announces-acquisition-of-banco-travelex-expanding-brazil-payments-and-fx-capabilities.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "StoneX anuncia aquisição do Banco Travelex e amplia sua oferta a clientes no Brasil",
-      "description": "A aquisição acelera a expansão da StoneX em pagamentos globais. Espera-se que a operação combinada processe aproximadamente US$ 6 bilhões em volume anual, atendendo cerca de 20 mil clientes. A aquisição acelera a expansão da StoneX em pagamentos globais. Espera-se que a operação combinada processe a",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-12T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343522/11961/pt/stonex-anuncia-aquisi%C3%A7%C3%A3o-do-banco-travelex-e-amplia-sua-oferta-a-clientes-no-brasil.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Auddia Files Definitive Proxy Statement and Sets Shareholder Meeting Date for Merger Vote",
-      "description": "Auddia Files Definitive Proxy Statement and Sets Shareholder Meeting Date for Merger Vote",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-12T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343513/0/en/auddia-files-definitive-proxy-statement-and-sets-shareholder-meeting-date-for-merger-vote.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
       "headline": "Bitcoin holds near $64,000 as U.S. inflation data looms, Harmony exploit rattles altcoins",
       "description": "",
       "source": "CoinDesk",
@@ -2032,16 +2039,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-12T09:03:01+00:00",
       "article_url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "One overlooked group has added $1.78 billion of selling pressure to bitcoin market",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-12T08:53:23+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market",
       "asset_tags": [
         "crypto"
       ]
