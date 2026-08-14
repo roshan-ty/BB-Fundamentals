@@ -1,18 +1,92 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T14:36:27.002762+00:00",
+    "last_updated": "2026-08-14T15:27:40.982270+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 45,
-      "forex": 7,
+      "general": 105,
+      "macro": 21,
       "equities": 40,
-      "macro": 20,
-      "general": 106,
-      "commodities": 8
+      "crypto": 48,
+      "forex": 6,
+      "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "Disney CEO Josh D'Amaro to speak with CNBC live from D23 expo",
+      "description": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
+      "source": "CNBC",
+      "publication_date": "2026-08-14T15:13:56+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump asks Supreme Court to let White House ballroom construction continue",
+      "description": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
+      "source": "CNBC",
+      "publication_date": "2026-08-14T15:11:41+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "GBPUSD moves to new highs going back to May. Breaks away from 50% retracement.",
+      "description": "<p>The GBPUSD is running higher and is now up near 0.50% on the day. The run higher has taken the price above the 100 hour moving average and 50% retracement of the 2026 trading range at 1.3503. The price is also extending above the month of July at 1.35573. The high prices just reached 1.3561. That",
+      "source": "Forexlive",
+      "publication_date": "2026-08-14T14:52:58+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/gbpusd-moves-to-new-highs-going-back-to-may-breaks-away-from-50-retracement/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Datavault AI Will Acquire CyberCatch in an All-Cash Transaction",
+      "description": "PHILADELPHIA--(BUSINESS WIRE)---- $CYBE #AICybersecurity--Datavault AI Inc. (“Datavault AI” or the “Company”) (NASDAQ: DVLT), a provider of data monetization, credentialing, digital engagement, and real-world asset (“RWA”) tokenization technologies, today announced they have signed a definitive agre",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-14T14:46:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260814352898/en/Datavault-AI-Will-Acquire-CyberCatch-in-an-All-Cash-Transaction/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "description": "Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-time highs.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T14:38:27+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+      "description": "Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, while Ether ETF positions and several crypto-linked stocks also increased.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T14:22:57+00:00",
+      "article_url": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-14T14:20:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345436/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
       "description": "JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadrupled its Ether ETF position in the second quarter.",
@@ -24,16 +98,13 @@
       ]
     },
     {
-      "headline": "US Business inventories for June 0.0% vs 0.1% estimate",
-      "description": "<ul><li>Prior month 0.3% revised higher to 0.4%</li><li>Business inventories for June 0.0% vs 0.1% estimate</li><li>Retail inventories ex autos -0.4% vs -0.2% last month.</li></ul><p>Sales show a sharp fall in June but still up strong for the year. </p><ul><li>June business sales: $2.111 trillion </",
-      "source": "Forexlive",
-      "publication_date": "2026-08-14T14:00:19+00:00",
-      "article_url": "https://investinglive.com/news/us-business-inventories-for-june-0-0-vs-0-1-estimate/",
+      "headline": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-14T14:12:34+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
       "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
+        "general"
       ]
     },
     {
@@ -44,6 +115,36 @@
       "article_url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "HH Group Acquires Strategic Washington, D.C. Student Housing Investment Near George Washington University, Expanding National Portfolio",
+      "description": "HH Group acquires Varsity on K near George Washington University, surpassing $1B in AUM and expanding its Washington, D.C. student housing presence.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-14T14:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345404/0/en/hh-group-acquires-strategic-washington-d-c-student-housing-investment-near-george-washington-university-expanding-national-portfolio.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "description": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T13:57:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Israel’s largest bank to offer crypto trading with Galaxy",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-14T13:51:37+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -84,16 +185,6 @@
       "article_url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
-      "description": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T13:28:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -315,16 +406,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Core Scientific Completes Acquisition of Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW of Gross Power",
-      "description": "MIAMI--(BUSINESS WIRE)--Core Scientific, Inc. (Nasdaq: CORZ) (“Core Scientific” or the “Company”), a leader in digital infrastructure for high-density colocation (“HDC”), today announced that it has completed its previously announced acquisition of Polaris DS LLC (“Polaris”). Through the acquisition",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-14T11:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260813550795/en/Core-Scientific-Completes-Acquisition-of-Polaris-DS-Advancing-Planned-Muskogee-Expansion-to-1.5-GW-of-Gross-Power/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1334,16 +1415,6 @@
       ]
     },
     {
-      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-13T14:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344671/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
       "description": "",
       "source": "CoinDesk",
@@ -1967,76 +2038,6 @@
       "article_url": "https://www.cnbc.com/2026/08/13/treasury-yields-wall-street-inflation-data.html",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "India's Tata Trusts says panel will recommend next Tata Sons chairman - Reuters",
-      "description": "India's Tata Trusts says panel will recommend next Tata Sons chairman Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T08:39:02+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeW1iMXM4MWV3dWZ3WUxHMGQxWnpnOFdmWU1wbnVxUnNYVDBYRi1rdzQ5M05WVUpSVWE5M2hyUFNocTVKT1ZuQ0J1cjEzQ0dUTGRDdGxXdHlVdm5qTnRXek1YMUx1MkNXcmxKYXpzV2R0SFlUWGxHVkh0dUhwZGMwc19uTVFvVDM5UDRHaWM3dGZObHQ2ZmxraFk1TWt2U05qYXdnSHREc25uejlxem1MVQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Securitize falls 16% after earnings miss, tokenization revenue drops",
-      "description": "Securitize shares fell 16% from Wednesday’s close after the tokenization platform’s $14.4 million second-quarter revenue missed Wall Street estimates.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T08:29:01+00:00",
-      "article_url": "https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Container shipper Hapag-Lloyd takes $600 million hit from Middle East crisis - Reuters",
-      "description": "Container shipper Hapag-Lloyd takes $600 million hit from Middle East crisis Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T08:09:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEVqUzZhU3FfVmZacHpYMncwdGRfby1oSUpXMHpWVGpmc3FEbGtrNElEc3Z4RXNoUWZaUnp1SmRhY1ZMdG13UmdpSGRLaFA0ZWJGaUR6NG1JX1hkOUJ4WE42NXd3YXZSU0laRERVQlIzM0NrRjJfSzRoR2hjMXp5RU5PSHlHVWE2ZF9UbmRORXRaR2Q0RU9rczA1QjEwcGYxVkJ4U0I4T0VnZ1hIT1V2bWprU0MwZw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
-      "description": "An $18.8 million unrealized digital asset loss and weaker trading margins pushed BitGo into the red in the second quarter.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T07:42:59+00:00",
-      "article_url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
-      "description": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T07:14:19+00:00",
-      "article_url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says - Reuters",
-      "description": "Salvors work to secure ship leaking oil off Oman, risk firm Ambrey says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T06:49:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXZnUEpPS0ZneGR2NUIwLVFwa3lNY1Q1QndiTTFQSFhWb3dtZmYtdzdrUnllS1JNREVILUNab3NBUlB3OGxncDIzTjN1OF9PdVVyNVFWQjhoWGpwLVdLTkIxenhXZFhlVTBuRjlyZnEtYUxCMGxscmtzdEhVSWVTY25EZDFqeWJHV2NIdjllU1ZrcFo4QmdnUFZUYWpLSWRRSVRIUGhvUTdXeXQ2WW5qVkNTUzhObzg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UK economy gains from Gulf ceasefire, World Cup and sunshine - Reuters",
-      "description": "UK economy gains from Gulf ceasefire, World Cup and sunshine Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T06:13:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
