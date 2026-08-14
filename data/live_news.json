@@ -1,26 +1,57 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T06:41:26.274791+00:00",
+    "last_updated": "2026-08-14T08:04:15.330306+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "commodities": 13,
-      "general": 105,
-      "forex": 8,
+      "crypto": 48,
+      "macro": 21,
+      "general": 104,
       "equities": 37,
-      "crypto": 46,
-      "macro": 20
+      "forex": 8,
+      "commodities": 12
     }
   },
   "articles": [
     {
-      "headline": "German wholesale prices bounce back in July as energy tax cut lapses",
-      "description": "<ul><li>July wholesale prices +0.2% m/m</li><li>Prior -0.7%</li><li>July wholesale prices +5.3% y/y</li><li>Prior +4.9%</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">German wholesale prices nudged up in July, owing much to another bump in the price of petroleum products. The ex",
-      "source": "Forexlive",
-      "publication_date": "2026-08-14T06:00:22+00:00",
-      "article_url": "https://investinglive.com/news/german-wholesale-prices-bounce-back-in-july-as-energy-tax-cut-lapses/",
+      "headline": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-14T07:14:37+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
       "asset_tags": [
-        "commodities"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Swiss economy estimated to post quarterly growth of 1.5% in the second quarter",
+      "description": "<ul><li>Switzerland Q2 flash GDP +1.5% q/q</li><li>Prior (Q1) +0.4%</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">This is only the provisional estimate and may be revised after when the more detailed report is released, after around another 60 days. As such, there's not all too",
+      "source": "Forexlive",
+      "publication_date": "2026-08-14T07:13:43+00:00",
+      "article_url": "https://investinglive.com/news/swiss-economy-estimated-to-post-quarterly-growth-of-1-5-in-the-second-quarter/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Charter-Cox merger gets final state approval",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-14T07:11:47+00:00",
+      "article_url": "https://seekingalpha.com/news/4633042-california-regulator-approves-charter-cox-merger?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-14T06:20:54+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+      "asset_tags": [
+        "equities",
+        "crypto"
       ]
     },
     {
@@ -67,8 +98,8 @@
       ]
     },
     {
-      "headline": "Hormuz shipping traffic capped amid competing claims from US and Iran - Reuters",
-      "description": "Hormuz shipping traffic capped amid competing claims from US and Iran Reuters",
+      "headline": "Hormuz shipping traffic capped amid competing claims from US and Iran - reuters.com",
+      "description": "Hormuz shipping traffic capped amid competing claims from US and Iran reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-14T03:48:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHN6X2pBMFpxcnFUajQxN1B2MlhZTUVTRlZSYzVkVXp6MENXb2xUai1zRXVTeEhKUVVtSnJabU9yTVd6U05ETV9uRS1FNlVvWjh1dS1vTGd6UjltTXZXU1o0ODlEUWhZNUl6SFF5WGhtNldwbnpNa3lVbEV6SG12RjgtT2V4d2pCVnB4c2UtTEp4S2JOZFY5REVPdUZscnVFaC02akt2dF9rWUhDckZVNmlVRjk?oc=5",
@@ -77,8 +108,8 @@
       ]
     },
     {
-      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
-      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
+      "headline": "The US says more oil is leaving the Middle East, but is it really? - reuters.com",
+      "description": "The US says more oil is leaving the Middle East, but is it really? reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-14T02:40:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
@@ -87,8 +118,8 @@
       ]
     },
     {
-      "headline": "Asian stocks head for strong weekly gains as US rate hike bets fade - Reuters",
-      "description": "Asian stocks head for strong weekly gains as US rate hike bets fade Reuters",
+      "headline": "Asian stocks head for strong weekly gains as US rate hike bets fade - reuters.com",
+      "description": "Asian stocks head for strong weekly gains as US rate hike bets fade reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-14T02:32:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
@@ -97,8 +128,8 @@
       ]
     },
     {
-      "headline": "Indian shares slip as US threatens indefinite naval blockade of Iran - Reuters",
-      "description": "Indian shares slip as US threatens indefinite naval blockade of Iran Reuters",
+      "headline": "Indian shares slip as US threatens indefinite naval blockade of Iran - reuters.com",
+      "description": "Indian shares slip as US threatens indefinite naval blockade of Iran reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-14T02:28:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1Jd01iTWNHTjJIOVNSdG1pVFRlTDVSZVBxY0tYSTdGU0t1T1ZzN3ZPQnYxSGpyeUtxbUhDZG1TVElrcUVrTmVmSnk1a3BCRDJoMUZoSHBjaTdfaURDcERHS2hHU2N5c05lbjJwYzluMFlkU1JnUmtEQjlmbVVIcVZ5QTVXUllxTEFZaXJlSjdKMWV6VV93YTNhSzNELUpSejZZ?oc=5",
@@ -118,8 +149,8 @@
       ]
     },
     {
-      "headline": "Oil steadies after US threatens indefinite blockade of Iran - Reuters",
-      "description": "Oil steadies after US threatens indefinite blockade of Iran Reuters",
+      "headline": "Oil rises after US threatens indefinite blockade of Iran - reuters.com",
+      "description": "Oil rises after US threatens indefinite blockade of Iran reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-14T01:36:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
@@ -148,8 +179,8 @@
       ]
     },
     {
-      "headline": "Bessent says US to apply measures never seen on Iran - Reuters",
-      "description": "Bessent says US to apply measures never seen on Iran Reuters",
+      "headline": "Bessent says US to apply measures never seen on Iran - reuters.com",
+      "description": "Bessent says US to apply measures never seen on Iran reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T23:31:45+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2p2QW55Tk9jcjF5Ti1OZmlpMGpLTEg0RU92RVEtMzFobXY2TmtNWjFJaUVZMl9RaWxWM09uV2xjVlQ0dnFHcGlEVi1Zc3ZnRHpFMkZ5VExoeTdzSVE0cmYzMVRFQUExRHA2RHNhZFpFMFZnNnIySjh3RTBRSXVtX3ZqVTJjVWhGSmdpTHVmY19QRE9ieWNmaDdaM2hmOHZfRFE?oc=5",
@@ -168,8 +199,8 @@
       ]
     },
     {
-      "headline": "Iran war a boon for China's e-trucks, fuelling export surge - Reuters",
-      "description": "Iran war a boon for China's e-trucks, fuelling export surge Reuters",
+      "headline": "Iran war a boon for China's e-trucks, fuelling export surge - reuters.com",
+      "description": "Iran war a boon for China's e-trucks, fuelling export surge reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T23:02:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVEwN3ZXeTQ5RmxKUlJScTRsa1FpNGJCaGVfR1dkMDJMVkZnenFHUDcxVjdmbVk2ajJaaWxlTDZ3SkVZd1hLdG9yenk0X0hyb01wMXpxQ1JEbklIR3d1cVdtbVdETXNhRy1NQUhJSVpYa05vOEc4emFqc1R0eUNOWDhCYmlxaThjTm5TaDV2RmZaeWk4VlBINmM0UWVlaV9MSTRZc0xkQTZ4QQ?oc=5",
@@ -188,8 +219,8 @@
       ]
     },
     {
-      "headline": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
-      "description": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure Reuters",
+      "headline": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - reuters.com",
+      "description": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T21:53:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFTRDhha2lGLW5hTU1KdDZnVjlxd2hEY1lqX3Zfd2NmVlRXZjVWbDNHMXdJem1SX1hsNUpoaF9lWHhYUVFmUWJ0SDBWRG5uOGMzYzI0MFh6ckthOWJNZXNtR0tJVFJFcEMtVjdwZVFpdURyczZ0NTkzMDh1dDJNRWxKQ2htMEpBQ3N2Q25OY19wRWxaYTVCTmJJRWprVFFSMWNITjl4QmUxQVN1MUFnNHRsRWJGYUpHZ1Ywb0Nn?oc=5",
@@ -209,8 +240,8 @@
       ]
     },
     {
-      "headline": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters",
-      "description": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers Reuters",
+      "headline": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - reuters.com",
+      "description": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T21:37:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5",
@@ -219,8 +250,8 @@
       ]
     },
     {
-      "headline": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-      "description": "Are global oil stocks big enough to weather another six months of US-Iran war? Reuters",
+      "headline": "Are global oil stocks big enough to weather another six months of US-Iran war? - reuters.com",
+      "description": "Are global oil stocks big enough to weather another six months of US-Iran war? reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T21:21:16+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
@@ -239,8 +270,8 @@
       ]
     },
     {
-      "headline": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - Reuters",
-      "description": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries Reuters",
+      "headline": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - reuters.com",
+      "description": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T21:19:19+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGt4emw3dzdDaUdoNmsxMmRjMlkwZUJCUVlURko4RzRvMjUybnlUMVRGUnFLT0plclNLYkt0dGN1RV9fZnQ3QlE2UkN0d002blZDVUtTX0JwQXhkbXVDZ25WbDBLWld0anI2MmEtMUJOUFVNUTVDeVhpOXlldTQtQmlMVmVzcE1KS0tnWHhUNWtodmJRNjJWNFEyak9ZSGRadktNS3FMZ2tjc0o3MEh6eXEwcTZjY1Q3dmg1eg?oc=5",
@@ -269,8 +300,8 @@
       ]
     },
     {
-      "headline": "NEWSLETTER: Trump reckons with a war that won’t leave him alone - Reuters",
-      "description": "NEWSLETTER: Trump reckons with a war that won’t leave him alone Reuters",
+      "headline": "NEWSLETTER: Trump reckons with a war that won’t leave him alone - reuters.com",
+      "description": "NEWSLETTER: Trump reckons with a war that won’t leave him alone reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T20:58:27+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFFaUWV6X2Y0Z1ZyZnlDaHlOUG5rSnFzdDFSVGx2SzluWVVJYlFlRFdMXzQzQkV4UERITFhfaEdQdmdCVS1tUmJWWFlYdnF6dk5IcXdPdERjVzZtQV9na3dtR2VxYkc2LWtHOFdlVl9LcEQyUHRPdWhuM2drMnpQV1BCTURwYUE1d0VMV2QzaW1PWms5V2pwUg?oc=5",
@@ -309,8 +340,8 @@
       ]
     },
     {
-      "headline": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
-      "description": "US could not verify Israeli warnings of Iran plots against Trump, sources say Reuters",
+      "headline": "US could not verify Israeli warnings of Iran plots against Trump, sources say - reuters.com",
+      "description": "US could not verify Israeli warnings of Iran plots against Trump, sources say reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T19:48:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
@@ -379,8 +410,8 @@
       ]
     },
     {
-      "headline": "Iran, US make competing claims over control of Strait of Hormuz - Reuters",
-      "description": "Iran, US make competing claims over control of Strait of Hormuz Reuters",
+      "headline": "Iran, US make competing claims over control of Strait of Hormuz - reuters.com",
+      "description": "Iran, US make competing claims over control of Strait of Hormuz reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T17:51:32+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnRSa0s5a1NHbzFqLTczc1FydWJqXzd1Nmc4ZEJoWlRheExRdUpFMjdxS2haWDc5cHdmRUNONVEzRjhaZjUyLVNmV0NpcXROSkFwaDBpVlBkOHc1SU52OXptQ1hLRnE1NVNIRHpxUVU5MFgxRTFpYUNFMnNGQXdtbTF3a05qV3gwNEpxaEswd053TXFPbnlSZExIc01hck56MjIyV2d4QQ?oc=5",
@@ -429,8 +460,8 @@
       ]
     },
     {
-      "headline": "Yemen at highest risk of major conflict since 2022 truce, UN warns - Reuters",
-      "description": "Yemen at highest risk of major conflict since 2022 truce, UN warns Reuters",
+      "headline": "Yemen at highest risk of major conflict since 2022 truce, UN warns - reuters.com",
+      "description": "Yemen at highest risk of major conflict since 2022 truce, UN warns reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T17:25:46+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMC1Hb3ZMdDRzNVlfc1NxaWstRk16Vk44emxyaU4tcmtzOEExQ0pyUlQzS2ZsTkhlVWFkTlp5SUswUmlIcGZJWGE0X2FNRXh0cnJvQWpZV25OQ0xpUk1wU0VfeDhWdlRQQUpWZ3RqV2RULTN4Ty1nNnctTXZlU3U3TU1WSW01cG1vWWIxNkR4M1JPNzVtT1ZVSGQxUlZsV3Y1U2tIcktxTE1oTnluc2Z1TXdsVQ?oc=5",
@@ -459,8 +490,8 @@
       ]
     },
     {
-      "headline": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - Reuters",
-      "description": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says Reuters",
+      "headline": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says - reuters.com",
+      "description": "US can keep naval blockade on Iranian ports \"indefinitely,\" Pentagon chief says reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T16:43:12+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVG5Gb2NKOTltbG9CVlpKTElmclFqS1JyWGtIckF6UzhMYlVCQUp4a1FEWnRzWDQxS24ycTZYTEstVHIzbzhpMENnMWVzV2kxdklsV0pFR3h5Nk93OGtDRUJndkJhWEMtaUNjQm1scHdJZlczYWlfcUZXQ2pLMGp6S3k0YTdMUS1zaUxyWk1Sd2VSUWpFUmxxb285T1JaUGdUM2paUGotRk5JLWY1QVJWR1lTOC1XWC1xbndPdk5LdkdpTXR2VXc?oc=5",
@@ -489,8 +520,8 @@
       ]
     },
     {
-      "headline": "Hegseth says reports about poor conditions aboard carrier are misrepresented - Reuters",
-      "description": "Hegseth says reports about poor conditions aboard carrier are misrepresented Reuters",
+      "headline": "Hegseth says reports about poor conditions aboard carrier are misrepresented - reuters.com",
+      "description": "Hegseth says reports about poor conditions aboard carrier are misrepresented reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T16:01:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT21sVzBFV2Zad0JYdG0tTUtSLXluQ19SMWdHel9GNHBqY1BucXZ0cHByV242RDE5eTl6VEptVXU0OE5PNXFkeWhocTR5b181Nlpmdk95NElkZ2NfWXQyQ2FjVUc2MlZUZVJoMkxpb3ZnS0lrbFpydTcxYXNVNjdaVWNTRHNmRGNCdDFzMG02NWVPVEkwOUxKUDU1c25fcFNON1V0anp3Tkp4Qkd0TWJRalhZLWJCTktTYWwtRnV3?oc=5",
@@ -521,8 +552,8 @@
       ]
     },
     {
-      "headline": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones - Reuters",
-      "description": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones Reuters",
+      "headline": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones - reuters.com",
+      "description": "Yemen's Houthis say they attacked Saudi Aramco refinery in Jazan with two drones reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T15:28:37+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVhsYXl4b0NkRk9GdFhWN0lBcU16ckh5aG9SakN2TzBSMGIxSVUxYm9TY3VndmdwM0YwMjlrTGZQMmNaTWJHTlhzZXFBM004ZHhsQm1wNDVMNFNfXzZtTVVFZXBaOWRNV3h2Wjc3dXZsbGlseE1LZ00wUno4ZkMwMGpOR3JxczRNaTlGdHZsWTd1a1lpZWNiQnBfYWl4TXhwQjNNRlRXeDhETTlrYkg3R01UeTJkQUdIbkhGN1dIVl85ZFpOdVF0ZlJB?oc=5",
@@ -696,8 +727,8 @@
       ]
     },
     {
-      "headline": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh - Reuters",
-      "description": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh Reuters",
+      "headline": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh - reuters.com",
+      "description": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T13:11:24+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUhEd2FOWGZpSzJ6R2ZVUkdIV1pxanVfWkQxQ3Y5aGUtSzJZd09tVTFrMk1lOXJxYXg5SjFPY2NLQ0VZeXJRZ0JxWWZtdlZtRTc0S3kwT0lDNGZGUHh2LU40eThsM2JlRW10cGZDLVAwX1VlVGVSd1plcDducXF3LWt5b1hSbWNxSS1uUWJhVVFsVFVOT3VYMlNWUmdQb2VWTjlVWUMwM05DR3RSN0dEbnl3?oc=5",
@@ -746,8 +777,8 @@
       ]
     },
     {
-      "headline": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - Reuters",
-      "description": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck Reuters",
+      "headline": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck - reuters.com",
+      "description": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T12:50:28+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV1FIaHZjdWh5bnZXZU04TlJVazN6cWVJdFRnYnFpOTk3N285VjlpdGJmdjc1MkNkdVIwQmFFWGY1U1V4X2Q1ZU04SmptOUFhS09FNDBtQVVuTVJBUUptZGp0NHZRVlBQWmpXa0xSNVlUdnlqUXVoNnplNUJYbWVhdUFwdGRWM1VKUm5aaWE0akNtY3l1SGdwQTREQ3VNNFNvU0FNN0hFTVRqOFZLVFVxSWx4cDk1VEVwUV8xMzlZSjlibGpaUTlfQUZmMTVKcC02VktHN1dR?oc=5",
@@ -826,8 +857,8 @@
       ]
     },
     {
-      "headline": "India's Petronet says no clarity on September LNG supplies from Qatar - Reuters",
-      "description": "India's Petronet says no clarity on September LNG supplies from Qatar Reuters",
+      "headline": "India's Petronet says no clarity on September LNG supplies from Qatar - reuters.com",
+      "description": "India's Petronet says no clarity on September LNG supplies from Qatar reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T12:33:46+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWx2U3hCNjhtakphc3gwM1JGbVZjZk92aDM4UlBlRi1hZ0Q5eVBsY2x6TjM3cmxqcDVTZVJkaW9WME43ZnQ0eTVJcWhfSENCemdrR2NOTngzczdPUW80YmhzSUxvMmxvZ2JsM0h6R01mUmR2Q2xJb2QyNFBZNXc3TS1Fa3Z1dkMzR3ZGOXFDSGlHLVYyUnZQeUVkRlI1REl4S1VDVU1CVUhFVGxqVGVsWlVR?oc=5",
@@ -836,8 +867,8 @@
       ]
     },
     {
-      "headline": "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament - Reuters",
-      "description": "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament Reuters",
+      "headline": "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament - reuters.com",
+      "description": "After US criticism, Israel ties Lebanon withdrawal to Hezbollah disarmament reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T12:30:59+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObUJ5VWVuMWJJR0cySXFnVW5lbEFJbWQyeWdOSWRlSFRfRTZzaU5lbXlBbDZObXIzLWY5VXJXSHYtajUyRm9WcTQ2LWEwQ2N5VTc5X0F4ZE0tWWhKNDhkTjFRNjhqR1dZa3loVFFod1JkOS1UQ0d6VWgteGo5MV93YkY1S2cwQmVod1poOEpJTFh3VmtRZzZINWZCQmtCM3hsYnFmUUZBM1V6T0ZQWlZHQ0pkbWhVYktnZnpONmZYWXIwT0U?oc=5",
@@ -906,8 +937,8 @@
       ]
     },
     {
-      "headline": "Diesel prices overtake jet fuel in Europe as global shortage widens - Reuters",
-      "description": "Diesel prices overtake jet fuel in Europe as global shortage widens Reuters",
+      "headline": "Diesel prices overtake jet fuel in Europe as global shortage widens - reuters.com",
+      "description": "Diesel prices overtake jet fuel in Europe as global shortage widens reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T12:12:14+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejlyV0VLYkdZTjh6Z2JGUF8tczNIMGNic1RNSlY4cC13b01ERjV0ZnpmSFNpSHFRSThUUDIzY25KbmpLTVVLMzB1aXJEODJMMUl5QkY3OU95TlR0S215YnJTelNxYy1PT2NKbHdqZ0xidV9lRGRxa3ppekp3aENoRmFleG53RF9XVFFpRmtvNEwwSFJ2WHpxZExaS1FyZDZpdmJoeUtpYjJ0U18wa3FLTUNmYw?oc=5",
@@ -986,8 +1017,8 @@
       ]
     },
     {
-      "headline": "ECB set to deliver final rate hike next month in shortest tightening drive since 2011 - Reuters",
-      "description": "ECB set to deliver final rate hike next month in shortest tightening drive since 2011 Reuters",
+      "headline": "ECB set to deliver final rate hike next month in shortest tightening drive since 2011 - reuters.com",
+      "description": "ECB set to deliver final rate hike next month in shortest tightening drive since 2011 reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T11:13:22+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblFXZVRVbjlRQ21iNnNiTVFHbFpuRkRFVGFDdmRHX3N1dU1NWXpSM2N4Q01uUWdEOUMwb0oxWXptaGZyT3hxRWpQZGZJMS1OR1I5b2ZUYVRmNkxsa3NYZ3FxVW9Ub2ZJejJSMFd5VEtZNHdQYnpwS1V2dGJHZVQ2NkRycjJZSE9zdGJ0Y1BmeWdGcHFyUXNvNzA1VjhsbmZvaTFyaV9MVDFZd2dhRFZfWXBzQmdhNlNFZTV3bFp4WGp4dw?oc=5",
@@ -1371,8 +1402,8 @@
       ]
     },
     {
-      "headline": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil - Reuters",
-      "description": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil Reuters",
+      "headline": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil - reuters.com",
+      "description": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T05:47:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbEV3SWIzTHVVZllzRFo2RlNPT2RyMGM4VFJRem9vTGdsbE9YU3VVaEphNjVkZHlWb3J2aVdEQmI2ekY1YlEwb3RHSFUybHotdUxObjhYMktSdmdHSlpJM1hGczZWQ29rSGxZVHdBMGdDX083MFpNVW9HNmdKTGhZcnBQd0hNM3R0Nm9ucG1pR0ozTzNyRF9kOElkeFUzdElPdk95aVpXUEpWcE1LRkZjUWdjWnBLTzU0YUNIY0hwUVI3NkdoV1BlVFBOU2kzQ2s?oc=5",
@@ -1523,8 +1554,8 @@
       ]
     },
     {
-      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
-      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build Reuters",
+      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - reuters.com",
+      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T01:08:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
@@ -1543,8 +1574,8 @@
       ]
     },
     {
-      "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - Reuters",
-      "description": "Stocks rise as traders reduce rate hike bets, oil prices drop Reuters",
+      "headline": "Stocks rise as traders reduce rate hike bets, oil prices drop - reuters.com",
+      "description": "Stocks rise as traders reduce rate hike bets, oil prices drop reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-13T01:02:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
@@ -1575,8 +1606,8 @@
       ]
     },
     {
-      "headline": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - Reuters",
-      "description": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' Reuters",
+      "headline": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' - reuters.com",
+      "description": "Trump says Iran options are let Tehran fail economically or 'hit them really hard' reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T23:29:17+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUNwdDR2X2Z6TlJ2NDZ5VVVESGN1bHdOU3RHSVY5aGJSdmJldVZ6YVh5ZDVNNUxJMFpValdCa0dKSFJBLUZzeTdEU1pmcmhMVjAtQzBFdm91QW1JZERManNpTlMtbzBEaVhnZTRybjF1YkxVVVBtLWE0Vk4xOW9NWWhJU19yUUdLYy1MNHpDTTFjb3F0ajMtZHl1THdCSG00NjFNQTgtUzZpNG1DN0cwWi1lR2VNdWJvQjBkNHYtSy1GcVRLQ3hYTXJVQ2ZZZW8?oc=5",
@@ -1595,8 +1626,8 @@
       ]
     },
     {
-      "headline": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - Reuters",
-      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia Reuters",
+      "headline": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - reuters.com",
+      "description": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T23:13:34+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
@@ -1656,8 +1687,8 @@
       ]
     },
     {
-      "headline": "Iranian photojournalist faces 15 years in prison over images, reporting - Reuters",
-      "description": "Iranian photojournalist faces 15 years in prison over images, reporting Reuters",
+      "headline": "Iranian photojournalist faces 15 years in prison over images, reporting - reuters.com",
+      "description": "Iranian photojournalist faces 15 years in prison over images, reporting reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T21:04:10+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZMS1VuU2djMmpESEVFMlhMZm1lWjEzWlRCVDlwRXRaeVRGMXpxWi1RSFdYT2lCOVZkVGkyYmFxSWp5TnpOUmNNSnR1bDdVUHN6Y2w1cXBORTk1dk45ZzROUHRlVWNicG9zZlZxUWtiMjZhbDZUci1FTVRSdUFpSFYxdHVhOVVVWnJmX3RvbndjandLaUN6cnBPS0k4YzUzdW41M0FVMy1ucHFwYlozRGxCbGRIaE9ZQm5FZDl6TXpQUWQt?oc=5",
@@ -1666,8 +1697,8 @@
       ]
     },
     {
-      "headline": "'If I go, you go, right?': Traveling on the presidential plane—without Trump - Reuters",
-      "description": "'If I go, you go, right?': Traveling on the presidential plane—without Trump Reuters",
+      "headline": "'If I go, you go, right?': Traveling on the presidential plane—without Trump - reuters.com",
+      "description": "'If I go, you go, right?': Traveling on the presidential plane—without Trump reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T21:03:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1qZERoWkltdjF1bTJRWTZQaTJ6NVI1YVBVcVBQLXhuaFBoZ2o2bW9tNTlMR3VFNDlPSHdTUlZ6WkkzR1RkbXpMV1VYZUJRdk1Tano3emJQSGVVdUtlT3FWMWFrVjg3bFZlbUQzNlZuWDJ6M19pb0pjcDRoWjdoZW1iVk04MGRDd0RRSkZpUVJFaDZxem5JWE5SaXFfMVZBZmxub00xdk11SGZ3TFJuNzItSW9IaDB0dzBlVGp2R014eUZj?oc=5",
@@ -1707,8 +1738,8 @@
       ]
     },
     {
-      "headline": "US budget deficit widens in July on higher outlays, negative tariff receipts - Reuters",
-      "description": "US budget deficit widens in July on higher outlays, negative tariff receipts Reuters",
+      "headline": "US budget deficit widens in July on higher outlays, negative tariff receipts - reuters.com",
+      "description": "US budget deficit widens in July on higher outlays, negative tariff receipts reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T20:17:29+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUJ0U0RwQ2U2OHRKX1JZX1daaUdjR0ZMZWM5a0x3VndUUzJ0RFRTMTQ4ZHA1blZIYlVNWTZOeTUwa2QxcGQtVGpCRXN0WlJqNW1abl9wMnptY2hTSDA2VHUzNVFBLWVsTnRDYzZYQjBQS2VnZ2VBVVRNVHQwQTJiQ2dxSF92cHlFSENDQ1psZF9rM3plUE5mTzZtUWR0U1d0ZlZ3Z3NZRXBOX2ZQSGZXUTlKNkpHMHZ0amdoUg?oc=5",
@@ -1738,8 +1769,8 @@
       ]
     },
     {
-      "headline": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - Reuters",
-      "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster Reuters",
+      "headline": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster - reuters.com",
+      "description": "Huge oil slick hitting Oman's shoreline as agencies warn of disaster reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T20:14:01+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVGNVS3hTUTZFb3JqbU5JZTRLRzRFMWVrcGpmSmx1WHo4MUVraTRveDUtTEhqMFZGbnY1TFc0VDhwQlhEWEh2TTBIbmlfS2NYcVY5SXk5WExhTU5vMTdtSWhVREhqNnlZNzdqekJ0MVM3ZmtMa0p3UE1CWnRqSndGTURsM0ZaaEJIRzRPMS1LQVB1YVJMdXNnM0xXY0Z0WS0zZlJ2R2N5THM1a0NWZThJT0dHbFdoLWg2YmFTTlhvQ29IaHc?oc=5",
@@ -1810,8 +1841,8 @@
       ]
     },
     {
-      "headline": "Along the path of totality: best photos from the eclipse - Reuters",
-      "description": "Along the path of totality: best photos from the eclipse Reuters",
+      "headline": "Along the path of totality: best photos from the eclipse - reuters.com",
+      "description": "Along the path of totality: best photos from the eclipse reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T18:48:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmxGY0NZeUNJUFJ1dnNoTG9NdWtfYXRyS3lUS1hmTDMzd3RZR0N3VDVoQm53ckEwZjJOenVXcTF6Uy1sZ3pvRkw3RXBfcEs2QjlGRXpIYU9EV3AxZ0xWc1Fkd0dENV9Ec3dxUTBrWkdESTlvVlJLSGlZYjkyWXhtdmZ5RnI0SU53WTB1aw?oc=5",
@@ -1911,8 +1942,8 @@
       ]
     },
     {
-      "headline": "Credible missile threat led to secret aircraft switch for Trump, source says - Reuters",
-      "description": "Credible missile threat led to secret aircraft switch for Trump, source says Reuters",
+      "headline": "Credible missile threat led to secret aircraft switch for Trump, source says - reuters.com",
+      "description": "Credible missile threat led to secret aircraft switch for Trump, source says reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T16:58:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlRqMEthQzJ3NWM2WVctYUhwMTlFekFyd0o3QVpnUkRoeUxUMGxSSThmVW1QT096QmVNUlRHZkxOUXM5M0tGdXBSRlIwbWFQbHFEdVdaR2lUVkdTaWRybHFZYzRtMk85LUNLMXF4bGFsZU1UVE54SXJsZWFRYnRmNlRoVVhWNUZVNm1OZmdlTHI3RlpYYWtULV9qZWFvVUtVMEl4aFByMDJXRHN0RHpxanJvNGY3cGNKN3Y5QUlncHljV193bEstMGFzTQ?oc=5",
@@ -1942,8 +1973,8 @@
       ]
     },
     {
-      "headline": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
-      "description": "Trump says his plane faced 'greater risk' in secret flight change Reuters",
+      "headline": "Trump says his plane faced 'greater risk' in secret flight change - reuters.com",
+      "description": "Trump says his plane faced 'greater risk' in secret flight change reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T16:34:09+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
@@ -1992,8 +2023,8 @@
       ]
     },
     {
-      "headline": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
-      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand Reuters",
+      "headline": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - reuters.com",
+      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T16:07:09+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
@@ -2002,44 +2033,14 @@
       ]
     },
     {
-      "headline": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
-      "description": "Dollar gains, yen slips as US CPI meets expectations Reuters",
+      "headline": "Dollar gains, yen slips as US CPI meets expectations - reuters.com",
+      "description": "Dollar gains, yen slips as US CPI meets expectations reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-12T16:03:57+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
       "asset_tags": [
         "forex",
         "macro"
-      ]
-    },
-    {
-      "headline": "Ship recycler GMS buys two sanctions-hit tankers from US government - Reuters",
-      "description": "Ship recycler GMS buys two sanctions-hit tankers from US government Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T15:49:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVE9SN2ZuYm53OFFkb05FcG8yQm1OdUxNelVIcWRaUWJ0YThjdWRlbk4xUFk0YWg4T2hzb0h2ZXh1N2dncDFnaEg1NWZlNHZ0M0dON19SRlN1cWVDNWtRVUZjZVRaVjhNSFRJODdKV1pxMFdXakZtMzV6dmhlWW9Nd085cVRpck00VjBaS0drN19JT29ZV3hQUXZJWXZhd3kwN3N2Tkp3MDBYQ04ycWQ4TmVrZk4?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Warner Bros. gains amid post on optimism on potential settlement with Calif AG",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-12T15:29:58+00:00",
-      "article_url": "https://seekingalpha.com/news/4631577-warner-bros-gain-amid-post-on-optimism-on-potential-settlment-with-calif-ag?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-      "description": "Peltz's relationship with Wendy's dates back to an activist campaign he led more than two decades ago.",
-      "source": "CNBC",
-      "publication_date": "2026-08-12T15:25:09+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
