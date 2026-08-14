@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T21:37:50.621090+00:00",
+    "last_updated": "2026-08-14T21:57:13.786445+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 46,
+      "macro": 16,
       "forex": 7,
-      "equities": 45,
       "commodities": 8,
       "crypto": 47,
-      "macro": 15,
-      "general": 108
+      "general": 107
     }
   },
   "articles": [
+    {
+      "headline": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+      "description": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T21:22:23+00:00",
+      "article_url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
     {
       "headline": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
       "description": "<ul><li><a href=\"https://investinglive.com/education/why-retail-traders-are-rethinking-traditional-prop-firms\" rel=\"follow\">Why Retail Traders Are Rethinking Traditional Prop Firms</a></li><li><a href=\"https://investinglive.com/stocks/us-stocks-end-the-week-mixed-russell-2000-closes-at-a-record\" rel",
@@ -2029,16 +2040,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-13T12:00:27+00:00",
       "article_url": "https://www.cnbc.com/2026/08/13/how-a-california-goat-herding-company-is-hedging-against-risk-of-higher-wages.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-      "description": "The SEC said it will not pursue enforcement action if Franklin Templeton’s funds start investing cash in the asset manager’s own tokenized money market fund.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T11:48:37+00:00",
-      "article_url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
       ]
