@@ -1,18 +1,52 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T21:07:59.231744+00:00",
+    "last_updated": "2026-08-14T21:37:50.621090+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 7,
       "equities": 45,
-      "general": 108,
+      "commodities": 8,
+      "crypto": 47,
       "macro": 15,
-      "crypto": 45,
-      "forex": 6,
-      "commodities": 7
+      "general": 108
     }
   },
   "articles": [
+    {
+      "headline": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
+      "description": "<ul><li><a href=\"https://investinglive.com/education/why-retail-traders-are-rethinking-traditional-prop-firms\" rel=\"follow\">Why Retail Traders Are Rethinking Traditional Prop Firms</a></li><li><a href=\"https://investinglive.com/stocks/us-stocks-end-the-week-mixed-russell-2000-closes-at-a-record\" rel",
+      "source": "Forexlive",
+      "publication_date": "2026-08-14T21:18:50+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-14-aug-stocks-finish-mixed-as-yields-rise-and-the-dollar-falls/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Ireland plans industry standards for illicit crypto use",
+      "description": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T21:08:52+00:00",
+      "article_url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric - Reuters",
+      "description": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T20:38:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Diana Shipping Inc. Withdraws Offer to Acquire Genco Shipping & Trading Following Genco Board's Outrageous Demands",
       "description": "Following Nine Months of Avoiding Engagement, Genco Board Demands Consideration Valued at Approximately $36.91 Per Share — a 57% Premium to Genco’s Undisturbed Share Price at the Time of Diana’s Last Offer",
@@ -41,16 +75,6 @@
       "article_url": "http://www.businesswire.com/news/home/20260814775881/en/Real-and-REMAX-Holdings-Securityholders-Approve-Proposed-Combination/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Trump: Pretty soon will be declaring Strait of Hormuz territory of the US",
-      "description": "<p>Trump is speaking and says:</p><ul><li>Pretty soon he'll be declaring the Strait of Hormuz territory of the US.</li><li>Warned that Iranian aggression would be met with response hundred times harder and emphasized that the US only permits vessels to enter the Strait at its discretion. </li><li>Ca",
-      "source": "Forexlive",
-      "publication_date": "2026-08-14T20:04:38+00:00",
-      "article_url": "https://investinglive.com/news/trump-pretty-soon-will-be-declaring-strait-of-hormuz-territory-of-the-us/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -1052,8 +1076,8 @@
       ]
     },
     {
-      "headline": "Oil prices rally as global stocks retreat - Reuters",
-      "description": "Oil prices rally as global stocks retreat Reuters",
+      "headline": "Oil prices rally, US data dents chances of Fed rate hike - Reuters",
+      "description": "Oil prices rally, US data dents chances of Fed rate hike Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-14T02:32:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
@@ -2015,26 +2039,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-13T11:48:37+00:00",
       "article_url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Fintech startup Navi said to hire banks for ₹3,000 crore IPO",
-      "description": "The IPO is expected to comprise a primary share sale, with no secondary offering by existing shareholders, the people said. Navi is seeking a valuation of as much as $2 billion and is targeting to file the prospectus by December",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-13T11:46:56+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/flipkart-founder-s-navi-said-to-hire-banks-for-315-million-ipo",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Whitebox Real Estate and Labora announce ownership transition",
-      "description": "Whitebox acquires Labora Real Estate's ownership stake and transitions sole ownership to Grand Pruitt. Whitebox acquires Labora Real Estate's ownership stake and transitions sole ownership to Grand Pruitt.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-13T11:45:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344416/0/en/whitebox-real-estate-and-labora-announce-ownership-transition.html",
       "asset_tags": [
         "general"
       ]
