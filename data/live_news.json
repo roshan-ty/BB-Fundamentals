@@ -1,29 +1,70 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T03:15:50.810363+00:00",
+    "last_updated": "2026-08-14T05:08:45.409979+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 7,
-      "equities": 36,
-      "commodities": 13,
-      "crypto": 49,
       "general": 105,
-      "macro": 18
+      "equities": 36,
+      "forex": 8,
+      "commodities": 13,
+      "crypto": 48,
+      "macro": 20
     }
   },
   "articles": [
     {
-      "headline": "Follow-up: Latvia shoots down drone hours after issuing air threat alert",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">This confirms the escalation we flagged as a live possibility in our <a href=\"https://investinglive.com/news/eur-risk-latvia-issues-air-threat-alert-finland-restricts-gulf-of-finland-traffic/\" rel=\"follow\">earlier piece</a>",
+      "headline": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
+      "description": "BA Labs had previously classified a proposed NUSD integration as higher risk because of its counterparty, operational and liquidity exposure.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T04:44:31+00:00",
+      "article_url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Western Union and Intermex Provide Update on Pending Acquisition",
+      "description": "DENVER & MIAMI--(BUSINESS WIRE)--The Western Union Company (NYSE: WU) and International Money Express, Inc. (Intermex) (NASDAQ: IMXI) today provided an update regarding regulatory approvals for Western Union’s pending acquisition of Intermex. Western Union and Intermex announced today that the parti",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-14T04:14:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260813834323/en/Western-Union-and-Intermex-Provide-Update-on-Pending-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific Market news: Oil edges up, small move",
+      "description": "<ul><li><a href=\"https://investinglive.com/news/trump-orders-more-tariffs-this-time-up-to-100-on-drone-imports-cites-security\" rel=\"follow\">Trump orders more tariffs, this time up to 100% on drone imports. Cites security.</a></li><li><a href=\"https://investinglive.com/news/follow-up-latvia-shoots-do",
       "source": "Forexlive",
-      "publication_date": "2026-08-14T02:37:03+00:00",
-      "article_url": "https://investinglive.com/news/follow-up-latvia-shoots-down-drone-hours-after-issuing-air-threat-alert/",
+      "publication_date": "2026-08-14T03:40:12+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-edges-up-small-move/",
       "asset_tags": [
         "forex",
         "equities",
         "commodities",
-        "crypto"
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
+      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T02:40:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Asian stocks set for weekly gain on fading US rate hike wagers - Reuters",
+      "description": "Asian stocks set for weekly gain on fading US rate hike wagers Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T02:32:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -37,8 +78,8 @@
       ]
     },
     {
-      "headline": "Oil steadies after US threatens to blockade Iran indefinitely - Reuters",
-      "description": "Oil steadies after US threatens to blockade Iran indefinitely Reuters",
+      "headline": "Oil steadies after US threatens indefinite blockade of Iran - Reuters",
+      "description": "Oil steadies after US threatens indefinite blockade of Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-14T01:36:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
@@ -97,16 +138,6 @@
       ]
     },
     {
-      "headline": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
-      "description": "US could not verify Israeli warnings of Iran plots against Trump, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T22:52:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
       "description": "",
       "source": "CoinDesk",
@@ -114,16 +145,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
-      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T22:07:20+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -218,16 +239,6 @@
       ]
     },
     {
-      "headline": "Simulations Plus Announces Expiration of Hart-Scott-Rodino Waiting Period for Pending Acquisition by Altaris",
-      "description": "RESEARCH TRIANGLE PARK, N.C.--(BUSINESS WIRE)--Simulations Plus, Inc. (Nasdaq: SLP) (“Simulations Plus” or the “Company”), a global leader in model-informed and AI-accelerated drug development that advances biopharma innovation, announced the expiration of the waiting period under the Hart-Scott-Rod",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-13T21:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260813655754/en/Simulations-Plus-Announces-Expiration-of-Hart-Scott-Rodino-Waiting-Period-for-Pending-Acquisition-by-Altaris/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "NEWSLETTER: Trump reckons with a war that won’t leave him alone - Reuters",
       "description": "NEWSLETTER: Trump reckons with a war that won’t leave him alone Reuters",
       "source": "Reuters",
@@ -265,6 +276,16 @@
       "article_url": "https://seekingalpha.com/news/4632775-diversified-energy-nears-17b-deal-for-elliott-backed-birch-resources---bloomberg?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "commodities"
+      ]
+    },
+    {
+      "headline": "US could not verify Israeli warnings of Iran plots against Trump, sources say - Reuters",
+      "description": "US could not verify Israeli warnings of Iran plots against Trump, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T19:48:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSnhVZVpUNm9PZUM5Z3VkNWp1NVJNdmdYcTZDblZhWURVRnhKLWtNTTVUeHpaNE5wN2M0cGU1WFBycHhGT2h4T2taMTR0NUduWkRCczBUMTVwaldHY0lNVzB6QkZMMHg4dUM3ekkwaWJWME9NSHlWSUl6R0pXYk92V3BZM1NNVnRNNVRFR1hhVXU2blhNTEdKeWh6c3pGUVNSS09XTDgwNkxtMmVSU1lnQVZob2FldllGeWVMRUZ1NkRnNEs5WUE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -368,16 +389,6 @@
       ]
     },
     {
-      "headline": "Hegseth says reports about poor conditions aboard carrier are misrepresented - Reuters",
-      "description": "Hegseth says reports about poor conditions aboard carrier are misrepresented Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T17:29:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT21sVzBFV2Zad0JYdG0tTUtSLXluQ19SMWdHel9GNHBqY1BucXZ0cHByV242RDE5eTl6VEptVXU0OE5PNXFkeWhocTR5b181Nlpmdk95NElkZ2NfWXQyQ2FjVUc2MlZUZVJoMkxpb3ZnS0lrbFpydTcxYXNVNjdaVWNTRHNmRGNCdDFzMG02NWVPVEkwOUxKUDU1c25fcFNON1V0anp3Tkp4Qkd0TWJRalhZLWJCTktTYWwtRnV3?oc=5",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
       "headline": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
       "description": "Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
       "source": "Cointelegraph",
@@ -445,6 +456,16 @@
       "article_url": "https://seekingalpha.com/news/4632569-dynatrace-buying-arize-should-boost-ai-presence-more-aggressively-bofa-says?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Hegseth says reports about poor conditions aboard carrier are misrepresented - Reuters",
+      "description": "Hegseth says reports about poor conditions aboard carrier are misrepresented Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T16:01:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT21sVzBFV2Zad0JYdG0tTUtSLXluQ19SMWdHel9GNHBqY1BucXZ0cHByV242RDE5eTl6VEptVXU0OE5PNXFkeWhocTR5b181Nlpmdk95NElkZ2NfWXQyQ2FjVUc2MlZUZVJoMkxpb3ZnS0lrbFpydTcxYXNVNjdaVWNTRHNmRGNCdDFzMG02NWVPVEkwOUxKUDU1c25fcFNON1V0anp3Tkp4Qkd0TWJRalhZLWJCTktTYWwtRnV3?oc=5",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -642,6 +663,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh - Reuters",
+      "description": "Gulf markets mixed as US-Iran tensions, Hormuz disruption weigh Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T13:11:24+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVUhEd2FOWGZpSzJ6R2ZVUkdIV1pxanVfWkQxQ3Y5aGUtSzJZd09tVTFrMk1lOXJxYXg5SjFPY2NLQ0VZeXJRZ0JxWWZtdlZtRTc0S3kwT0lDNGZGUHh2LU40eThsM2JlRW10cGZDLVAwX1VlVGVSd1plcDducXF3LWt5b1hSbWNxSS1uUWJhVVFsVFVOT3VYMlNWUmdQb2VWTjlVWUMwM05DR3RSN0dEbnl3?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1380,6 +1411,16 @@
       ]
     },
     {
+      "headline": "SEBI mulls sweeping SME listing overhaul to increase investor participation",
+      "description": "SEBI proposes major changes to SME listing rules, aiming to enhance investor participation and broaden access for larger companies.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-13T04:01:52+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/india-said-to-plan-easier-rules-to-boost-micro-cap-listings",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Duolingo Invests in World-Class Motion Design with Acquisition of Animade",
       "description": "Award-winning London studio expands Duolingo's creative capabilities to build even more engaging learning experiences Award-winning London studio expands Duolingo's creative capabilities to build even more engaging learning experiences",
       "source": "GlobalNewswire",
@@ -1398,6 +1439,16 @@
       "asset_tags": [
         "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "India said to seek 60 transport aircraft in $10-billion tender",
+      "description": "India launches a $10 billion tender for 60 multirole transport aircraft, promoting domestic production with foreign technology partnerships.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-13T03:51:50+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-12/india-said-to-seek-60-transport-aircraft-in-10-billion-tender",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1891,6 +1942,27 @@
       ]
     },
     {
+      "headline": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand - Reuters",
+      "description": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T16:07:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajU2TkE4Zm1kOHlwM2hwX0VXeWJTNkFCblBrN0FuUDNfN1NMRFQ1NE1HREZGVE96UXMyajRlamxJaVZqMGxQNGRyZlBZQ2xnNVNEZjdBZ05zR25PWEFTNksxMk9iREoyNElfZ1h0aUdiTmFKdEJpZlJfUDk1d25ZTXptbnByMDFfRjk2R1oxZ29pNFZiQVhwTmRCaDIzUXdYSFlxZnl6aU05eG1WLWlQWg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dollar gains, yen slips as US CPI meets expectations - Reuters",
+      "description": "Dollar gains, yen slips as US CPI meets expectations Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T16:03:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnhDSnpIWUFyU185anRuZ0lKYjItT2RJaWU3czNGbGdwVVBTbzRlaEF1QjJ3cERWVEZUVkV2Q0kwc3FtQVBpVWx3SmFnbTVlcEkyX0ZYb0lhd2tDQ0ZXcXl1RHl4aTR6dXVjYnRYZjZVUlN0TDE1QXJ4cF9SaHNueElkRF94cGlXbHJZdnlBSExxZzhaMVAxa0lKblNReU0tdFJJ?oc=5",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
       "headline": "Ship recycler GMS buys two sanctions-hit tankers from US government - Reuters",
       "description": "Ship recycler GMS buys two sanctions-hit tankers from US government Reuters",
       "source": "Reuters",
@@ -1967,76 +2039,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-12T14:51:12+00:00",
       "article_url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Syria receives first shipments at pier previously used by Russia - Reuters",
-      "description": "Syria receives first shipments at pier previously used by Russia Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T14:47:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1F6QTROOWFGelRhMi1TN1N2T2luTk1EWnAwRElTb196c2tSYW5JalhXQzktM0RXRkNFa1VfeUYtVjBnNERXTFJBSjFNRkQ4eVBaS3JqZ2w5M1VhbUdxZHpnZGdVLVdhWWZ3S3VRbUlvYXM2RTV3d0lYeEg0cnR4LXg4c2FUeE82YjZ3N08wXzFRT0VKWnNYZXpobFBaRnlJa2V1WnBTZXZpMUNqbzRLYXBvdjg2QQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump says US has 'total control' over Strait of Hormuz - Reuters",
-      "description": "Trump says US has 'total control' over Strait of Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T14:39:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2o4cWFmWUZQNXN2WUhmYU1GVFpxdk9WM3d1YzhtS3lkQVpFdUoyNjJZMG9oSXpRNkk2VXM3X2FlTXp2T2V2VldGR3dBMGczQ0JQQkM2YjJTT2VkRkFBMVpOamlFNTBocGtvR2ZJUWJ2TnRtYVhnTVMzM1RkRks0MzV0MFQ5RWxrdmlTZThMUXh1emcycXdz?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "ECB leans toward allowing Unicredit's bid for Commerzbank - report",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-12T14:29:54+00:00",
-      "article_url": "https://seekingalpha.com/news/4631504-ecb-leans-toward-allowing-unicredits-bid-for-commerzbank---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - easyJet PLC",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-12T14:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/12/3343827/0/en/davidson-kempner-capital-management-lp-form-8-3-easyjet-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EU, 26 countries condemn Iran's executions of protesters - Reuters",
-      "description": "EU, 26 countries condemn Iran's executions of protesters Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T14:13:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1ltMHdDSEFsNmlFUlJGbXVPWmhpUWp2U01YaEV1cGloSk9hT2ttWENpRmg1VjVrOE0xWXhac2dSQk5xZDFaUk5XY0NPWmtjdWZ5c2wyRDVHQUxRc0JHOTFQTnk3MlFNbWFzaE1LMldIdWNWUHVkU0dzbXNtYUo4dGs2MDRoVlBsaUtLTkdxZVRaTTdvbGpwUXR2NDB3bVZGRUNwU2FlVng?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trust, but hedge: Quietly violent summer lingers as bulls buy crash protection",
-      "description": "It's been a wild summer for stocks, even if it may not feel like it at surface level.",
-      "source": "CNBC",
-      "publication_date": "2026-08-12T13:59:17+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/12/trust-but-hedge-quietly-violent-summer-lingers-as-bulls-buy-crash-protection.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Kalshi launches sports and crypto perps data feed on DoubleZero",
-      "description": "Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero’s dedicated fiber network to bolster institutional data access.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-12T13:58:41+00:00",
-      "article_url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
       ]
