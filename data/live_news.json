@@ -1,18 +1,61 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T00:45:26.566178+00:00",
+    "last_updated": "2026-08-14T03:15:50.810363+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 50,
-      "general": 104,
+      "forex": 7,
       "equities": 36,
-      "macro": 18,
-      "commodities": 12,
-      "forex": 6
+      "commodities": 13,
+      "crypto": 49,
+      "general": 105,
+      "macro": 18
     }
   },
   "articles": [
+    {
+      "headline": "Follow-up: Latvia shoots down drone hours after issuing air threat alert",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">This confirms the escalation we flagged as a live possibility in our <a href=\"https://investinglive.com/news/eur-risk-latvia-issues-air-threat-alert-finland-restricts-gulf-of-finland-traffic/\" rel=\"follow\">earlier piece</a>",
+      "source": "Forexlive",
+      "publication_date": "2026-08-14T02:37:03+00:00",
+      "article_url": "https://investinglive.com/news/follow-up-latvia-shoots-down-drone-hours-after-issuing-air-threat-alert/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
+      "description": "Figure expects consumer loan marketplace volume to range from $4.8 billion to $5.2 billion in the third quarter.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T02:06:37+00:00",
+      "article_url": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil steadies after US threatens to blockade Iran indefinitely - Reuters",
+      "description": "Oil steadies after US threatens to blockade Iran indefinitely Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T01:36:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "International Money Express jumps 35% after New York approves Western Union deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-14T00:41:00+00:00",
+      "article_url": "https://seekingalpha.com/news/4632992-international-money-express-jumps-35-percent-after-new-york-approves-western-union-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
       "description": "Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.",
@@ -21,6 +64,16 @@
       "article_url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Bessent says US to apply measures never seen on Iran - Reuters",
+      "description": "Bessent says US to apply measures never seen on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T23:31:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2p2QW55Tk9jcjF5Ti1OZmlpMGpLTEg0RU92RVEtMzFobXY2TmtNWjFJaUVZMl9RaWxWM09uV2xjVlQ0dnFHcGlEVi1Zc3ZnRHpFMkZ5VExoeTdzSVE0cmYzMVRFQUExRHA2RHNhZFpFMFZnNnIySjh3RTBRSXVtX3ZqVTJjVWhGSmdpTHVmY19QRE9ieWNmaDdaM2hmOHZfRFE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -54,18 +107,6 @@
       ]
     },
     {
-      "headline": "NZ manufacturing growth cools to 54.3 in July after June's surge",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The pullback from June's standout reading looks more like a natural correction than a genuine turn in the cycle, with every sub-index still comfortably in expansion territory and the headline figure well above the survey's ",
-      "source": "Forexlive",
-      "publication_date": "2026-08-13T22:36:13+00:00",
-      "article_url": "https://investinglive.com/news/nz-manufacturing-growth-cools-to-54-3-in-july-after-june-s-surge/",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
       "description": "",
       "source": "CoinDesk",
@@ -86,13 +127,14 @@
       ]
     },
     {
-      "headline": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens - Reuters",
-      "description": "US eyes indefinite Iran naval blockade as oil supply shortfall deepens Reuters",
+      "headline": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure - Reuters",
+      "description": "US says it can keep naval blockade on Iran 'indefinitely,' vows more economic pressure Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-13T22:01:51+00:00",
+      "publication_date": "2026-08-13T21:53:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPamFTRDhha2lGLW5hTU1KdDZnVjlxd2hEY1lqX3Zfd2NmVlRXZjVWbDNHMXdJem1SX1hsNUpoaF9lWHhYUVFmUWJ0SDBWRG5uOGMzYzI0MFh6ckthOWJNZXNtR0tJVFJFcEMtVjdwZVFpdURyczZ0NTkzMDh1dDJNRWxKQ2htMEpBQ3N2Q25OY19wRWxaYTVCTmJJRWprVFFSMWNITjl4QmUxQVN1MUFnNHRsRWJGYUpHZ1Ywb0Nn?oc=5",
       "asset_tags": [
-        "crypto"
+        "crypto",
+        "macro"
       ]
     },
     {
@@ -106,10 +148,10 @@
       ]
     },
     {
-      "headline": "Trump orders Navy to abandon carrier launch system, return to steam catapults - Reuters",
-      "description": "Trump orders Navy to abandon carrier launch system, return to steam catapults Reuters",
+      "headline": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters",
+      "description": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-13T21:42:00+00:00",
+      "publication_date": "2026-08-13T21:37:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5",
       "asset_tags": [
         "general"
@@ -223,16 +265,6 @@
       "article_url": "https://seekingalpha.com/news/4632775-diversified-energy-nears-17b-deal-for-elliott-backed-birch-resources---bloomberg?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
-      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T19:38:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -510,16 +542,6 @@
       ]
     },
     {
-      "headline": "ADNOC unbound: War, OPEC exit launch Emirates oil giant on quest for growth - Reuters",
-      "description": "ADNOC unbound: War, OPEC exit launch Emirates oil giant on quest for growth Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T14:26:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbnh1RFhFMlRJVUJnSHBqT2NHcUZGbkV5bWpGTFZnQUpwWmtVYkRLZDY3M010RUJJRGt3MGp2SHV1SUhLZ0hCVnRfS3dJN09GcWE1WmVJZ0xTdEZKai13d1F2UGw2a2JYMWUyeUJqM0FzR3hEWEVpMTdiQ3dHbEhTYjBRdVU2R3ZoODZkcnQ3bkw4a2drRExvdm55UVUtQVpqTmZzOVo2SFpQdVB2LUdDUTg0X0VxYmVBVWc?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -793,6 +815,16 @@
       ]
     },
     {
+      "headline": "ADNOC unbound: War, OPEC exit launch Emirates oil giant on quest for growth - Reuters",
+      "description": "ADNOC unbound: War, OPEC exit launch Emirates oil giant on quest for growth Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T12:28:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbnh1RFhFMlRJVUJnSHBqT2NHcUZGbkV5bWpGTFZnQUpwWmtVYkRLZDY3M010RUJJRGt3MGp2SHV1SUhLZ0hCVnRfS3dJN09GcWE1WmVJZ0xTdEZKai13d1F2UGw2a2JYMWUyeUJqM0FzR3hEWEVpMTdiQ3dHbEhTYjBRdVU2R3ZoODZkcnQ3bkw4a2drRExvdm55UVUtQVpqTmZzOVo2SFpQdVB2LUdDUTg0X0VxYmVBVWc?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "EdgeMode and BlackBerry AIF Sign Memorandum of Understanding to Create BLACK AI, a Publicly Listed AI Infrastructure Development Platform",
       "description": "FORT LAUDERDALE, Fla., Aug. 13, 2026 (GLOBE NEWSWIRE) -- EdgeMode, Inc. (OTC: EDGM) and BlackBerry Alternative Investment Fund (AIF) today announced the signing of a Memorandum of Understanding (MOU) outlining their intention to merge and create BLACK AI, a publicly listed AI infrastructure developm",
       "source": "GlobalNewswire",
@@ -808,16 +840,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-13T12:16:56+00:00",
       "article_url": "https://seekingalpha.com/news/4632279-ardagh-metal-packing-gains-after-parent-company-says-to-prepare-for-potential-sale?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UK economy gains from Gulf ceasefire, World Cup and sunshine - Reuters",
-      "description": "UK economy gains from Gulf ceasefire, World Cup and sunshine Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T12:15:59+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1248,6 +1270,16 @@
       ]
     },
     {
+      "headline": "UK economy gains from Gulf ceasefire, World Cup and sunshine - Reuters",
+      "description": "UK economy gains from Gulf ceasefire, World Cup and sunshine Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T06:13:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "EQT offers $4.9B to acquire Australia’s Cleanaway Waste",
       "description": "",
       "source": "SeekingAlpha",
@@ -1387,6 +1419,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONXVMYU92V04yWnc3ekdtSExYLXlXUFNKcW4wZE9XV2VlSmpMRElsUXJKMUZGRFRKbkZLNWpLNWRfelk0SWhhWUNXaHQzeW81djZMWHE1SUZva0xOT2lsWWdPU0VkdjBScjRlYzBVUVNpVlY0YlpUNXF6dnk3RFpjelZCQnEtTEJySWh1QW5ORjdsbjY2WFdXT0xqYkZhR3dtWkpKMXR0S1VlTEsyWFhwNHpTMk5fb2JPLXc?oc=5",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
+      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T01:08:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1799,6 +1841,16 @@
       ]
     },
     {
+      "headline": "Trump says his plane faced 'greater risk' in secret flight change - Reuters",
+      "description": "Trump says his plane faced 'greater risk' in secret flight change Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-12T16:34:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnFid0QtMU1uWmc0NjVieldJWFFnU1gzMXp6RlA0UldwUkEtaElnOUZMTmtCQlFWUlFRbFlsWndGREllOU8zWjBqZWpYanF4dGdWRWdkQy1ucGd6aGx5YlNrUXZ6TzhkZ2h5alU2VzYxMThmbHdVNjdjTWJSVjhYR2RMRHpXREZ3clRKM2JmM1AxenBFaVMza0p1TXZ0dFFoRGNLR1MtcVRNdUJOY3o0UnFsdnpFc1U?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Diginex Limited Provides Update on Proposed Acquisition of Resulticks",
       "description": "LONDON and NEW YORK, Aug. 12, 2026 (GLOBE NEWSWIRE) -- Diginex Limited (NASDAQ: DGNX) (“Diginex” or the “Company”), a provider of ESG, sustainability, and compliance solutions to institutional and corporate clients, today announced an update regarding its previously disclosed proposed acquisition of",
       "source": "GlobalNewswire",
@@ -1985,56 +2037,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-12T13:58:41+00:00",
       "article_url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Slim gains for Gulf bourses capped by lack of progress to end Iran war - Reuters",
-      "description": "Slim gains for Gulf bourses capped by lack of progress to end Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T13:48:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdHFycUUyMGRQZzF6Y3FVb1lhNHYwNEozamlRcUlrZHBjM3Z4Z0QwTG9xZkFsLUVhT2JvbHpmRUZ1RTE0LWNGM2dWUDlCUlh3Uk83N1Y3b1ptRWh3c3Z1UzMwQVNXU3BRN1ZfaUptQXBPcUFRWGE0dHRjRjJfSktyZUszdDRuWVpZZlFoci00ZkE1VGViTTlFQzlOSXNuYUVuOVlMejM0N0lPNUNsT0dXb0tLTHFrdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says - Reuters",
-      "description": "Global 2026 oil supply shortfall to deepen as Hormuz reopening remains elusive, IEA says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-12T13:45:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm5jZkFKN2RpUWZWbG9rSXctekpyeml5UDgwTENteGwtSmFWbHd0cGFjYV9LRVBXeHRENktmbWVKNVZCeFp0U0YxeTFQcFdqZTJ5Z0sxWjg1TGUwRm13Mm5rSWRoUWw2MzZhNlhFeUV2Wk9mRFNFWDB6QWhSckZDbUtlZ3pzSWQyU0pjS0Q1d2dRT1EtcWt0SVhuQXlPTHZiZlhZTzFWSUoxcXVDdl9qUnA0SnJWR1Zf?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-12T13:39:31+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
-      "description": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-12T13:31:54+00:00",
-      "article_url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
-      "description": "Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it’s been great for Bitcoin’s global profile.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-12T13:30:00+00:00",
-      "article_url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
       ]
