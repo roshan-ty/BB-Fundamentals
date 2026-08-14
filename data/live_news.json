@@ -1,18 +1,61 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T18:26:07.425230+00:00",
+    "last_updated": "2026-08-14T19:29:23.071369+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 44,
+      "crypto": 48,
       "general": 107,
-      "crypto": 47,
-      "equities": 41,
-      "macro": 16,
-      "forex": 7,
+      "macro": 15,
+      "forex": 6,
       "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "description": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T18:57:04+00:00",
+      "article_url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+      "description": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T18:44:21+00:00",
+      "article_url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "What flash memory maker SanDisk told investors this week is a boon for our newest stock",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-08-14T18:33:35+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/14/what-sandisk-told-investors-this-week-is-a-boon-for-our-newest-stock.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-14T17:48:04+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
       "description": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster Reuters",
@@ -499,6 +542,16 @@
       ]
     },
     {
+      "headline": "Lebanon's creative talent suffers as Iran war squeezes Gulf economies - Reuters",
+      "description": "Lebanon's creative talent suffers as Iran war squeezes Gulf economies Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T11:06:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGkxcjFzZ3NDUXIzZVcwa0lYY00yVVFwNHdjZVM5ME93eDU2cVRzZ3NDREpmcjlweGNndUdmcFd5am5CR19QTmxsbF80VlA4SE9EZVN4b19oTkVWWElpbTZheGdMc3FwUlJxdFZxeTAwRFl1WklTMEEyaktUMlRXcDlScWtHYVBVT2M4ODRVU253ZTdfZzAwOVVYbmNvNkpZdGU2NElPQnpNTEhQd0lOcEsyRWIyVWZWbnFR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
       "description": "",
       "source": "CoinDesk",
@@ -971,14 +1024,13 @@
       ]
     },
     {
-      "headline": "Stocks nudge at record highs; cooler US inflation eclipses oil rally - Reuters",
-      "description": "Stocks nudge at record highs; cooler US inflation eclipses oil rally Reuters",
+      "headline": "Oil prices rally as global stocks retreat - Reuters",
+      "description": "Oil prices rally as global stocks retreat Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-14T02:32:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14MHZSdkQ3TzZONVh4dW9nU1B5RlNOZHJSdzN1eVlQV3Eycm14NGZhb2F0QWdneVhPR2VqLWVVR1Bkb3lqTldGa3JVTXR0eGdFVi12UTJVTi1pTWVNVWhHX2tCUUJ1b21hT0dkampGU0Ric1d2WHAyclRfSQ?oc=5",
       "asset_tags": [
-        "equities",
-        "macro"
+        "equities"
       ]
     },
     {
@@ -1910,16 +1962,6 @@
       ]
     },
     {
-      "headline": "'If I go, you go, right?': Traveling on the presidential plane—without Trump - Reuters",
-      "description": "'If I go, you go, right?': Traveling on the presidential plane—without Trump Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T12:08:34+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVy1qZERoWkltdjF1bTJRWTZQaTJ6NVI1YVBVcVBQLXhuaFBoZ2o2bW9tNTlMR3VFNDlPSHdTUlZ6WkkzR1RkbXpMV1VYZUJRdk1Tano3emJQSGVVdUtlT3FWMWFrVjg3bFZlbUQzNlZuWDJ6M19pb0pjcDRoWjdoZW1iVk04MGRDd0RRSkZpUVJFaDZxem5JWE5SaXFfMVZBZmxub00xdk11SGZ3TFJuNzItSW9IaDB0dzBlVGp2R014eUZj?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Goat herding hedge: How Susquehanna and Kalshi are helping this company offset a change in California law",
       "description": "A goat herding business facing higher wage costs turned to prediction market platform Kalshi to hedge and help offset the possible expense.",
       "source": "CNBC",
@@ -1997,46 +2039,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblFXZVRVbjlRQ21iNnNiTVFHbFpuRkRFVGFDdmRHX3N1dU1NWXpSM2N4Q01uUWdEOUMwb0oxWXptaGZyT3hxRWpQZGZJMS1OR1I5b2ZUYVRmNkxsa3NYZ3FxVW9Ub2ZJejJSMFd5VEtZNHdQYnpwS1V2dGJHZVQ2NkRycjJZSE9zdGJ0Y1BmeWdGcHFyUXNvNzA1VjhsbmZvaTFyaV9MVDFZd2dhRFZfWXBzQmdhNlNFZTV3bFp4WGp4dw?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "EU curbs on Chinese solar inverters to bolster European suppliers, SMA Solar says - Reuters",
-      "description": "EU curbs on Chinese solar inverters to bolster European suppliers, SMA Solar says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T11:08:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1dkdWNRRWxqQmVWZ0w2bGdtY013eTJEeGlOYmdZakE2LXZpRS1jQnpmb3VNa3JsR0Q0clhfN0dlNWI5RUJvTlNKNzNydnh6VENoNWJsc1lvRTJZT2pVSU9rZWd2YVE0ZmhZQVpRellEdTBEWUJlc05pdVBwM2d4MEtzMkdNZVRHX1JqRUtPQS1hV0NvX2RsdTd1d1hxbWx0VXB6eDdNbFU5SjM1MVI0ZG8tdi1MTTRYVjA5U3RDSFlqeG05?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-13T11:02:43+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Rocket Lab Corporation Announces Progress on Iridium Acquisition: HSR Period Lapses; Form S-4 Filed; FCC Applications Filed; Capital Strategy Underway",
-      "description": "LONG BEACH, Calif., Aug. 13, 2026 (GLOBE NEWSWIRE) -- Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab” or the “Company”), a global leader in launch services and space systems, today announced substantial milestones in connection with its previously announced proposed acquisition of Iridium Commun",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-13T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344359/0/en/rocket-lab-corporation-announces-progress-on-iridium-acquisition-hsr-period-lapses-form-s-4-filed-fcc-applications-filed-capital-strategy-underway.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
-      "description": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and decentralization.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T10:50:24+00:00",
-      "article_url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
