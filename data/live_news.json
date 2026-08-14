@@ -1,18 +1,141 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-14T13:36:51.046123+00:00",
+    "last_updated": "2026-08-14T14:36:27.002762+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 108,
-      "forex": 6,
-      "commodities": 9,
-      "macro": 21,
-      "equities": 38,
-      "crypto": 43
+      "crypto": 45,
+      "forex": 7,
+      "equities": 40,
+      "macro": 20,
+      "general": 106,
+      "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+      "description": "JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadrupled its Ether ETF position in the second quarter.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T14:14:06+00:00",
+      "article_url": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US Business inventories for June 0.0% vs 0.1% estimate",
+      "description": "<ul><li>Prior month 0.3% revised higher to 0.4%</li><li>Business inventories for June 0.0% vs 0.1% estimate</li><li>Retail inventories ex autos -0.4% vs -0.2% last month.</li></ul><p>Sales show a sharp fall in June but still up strong for the year. </p><ul><li>June business sales: $2.111 trillion </",
+      "source": "Forexlive",
+      "publication_date": "2026-08-14T14:00:19+00:00",
+      "article_url": "https://investinglive.com/news/us-business-inventories-for-june-0-0-vs-0-1-estimate/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Housing investors say this is their worst market in at least 3 years",
+      "description": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
+      "source": "CNBC",
+      "publication_date": "2026-08-14T14:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 -DCC plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-14T13:47:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345398/0/en/form-8-3-dcc-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
+      "description": "Binance said it will stop processing transactions for involving 11 crypto platforms, including HTX, which was recently listed in the EU’s sanctions package targeting Russia.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T13:36:34+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "St. Joseph expands AI footprint with Fastbase acquisition",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-14T13:33:24+00:00",
+      "article_url": "https://seekingalpha.com/news/4633259-st-joseph-expands-ai-footprint-with-fastbase-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Solana’s fee overhaul increases burn and makes resource hogs pay",
+      "description": "Solana’s proposed fee overhaul would make resource-heavy transactions more expensive while cutting costs for simpler activity, and it increases the amount of SOL burned.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-14T13:30:00+00:00",
+      "article_url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "description": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T13:28:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The Club's top 10 things to watch in the stock market Friday",
+      "description": "Stocks are headed for a mixed open following Thursday's record S&P 500 close.",
+      "source": "CNBC",
+      "publication_date": "2026-08-14T13:17:25+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/14/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Brookfield et La Caisse finalisent l’acquisition de Boralex",
+      "description": "MONTRÉAL, 14 août 2026 (GLOBE NEWSWIRE) -- Boralex inc. (« Boralex » ou la « Société ») (TSX : BLX), Brookfield et La Caisse ont annoncé aujourd’hui la clôture de l’acquisition annoncée précédemment de Boralex par Brookfield, avec ses partenaires institutionnels, dont Brookfield Renewable Partners, ",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-14T13:08:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345371/0/fr/brookfield-et-la-caisse-finalisent-l-acquisition-de-boralex.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Brookfield and La Caisse Complete Acquisition of Boralex",
+      "description": "MONTREAL, Aug. 14, 2026 (GLOBE NEWSWIRE) -- Boralex Inc. (\"Boralex\" or the \"Corporation\") (TSX: BLX), Brookfield and La Caisse (formerly CDPQ) announced today the completion of the previously announced acquisition of Boralex by Brookfield, together with its institutional partners including Brookfiel",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-14T13:08:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345371/0/en/brookfield-and-la-caisse-complete-acquisition-of-boralex.html",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Harte Hanks to be acquired by Star Equity for $5 per share",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-14T13:02:37+00:00",
+      "article_url": "https://seekingalpha.com/news/4633215-harte-hanks-to-be-acquired-by-star-equity-for-5-per-share?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
       "description": "FORM 8.3",
@@ -41,18 +164,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345338/0/en/form-8-3-rotork-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Canada Manufacturing Sales for June +0.1% vs -0.1% estimate",
-      "description": "<ul><li>Prior month +1.3%</li><li>Manufacturing Sales +0.1% versus -0.1% estimate</li></ul><p></p><p>Details:</p><ul><li>Manufacturing sales: +0.1% m/m to $78.8 billion, the fifth consecutive monthly increase. </li><li>Year over year: Sales were +14.5%. </li><li>Excluding petroleum & coal: Sales inc",
-      "source": "Forexlive",
-      "publication_date": "2026-08-14T12:31:39+00:00",
-      "article_url": "https://investinglive.com/news/canada-manufacturing-sales-for-june-0-1-vs-0-1-estimate/",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -1264,16 +1375,6 @@
       ]
     },
     {
-      "headline": "Form 8.3 -DCC plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-13T13:57:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344631/0/en/form-8-3-dcc-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
       "description": "",
       "source": "CoinDesk",
@@ -1676,6 +1777,16 @@
       ]
     },
     {
+      "headline": "Iran says no progress on reviving interim peace deal with US - Reuters",
+      "description": "Iran says no progress on reviving interim peace deal with US Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-13T10:39:06+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOel9GN09UcjUyQ2FnMF90ZWhiaFFEazlXcDM1aDZLbExtREZQLXFmOFgtTU92YWZxM19udFlOTkNHRjM1aFl1Qk0xcDhTSTB1ZnR0YnBxSW9xLXhRTHRoeXFtbW9nSy1IeGIzQkVOelJrNlRHQUg2dUJPZVM3T085QTFpbmtCT3JzQ29FNlV5bjhrUGdaSG1kRy1VUWR3dmxiU2RsZC0tMDdWNW56ZHFpTWVB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dynatrace to buy Arize in ~$915M cash-and-stock deal",
       "description": "",
       "source": "SeekingAlpha",
@@ -1924,116 +2035,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-13T06:13:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0RZZ3ItUUhNRlRnSENCV1QxOU5NSURGX2JydVhZQ2p1TTQ0Tjc0QTZZNGRieTRmYlNzSUlRT0JBeGZwV1lTa2poN0NXZWxuT0NPcXVhLXRqZXNvcVhyVDVFN3B3WnF0ZnZTd2RSeWwxeXIxaDFFcC12ZnZFSU9tSnZCMDQ1WERtU1lHcnl4S2pWZWVFNERBU2hR?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EQT offers $4.9B to acquire Australia’s Cleanaway Waste",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-13T06:05:40+00:00",
-      "article_url": "https://seekingalpha.com/news/4632082-eqt-offers-49b-to-acquire-australias-cleanaway-waste?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Helios Cash Offer for CAB Payments Holdings plc – Cash Offer update and Disclosure under Rule 2.10 of the Takeover Code (“Code”)",
-      "description": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY IN, INTO OR FROM ANY JURISDICTION WHERE TO DO SO WOULD CONSTITUTE A VIOLATION OF THE RELEVANT LAWS OR REGULATIONS OF THAT JURISDICTION",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-13T06:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344239/0/en/helios-cash-offer-for-cab-payments-holdings-plc-cash-offer-update-and-disclosure-under-rule-2-10-of-the-takeover-code-code.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Samsonite buys 85% stake in Shay Mitchell’s BÉIS for $178.5M",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-13T05:52:31+00:00",
-      "article_url": "https://seekingalpha.com/news/4632066-samsonite-buys-85-stake-in-shay-mitchells-beis-for-1785m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil - reuters.com",
-      "description": "Jailed Istanbul mayor Imamoglu joins new opposition party amid political turmoil reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T05:47:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbEV3SWIzTHVVZllzRFo2RlNPT2RyMGM4VFJRem9vTGdsbE9YU3VVaEphNjVkZHlWb3J2aVdEQmI2ekY1YlEwb3RHSFUybHotdUxObjhYMktSdmdHSlpJM1hGczZWQ29rSGxZVHdBMGdDX083MFpNVW9HNmdKTGhZcnBQd0hNM3R0Nm9ucG1pR0ozTzNyRF9kOElkeFUzdElPdk95aVpXUEpWcE1LRkZjUWdjWnBLTzU0YUNIY0hwUVI3NkdoV1BlVFBOU2kzQ2s?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "RBI turns upbeat as worst of Iran war shock recedes",
-      "description": "Governor Sanjay Malhotra reflected that shift this week, pointing to resilient growth, inflation “more or less under check,” healthy corporate balance sheets and a “robust” external sector as reasons for confidence.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-13T05:44:57+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/india-s-rbi-turns-upbeat-as-worst-of-iran-war-shock-recedes",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Metaplanet denies selling bitcoin worth $320 million",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-13T05:34:48+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Meta says it’s shut down 7,50,000 under-16 accounts in Australia",
-      "description": "Meta Platforms Inc. says it has removed access to more than 750,000 Instagram and Facebook accounts in Australia believed to belong to people under 16 since it began complying with the country’s landmark youth social media ban last year.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-13T05:32:03+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/meta-says-it-s-shut-down-750-000-under-16-accounts-in-australia",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin firms ask AI labs for same tools attackers already have",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-13T05:21:21+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Oil prices climb again, as global stocks gain - Reuters",
-      "description": "Oil prices climb again, as global stocks gain Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T05:11:53+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnAyM2F1aXRKeVZFQU5yVzdLbmplRS1vV28zVXZ0Slo3bmszQjM1enJHU2RlOG5EZWtLYUNmVHdjcHprM19fTnhjUE8tV3VGTFBrelZXM1pOekphNVF1S3EtSTlDcDl5Skw0R19ud3U5NmdhWEk5eVJjV1dudFNhSlhoRQ?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-      "description": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T05:01:42+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "The US says more oil is leaving the Middle East, but is it really? - Reuters",
-      "description": "The US says more oil is leaving the Middle East, but is it really? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T04:56:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFpiaHV1WkZPRDd0NDNsalc3RURUajFQYWtJdVE1LU4tQTZBWmhDWGl3RnE0bGVfcjk5TzNsNkVoNFQxbXIwa1paaGRnSnFlY1VoaE1uSUQ0RmNxR3h3cmwxdGcyMjhwWC1ncE04OHJSWGFtOVF1bnRCbWlSam01MkdldGFsaVpIcGxnTVFSQ3pUb0FLZ0JaZlJsUHp6NFN6b0tjck4zUDc3QnZBVDk0YTRLU3cycHoydjBRUERR?oc=5",
       "asset_tags": [
         "general"
       ]
