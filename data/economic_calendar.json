@@ -1,40 +1,20 @@
 {
   "meta": {
     "source": "Financial Modeling Prep, Alpha Vantage, Finnhub",
-    "last_updated": "2026-08-15T18:35:42.761069+00:00",
-    "total_events": 1563,
+    "last_updated": "2026-08-15T19:05:14.404811+00:00",
+    "total_events": 1148,
     "breakdown_by_impact": {
-      "high_impact_events": 1563,
+      "high_impact_events": 1148,
       "medium_impact_events": 0,
       "low_impact_events": 0
     }
   },
   "events": [
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2026-07-01",
-      "actual": 677431.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2026-07-01",
       "actual": 158649.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2026-06-01",
-      "actual": 672357.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -51,30 +31,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2026-05-01",
-      "actual": 685550.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2026-05-01",
       "actual": 159386.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2026-04-01",
-      "actual": 654070.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -91,30 +51,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2026-03-01",
-      "actual": 657586.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2026-03-01",
       "actual": 157751.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2026-02-01",
-      "actual": 564663.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -131,30 +71,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2026-01-01",
-      "actual": 582287.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2026-01-01",
       "actual": 156728.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-12-01",
-      "actual": 716924.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -171,30 +91,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-11-01",
-      "actual": 640201.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2025-11-01",
       "actual": 159571.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-10-01",
-      "actual": 642315.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -211,30 +111,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-09-01",
-      "actual": 611277.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2025-09-01",
       "actual": 158729.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-08-01",
-      "actual": 640803.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -251,30 +131,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-07-01",
-      "actual": 644493.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2025-07-01",
       "actual": 158267.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-06-01",
-      "actual": 616031.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -291,30 +151,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-05-01",
-      "actual": 647306.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2025-05-01",
       "actual": 159032.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-04-01",
-      "actual": 623756.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -331,30 +171,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-03-01",
-      "actual": 624954.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2025-03-01",
       "actual": 157540.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-02-01",
-      "actual": 543970.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -381,30 +201,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2025-01-01",
-      "actual": 566662.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2025-01-01",
       "actual": 156382.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-12-01",
-      "actual": 691312.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -421,30 +221,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-11-01",
-      "actual": 630399.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2024-11-01",
       "actual": 159307.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-10-01",
-      "actual": 622738.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -461,30 +241,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-09-01",
-      "actual": 579083.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2024-09-01",
       "actual": 158111.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-08-01",
-      "actual": 622421.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -501,30 +261,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-07-01",
-      "actual": 618432.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2024-07-01",
       "actual": 157485.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-06-01",
-      "actual": 592999.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -541,30 +281,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-05-01",
-      "actual": 631832.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2024-05-01",
       "actual": 158117.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-04-01",
-      "actual": 593774.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -581,30 +301,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-03-01",
-      "actual": 597695.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2024-03-01",
       "actual": 156612.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-02-01",
-      "actual": 544169.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -631,30 +331,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2024-01-01",
-      "actual": 539834.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2024-01-01",
       "actual": 154942.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-12-01",
-      "actual": 657243.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -671,30 +351,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-11-01",
-      "actual": 608426.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2023-11-01",
       "actual": 157950.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-10-01",
-      "actual": 594266.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -711,30 +371,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-09-01",
-      "actual": 579306.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2023-09-01",
       "actual": 156563.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-08-01",
-      "actual": 613511.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -751,30 +391,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-07-01",
-      "actual": 591150.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2023-07-01",
       "actual": 155779.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-06-01",
-      "actual": 597476.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -791,30 +411,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-05-01",
-      "actual": 615939.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2023-05-01",
       "actual": 156038.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-04-01",
-      "actual": 574331.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -831,30 +431,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-03-01",
-      "actual": 589560.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2023-03-01",
       "actual": 154253.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-02-01",
-      "actual": 516582.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -881,30 +461,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2023-01-01",
-      "actual": 535580.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2023-01-01",
       "actual": 152688.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-12-01",
-      "actual": 637438.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -921,30 +481,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-11-01",
-      "actual": 588876.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2022-11-01",
       "actual": 155519.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-10-01",
-      "actual": 581106.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -961,30 +501,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-09-01",
-      "actual": 562463.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2022-09-01",
       "actual": 153730.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-08-01",
-      "actual": 597265.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1001,30 +521,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-07-01",
-      "actual": 584625.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2022-07-01",
       "actual": 152813.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-06-01",
-      "actual": 594419.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1041,30 +541,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-05-01",
-      "actual": 601192.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2022-05-01",
       "actual": 152265.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-04-01",
-      "actual": 582200.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1081,30 +561,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-03-01",
-      "actual": 584512.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2022-03-01",
       "actual": 150413.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-02-01",
-      "actual": 496221.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1131,30 +591,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2022-01-01",
-      "actual": 505782.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2022-01-01",
       "actual": 147932.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-12-01",
-      "actual": 613925.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1171,30 +611,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-11-01",
-      "actual": 563029.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2021-11-01",
       "actual": 150543.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-10-01",
-      "actual": 542452.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1211,30 +631,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-09-01",
-      "actual": 518687.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2021-09-01",
       "actual": 147918.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-08-01",
-      "actual": 539655.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1251,30 +651,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-07-01",
-      "actual": 542000.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2021-07-01",
       "actual": 146619.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-06-01",
-      "actual": 547334.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1291,30 +671,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-05-01",
-      "actual": 554921.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2021-05-01",
       "actual": 145391.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-04-01",
-      "actual": 544021.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1331,30 +691,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-03-01",
-      "actual": 550304.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2021-03-01",
       "actual": 143308.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-02-01",
-      "actual": 429546.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1381,30 +721,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2021-01-01",
-      "actual": 453810.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2021-01-01",
       "actual": 140975.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-12-01",
-      "actual": 546891.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1421,30 +741,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-11-01",
-      "actual": 481279.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2020-11-01",
       "actual": 144117.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-10-01",
-      "actual": 483724.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1461,30 +761,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-09-01",
-      "actual": 464750.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2020-09-01",
       "actual": 141957.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-08-01",
-      "actual": 477634.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1501,30 +781,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-07-01",
-      "actual": 482855.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2020-07-01",
       "actual": 139105.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-06-01",
-      "actual": 470558.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1541,30 +801,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-05-01",
-      "actual": 453681.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2020-05-01",
       "actual": 133421.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-04-01",
-      "actual": 370640.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1581,30 +821,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-03-01",
-      "actual": 418905.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2020-03-01",
       "actual": 149952.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-02-01",
-      "actual": 406334.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1631,30 +851,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2020-01-01",
-      "actual": 410017.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2020-01-01",
       "actual": 150057.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-12-01",
-      "actual": 509524.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1671,30 +871,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-11-01",
-      "actual": 459174.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2019-11-01",
       "actual": 153094.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-10-01",
-      "actual": 447163.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1711,30 +891,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-09-01",
-      "actual": 421070.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2019-09-01",
       "actual": 151509.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-08-01",
-      "actual": 464714.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1751,30 +911,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-07-01",
-      "actual": 453537.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2019-07-01",
       "actual": 150658.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-06-01",
-      "actual": 440356.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1791,30 +931,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-05-01",
-      "actual": 467316.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2019-05-01",
       "actual": 151096.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-04-01",
-      "actual": 434943.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1831,30 +951,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-03-01",
-      "actual": 439276.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2019-03-01",
       "actual": 149360.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-02-01",
-      "actual": 377973.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1881,30 +981,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2019-01-01",
-      "actual": 392288.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2019-01-01",
       "actual": 147879.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-12-01",
-      "actual": 484750.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1921,30 +1001,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-11-01",
-      "actual": 451372.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2018-11-01",
       "actual": 151032.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-10-01",
-      "actual": 434309.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1961,30 +1021,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-09-01",
-      "actual": 409992.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2018-09-01",
       "actual": 149547.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-08-01",
-      "actual": 447962.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2001,30 +1041,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-07-01",
-      "actual": 433928.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2018-07-01",
       "actual": 148767.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-06-01",
-      "actual": 435878.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2041,30 +1061,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-05-01",
-      "actual": 456007.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2018-05-01",
       "actual": 149264.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-04-01",
-      "actual": 412713.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2081,30 +1081,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-03-01",
-      "actual": 436977.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2018-03-01",
       "actual": 147353.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-02-01",
-      "actual": 373757.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2131,30 +1111,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2018-01-01",
-      "actual": 383518.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2018-01-01",
       "actual": 145413.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-12-01",
-      "actual": 484883.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2171,30 +1131,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-11-01",
-      "actual": 432780.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2017-11-01",
       "actual": 148758.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-10-01",
-      "actual": 410640.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2211,30 +1151,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-09-01",
-      "actual": 405490.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2017-09-01",
       "actual": 147169.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-08-01",
-      "actual": 424118.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2251,30 +1171,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-07-01",
-      "actual": 409984.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2017-07-01",
       "actual": 146464.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-06-01",
-      "actual": 415737.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2291,30 +1191,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-05-01",
-      "actual": 426818.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2017-05-01",
       "actual": 146924.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-04-01",
-      "actual": 400423.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2331,30 +1211,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-03-01",
-      "actual": 415647.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2017-03-01",
       "actual": 145061.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-02-01",
-      "actual": 359517.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2381,30 +1241,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2017-01-01",
-      "actual": 363567.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2017-01-01",
       "actual": 143374.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-12-01",
-      "actual": 470486.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2421,30 +1261,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-11-01",
-      "actual": 405792.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2016-11-01",
       "actual": 146465.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-10-01",
-      "actual": 390482.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2461,30 +1281,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-09-01",
-      "actual": 387121.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2016-09-01",
       "actual": 145149.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-08-01",
-      "actual": 409044.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2501,30 +1301,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-07-01",
-      "actual": 399192.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2016-07-01",
       "actual": 144232.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-06-01",
-      "actual": 402594.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2541,30 +1321,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-05-01",
-      "actual": 405725.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2016-05-01",
       "actual": 144541.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-04-01",
-      "actual": 387812.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2581,30 +1341,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-03-01",
-      "actual": 397631.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2016-03-01",
       "actual": 142797.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-02-01",
-      "actual": 357069.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2631,30 +1371,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2016-01-01",
-      "actual": 346205.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2016-01-01",
       "actual": 141073.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-12-01",
-      "actual": 452764.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2671,30 +1391,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-11-01",
-      "actual": 388071.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2015-11-01",
       "actual": 144048.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-10-01",
-      "actual": 385581.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2711,30 +1411,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-09-01",
-      "actual": 375199.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2015-09-01",
       "actual": 142478.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-08-01",
-      "actual": 397745.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2751,30 +1431,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-07-01",
-      "actual": 399519.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2015-07-01",
       "actual": 141731.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-06-01",
-      "actual": 390651.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2791,30 +1451,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-05-01",
-      "actual": 402126.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2015-05-01",
       "actual": 142205.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-04-01",
-      "actual": 380319.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2831,30 +1471,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-03-01",
-      "actual": 385954.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2015-03-01",
       "actual": 140080.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-02-01",
-      "actual": 335752.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2881,30 +1501,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2015-01-01",
-      "actual": 344632.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2015-01-01",
       "actual": 138491.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-12-01",
-      "actual": 440713.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2921,30 +1521,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-11-01",
-      "actual": 383954.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2014-11-01",
       "actual": 141314.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-10-01",
-      "actual": 381289.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2961,30 +1541,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-09-01",
-      "actual": 367663.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2014-09-01",
       "actual": 139793.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-08-01",
-      "actual": 394308.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3001,30 +1561,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-07-01",
-      "actual": 387820.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2014-07-01",
       "actual": 138727.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-06-01",
-      "actual": 378559.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3041,30 +1581,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-05-01",
-      "actual": 400918.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2014-05-01",
       "actual": 139217.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-04-01",
-      "actual": 376970.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3081,30 +1601,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-03-01",
-      "actual": 376734.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2014-03-01",
       "actual": 137169.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-02-01",
-      "actual": 331385.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3131,30 +1631,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2014-01-01",
-      "actual": 334846.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2014-01-01",
       "actual": 135471.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-12-01",
-      "actual": 421395.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3171,30 +1651,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-11-01",
-      "actual": 371459.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2013-11-01",
       "actual": 138525.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-10-01",
-      "actual": 363018.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3211,30 +1671,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-09-01",
-      "actual": 346383.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2013-09-01",
       "actual": 137077.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-08-01",
-      "actual": 381193.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3251,30 +1691,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-07-01",
-      "actual": 370308.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2013-07-01",
       "actual": 136034.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-06-01",
-      "actual": 362587.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3291,30 +1711,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-05-01",
-      "actual": 382502.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2013-05-01",
       "actual": 136798.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-04-01",
-      "actual": 356352.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3331,30 +1731,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-03-01",
-      "actual": 367352.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2013-03-01",
       "actual": 134901.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-02-01",
-      "actual": 326276.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3381,30 +1761,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2013-01-01",
-      "actual": 327781.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2013-01-01",
       "actual": 133062.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-12-01",
-      "actual": 408838.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3421,30 +1781,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-11-01",
-      "actual": 361767.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2012-11-01",
       "actual": 136022.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-10-01",
-      "actual": 349077.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3461,30 +1801,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-09-01",
-      "actual": 336193.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2012-09-01",
       "actual": 134783.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-08-01",
-      "actual": 366007.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3501,30 +1821,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-07-01",
-      "actual": 344863.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2012-07-01",
       "actual": 133778.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-06-01",
-      "actual": 349134.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3541,30 +1841,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-05-01",
-      "actual": 365885.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2012-05-01",
       "actual": 134648.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-04-01",
-      "actual": 342428.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3581,30 +1861,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-03-01",
-      "actual": 361240.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2012-03-01",
       "actual": 132953.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-02-01",
-      "actual": 324839.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3631,30 +1891,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2012-01-01",
-      "actual": 309548.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2012-01-01",
       "actual": 131095.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-12-01",
-      "actual": 401206.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3671,30 +1911,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-11-01",
-      "actual": 344774.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2011-11-01",
       "actual": 133876.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-10-01",
-      "actual": 330515.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3711,30 +1931,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-09-01",
-      "actual": 327093.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2011-09-01",
       "actual": 132618.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-08-01",
-      "actual": 345374.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3751,30 +1951,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-07-01",
-      "actual": 334800.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2011-07-01",
       "actual": 131599.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-06-01",
-      "actual": 339682.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3791,30 +1971,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-05-01",
-      "actual": 342186.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2011-05-01",
       "actual": 132381.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-04-01",
-      "actual": 332456.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3831,30 +1991,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-03-01",
-      "actual": 338211.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2011-03-01",
       "actual": 130482.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-02-01",
-      "actual": 293924.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3881,30 +2021,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2011-01-01",
-      "actual": 293047.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2011-01-01",
       "actual": 128760.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-12-01",
-      "actual": 379520.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3921,30 +2041,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-11-01",
-      "actual": 322076.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2010-11-01",
       "actual": 131931.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-10-01",
-      "actual": 308709.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3961,30 +2061,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-09-01",
-      "actual": 301406.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2010-09-01",
       "actual": 130650.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-08-01",
-      "actual": 315974.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4001,30 +2081,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-07-01",
-      "actual": 314597.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2010-07-01",
       "actual": 130096.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-06-01",
-      "actual": 312635.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4041,30 +2101,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-05-01",
-      "actual": 318467.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2010-05-01",
       "actual": 131311.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-04-01",
-      "actual": 310622.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4081,30 +2121,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-03-01",
-      "actual": 314812.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2010-03-01",
       "actual": 129073.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-02-01",
-      "actual": 269889.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4131,30 +2151,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2010-01-01",
-      "actual": 273665.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2010-01-01",
       "actual": 127804.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-12-01",
-      "actual": 355590.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4171,30 +2171,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-11-01",
-      "actual": 297845.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2009-11-01",
       "actual": 131221.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-10-01",
-      "actual": 294127.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4211,30 +2191,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-09-01",
-      "actual": 282008.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2009-09-01",
       "actual": 130571.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-08-01",
-      "actual": 308286.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4251,30 +2211,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-07-01",
-      "actual": 302497.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2009-07-01",
       "actual": 130337.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-06-01",
-      "actual": 299553.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4291,30 +2231,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-05-01",
-      "actual": 301096.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2009-05-01",
       "actual": 132114.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-04-01",
-      "actual": 285884.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4331,30 +2251,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-03-01",
-      "actual": 283905.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2009-03-01",
       "actual": 131659.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-02-01",
-      "actual": 258774.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4381,30 +2281,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2009-01-01",
-      "actual": 268507.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2009-01-01",
       "actual": 132022.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-12-01",
-      "actual": 339639.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4421,30 +2301,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-11-01",
-      "actual": 293386.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2008-11-01",
       "actual": 136745.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-10-01",
-      "actual": 305120.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4461,30 +2321,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-09-01",
-      "actual": 307107.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2008-09-01",
       "actual": 137129.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-08-01",
-      "actual": 335892.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4501,30 +2341,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-07-01",
-      "actual": 337446.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2008-07-01",
       "actual": 137183.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-06-01",
-      "actual": 333048.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4541,30 +2361,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-05-01",
-      "actual": 350281.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2008-05-01",
       "actual": 138469.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-04-01",
-      "actual": 324454.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4581,30 +2381,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-03-01",
-      "actual": 327843.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2008-03-01",
       "actual": 137362.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-02-01",
-      "actual": 301960.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4631,30 +2411,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2008-01-01",
-      "actual": 301404.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2008-01-01",
       "actual": 136251.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-12-01",
-      "actual": 379597.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4671,30 +2431,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-11-01",
-      "actual": 334921.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2007-11-01",
       "actual": 139492.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-10-01",
-      "actual": 324120.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4711,30 +2451,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-09-01",
-      "actual": 310552.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2007-09-01",
       "actual": 138435.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-08-01",
-      "actual": 342121.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4751,30 +2471,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-07-01",
-      "actual": 327027.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2007-07-01",
       "actual": 137760.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-06-01",
-      "actual": 331186.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4791,30 +2491,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-05-01",
-      "actual": 345982.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2007-05-01",
       "actual": 138656.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-04-01",
-      "actual": 315512.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4831,30 +2511,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-03-01",
-      "actual": 329100.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2007-03-01",
       "actual": 136907.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-02-01",
-      "actual": 284100.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4881,30 +2541,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2007-01-01",
-      "actual": 289371.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2007-01-01",
       "actual": 135316.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-12-01",
-      "actual": 372686.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4921,30 +2561,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-11-01",
-      "actual": 316565.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2006-11-01",
       "actual": 138217.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-10-01",
-      "actual": 306570.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4961,30 +2581,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-09-01",
-      "actual": 304494.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2006-09-01",
       "actual": 137131.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-08-01",
-      "actual": 332599.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5001,30 +2601,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-07-01",
-      "actual": 319640.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2006-07-01",
       "actual": 136256.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-06-01",
-      "actual": 324306.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5041,30 +2621,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-05-01",
-      "actual": 330553.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2006-05-01",
       "actual": 136928.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-04-01",
-      "actual": 310254.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5081,30 +2641,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-03-01",
-      "actual": 319457.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2006-03-01",
       "actual": 135209.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-02-01",
-      "actual": 276443.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5131,30 +2671,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2006-01-01",
-      "actual": 280257.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2006-01-01",
       "actual": 133302.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-12-01",
-      "actual": 362777.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5171,30 +2691,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-11-01",
-      "actual": 305103.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2005-11-01",
       "actual": 136158.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-10-01",
-      "actual": 295785.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5211,30 +2711,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-09-01",
-      "actual": 294215.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2005-09-01",
       "actual": 134869.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-08-01",
-      "actual": 314907.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5251,30 +2731,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-07-01",
-      "actual": 310812.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2005-07-01",
       "actual": 133994.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-06-01",
-      "actual": 310924.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5291,30 +2751,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-05-01",
-      "actual": 304842.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2005-05-01",
       "actual": 134382.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-04-01",
-      "actual": 295750.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5331,30 +2771,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-03-01",
-      "actual": 299818.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2005-03-01",
       "actual": 132357.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-02-01",
-      "actual": 259266.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5381,30 +2801,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2005-01-01",
-      "actual": 257652.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2005-01-01",
       "actual": 130694.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-12-01",
-      "actual": 346563.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5421,30 +2821,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-11-01",
-      "actual": 287657.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2004-11-01",
       "actual": 133631.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-10-01",
-      "actual": 281014.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5461,30 +2841,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-09-01",
-      "actual": 276727.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2004-09-01",
       "actual": 132398.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-08-01",
-      "actual": 287769.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5501,30 +2861,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-07-01",
-      "actual": 288606.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2004-07-01",
       "actual": 131664.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-06-01",
-      "actual": 283390.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5541,30 +2881,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-05-01",
-      "actual": 289868.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2004-05-01",
       "actual": 132381.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-04-01",
-      "actual": 278111.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5581,30 +2901,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-03-01",
-      "actual": 281528.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2004-03-01",
       "actual": 130363.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-02-01",
-      "actual": 247809.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5631,30 +2931,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2004-01-01",
-      "actual": 247209.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2004-01-01",
       "actual": 128709.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-12-01",
-      "actual": 320089.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5671,30 +2951,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-11-01",
-      "actual": 266049.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2003-11-01",
       "actual": 131548.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-10-01",
-      "actual": 267372.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5711,30 +2971,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-09-01",
-      "actual": 259303.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2003-09-01",
       "actual": 130589.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-08-01",
-      "actual": 278948.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5751,30 +2991,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-07-01",
-      "actual": 273249.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2003-07-01",
       "actual": 129885.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-06-01",
-      "actual": 265140.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5791,30 +3011,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-05-01",
-      "actual": 275037.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2003-05-01",
       "actual": 130892.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-04-01",
-      "actual": 259979.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5831,30 +3031,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-03-01",
-      "actual": 258435.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2003-03-01",
       "actual": 129474.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-02-01",
-      "actual": 227883.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5881,30 +3061,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2003-01-01",
-      "actual": 236653.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2003-01-01",
       "actual": 128561.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-12-01",
-      "actual": 301455.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5921,30 +3081,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-11-01",
-      "actual": 257524.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2002-11-01",
       "actual": 131651.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-10-01",
-      "actual": 253801.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5961,30 +3101,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-09-01",
-      "actual": 240697.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2002-09-01",
       "actual": 130859.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-08-01",
-      "actual": 271526.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6001,30 +3121,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-07-01",
-      "actual": 260830.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2002-07-01",
       "actual": 130255.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-06-01",
-      "actual": 254456.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6041,30 +3141,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-05-01",
-      "actual": 265320.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2002-05-01",
       "actual": 131314.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-04-01",
-      "actual": 251463.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6081,30 +3161,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-03-01",
-      "actual": 251229.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2002-03-01",
       "actual": 129955.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-02-01",
-      "actual": 222775.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6131,30 +3191,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2002-01-01",
-      "actual": 225350.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2002-01-01",
       "actual": 128877.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-12-01",
-      "actual": 291800.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6171,30 +3211,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-11-01",
-      "actual": 256152.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2001-11-01",
       "actual": 132141.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-10-01",
-      "actual": 259459.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6211,30 +3231,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-09-01",
-      "actual": 231126.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2001-09-01",
       "actual": 132126.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-08-01",
-      "actual": 260695.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6251,30 +3251,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-07-01",
-      "actual": 246061.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2001-07-01",
       "actual": 131930.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-06-01",
-      "actual": 254671.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6291,30 +3271,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-05-01",
-      "actual": 262673.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2001-05-01",
       "actual": 133042.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-04-01",
-      "actual": 243520.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6331,30 +3291,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-03-01",
-      "actual": 247585.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2001-03-01",
       "actual": 131929.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-02-01",
-      "actual": 218731.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6381,30 +3321,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2001-01-01",
-      "actual": 221577.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2001-01-01",
       "actual": 130667.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-12-01",
-      "actual": 287426.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6421,30 +3341,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-11-01",
-      "actual": 246309.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2000-11-01",
       "actual": 133601.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-10-01",
-      "actual": 239482.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6461,30 +3361,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-09-01",
-      "actual": 238007.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2000-09-01",
       "actual": 132678.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-08-01",
-      "actual": 251694.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6501,30 +3381,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-07-01",
-      "actual": 238970.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2000-07-01",
       "actual": 131997.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-06-01",
-      "actual": 249293.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6541,30 +3401,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-05-01",
-      "actual": 251700.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2000-05-01",
       "actual": 132705.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-04-01",
-      "actual": 233673.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6581,30 +3421,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-03-01",
-      "actual": 247840.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2000-03-01",
       "actual": 130752.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-02-01",
-      "actual": 221662.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6631,30 +3451,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "2000-01-01",
-      "actual": 208890.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "2000-01-01",
       "actual": 128993.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-12-01",
-      "actual": 285786.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6671,30 +3471,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-11-01",
-      "actual": 235022.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1999-11-01",
       "actual": 131496.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-10-01",
-      "actual": 227639.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6711,30 +3491,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-09-01",
-      "actual": 225224.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1999-09-01",
       "actual": 130102.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-08-01",
-      "actual": 234869.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6751,30 +3511,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-07-01",
-      "actual": 231446.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1999-07-01",
       "actual": 129268.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-06-01",
-      "actual": 231137.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6791,30 +3531,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-05-01",
-      "actual": 231696.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1999-05-01",
       "actual": 129411.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-04-01",
-      "actual": 221500.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6831,30 +3551,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-03-01",
-      "actual": 224556.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1999-03-01",
       "actual": 127399.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-02-01",
-      "actual": 194412.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6881,30 +3581,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1999-01-01",
-      "actual": 191953.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1999-01-01",
       "actual": 125700.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-12-01",
-      "actual": 259097.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6921,30 +3601,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-11-01",
-      "actual": 213475.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1998-11-01",
       "actual": 128277.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-10-01",
-      "actual": 214737.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6961,30 +3621,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-09-01",
-      "actual": 203599.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1998-09-01",
       "actual": 127098.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-08-01",
-      "actual": 211123.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7001,30 +3641,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-07-01",
-      "actual": 212032.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1998-07-01",
       "actual": 126047.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-06-01",
-      "actual": 215167.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7041,30 +3661,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-05-01",
-      "actual": 215709.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1998-05-01",
       "actual": 126455.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-04-01",
-      "actual": 206879.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7081,30 +3681,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-03-01",
-      "actual": 202654.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1998-03-01",
       "actual": 124332.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-02-01",
-      "actual": 178930.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7131,30 +3711,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1998-01-01",
-      "actual": 182730.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1998-01-01",
       "actual": 122832.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-12-01",
-      "actual": 243417.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7171,30 +3731,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-11-01",
-      "actual": 202324.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1997-11-01",
       "actual": 125245.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-10-01",
-      "actual": 204643.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7211,30 +3751,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-09-01",
-      "actual": 196212.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1997-09-01",
       "actual": 123948.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-08-01",
-      "actual": 206643.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7251,30 +3771,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-07-01",
-      "actual": 203254.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1997-07-01",
       "actual": 122877.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-06-01",
-      "actual": 199982.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7291,30 +3791,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-05-01",
-      "actual": 205961.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1997-05-01",
       "actual": 123211.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-04-01",
-      "actual": 193895.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7331,30 +3811,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-03-01",
-      "actual": 198366.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1997-03-01",
       "actual": 121155.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-02-01",
-      "actual": 173491.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7381,30 +3841,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1997-01-01",
-      "actual": 176396.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1997-01-01",
       "actual": 119412.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-12-01",
-      "actual": 232014.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7421,30 +3861,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-11-01",
-      "actual": 198496.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1996-11-01",
       "actual": 121976.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-10-01",
-      "actual": 196530.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7461,30 +3881,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-09-01",
-      "actual": 184492.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1996-09-01",
       "actual": 120796.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-08-01",
-      "actual": 199008.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7501,30 +3901,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-07-01",
-      "actual": 191549.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1996-07-01",
       "actual": 119757.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-06-01",
-      "actual": 191144.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7541,30 +3921,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-05-01",
-      "actual": 199961.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1996-05-01",
       "actual": 120132.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-04-01",
-      "actual": 186280.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7581,30 +3941,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-03-01",
-      "actual": 186461.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1996-03-01",
       "actual": 118168.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-02-01",
-      "actual": 169234.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7631,30 +3971,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1996-01-01",
-      "actual": 163465.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1996-01-01",
       "actual": 116423.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-12-01",
-      "actual": 222474.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7671,30 +3991,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-11-01",
-      "actual": 188626.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1995-11-01",
       "actual": 119126.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-10-01",
-      "actual": 179265.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7711,30 +4011,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-09-01",
-      "actual": 177734.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1995-09-01",
       "actual": 118286.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-08-01",
-      "actual": 188151.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7751,30 +4031,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-07-01",
-      "actual": 177637.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1995-07-01",
       "actual": 117106.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-06-01",
-      "actual": 186041.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7791,30 +4051,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-05-01",
-      "actual": 184842.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1995-05-01",
       "actual": 117625.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-04-01",
-      "actual": 171509.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7831,30 +4071,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-03-01",
-      "actual": 176579.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1995-03-01",
       "actual": 116071.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-02-01",
-      "actual": 150654.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7881,30 +4101,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1995-01-01",
-      "actual": 154048.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1995-01-01",
       "actual": 114655.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-12-01",
-      "actual": 216404.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7921,30 +4121,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-11-01",
-      "actual": 179547.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1994-11-01",
       "actual": 116926.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-10-01",
-      "actual": 173559.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7961,30 +4141,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-09-01",
-      "actual": 170304.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1994-09-01",
       "actual": 115693.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-08-01",
-      "actual": 177283.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8001,30 +4161,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-07-01",
-      "actual": 168000.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1994-07-01",
       "actual": 114325.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-06-01",
-      "actual": 173036.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8041,30 +4181,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-05-01",
-      "actual": 170292.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1994-05-01",
       "actual": 114479.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-04-01",
-      "actual": 165664.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8081,30 +4201,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-03-01",
-      "actual": 168571.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1994-03-01",
       "actual": 112389.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-02-01",
-      "actual": 142096.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8131,30 +4231,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1994-01-01",
-      "actual": 141534.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1994-01-01",
       "actual": 110833.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-12-01",
-      "actual": 201200.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8171,30 +4251,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-11-01",
-      "actual": 165372.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1993-11-01",
       "actual": 112935.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-10-01",
-      "actual": 159213.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8211,30 +4271,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-09-01",
-      "actual": 154669.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1993-09-01",
       "actual": 111926.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-08-01",
-      "actual": 159264.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8251,30 +4291,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-07-01",
-      "actual": 159382.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1993-07-01",
       "actual": 110825.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-06-01",
-      "actual": 157935.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8291,30 +4311,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-05-01",
-      "actual": 158325.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1993-05-01",
       "actual": 111103.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-04-01",
-      "actual": 153623.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8331,30 +4331,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-03-01",
-      "actual": 148430.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1993-03-01",
       "actual": 109135.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-02-01",
-      "actual": 130321.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8381,30 +4361,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1993-01-01",
-      "actual": 133217.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1993-01-01",
       "actual": 108098.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-12-01",
-      "actual": 186520.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8421,30 +4381,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-11-01",
-      "actual": 150571.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1992-11-01",
       "actual": 110275.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-10-01",
-      "actual": 151260.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8461,30 +4401,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-09-01",
-      "actual": 143808.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1992-09-01",
       "actual": 109449.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-08-01",
-      "actual": 147901.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8501,30 +4421,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-07-01",
-      "actual": 147657.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1992-07-01",
       "actual": 108608.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-06-01",
-      "actual": 146991.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8541,30 +4441,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-05-01",
-      "actual": 147550.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1992-05-01",
       "actual": 109137.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-04-01",
-      "actual": 142314.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8581,30 +4461,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-03-01",
-      "actual": 137978.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Total Nonfarm Payrolls Employment Change",
       "country": "United States",
       "timestamp": "1992-03-01",
       "actual": 107495.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-02-01",
-      "actual": 127022.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8625,16 +4485,6 @@
       "country": "United States",
       "timestamp": "1992-01-01",
       "actual": 10398.046,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Retail Sales Monthly Change",
-      "country": "United States",
-      "timestamp": "1992-01-01",
-      "actual": 126717.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
