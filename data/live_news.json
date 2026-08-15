@@ -1,14 +1,14 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-15T19:58:23.308189+00:00",
+    "last_updated": "2026-08-15T20:32:48.923739+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 43,
+      "equities": 42,
       "commodities": 9,
-      "general": 101,
-      "macro": 22,
-      "crypto": 52,
+      "general": 102,
+      "macro": 21,
+      "crypto": 51,
       "forex": 6
     }
   },
@@ -39,6 +39,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-15T18:33:50+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Yemen's Mocha port halts operations after Houthi attacks, port director says - Reuters",
+      "description": "Yemen's Mocha port halts operations after Houthi attacks, port director says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-15T17:30:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2FPbFJIdUZSc2djcmg5V0I3VE9WY0pQaWRRdGxaM21PRXloRHluMFhBVk04SjlMVmxKdmFxblFJMFRQME5QTGFBODdSbC05LWtkNm9UM3M1Vl9kTkpTY3ppaFloSXAyV0hUU3lseUR3Rl94TlZsVDhmS0VJWE9Damc4dGRla1pRUHdENG02ZExWcnh4ZDIzbC1uUmN0cFljUDN6MGd0QlVoSVcyajZXNExMMzY4SHd6QmNoQWZDYm5udTEweGpR?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -132,6 +142,16 @@
       "article_url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
+      "description": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-15T14:13:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2022,28 +2042,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWVhsYXl4b0NkRk9GdFhWN0lBcU16ckh5aG9SakN2TzBSMGIxSVUxYm9TY3VndmdwM0YwMjlrTGZQMmNaTWJHTlhzZXFBM004ZHhsQm1wNDVMNFNfXzZtTVVFZXBaOWRNV3h2Wjc3dXZsbGlseE1LZ00wUno4ZkMwMGpOR3JxczRNaTlGdHZsWTd1a1lpZWNiQnBfYWl4TXhwQjNNRlRXeDhETTlrYkg3R01UeTJkQUdIbkhGN1dIVl85ZFpOdVF0ZlJB?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Trezor reports data from 14K users exposed through shipping provider",
-      "description": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T15:25:14+00:00",
-      "article_url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
-      "description": "Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T15:07:38+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
       ]
     }
   ]
