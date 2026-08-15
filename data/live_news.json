@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-15T11:01:19.533905+00:00",
+    "last_updated": "2026-08-15T11:30:45.758285+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 105,
       "crypto": 50,
       "macro": 20,
-      "general": 105,
       "equities": 43,
       "forex": 7,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "description": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-15T10:44:52+00:00",
+      "article_url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Galaxy lowers CLARITY Act odds to 10%",
       "description": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
@@ -2035,16 +2045,6 @@
       "article_url": "https://www.cnbc.com/2026/08/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Granite Creek-backed DCG Merges with Urban Emu: Expands Digital and Technical Capabilities",
-      "description": "CHICAGO and WASHINGTON, Aug. 13, 2026 (GLOBE NEWSWIRE) -- Granite Creek Capital Partners, L.L.C., a Chicago-based private investment firm, today announced that its portfolio company, The District Communications Group (DCG), has merged with Urban Emu, an innovative digital and technical solutions age",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-13T13:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344574/0/en/granite-creek-backed-dcg-merges-with-urban-emu-expands-digital-and-technical-capabilities.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
