@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-15T14:27:40.280492+00:00",
+    "last_updated": "2026-08-15T14:51:41.777291+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "macro": 21,
       "crypto": 52,
-      "general": 104,
-      "macro": 20,
+      "general": 103,
       "equities": 42,
       "forex": 7,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+      "description": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
+      "source": "CNBC",
+      "publication_date": "2026-08-15T14:22:54+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-15T14:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
       "description": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
@@ -125,8 +145,8 @@
       ]
     },
     {
-      "headline": "UAE says ADNOC vessel attacked in Hormuz, vows to defend navigation rights - Reuters",
-      "description": "UAE says ADNOC vessel attacked in Hormuz, vows to defend navigation rights Reuters",
+      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
+      "description": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-14T22:01:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
@@ -2025,26 +2045,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-13T13:37:56+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Cerebras slumps as mixed quarterly results test AI growth narrative - Reuters",
-      "description": "Cerebras slumps as mixed quarterly results test AI growth narrative Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T13:35:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUo1UndBenVpbnhDNXAwazVSelR2aDVlTzI3N1dLWFRRU2h2Wm5YX1ZraDY1VFZ2bS1laVh5MndyZU00c010d0IxTG5jMmk4ODRob3ZrOG5YXy1HYkpmZ2Q0czFiZGxuWnNwYVltXzhFemlwOHg5RVh0VWFNUmtnS3RyRmc2Nml2QnE5Vk9GaGNfcTZ0dlZsaDZ2ckVBTHZISFdWM21MSTgydzFwM1E?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
