@@ -1,34 +1,54 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-15T15:48:43.051377+00:00",
+    "last_updated": "2026-08-15T16:30:14.972529+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 104,
+      "general": 102,
+      "crypto": 53,
       "macro": 21,
-      "crypto": 51,
       "equities": 41,
-      "forex": 7,
+      "forex": 6,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+      "description": "Taliban mark five years in power as aid groups warn of crisis Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-15T15:26:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-15T15:21:15+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-15T15:12:29+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Israeli strike kills seven in south Lebanon, state news reports​ - Reuters",
       "description": "Israeli strike kills seven in south Lebanon, state news reports​ Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-15T14:43:31+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
-      "description": "Taliban mark five years in power as aid groups warn of crisis Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T14:32:32+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -61,6 +81,16 @@
       "article_url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Workday could be acquired by private equity. Should it though?",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-15T13:00:30+00:00",
+      "article_url": "https://seekingalpha.com/news/4633440-workday-could-be-acquired-by-private-equity-should-it-though?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -2013,37 +2043,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGhKelhTel9FQmgtYno3bkdnX3dQSmFZUlBHVTBveFBQRkNYdWYydXpNcUUyaWZaV0dkTlJ3SWs0c1FGSXlyeVVwYURiS1dRY3luWjlyTnZlLTR3SjlEdEdBa1N3R3BsMlV4ekFseHhwMUFYQU9KUGRCajRJdlBKVmNlcklXUHRMLTlIaE5KSHpOV0VISklCVXdaU1YzZ3hHQmduX0RVU0Y2ZTYwNFRfcko1ZXk?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Europe Inc heads for one of its strongest earnings seasons in years - Reuters",
-      "description": "Europe Inc heads for one of its strongest earnings seasons in years Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T14:12:34+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeFA1VnNEcWFjZnJPS1lFbWtOZk8tclhwejI5eVhmSFZEOE9QNzRCaFJYOVJ3SEU0UkZaRWtBNzRLOVROd21IbTBRbDhZcGdTd2xHLVNCUDE2NnEtZ0ZCTVJ5UkRvWVF2NkM1ZVI3djgzY1k1ZkR2eXI4RUZUcjdhV09FSWJfS1VtcTBNd2FfaGx6b2psUlBpczlQX3pTSWJfR2pCX2tBclBGQzk4akE?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities"
-      ]
-    },
-    {
-      "headline": "Poland says it arrested Russian hired to kill Ukrainian-American citizen - Reuters",
-      "description": "Poland says it arrested Russian hired to kill Ukrainian-American citizen Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T14:12:05+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGJZV3pwUWlPWWw4V2ttV3dCSE4zMzBRTVhrdm9hcU5nRTJiaTFKSnNGemNlaGhHVjNLdmI4cXZZczQ2cC1PWlpOVGNJT3hxYWhZOWEteFdwbmJQX1dZREM1ZEJJVXpIMEVNTndGblpYb0dWZ280NjIxbHh2VVY4Wjh1VGIySG11bUdEc3VlTWpDSDljMVQxRWhLaXpPS01GbjMzeDg3dkFMcWpEM2M4TQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil settles down 2% on weak demand outlook, hefty US crude build - Reuters",
-      "description": "Oil settles down 2% on weak demand outlook, hefty US crude build Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T14:03:59+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHRqOVFPR196RlJ0WTVZajZ6NHRpdmhmZ0EtSDMwTDVZVk5mX2JnVm9LVnFDQ2M4c08ybExVeldFQk9BdG9HVldTbnJFRDVjdTc3MF8wZmc4ck41bWd6Wng2SFowYjZrNW1UVzJuMDR4cnBUT0c2TXUteFR0cTFiVVY5bm5Da09NSDI4akNIcFY4NHRBRzkzNXNuZ1luQjNGUHFFdnVhT1RCNGlKMWx4MkgzdzhLdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
