@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-15T17:24:41.250702+00:00",
+    "last_updated": "2026-08-15T17:48:45.830773+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 102,
-      "crypto": 53,
-      "macro": 21,
       "equities": 41,
+      "macro": 22,
+      "crypto": 54,
+      "general": 101,
       "forex": 6,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-15T16:00:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-15T15:56:05+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
       "description": "Taliban mark five years in power as aid groups warn of crisis Reuters",
@@ -1060,6 +1081,16 @@
       ]
     },
     {
+      "headline": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains - Reuters",
+      "description": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T08:44:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SEGRO PLC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1417,16 +1448,6 @@
       "article_url": "https://cointelegraph.com/news/figure-q2-loan-marketplace-volume-profit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains - Reuters",
-      "description": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T01:36:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
-      "asset_tags": [
-        "crypto"
       ]
     },
     {
@@ -2023,26 +2044,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTlvYTRPQnZ2b3ZFaHNQeDc1ZWdlaXlmc1AwQTJ4bnFKQ2xHRmpaSGRRa2o0U1ZOR0w3RnhiNDFBMmlicjE1RFpIdXBhUmtqTmhpYzhBUDVjaG5sLVFyZGlpZllnSVpxWlJHRW5GRW5TTjh5YVluangyMGNsR0RJRDNWUmNLazluRUFuUVVIN0JKLTR0NkpvX2pOdkdyOFNEVHA2U2MwVnVoZjhwbTdDcEljd1VTLWllWlh3YUtVX1Z1Mlh5Q1JGZQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-13T14:16:06+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Aluminium on thin ice as LME stocks hit 36-year low - Reuters",
-      "description": "Aluminium on thin ice as LME stocks hit 36-year low Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T14:13:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGhKelhTel9FQmgtYno3bkdnX3dQSmFZUlBHVTBveFBQRkNYdWYydXpNcUUyaWZaV0dkTlJ3SWs0c1FGSXlyeVVwYURiS1dRY3luWjlyTnZlLTR3SjlEdEdBa1N3R3BsMlV4ekFseHhwMUFYQU9KUGRCajRJdlBKVmNlcklXUHRMLTlIaE5KSHpOV0VISklCVXdaU1YzZ3hHQmduX0RVU0Y2ZTYwNFRfcko1ZXk?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
