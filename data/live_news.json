@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-15T06:45:07.704046+00:00",
+    "last_updated": "2026-08-15T07:18:38.412029+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "crypto": 49,
-      "general": 108,
-      "macro": 18,
+      "general": 107,
+      "macro": 19,
       "equities": 43,
       "forex": 7,
-      "commodities": 7
+      "commodities": 8
     }
   },
   "articles": [
@@ -1008,6 +1008,17 @@
       "article_url": "https://seekingalpha.com/news/4633042-california-regulator-approves-charter-cox-merger?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "India less exposed to AI job risks than others, Goldman says",
+      "description": "Construction and retail trade account for about 40% of India’s workforce, and ‘it’s not really getting impacted by AI currently’, Goldman Sachs economist says",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-14T06:44:47+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+      "asset_tags": [
+        "commodities",
+        "macro"
       ]
     },
     {
@@ -2033,16 +2044,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/13/3344514/0/en/check-cap-mbai-advances-merger-with-mbody-ai-reverse-share-split-effective.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "India's Petronet says no clarity on September LNG supplies from Qatar - Reuters",
-      "description": "India's Petronet says no clarity on September LNG supplies from Qatar Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T12:33:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeWx2U3hCNjhtakphc3gwM1JGbVZjZk92aDM4UlBlRi1hZ0Q5eVBsY2x6TjM3cmxqcDVTZVJkaW9WME43ZnQ0eTVJcWhfSENCemdrR2NOTngzczdPUW80YmhzSUxvMmxvZ2JsM0h6R01mUmR2Q2xJb2QyNFBZNXc3TS1Fa3Z1dkMzR3ZGOXFDSGlHLVYyUnZQeUVkRlI1REl4S1VDVU1CVUhFVGxqVGVsWlVR?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
