@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-15T19:37:18.173811+00:00",
+    "last_updated": "2026-08-15T19:58:23.308189+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 102,
-      "equities": 42,
+      "equities": 43,
+      "commodities": 9,
+      "general": 101,
       "macro": 22,
-      "crypto": 53,
-      "forex": 6,
-      "commodities": 8
+      "crypto": 52,
+      "forex": 6
     }
   },
   "articles": [
+    {
+      "headline": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "description": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-15T19:27:29+00:00",
+      "article_url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-15T19:15:56+00:00",
+      "article_url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
     {
       "headline": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters",
       "description": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ Reuters",
@@ -2024,26 +2044,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Crypto for Advisors: The crypto advice gap",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-13T15:00:00+00:00",
-      "article_url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "The week in unusual pictures - Reuters",
-      "description": "The week in unusual pictures Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T14:50:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIZ1V2QWlheVlBQ1ZodGdSTkszU1k2dmRlSkNFUlZqOHRDWnVzRkZXVlZrRDVBNW1NU2N6YjM2VVpfY2o2TU1tYlNzT3hMaTE5REFGSXRLVk1zS00yeHNkSy1DdlZNd1lub0dRU0V2WUJQWlN4?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
