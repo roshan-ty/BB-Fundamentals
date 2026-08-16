@@ -3,7 +3,7 @@
     "application": "Bulls & Bears Fundamentals",
     "engine": "Quantitative Institutional Analysis Engine",
     "version": "1.0.0",
-    "last_updated": "2026-08-16T09:25:08.009504+00:00",
+    "last_updated": "2026-08-16T10:20:12.402269+00:00",
     "total_instruments_analyzed": 82,
     "reference_fed_funds_rate": 3.63
   },
@@ -52,7 +52,7 @@
       "display_name": "British Pound Sterling / United States Dollar (GBP/USD)",
       "asset_class": "forex_majors",
       "current_spot_pricing": 1.35329,
-      "twenty_four_hour_percentage_price_variance": 0.2598,
+      "twenty_four_hour_percentage_price_variance": 0.3126,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 7.275,
       "pillar_scores": {
@@ -106,7 +106,7 @@
       "display_name": "Australian Dollar / United States Dollar (AUD/USD)",
       "asset_class": "forex_majors",
       "current_spot_pricing": 0.708667,
-      "twenty_four_hour_percentage_price_variance": 0.3224,
+      "twenty_four_hour_percentage_price_variance": 0.3252,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 7.275,
       "pillar_scores": {
@@ -133,7 +133,7 @@
       "display_name": "United States Dollar / Canadian Dollar (USD/CAD)",
       "asset_class": "forex_majors",
       "current_spot_pricing": 1.3872,
-      "twenty_four_hour_percentage_price_variance": -0.4921,
+      "twenty_four_hour_percentage_price_variance": -0.3956,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 7.275,
       "pillar_scores": {
@@ -160,7 +160,7 @@
       "display_name": "United States Dollar / Swiss Franc (USD/CHF)",
       "asset_class": "forex_majors",
       "current_spot_pricing": 0.813,
-      "twenty_four_hour_percentage_price_variance": 0.0123,
+      "twenty_four_hour_percentage_price_variance": -0.1376,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 7.275,
       "pillar_scores": {
@@ -376,7 +376,7 @@
       "display_name": "British Pound Sterling / Swiss Franc (GBP/CHF)",
       "asset_class": "forex_crosses",
       "current_spot_pricing": 1.10033,
-      "twenty_four_hour_percentage_price_variance": 0.2569,
+      "twenty_four_hour_percentage_price_variance": 0.1985,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 7.275,
       "pillar_scores": {
@@ -403,7 +403,7 @@
       "display_name": "British Pound Sterling / Australian Dollar (GBP/AUD)",
       "asset_class": "forex_crosses",
       "current_spot_pricing": 1.91052,
-      "twenty_four_hour_percentage_price_variance": -0.0052,
+      "twenty_four_hour_percentage_price_variance": 0.0429,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 7.275,
       "pillar_scores": {
@@ -430,7 +430,7 @@
       "display_name": "British Pound Sterling / New Zealand Dollar (GBP/NZD)",
       "asset_class": "forex_crosses",
       "current_spot_pricing": 2.2966,
-      "twenty_four_hour_percentage_price_variance": -0.2736,
+      "twenty_four_hour_percentage_price_variance": -0.3367,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 7.275,
       "pillar_scores": {
@@ -457,7 +457,7 @@
       "display_name": "Australian Dollar / Japanese Yen (AUD/JPY)",
       "asset_class": "forex_crosses",
       "current_spot_pricing": 112.878998,
-      "twenty_four_hour_percentage_price_variance": 0.328,
+      "twenty_four_hour_percentage_price_variance": 0.2398,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.125,
       "pillar_scores": {
@@ -754,7 +754,7 @@
       "display_name": "United States Dollar / Hong Kong Dollar (USD/HKD)",
       "asset_class": "forex_crosses",
       "current_spot_pricing": 7.847,
-      "twenty_four_hour_percentage_price_variance": 0.0089,
+      "twenty_four_hour_percentage_price_variance": -0.0025,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 5.525,
       "pillar_scores": {
@@ -862,7 +862,7 @@
       "display_name": "United States Dollar / Brazilian Real (USD/BRL)",
       "asset_class": "forex_crosses",
       "current_spot_pricing": 5.2132,
-      "twenty_four_hour_percentage_price_variance": 0.3426,
+      "twenty_four_hour_percentage_price_variance": 0.2577,
       "calculated_comprehensive_fundamental_bias": "Bullish",
       "final_composite_score": 5.525,
       "pillar_scores": {
@@ -1887,8 +1887,8 @@
       "symbol": "BTC-USD",
       "display_name": "Bitcoin / United States Dollar (BTC-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 62998.820312,
-      "twenty_four_hour_percentage_price_variance": -0.0405,
+      "current_spot_pricing": 62916.988281,
+      "twenty_four_hour_percentage_price_variance": -0.1703,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -1914,8 +1914,8 @@
       "symbol": "ETH-USD",
       "display_name": "Ethereum / United States Dollar (ETH-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 1880.140015,
-      "twenty_four_hour_percentage_price_variance": -0.0408,
+      "current_spot_pricing": 1877.869995,
+      "twenty_four_hour_percentage_price_variance": -0.1615,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -1941,8 +1941,8 @@
       "symbol": "SOL-USD",
       "display_name": "Solana / United States Dollar (SOL-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 75.370003,
-      "twenty_four_hour_percentage_price_variance": 0.1298,
+      "current_spot_pricing": 75.139999,
+      "twenty_four_hour_percentage_price_variance": -0.1758,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -1968,8 +1968,8 @@
       "symbol": "BNB-USD",
       "display_name": "BNB / United States Dollar (BNB-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 606.880005,
-      "twenty_four_hour_percentage_price_variance": -0.0369,
+      "current_spot_pricing": 606.440002,
+      "twenty_four_hour_percentage_price_variance": -0.1094,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -1995,8 +1995,8 @@
       "symbol": "XRP-USD",
       "display_name": "XRP / United States Dollar (XRP-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 1.0011,
-      "twenty_four_hour_percentage_price_variance": -0.03,
+      "current_spot_pricing": 0.9977,
+      "twenty_four_hour_percentage_price_variance": -0.3695,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -2022,8 +2022,8 @@
       "symbol": "ADA-USD",
       "display_name": "Cardano / United States Dollar (ADA-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 0.17735,
-      "twenty_four_hour_percentage_price_variance": 0.6915,
+      "current_spot_pricing": 0.17615,
+      "twenty_four_hour_percentage_price_variance": 0.0102,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -2049,8 +2049,8 @@
       "symbol": "DOGE-USD",
       "display_name": "Dogecoin / United States Dollar (DOGE-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 0.06978,
-      "twenty_four_hour_percentage_price_variance": 0.3307,
+      "current_spot_pricing": 0.06965,
+      "twenty_four_hour_percentage_price_variance": 0.1438,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -2076,8 +2076,8 @@
       "symbol": "DOT-USD",
       "display_name": "Polkadot / United States Dollar (DOT-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 0.7596,
-      "twenty_four_hour_percentage_price_variance": 0.0219,
+      "current_spot_pricing": 0.7585,
+      "twenty_four_hour_percentage_price_variance": -0.123,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -2130,8 +2130,8 @@
       "symbol": "LINK-USD",
       "display_name": "Chainlink / United States Dollar (LINK-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 9.415,
-      "twenty_four_hour_percentage_price_variance": -0.5162,
+      "current_spot_pricing": 9.398,
+      "twenty_four_hour_percentage_price_variance": -0.6958,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -2157,8 +2157,8 @@
       "symbol": "ATOM-USD",
       "display_name": "Cosmos / United States Dollar (ATOM-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 1.501,
-      "twenty_four_hour_percentage_price_variance": 1.8396,
+      "current_spot_pricing": 1.498,
+      "twenty_four_hour_percentage_price_variance": 1.636,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -2184,8 +2184,8 @@
       "symbol": "LTC-USD",
       "display_name": "Litecoin / United States Dollar (LTC-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 44.380001,
-      "twenty_four_hour_percentage_price_variance": 0.7123,
+      "current_spot_pricing": 44.310001,
+      "twenty_four_hour_percentage_price_variance": 0.5534,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
@@ -2211,8 +2211,8 @@
       "symbol": "BCH-USD",
       "display_name": "Bitcoin Cash / United States Dollar (BCH-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 204.070007,
-      "twenty_four_hour_percentage_price_variance": 0.2953,
+      "current_spot_pricing": 203.520004,
+      "twenty_four_hour_percentage_price_variance": 0.025,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.9813,
       "pillar_scores": {
