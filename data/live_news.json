@@ -1,23 +1,35 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-16T23:24:12.502048+00:00",
+    "last_updated": "2026-08-16T23:47:10.068266+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 9,
+      "crypto": 48,
+      "macro": 23,
       "general": 102,
-      "equities": 43,
-      "crypto": 47,
-      "macro": 22,
-      "forex": 8,
+      "equities": 42,
       "commodities": 6
     }
   },
   "articles": [
     {
+      "headline": "UK data - Housing slump and hiring freeze cloud outlook",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The combination of a sharper than usual seasonal drop in asking prices and employers holding firm on both hiring and firing adds to the case for a cautious Bank of England, which has kept rates on hold since December 2025. ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-16T23:26:17+00:00",
+      "article_url": "https://investinglive.com/news/uk-data-housing-slump-and-hiring-freeze-cloud-outlook/",
+      "asset_tags": [
+        "forex",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
       "headline": "Trump instructs Pentagon to reduce military exercises with South Korea - Reuters",
       "description": "Trump instructs Pentagon to reduce military exercises with South Korea Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-16T21:58:09+00:00",
+      "publication_date": "2026-08-16T22:54:26+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
       "asset_tags": [
         "general"
@@ -580,16 +592,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters",
-      "description": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T05:14:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2032,13 +2034,13 @@
       ]
     },
     {
-      "headline": "Are global oil stocks big enough to weather another six months of US-Iran war? - Reuters",
-      "description": "Are global oil stocks big enough to weather another six months of US-Iran war? Reuters",
+      "headline": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers - Reuters",
+      "description": "Trump allows Navy to build ships abroad, orders return to steam catapults on carriers Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-13T21:21:16+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JQSjZkUi01N0FQZ0t5dzdwNWlyci1jVTg5bmpSN2tzQmRrN1N4bnh3QmM0UnFhVHVwMFJvNlRsMlZIRW1qbkw1THhJc0pTSEpieVdwSktrUmZTeng0dE9jSVI3ei1ERDdncXhoVnhYTWJIX1RLN0xXdUJnU3ZGTUlCQnNvODdFbVVKVjl2WWVDZ09mdzQxUUN6WFBzZ1R6SGlKVlhEVjBjWHJOcDFXNHlhcXJjTUlfUm9DX0xxOHM?oc=5",
+      "publication_date": "2026-08-13T21:37:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWl5Q296eFVlNTZXb2JiWFdHQVNjTEM0di00TXJkNW5yblZfbDNYRHNMaldKbGJqdnZJQU5EeFppUGplTXc2MWg2MWFNX3A0RUMzcHlJSWRwWXEtQzhhSXZzWG93UERWV0E3b3JBeVhBRXNhTUUyUFFDMk5RVGpIcHVfYzVNUnFGcXFqdHZ5NEVZeldnSUVKY3ZwcWRmT01fUUM5WjBZMEI2R0dEQ1E?oc=5",
       "asset_tags": [
-        "equities"
+        "general"
       ]
     }
   ]
