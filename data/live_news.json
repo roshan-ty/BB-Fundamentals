@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-16T18:40:24.053588+00:00",
+    "last_updated": "2026-08-16T19:05:02.969028+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 48,
       "general": 102,
       "equities": 43,
-      "macro": 25,
-      "crypto": 47,
+      "macro": 24,
       "forex": 9,
       "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "The SEC meeting that wasn't: State of Crypto",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-16T18:30:00+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Trump's envoys meet mediators, Israel strikes Gaza - Reuters",
       "description": "Trump's envoys meet mediators, Israel strikes Gaza Reuters",
@@ -2034,16 +2044,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGhXbFM5QXFmajRHRDJaUnRpRHhRSjVoWlpKQWdPangwX2g4cTB4SzNsN2lpOTZxN1Q3ejZQWFpzekxwcTdGWVZoTWFuOGFWam1oVmNUX2RzVHU1MjEtQzh2ZHRoam9JVi1rT01kN2dQcnJUbzRLNHNqQkVXR0VERk1VdW5QX0JKWEw5dEJoM2E4bjhUUGZsckdnbHdoVXROMm5yTkRWZEVvaGxsR0xRQzFwVXNjLVBfMlNGMkZ5V1JQV2kwM2c?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "City of Baltimore goes after prediction markets for sports betting",
-      "description": "The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T21:08:23+00:00",
-      "article_url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
