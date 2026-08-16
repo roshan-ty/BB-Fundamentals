@@ -1,37 +1,34 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-16T22:49:54.141254+00:00",
+    "last_updated": "2026-08-16T23:24:12.502048+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 9,
-      "equities": 44,
-      "commodities": 7,
-      "macro": 23,
-      "general": 101,
-      "crypto": 47
+      "general": 102,
+      "equities": 43,
+      "crypto": 47,
+      "macro": 22,
+      "forex": 8,
+      "commodities": 6
     }
   },
   "articles": [
-    {
-      "headline": "China delays July economic data release to late afternoon slot",
-      "description": "<p>The unexpected delay of China’s monthly data drop shifts market risk into the Asian afternoon session, while setting up European markets for a volatile opening. Investors face potential positioning shifts across industrial commodities like copper and crude oil, which remain sensitive to Chinese d",
-      "source": "Forexlive",
-      "publication_date": "2026-08-16T21:58:25+00:00",
-      "article_url": "https://investinglive.com/news/china-delays-july-economic-data-release-to-late-afternoon-slot/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
-      ]
-    },
     {
       "headline": "Trump instructs Pentagon to reduce military exercises with South Korea - Reuters",
       "description": "Trump instructs Pentagon to reduce military exercises with South Korea Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-16T21:58:09+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Stripe is said to agree to buy OpenRouter for more than $7B",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-16T21:51:31+00:00",
+      "article_url": "https://seekingalpha.com/news/4633616-stripe-is-said-to-agree-to-buy-openrouter-for-more-than-7b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
