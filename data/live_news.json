@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-16T19:57:43.156070+00:00",
+    "last_updated": "2026-08-16T20:32:01.104135+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 101,
       "crypto": 48,
-      "general": 102,
-      "equities": 43,
+      "equities": 44,
       "macro": 24,
       "forex": 9,
       "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
+      "description": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
+      "source": "CNBC",
+      "publication_date": "2026-08-16T19:58:32+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "The SEC meeting that wasn't: State of Crypto",
       "description": "",
@@ -665,6 +675,16 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Hanwha, Fincantieri shares rise after Trump opens Navy shipbuilding to foreign yards - Reuters",
+      "description": "Hanwha, Fincantieri shares rise after Trump opens Navy shipbuilding to foreign yards Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T20:41:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmZJY05rcUQ5ay1lOEZ1aFVrYU1CWmhicjZvR29ZeTUwRzR1bUZHZS1HNGh4WlNLdzh2aHBoNU11ekllNnJUeExVSU1LRElXQVJoaWU3TzNaOGpxT3hodF95WV81WThZelZSTTBKenRJNDRmVmdFQm0xTW9nekttZi1DcjhiaEE2QXJzTGhSMlhHNmY5MUFUSVk2YUlXbkhleU1oWjR2Y05KZ3FocmM2MU5uV1RQWHk2RmtLZnhaMnl3ZVh3VUdlZkRYSkxuSWFWNFdvRTZlQm5OVmM?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1377,6 +1397,16 @@
       ]
     },
     {
+      "headline": "Take Five: The heat is on - Reuters",
+      "description": "Take Five: The heat is on Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T09:45:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkh4THJEcHA2Vl9WbDJnMVBHYzE2STZpVEw2M20tMGpYODhTdjFBLXJjZERDa25TOEJ0VjZ4bl9LUlNFTTZEeHRHRU1JM3dkSW1TZHRyVUQtRWFmV2owUmZOdi0zT19jTkg2c1FELWlKaUREa3VodVNPejJ5VmxaUURhTFRfVnI3YWxBWg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Form 8.5 (EPT/RI) - Kore Potash Plc",
       "description": "FORM 8.5 (EPT/RI)",
       "source": "GlobalNewswire",
@@ -1996,16 +2026,6 @@
       ]
     },
     {
-      "headline": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
-      "description": "Israel sends troops into West Bank homes besieged by Jewish settlers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T21:20:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnkwN181TzdJQXA2ajNoUENXQTVxVTBvaDVrMHNfT0FldklHZGZ0Y094aFRMM3B2ZXpBbjdneUdKQ2h4aFQyTjdweE1uNXRtWEpXdVhWc29HbkVyU01qcUtnek0yTjVqdU5pQUlkUVdEeGFxUVhEdGRjQ2hPT0JmYTRuMTVtVVhFU050aVhnVnlUZ2ltRVZROEJoQ3lUZC1jYVI3ZV9nSm53bU9pcGtmdjBSQXJQMFBJdzc4aGw3aU0wQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries - Reuters",
       "description": "UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuries Reuters",
       "source": "Reuters",
@@ -2024,26 +2044,6 @@
       "asset_tags": [
         "equities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Bird remains found aboard 737 engine from Ryanair Greek incident - Reuters",
-      "description": "Bird remains found aboard 737 engine from Ryanair Greek incident Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T21:17:59+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmV1RmxReUYwWXhWWk54TWU5VHpXZ2FUREw4TEo2LTkyVi1MMkZSQ2h1SlZHMDdyWDRuaEdqS2loajVsQ1NwS3VkV0FNdGpfN181UmtLYUpUUnZ5eldNRDc0WEVqYVRsVjl5SGgyQnZIc2NZQ0dITFhaZ2JtdU1EbFdSeUlkRjZNeV85dmxaLUdhYTdtNzZvMnR4R0QyZm9HQU95Z2lIcTBxd0N5YXZ4MWtfYTdkeWFfS3dQZEFHaw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Romania's Nuclearelectrica starts shutting down sole working nuclear reactor over drought - Reuters",
-      "description": "Romania's Nuclearelectrica starts shutting down sole working nuclear reactor over drought Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T21:10:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGhXbFM5QXFmajRHRDJaUnRpRHhRSjVoWlpKQWdPangwX2g4cTB4SzNsN2lpOTZxN1Q3ejZQWFpzekxwcTdGWVZoTWFuOGFWam1oVmNUX2RzVHU1MjEtQzh2ZHRoam9JVi1rT01kN2dQcnJUbzRLNHNqQkVXR0VERk1VdW5QX0JKWEw5dEJoM2E4bjhUUGZsckdnbHdoVXROMm5yTkRWZEVvaGxsR0xRQzFwVXNjLVBfMlNGMkZ5V1JQV2kwM2c?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
