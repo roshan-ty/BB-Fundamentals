@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-16T14:41:46.853354+00:00",
+    "last_updated": "2026-08-16T15:01:48.966183+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 48,
+      "general": 103,
+      "crypto": 47,
       "forex": 7,
       "macro": 23,
-      "general": 102,
       "equities": 41,
       "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "Iranian parliament advances bill to curb foreign influence - Reuters",
+      "description": "Iranian parliament advances bill to curb foreign influence Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-16T14:33:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
       "description": "",
@@ -2030,16 +2040,6 @@
       "article_url": "https://www.cnbc.com/2026/08/13/cramer-how-words-of-wisdom-from-gene-hackman-help-me-make-peace-with-investing-mistakes.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
-      "description": "More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T19:21:02+00:00",
-      "article_url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
