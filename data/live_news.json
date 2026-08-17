@@ -1,28 +1,57 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T06:23:36.217451+00:00",
+    "last_updated": "2026-08-17T07:32:26.167856+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 45,
-      "crypto": 48,
       "macro": 23,
-      "general": 101,
+      "equities": 45,
+      "crypto": 49,
+      "general": 99,
       "forex": 8,
       "commodities": 6
     }
   },
   "articles": [
     {
-      "headline": "Heads up: China July economic data releases to feature in the session ahead",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">In case you missed it earlier: <a href=\"https://investinglive.com/news/china-delays-july-economic-data-release-to-late-afternoon-slot/\" rel=\"follow\">China delays July economic data release to late afternoon slot</a></p><p class=\"text-align-j",
+      "headline": "China retail sales disappoint in July, industrial output slows while new home prices extend declines",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">The slate of July economic data:</p><ul><li>July retail sales +0.6% vs +1.5% y/y expected</li><li>Prior +1.0%</li><li>July industrial output +4.5% vs +4.8% y/y expected</li><li>Prior +5.3%</li><li>July fixed-asset investment -6.7% vs -6.0% y",
       "source": "Forexlive",
-      "publication_date": "2026-08-17T05:02:31+00:00",
-      "article_url": "https://investinglive.com/news/heads-up-china-july-economic-data-releases-to-feature-in-the-session-ahead/",
+      "publication_date": "2026-08-17T07:00:14+00:00",
+      "article_url": "https://investinglive.com/news/china-retail-sales-disappoint-in-july-industrial-output-slows-while-new-home-prices-extend-declines/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Valerio Therapeutics and Etherna Immunotherapies Progress Towards Finalisation of Transaction Documentation Regarding the Contemplated Acquisition",
+      "description": "VILLEJUIF, France--(BUSINESS WIRE)--Regulatory News: Valerio Therapeutics (FR0010095596 - ALVIO), a biotechnology company pioneering next-generation precision-guided RNA therapeutics (\"Valerio\" or the \"Company\"), provides an update on the contemplated acquisition of 100% of the share capital of Ethe",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-17T06:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260816536094/en/Valerio-Therapeutics-and-Etherna-Immunotherapies-Progress-Towards-Finalisation-of-Transaction-Documentation-Regarding-the-Contemplated-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "equities",
-        "crypto",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
+      "description": "Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-17T05:52:55+00:00",
+      "article_url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T05:51:18+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -77,8 +106,8 @@
       ]
     },
     {
-      "headline": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
-      "description": "Oil rises as US-Iran peace talks stall, Hormuz shipping slows Reuters",
+      "headline": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows - Reuters",
+      "description": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T00:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
@@ -504,16 +533,6 @@
       ]
     },
     {
-      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
-      "description": "Taliban mark five years in power as aid groups warn of crisis Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T15:26:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
       "description": "",
       "source": "CoinDesk",
@@ -674,6 +693,16 @@
       ]
     },
     {
+      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
+      "description": "Taliban mark five years in power as aid groups warn of crisis Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-15T09:04:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Galaxy lowers CLARITY Act odds to 10%",
       "description": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
       "source": "Cointelegraph",
@@ -682,6 +711,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Israel sends troops into West Bank homes besieged by Jewish settlers - Reuters",
+      "description": "Israel sends troops into West Bank homes besieged by Jewish settlers Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-15T07:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZnkwN181TzdJQXA2ajNoUENXQTVxVTBvaDVrMHNfT0FldklHZGZ0Y094aFRMM3B2ZXpBbjdneUdKQ2h4aFQyTjdweE1uNXRtWEpXdVhWc29HbkVyU01qcUtnek0yTjVqdU5pQUlkUVdEeGFxUVhEdGRjQ2hPT0JmYTRuMTVtVVhFU050aVhnVnlUZ2ltRVZROEJoQ3lUZC1jYVI3ZV9nSm53bU9pcGtmdjBSQXJQMFBJdzc4aGw3aU0wQQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -824,16 +863,6 @@
       "article_url": "https://seekingalpha.com/news/4633532-real-re-max-holdings-shareholders-approve-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Real and RE/MAX Holdings Securityholders Approve Proposed Combination",
-      "description": "MIAMI & DENVER--(BUSINESS WIRE)--Real and RE/MAX Holdings Securityholders Approve Proposed Combination",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-14T20:15:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260814775881/en/Real-and-REMAX-Holdings-Securityholders-Approve-Proposed-Combination/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1465,16 +1494,6 @@
       ]
     },
     {
-      "headline": "Indian shares end week lower as higher crude tempers risk appetite - Reuters",
-      "description": "Indian shares end week lower as higher crude tempers risk appetite Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T10:21:24+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1Jd01iTWNHTjJIOVNSdG1pVFRlTDVSZVBxY0tYSTdGU0t1T1ZzN3ZPQnYxSGpyeUtxbUhDZG1TVElrcUVrTmVmSnk1a3BCRDJoMUZoSHBjaTdfaURDcERHS2hHU2N5c05lbjJwYzluMFlkU1JnUmtEQjlmbVVIcVZ5QTVXUllxTEFZaXJlSjdKMWV6VV93YTNhSzNELUpSejZZ?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Diginex and Resulticks Sign Amended Definitive Agreement to Create a Global AI-Powered Group Spanning Customer Engagement and Trusted Sustainability Data",
       "description": "Private Funding of US$70 Million Secured and Completion Targeted for 30 October 2026 Private Funding of US$70 Million Secured and Completion Targeted for 30 October 2026",
       "source": "GlobalNewswire",
@@ -1985,6 +2004,16 @@
       ]
     },
     {
+      "headline": "Indian shares end week lower as higher crude tempers risk appetite - Reuters",
+      "description": "Indian shares end week lower as higher crude tempers risk appetite Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T02:33:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWE1Jd01iTWNHTjJIOVNSdG1pVFRlTDVSZVBxY0tYSTdGU0t1T1ZzN3ZPQnYxSGpyeUtxbUhDZG1TVElrcUVrTmVmSnk1a3BCRDJoMUZoSHBjaTdfaURDcERHS2hHU2N5c05lbjJwYzluMFlkU1JnUmtEQjlmbVVIcVZ5QTVXUllxTEFZaXJlSjdKMWV6VV93YTNhSzNELUpSejZZ?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Italian NATO fighter jet shoots down drone in Latvian airspace - Reuters",
       "description": "Italian NATO fighter jet shoots down drone in Latvian airspace Reuters",
       "source": "Reuters",
@@ -2012,36 +2041,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHh3dmRQTVJOaXBOODZqNzdueG9RbzJ0VUZ0TTJ3UGNyaXFfOUJ4c1BsWXdKXzFWY21VZTdaaHpySzhxYXFIYnBVcUpsWDdUUE1od3pKN2psUWI1dS10enVtNzBDX0xBQUpqNmkxVE1xZE1scnFHeS1DQkM4YTRwOE01NXpwU3RWREhIWGFZMlFTcndNQzRWc3NrM0xWa2hwdlMzSE5IeEhqUzVJVFBv?oc=5",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "India’s urea import prices fall 12% as global fertilizer market tightness eases",
-      "description": "India receives urea offers 12% below June prices, signalling easing global fertilizer supply pressures as demand weakens and trade disruptions persist.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-14T01:01:18+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/india-urea-offers-decline-12-as-war-supply-squeeze-eases",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Jared Kushner may visit Israel next week for talks on Gaza, source says - Reuters",
-      "description": "Jared Kushner may visit Israel next week for talks on Gaza, source says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T00:47:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ09uVUQ2dk9PUDJoYS1iejhNdDAtckREVUVPMWlfTW4xclFGOU01YmFVQjAxNzhxSy1MWl9Rd1F0Qmk4MDB0UVdFcktUaEtYY2NNaGhfMjFxdUlHZ1A0UW9OZmxlRUtaaFhLUU1jbnpzdWJfRC12NXFDUGdrMlpld24wOVlWbmZtRmhYWDI2QmZ1QUtUVWtOaTFjWFFBWUFBZWR2LXJkenhFZFJtUnZDc1JDc2oxbVRW?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "International Money Express jumps 35% after New York approves Western Union deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-14T00:41:00+00:00",
-      "article_url": "https://seekingalpha.com/news/4632992-international-money-express-jumps-35-percent-after-new-york-approves-western-union-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
