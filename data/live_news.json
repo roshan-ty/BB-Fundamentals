@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T21:57:32.521042+00:00",
+    "last_updated": "2026-08-17T22:24:53.836462+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 106,
       "crypto": 42,
-      "equities": 35,
-      "macro": 24,
-      "commodities": 10,
-      "forex": 11
+      "forex": 11,
+      "equities": 36,
+      "commodities": 11,
+      "macro": 25
     }
   },
   "articles": [
@@ -34,13 +34,26 @@
       ]
     },
     {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "headline": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
+      "description": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-17T21:06:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "publication_date": "2026-08-17T20:35:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
       "asset_tags": [
-        "equities"
+        "general"
+      ]
+    },
+    {
+      "headline": "US stock indices closed lower on the day. Declines are led by the S&P/Dow",
+      "description": "<p class=\"isSelectedEnd\">The major U.S. stock indices closed lower, with selling accelerating into the afternoon as rising oil prices and higher Treasury yields weighed on investor sentiment. The declines came after the S&P 500 reached a record high last week, leaving the market vulnerable to some p",
+      "source": "Forexlive",
+      "publication_date": "2026-08-17T20:20:52+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/us-stock-indices-closed-lower-on-the-day-declines-are-led-by-the-s-p-down-with-declines-near-0-50/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
       ]
     },
     {
@@ -59,16 +72,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-17T20:18:05+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3Rmc3puMlE0OGNHd3RFY2dEM3EzbkdKR3pxal9tVm1lWFliOE9Yc1NlVXN6aEx3SXJCSkVWVENjbjBJMWlXLThJdDE3NzF5aTRMbXJYdDNqRkRtYmlRUVhDcW02My04NWR1MXVianVOdDIwZXdsNGJ5a21walB1UjMxV2YyTGpfMFMzdHNZLW1YRjRaZENWZDE5akdRcFVibWlYcV9aTTM4UQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
-      "description": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T20:13:32+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1200,14 +1203,15 @@
       ]
     },
     {
-      "headline": "Shares steady, dollar slips as markets pare Fed rate risks - Reuters",
-      "description": "Shares steady, dollar slips as markets pare Fed rate risks Reuters",
+      "headline": "Stocks mixed, dollar falls on Fed rate bets, yields rise - Reuters",
+      "description": "Stocks mixed, dollar falls on Fed rate bets, yields rise Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T01:17:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
       "asset_tags": [
         "forex",
-        "equities"
+        "equities",
+        "macro"
       ]
     },
     {
@@ -1231,14 +1235,13 @@
       ]
     },
     {
-      "headline": "Japan Q2 GDP growth undershoots forecasts, complicating BOJ's hike timeline",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">Japan Q2 real GDP prelim +0.3% q/q</p><ul><li> vs. expected +0.5%</li></ul><p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">Japan Q2 GDP annualised +1.1%</p><ul><li> vs. expected +2.0%</li></ul><",
-      "source": "Forexlive",
-      "publication_date": "2026-08-16T23:59:02+00:00",
-      "article_url": "https://investinglive.com/news/japan-q2-gdp-growth-undershoots-forecasts-complicating-boj-s-hike-timeline/",
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T00:07:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
       "asset_tags": [
-        "forex",
-        "macro"
+        "equities"
       ]
     },
     {
