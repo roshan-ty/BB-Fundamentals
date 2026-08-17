@@ -1,18 +1,59 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T18:35:12.825259+00:00",
+    "last_updated": "2026-08-17T19:12:35.605864+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 102,
-      "macro": 24,
-      "equities": 39,
-      "crypto": 47,
-      "commodities": 10,
-      "forex": 11
+      "general": 104,
+      "equities": 38,
+      "commodities": 11,
+      "crypto": 45,
+      "macro": 23,
+      "forex": 10
     }
   },
   "articles": [
+    {
+      "headline": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
+      "description": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors.",
+      "source": "CNBC",
+      "publication_date": "2026-08-17T18:50:36+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crude oil futures settled at $84.50",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Oil prices are closing sharply higher, with WTI accelerating to the upside in the final hours of trading. The price settled at $84.50, up $2.10 or 2.55% on the day.</p><p>The Strait of Hormuz remains the key fundamental driver, as sharply reduced shipping t",
+      "source": "Forexlive",
+      "publication_date": "2026-08-17T18:50:16+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/crude-oil-futures-settled-at-84-50/",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Binance to plan UK relaunch with FCA license application: Report",
+      "description": "Binance’s UK arm has been barred from offering regulated activities in the country since June 2021, but the company will reportedly move to secure licensing under new crypto rules.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-17T18:45:00+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Eli Lilly and J&J bounce on new data, as software stocks give up last week's gains",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-08-17T18:42:54+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/17/eli-lilly-and-jj-bounce-on-new-data-as-software-gives-up-gains.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Pictures of the Day | August 17, 2026 - Reuters",
       "description": "Pictures of the Day | August 17, 2026 Reuters",
@@ -34,24 +75,22 @@
       ]
     },
     {
+      "headline": "Chief Media Acquires AMZ Advisers and Reach Social, Expanding Access to Amazon and TikTok Shop Retail Platforms",
+      "description": "Independent agency expands commerce capabilities across Amazon, TikTok Shop and global ecommerce markets",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T17:59:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3346412/0/en/chief-media-acquires-amz-advisers-and-reach-social-expanding-access-to-amazon-and-tiktok-shop-retail-platforms.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
       "description": "The regulatory review could shape an emerging market that lets companies and investors trade and hedge the cost of increasingly scarce AI computing power.",
       "source": "Cointelegraph",
       "publication_date": "2026-08-17T17:11:39+00:00",
       "article_url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Sandisk continues its run higher after it's bullish investor day last week.",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Recall that last week, <a href=\"https://investinglive.com/technical-analysis/sandisk-surges-as-investor-day-impresses-wall-street/\" rel=\"follow\">Sandisk held its Investor Day,</a> and investors clearly liked what they heard. The company used the event to hi",
-      "source": "Forexlive",
-      "publication_date": "2026-08-17T17:09:16+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/sandisk-continues-its-run-higher-after-it-s-bullish-investor-day-last-week/",
-      "asset_tags": [
-        "equities",
-        "crypto",
         "macro"
       ]
     },
@@ -156,6 +195,16 @@
       "article_url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
       "asset_tags": [
         "forex"
+      ]
+    },
+    {
+      "headline": "Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says - Reuters",
+      "description": "Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T15:30:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTFvcy1GOW8tU0NlQkU1UEREal9sZVJ0ZmZqTGpidDZ0emx6X18wT2RtbF8wVl9GR3hjZFFQWEtYT2xPc1lUa2ZCZ1oxYlJKSnJobDh4OGRtalVsdW52YnNrYjRhZkZpN0s1MFUxMjMwSUF1RldMdkJmbEtFbkdSMnRMbUtDbXZxejRERm8tVk1ta1UxdlNma3BQZGk3NnBTcHZGVWpPb2hHczRUX0xubm1PMmFRM25oUkhJT2JR?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1082,6 +1131,16 @@
       ]
     },
     {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T01:21:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Shares steady, dollar slips as markets pare Fed rate risks - Reuters",
       "description": "Shares steady, dollar slips as markets pare Fed rate risks Reuters",
       "source": "Reuters",
@@ -1089,16 +1148,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
       "asset_tags": [
         "forex",
-        "equities"
-      ]
-    },
-    {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T01:06:08+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
         "equities"
       ]
     },
@@ -1993,57 +2042,6 @@
       "article_url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "European shares snap 4-week rally as higher oil prices temper strong earnings - Reuters",
-      "description": "European shares snap 4-week rally as higher oil prices temper strong earnings Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T16:27:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3JRTDJxWjQ5cXhiMXUwMkJSb2FrXzg0S3FvMkV0Z1VYRFV1a0dKcHEwaG9yWG1hb0RyWF9qQzFlek0zT2hXOGl0b2pSTHVTZ1lhclRuY1FsUm00alVhUkYzVEtVN1BTRUVzdmZHVXdVX2g5emE2NGRWN1ZyMXFMTnFVdmhvbVhVclFHajE5LUtGU0VnS2hJTVJTZGJHWDgzMDNhcmlWNHhtVm5MWXZz?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities"
-      ]
-    },
-    {
-      "headline": "Phillips 66, Marathon Petroleum held takeover talks - Semafor",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-14T15:59:33+00:00",
-      "article_url": "https://seekingalpha.com/news/4633402-phillips-66-marathon-petroleum-held-talkeover-talks-semafor?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-      "description": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-14T15:41:49+00:00",
-      "article_url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-      "description": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-14T15:29:13+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Workday may be worth $240-$250/share in takeover - analyst",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-14T15:26:03+00:00",
-      "article_url": "https://seekingalpha.com/news/4633350-workday-may-be-worth-240-250-share-in-takeover-analyst?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
