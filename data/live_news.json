@@ -1,34 +1,47 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T20:04:14.867945+00:00",
+    "last_updated": "2026-08-17T20:39:50.736816+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 106,
-      "equities": 37,
-      "crypto": 43,
-      "macro": 23,
-      "commodities": 10,
-      "forex": 10
+      "forex": 11,
+      "equities": 38,
+      "commodities": 11,
+      "macro": 24,
+      "general": 105,
+      "crypto": 43
     }
   },
   "articles": [
+    {
+      "headline": "US stock indices closed lower on the day. Declines are led by the S&P/Dow",
+      "description": "<p class=\"isSelectedEnd\">The major U.S. stock indices closed lower, with selling accelerating into the afternoon as rising oil prices and higher Treasury yields weighed on investor sentiment. The declines came after the S&P 500 reached a record high last week, leaving the market vulnerable to some p",
+      "source": "Forexlive",
+      "publication_date": "2026-08-17T20:20:52+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/us-stock-indices-closed-lower-on-the-day-declines-are-led-by-the-s-p-down-with-declines-near-0-50/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
+      "description": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T20:09:10+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Pictures of the Day | August 17, 2026 - Reuters",
       "description": "Pictures of the Day | August 17, 2026 Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T19:52:42+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uVlZfdV8wakFJdkFCV0hYR1BmWWlvTF9vaDNpSlUyVE9uWWtyWlZ5dzltemVWQmdkeXp6YXVIcDE0LXJoeTNaTlBPbTg4RHl4RmdoUTNWb0xHUG1CSGRrV2RQNkY0SmhHaHJ5cldpYmxnS2YtUVVITFVjVHk?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "The AUDUSD runs to the upside and back into a swing area. Can the buyers keep the momentum going?",
-      "description": "<p>The AUDUSD pushed higher today, extending above last week’s high and breaking through a swing area between 0.7077 and 0.70908. The move also carried the pair back into a broader swing zone dating from April through early June, where much of the price action was contained between 0.7077 and 0.7200",
-      "source": "Forexlive",
-      "publication_date": "2026-08-17T19:48:36+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/the-audusd-runs-to-the-upside-and-back-into-a-swing-area-can-the-buyers-keep-the-momentum-going/",
       "asset_tags": [
         "general"
       ]
@@ -64,16 +77,6 @@
       ]
     },
     {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T19:02:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Wall Street indexes slip with Iran, retail results in focus - Reuters",
       "description": "Wall Street indexes slip with Iran, retail results in focus Reuters",
       "source": "Reuters",
@@ -91,16 +94,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
-      "description": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T18:50:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1165,6 +1158,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-17T02:21:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T01:36:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
       "asset_tags": [
         "equities"
       ]
