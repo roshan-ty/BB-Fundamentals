@@ -1,18 +1,68 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T10:29:44.151074+00:00",
+    "last_updated": "2026-08-17T10:59:25.535251+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "equities": 42,
-      "commodities": 6,
       "general": 100,
-      "crypto": 51,
-      "macro": 21,
-      "forex": 8
+      "commodities": 6,
+      "crypto": 49,
+      "macro": 22,
+      "forex": 7
     }
   },
   "articles": [
+    {
+      "headline": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
+      "description": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
+      "source": "CNBC",
+      "publication_date": "2026-08-17T10:31:33+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SEGRO PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T10:03:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345909/0/en/dimensional-fund-advisors-ltd-form-8-3-segro-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Life Couriers Announces Completion of Acquisition by JLL Partners",
+      "description": "MUNICH--(BUSINESS WIRE)--Life Couriers (“the Company”), a global leader in delivering time-critical healthcare logistics solutions, today announced the completion of its acquisition by JLL Partners (“JLL” or “the Firm”), a New York-based middle-market private equity firm focused on investing in the ",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-17T10:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260817776596/en/Life-Couriers-Announces-Completion-of-Acquisition-by-JLL-Partners/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "TTM Technologies, Inc. Continues Global Growth Strategy with Planned Acquisition of Epiq Solutions, Enhancing Technologically Differentiated Market Offerings",
+      "description": "TTM Technologies, Inc. Continues Global Growth Strategy w/Planned Acquisition of Epiq Solutions, Enhancing Technologically Differentiated Market Offering",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T10:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345901/0/en/ttm-technologies-inc-continues-global-growth-strategy-with-planned-acquisition-of-epiq-solutions-enhancing-technologically-differentiated-market-offerings.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T09:59:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345896/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
       "description": "FORM 8.3",
@@ -227,8 +277,8 @@
       ]
     },
     {
-      "headline": "Kushner to hold talks with Netanyahu after rare meeting with Hamas - Reuters",
-      "description": "Kushner to hold talks with Netanyahu after rare meeting with Hamas Reuters",
+      "headline": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting - Reuters",
+      "description": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T06:17:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
@@ -244,17 +294,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Valerio Therapeutics and Etherna Immunotherapies Progress Towards Finalisation of Transaction Documentation Regarding the Contemplated Acquisition",
-      "description": "VILLEJUIF, France--(BUSINESS WIRE)--Regulatory News: Valerio Therapeutics (FR0010095596 - ALVIO), a biotechnology company pioneering next-generation precision-guided RNA therapeutics (\"Valerio\" or the \"Company\"), provides an update on the contemplated acquisition of 100% of the share capital of Ethe",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-17T06:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260816536094/en/Valerio-Therapeutics-and-Etherna-Immunotherapies-Progress-Towards-Finalisation-of-Transaction-Documentation-Regarding-the-Contemplated-Acquisition/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     },
     {
@@ -309,6 +348,16 @@
       ]
     },
     {
+      "headline": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes - Reuters",
+      "description": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T02:32:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDFjUnFHUE1WM1psUjhsS0N3R0plSTRER2cyeTVlQl9wSDBLankxeEkyT2w1cGlrZWJNaUxZcktrVU96QU1rd0lkdjh1ZjVmR2dqRDBSNFdNNVdpV1c2MkVqbXFBWjdPTURwVjBnazA4OGdyOXZDMWtlOEo2ajJsQVpRV2kwUHFCRnc5MDBnbS1vdm5xcWpXRHJRNURnRjVpQ3NzNklpVGtUc3RDajdWREVSLXN0cWlGWTlJQmppeENNb0w3RGc?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "Indian shares fall as crude remains at elevated levels - Reuters",
       "description": "Indian shares fall as crude remains at elevated levels Reuters",
       "source": "Reuters",
@@ -334,6 +383,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-17T00:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
+      "description": "Japan Q2 growth misses forecasts on weaker spending, investment Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T00:19:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -604,8 +663,8 @@
       ]
     },
     {
-      "headline": "Suspected Russian drone shot down in Romanian airspace - reuters.com",
-      "description": "Suspected Russian drone shot down in Romanian airspace reuters.com",
+      "headline": "Suspected Russian drone shot down in Romanian airspace - Reuters",
+      "description": "Suspected Russian drone shot down in Romanian airspace Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-16T03:40:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
@@ -1336,6 +1395,16 @@
       ]
     },
     {
+      "headline": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say - Reuters",
+      "description": "Russia's Black Sea's Sheskharis terminal halts loadings after drone attack, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-14T14:21:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZHZsRGtvX2VwWnpvanZCc3dkWnNqTnlQaVVWZ3Vta2JLdm9aWlYyYkxDSmI3RXhLNlM5OXZxODFIRW9UdUlkWE1YbEt3WmthNGdfbENKdUpzam05NnJCYzROMFotUlhQTDFpNFZpZ3pXdzNnZW1TVzBBc1kwVnMwalZGY2NvNUlDRG1LVTRBTlhHS2d5ZXN2ZGV1MHpVcDd2dUtvRm9WMjBpN1MwOTAxY0M5OGxhUS1IMEZOU3ZmUzU3WUpETXRGXzBSSVA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1869,26 +1938,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SEGRO PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T08:43:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345130/0/en/dimensional-fund-advisors-ltd-form-8-3-segro-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T08:26:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345122/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Crypto payments barely register among euro area merchants, ECB finds",
       "description": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
       "source": "Cointelegraph",
@@ -1986,57 +2035,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-14T06:28:11+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/nato-jets-shot-down-drone-that-entered-latvian-airspace",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-14T06:20:54+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Israeli settlers divert Palestinian water to fill West Bank pool - Reuters",
-      "description": "Israeli settlers divert Palestinian water to fill West Bank pool Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T06:11:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXVEdENUNENwYzlmYS1QQkxJeGlxVUt6Vkp4Zm80UklLMHBWRzNzWENDcUFhdkxkcUtMc2lmdzY1NElLSXFuT2wtWG5RNC1ybkk4V3RDMlJqQ3JDM1M0em5VanBHUHBTRTNJMjZ5TU00Z0MwT2t4bFVIMmJTMnpJdmg0czV4cDZDTWUxbHN6N2xadDhOd0hmYmpob1BTc2R4Y0l6V2I3WEpxTGxVNGpPWXpvc1otZk1l?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "ICICI joins Indian banks chasing dollar loans, swelling demand",
-      "description": "ICICI Bank has launched a syndicated offshore loan of about $1.45 billion, with a margin of 110 basis points over the US benchmark Secured Overnight Financing Rate",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-14T05:37:31+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/icici-joins-indian-banks-chasing-dollar-loans-swelling-demand",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Philippine president says joint oil and gas exploration with China a 'distinct possibility' - Reuters",
-      "description": "Philippine president says joint oil and gas exploration with China a 'distinct possibility' Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T05:23:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0JHby03N0ZqSUVaWDJZU2tvcHNIVDZmdTJNYzkwakcxSjljRmNwU3lfSTlicnoxTGl5MWpqLVQ5UTNmTnpPcXhMX0NXcFBBNTNYQ3d2X1YyRGt4VGJ4RWhuNHdvc0VfOUF1ZzZoc05QTEZ5ZXpMcEdrbTFib1hwX0tyaV9LZ1VUOENkSFJvcjdLb1Z5QjZVc0tGNlU3NmtDbUppVk1RU1NZR2dEcWpGc3hYN2c5SWkxTThLZ0tn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-14T05:04:52+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
       "asset_tags": [
         "general"
       ]
