@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T23:09:54.433835+00:00",
+    "last_updated": "2026-08-17T23:36:18.966452+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 105,
+      "commodities": 12,
       "crypto": 42,
+      "equities": 35,
       "macro": 26,
-      "forex": 11,
-      "equities": 36,
-      "commodities": 11
+      "forex": 11
     }
   },
   "articles": [
@@ -54,6 +54,26 @@
       ]
     },
     {
+      "headline": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T22:12:00+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US to announce steps to help refiners produce more fuel, energy chief Wright says - Reuters",
+      "description": "US to announce steps to help refiners produce more fuel, energy chief Wright says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T21:36:56+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkt2WFRJalFmY1h4S0lLcVFXcmtNN1o5U2J4RWVmWGdkVFdLdUYzUnRlTklFX3Nsd1FMaVVNbEdINlUyazI0ajM2dW5Qd0FJNXpac0V2NFp0Yk1sTWMtUVVxQU1MVk1WY0lsUU9fYjF1dXFIVjZzSWs2cUpPN3FHNGhDbXMtcHlLWWd3VmdhSndwOWl3VTkxNmVYSTd2T0tVX2MyT2c1dnJESmdJZ0FISERjQ3JrNEZy?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "OCC approves Trump family crypto company for trust charter",
       "description": "The US financial regulator gave conditional approval for World Liberty Financial’s charter bid as ten Democrats signed onto a bill to “prevent corruption in banking applications.“",
       "source": "Cointelegraph",
@@ -71,6 +91,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T21:06:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1265,16 +1295,6 @@
       ]
     },
     {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T00:07:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
       "description": "Shipping slows through Strait of Hormuz after tanker attacks, data shows Reuters",
       "source": "Reuters",
@@ -2022,26 +2042,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345635/10065/en/diana-shipping-inc-withdraws-offer-to-acquire-genco-shipping-trading-following-genco-board-s-outrageous-demands.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Real, RE/MAX Holdings shareholders approve acquisition",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-14T20:31:08+00:00",
-      "article_url": "https://seekingalpha.com/news/4633532-real-re-max-holdings-shareholders-approve-acquisition?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "PayPal gains on report Stripe, Advent in advanced talks for a deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-14T19:59:40+00:00",
-      "article_url": "https://seekingalpha.com/news/4633498-paypal-gains-on-report-stripe-advent-in-advanced-talks-for-a-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
