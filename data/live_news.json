@@ -1,18 +1,69 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T09:56:24.007407+00:00",
+    "last_updated": "2026-08-17T10:29:44.151074+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 101,
-      "crypto": 49,
+      "equities": 42,
       "commodities": 6,
-      "macro": 22,
-      "equities": 44,
+      "general": 100,
+      "crypto": 51,
+      "macro": 21,
       "forex": 8
     }
   },
   "articles": [
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T09:57:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345895/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T09:56:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345894/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T09:53:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345891/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T09:52:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345890/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T09:50:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345889/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
     {
       "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 14 08 2026 - (CGWL)",
       "description": "FORM 8.3",
@@ -51,6 +102,27 @@
       "article_url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T09:16:14+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T09:13:02+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+      "asset_tags": [
+        "crypto",
+        "macro"
       ]
     },
     {
@@ -105,6 +177,26 @@
       ]
     },
     {
+      "headline": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T08:38:26+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T08:16:11+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "Iran reaffirms that talks have not yet begun with the US",
       "description": "<ul><li>No talks have begun with the US</li><li>And they won't because of US violations of memorandum of understanding</li><li>There is no mention of a 60-day deadline in the text of the memorandum of understanding</li><li>Iran will never formulate policies under pressure or time limits</li><li>The ",
       "source": "Forexlive",
@@ -140,6 +232,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-17T06:17:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump seeks cuts to US-South Korea drills, reviving earlier objections - Reuters",
+      "description": "Trump seeks cuts to US-South Korea drills, reviving earlier objections Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T06:10:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -227,8 +329,8 @@
       ]
     },
     {
-      "headline": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows - Reuters",
-      "description": "Oil struggles for direction as US-Iran talks stall, Hormuz shipping slows Reuters",
+      "headline": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited - Reuters",
+      "description": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T00:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
@@ -1777,26 +1879,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T08:42:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345129/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T08:28:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345123/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1804,16 +1886,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345122/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T08:25:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345121/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1835,17 +1907,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenBYdmd2ZVVUSGJLWG1NVlRSWnNtS1JjT1hFZjNoNWtDUEQzNk1UbEdSZEV5N1p0SThwd2pITFF3ZFg2UnFSMkRWYTAtek8xODVLSDlVNE1lSTNKc2RVQy13dkVETEFyOHdiS0ljUlVEMVlrY185WnZhenk3RlZnVlpIR3Q3SDlQV0VpVXhOQmphYnplZ2EtalkwYjlmMGtOLVFVSEkzNjZ0QXU0NXlWLWdZTjI4SlAtam16cw?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T08:10:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345119/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
       ]
     },
     {
@@ -1978,69 +2039,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Russian share of India's oil imports surges to record high in July - Reuters",
-      "description": "Russian share of India's oil imports surges to record high in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T04:56:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkxHbTB6WThhNjVWQU5yUmpiMmpHWjV5V29PeHJtamcycVNGdUwwUWhOX3RTby1UZzJfeDZjaHhvSWNtQ0ZkNTNfSTg2a2Q0cWUtb3hhbHJsOU9ZSVlQaFFwMXZHOWNPN0ltbUJnSWVjSWl0SkVSVzVJN3ROd2VQSnRFTzFtQ0w5cFg3SUptVFdBa054RGhoeVdYa01pTmFESEVQeG5FSEJsZEdR?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Air India A320 briefly lost key flight controls, Airbus analysis shows - Reuters",
-      "description": "Air India A320 briefly lost key flight controls, Airbus analysis shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T04:54:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1dOT2VGU2hhRVpqX0JCTnRiR1VydTZMbkJ6Z2lkOVBSc3BncGhTbGpROVFXc0E1dkI5WWRaQ0tJLTJXNVZyY256U1Rmb1Q1SnBsN1lNTUswWlE5SF9ua2RGWGpTUlBQQ2llREpTNDlUQjV0UGRYcnVtbXI3QnRHZEZTWjBvWjdkdC1ETU12dXUzaTBsWWFQQlJmYnJISWxnN2R3QnJJUkZuMVZ0OUozc2liMlk4VVQzeXpZSFZ5UFM?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
-      "description": "BA Labs had previously classified a proposed NUSD integration as higher risk because of its counterparty, operational and liquidity exposure.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-14T04:44:31+00:00",
-      "article_url": "https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Asian stocks rise as US inflation, tech spur gains",
-      "description": "Asian stocks rise 0.5% as US inflation eases, boosting tech shares and extending gains for a fourth consecutive week.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-14T04:32:24+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "China rejects New Zealand spy allegations as false - Reuters",
-      "description": "China rejects New Zealand spy allegations as false Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T04:23:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWxWY25FcmZzYjVJNnlyZEVhdUJMbkJ5c2NULWphdWg4RUMwVTYxRmlVc3JrS0prTEh1NXBXUGhnazVRS1lXVVE5QXFPM2dUcFFCQzVfVFhRLWpWOTU0aUhuUkxMSXNvdGlKVi14aHV2MVJaRWYxMDhxX01GcnVBY245NEpmXzdOVUNoaUdhRS1iNjdRaV9WbjVMUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Gold steadies from two-month peak as inflation-led rally loses steam - Reuters",
-      "description": "Gold steadies from two-month peak as inflation-led rally loses steam Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T04:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFUzNXBldnVZT2ZFWGJIRFExajVuME9DY1hMRXhMdVBEeXRISU93ME1rSFVjZTVaM3JHSkgyQkFLUm55ODdfVmdXQzRhenV3dE1fZHBFR1UySXRhcXRtdzh2QzhXeU5hN1FxYmpLNnFEYzJjM2xnZkFRWTdZdHNva0UzcVFRX1dTSmJkZlFZWTJ1Y1RBOUZjWHpqOVRnQnZScmZsZjNKRlVoMUtleGhJYg?oc=5",
-      "asset_tags": [
-        "equities",
-        "commodities",
-        "macro"
       ]
     }
   ]
