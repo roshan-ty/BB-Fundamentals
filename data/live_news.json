@@ -1,30 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T05:01:43.540781+00:00",
+    "last_updated": "2026-08-17T05:47:53.164708+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 9,
-      "equities": 44,
-      "commodities": 7,
+      "equities": 45,
       "crypto": 48,
-      "macro": 22,
-      "general": 102
+      "macro": 23,
+      "general": 101,
+      "forex": 8,
+      "commodities": 6
     }
   },
   "articles": [
     {
-      "headline": "investingLive Asia-Pacific market news: Oil steady, yen firms",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/china-s-delayed-july-data-looms-as-markets-eye-demand-and-pboc-s-yuan-stance\" rel=\"follow\">China's delayed July data looms as markets eye demand and PBOC's yuan stance</a></li><li><a href=\"https://investinglive.com/commodities/bloomberg-says-dark-trade",
+      "headline": "Heads up: China July economic data releases to feature in the session ahead",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">In case you missed it earlier: <a href=\"https://investinglive.com/news/china-delays-july-economic-data-release-to-late-afternoon-slot/\" rel=\"follow\">China delays July economic data release to late afternoon slot</a></p><p class=\"text-align-j",
       "source": "Forexlive",
-      "publication_date": "2026-08-17T03:52:42+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-steady-yen-firms/",
+      "publication_date": "2026-08-17T05:02:31+00:00",
+      "article_url": "https://investinglive.com/news/heads-up-china-july-economic-data-releases-to-feature-in-the-session-ahead/",
       "asset_tags": [
-        "forex",
         "equities",
-        "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T04:43:03+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T04:14:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -35,6 +54,16 @@
       "article_url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Indian shares fall as crude remains at elevated levels - Reuters",
+      "description": "Indian shares fall as crude remains at elevated levels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T02:21:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -2011,36 +2040,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-14T00:41:00+00:00",
       "article_url": "https://seekingalpha.com/news/4632992-international-money-express-jumps-35-percent-after-new-york-approves-western-union-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Hegseth says reports about poor conditions aboard carrier are misrepresented - Reuters",
-      "description": "Hegseth says reports about poor conditions aboard carrier are misrepresented Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T23:49:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT21sVzBFV2Zad0JYdG0tTUtSLXluQ19SMWdHel9GNHBqY1BucXZ0cHByV242RDE5eTl6VEptVXU0OE5PNXFkeWhocTR5b181Nlpmdk95NElkZ2NfWXQyQ2FjVUc2MlZUZVJoMkxpb3ZnS0lrbFpydTcxYXNVNjdaVWNTRHNmRGNCdDFzMG02NWVPVEkwOUxKUDU1c25fcFNON1V0anp3Tkp4Qkd0TWJRalhZLWJCTktTYWwtRnV3?oc=5",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
-      "description": "Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-13T23:34:56+00:00",
-      "article_url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bessent says US to apply measures never seen on Iran - Reuters",
-      "description": "Bessent says US to apply measures never seen on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T23:31:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2p2QW55Tk9jcjF5Ti1OZmlpMGpLTEg0RU92RVEtMzFobXY2TmtNWjFJaUVZMl9RaWxWM09uV2xjVlQ0dnFHcGlEVi1Zc3ZnRHpFMkZ5VExoeTdzSVE0cmYzMVRFQUExRHA2RHNhZFpFMFZnNnIySjh3RTBRSXVtX3ZqVTJjVWhGSmdpTHVmY19QRE9ieWNmaDdaM2hmOHZfRFE?oc=5",
       "asset_tags": [
         "general"
       ]
