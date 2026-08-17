@@ -1,24 +1,54 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T15:01:10.639589+00:00",
+    "last_updated": "2026-08-17T15:34:30.494106+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 101,
-      "equities": 41,
-      "crypto": 52,
+      "general": 103,
       "macro": 21,
+      "equities": 40,
+      "crypto": 50,
       "forex": 10,
-      "commodities": 6
+      "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "Trump says Iran should surrender, threatens to bomb Oman - Reuters",
+      "description": "Trump says Iran should surrender, threatens to bomb Oman Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T14:46:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3Rmc3puMlE0OGNHd3RFY2dEM3EzbkdKR3pxal9tVm1lWFliOE9Yc1NlVXN6aEx3SXJCSkVWVENjbjBJMWlXLThJdDE3NzF5aTRMbXJYdDNqRkRtYmlRUVhDcW02My04NWR1MXVianVOdDIwZXdsNGJ5a21walB1UjMxV2YyTGpfMFMzdHNZLW1YRjRaZENWZDE5akdRcFVibWlYcV9aTTM4UQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T14:44:29+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails - Reuters",
       "description": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T14:37:13+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "NZDUSD runs higher but the stretch higher runs into swing area resistance",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The NZDUSD is trading higher by around 0.50% on the day at 0.5919, with buyers maintaining the upper hand after the pair shifted its short-term technical bias to the upside late last week.</p><p class=\"PDq2pG_selectionAnchorContainer\"></p><p>On Friday, the ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-17T14:33:24+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/nzdusd-runs-higher-but-the-stretch-higher-runs-into-swing-area-resistance/",
       "asset_tags": [
         "general"
       ]
@@ -74,6 +104,16 @@
       ]
     },
     {
+      "headline": "The Coldcard hack proves reputation is not a security model",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-17T14:09:46+00:00",
+      "article_url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
       "description": "",
       "source": "CoinDesk",
@@ -91,17 +131,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3346202/0/en/form-8-3-dcc-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US August NAHB housing market index 35 vs 33 expected",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/us-july-nahb-housing-market-index-56-vs-56-expected-20230718/\" rel=\"follow\">Prior </a>was 34</li></ul><p>Details:</p><ul><li>Current single family home sales 39 versus 37 in July</li><li>Home sales over next 6 months 43 versus 43 in July </li><li>Index",
-      "source": "Forexlive",
-      "publication_date": "2026-08-17T14:00:03+00:00",
-      "article_url": "https://investinglive.com/news/us-august-nahb-housing-market-index-vs-33-expected/",
-      "asset_tags": [
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -132,16 +161,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ19NRUJoZTZ6N2V4Q2RUejU0UTRHc2dqa0ltemFkMUpKSkNEVmlPTmZxcUg2VkxycU1TN1l6STVpeXFvTTJHNlR4S3lnVTBkVmVUVExtUm1faHVrR0lmdWJyc0kzSjVBU0xBWEc4TFBlMmlvLU1NcHg5aDNBaDJUcWpETTJldHRoQzdhT2FUa3dINjVDd2J1UGFNcVd0VEp6cW43T3AxbmNjbzBfc3JCRWxjWGZEVWtFZEIwdQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T13:30:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -837,6 +856,17 @@
       ]
     },
     {
+      "headline": "Gold gains on weaker dollar, fading Fed rate hike bets - Reuters",
+      "description": "Gold gains on weaker dollar, fading Fed rate hike bets Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T03:23:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGRscVZvWDlqZGtZZlM5alpGTkhTa1BPQ3JYYTdueEduSU5KbFNZQjVyVDQ2VDA5WHdxUjZQRjNTSHNwZ3RWUnVLREJrenpWakw5LXFOSlZjU081YXhYcURKM1BqZUxIQll3R3VxM0YweEFIMzhpN1hhSG5tOXQ2bm1yQmVjYUdaQm5VZXBPYzdTVHl5Skd4aFpSaVU?oc=5",
+      "asset_tags": [
+        "forex",
+        "commodities"
+      ]
+    },
+    {
       "headline": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes - Reuters",
       "description": "WEEKAHEAD Indian rupee expected to be rangebound, bond traders await policy minutes Reuters",
       "source": "Reuters",
@@ -852,6 +882,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-17T02:21:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T02:03:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
       "asset_tags": [
         "equities"
       ]
@@ -2000,46 +2040,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-14T13:30:00+00:00",
       "article_url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "The Club's top 10 things to watch in the stock market Friday",
-      "description": "Stocks are headed for a mixed open following Thursday's record S&P 500 close.",
-      "source": "CNBC",
-      "publication_date": "2026-08-14T13:17:25+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/14/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders - Reuters",
-      "description": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T13:08:35+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSnhVUFlGN1hNN0dsY0Z2cERoTHZwRDBuMUZMWnBnM1RJMnlpWGx5SDE2UHlUcjRBTDlmNzE1Z1dmazllSzVoSU9BYlppN2xlWEFXMUVJb242WlR3aGVrcGZhblBWQzdpTS1qT3dEdGlOZ1o5NHZUWFRKTkVCcWpYa25UbWJLMTI4VnNtZTlpTFhvZjFnS0xPdFpLVkw3bUtEZWFiN3pubkxvaU5LWFRVTWc4dDFFNU1XXzZieURGR01ZZ29odTZhdQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Brookfield et La Caisse finalisent l’acquisition de Boralex",
-      "description": "MONTRÉAL, 14 août 2026 (GLOBE NEWSWIRE) -- Boralex inc. (« Boralex » ou la « Société ») (TSX : BLX), Brookfield et La Caisse ont annoncé aujourd’hui la clôture de l’acquisition annoncée précédemment de Boralex par Brookfield, avec ses partenaires institutionnels, dont Brookfield Renewable Partners, ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T13:08:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345371/0/fr/brookfield-et-la-caisse-finalisent-l-acquisition-de-boralex.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Brookfield and La Caisse Complete Acquisition of Boralex",
-      "description": "MONTREAL, Aug. 14, 2026 (GLOBE NEWSWIRE) -- Boralex Inc. (\"Boralex\" or the \"Corporation\") (TSX: BLX), Brookfield and La Caisse (formerly CDPQ) announced today the completion of the previously announced acquisition of Boralex by Brookfield, together with its institutional partners including Brookfiel",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-14T13:08:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/14/3345371/0/en/brookfield-and-la-caisse-complete-acquisition-of-boralex.html",
       "asset_tags": [
         "crypto"
       ]
