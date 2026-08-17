@@ -1,18 +1,59 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T11:31:40.368403+00:00",
+    "last_updated": "2026-08-17T11:56:34.183194+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 100,
-      "equities": 43,
       "crypto": 50,
+      "macro": 22,
+      "general": 102,
+      "equities": 41,
       "commodities": 5,
-      "macro": 21,
       "forex": 7
     }
   },
   "articles": [
+    {
+      "headline": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
+      "description": "Bitcoin confirmed a weekly candle close below its 200-week moving average, copying the 2022 bear-market as traders warn of further BTC price downside next.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-17T11:38:52+00:00",
+      "article_url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Binance gave Russian authorities client data used in terrorism financing case: Report",
+      "description": "Reuters reported that Binance supplied transaction records and identity documents later used in a terrorism-financing case against Yuri Belenkiy.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-17T11:38:43+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Pilot Fiber Completes Acquisition of Extenet Systems' Enterprise Fiber Business",
+      "description": "NEW YORK--(BUSINESS WIRE)--Pilot Fiber, an enterprise connectivity provider in the New York metro area, announced today it has completed its acquisition of the enterprise fiber business of Extenet Systems, LLC, effective August 15, 2026. The acquired network, including the former Hudson Fiber Networ",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-17T11:02:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260817094563/en/Pilot-Fiber-Completes-Acquisition-of-Extenet-Systems-Enterprise-Fiber-Business/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Fulcrum Therapeutics and Slate Medicines Announce Merger Agreement to Advance Next-Generation Migraine Therapies",
+      "description": "Combined company to operate as Slate Medicines and focus on advancing Slate's portfolio of next-generation migraine therapeutics",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-17T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345962/0/en/fulcrum-therapeutics-and-slate-medicines-announce-merger-agreement-to-advance-next-generation-migraine-therapies.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
       "description": "",
@@ -39,16 +80,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-17T10:03:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345909/0/en/dimensional-fund-advisors-ltd-form-8-3-segro-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Life Couriers Announces Completion of Acquisition by JLL Partners",
-      "description": "MUNICH--(BUSINESS WIRE)--Life Couriers (“the Company”), a global leader in delivering time-critical healthcare logistics solutions, today announced the completion of its acquisition by JLL Partners (“JLL” or “the Firm”), a New York-based middle-market private equity firm focused on investing in the ",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-17T10:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260817776596/en/Life-Couriers-Announces-Completion-of-Acquisition-by-JLL-Partners/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "equities"
       ]
@@ -419,8 +450,8 @@
       ]
     },
     {
-      "headline": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited - Reuters",
-      "description": "Oil prices mixed amid Iran war stalemate, near-term potential for gains seen limited Reuters",
+      "headline": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited - Reuters",
+      "description": "Oil rises on Iran war stalemate; near-term potential for further gains seen limited Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T00:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
@@ -2005,36 +2036,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-14T08:02:18+00:00",
       "article_url": "https://cointelegraph.com/news/sec-cancels-crypto-regulatory-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "China calls Taiwan's annual military drills a 'wasteful charade' - Reuters",
-      "description": "China calls Taiwan's annual military drills a 'wasteful charade' Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T07:59:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Quest Global said to pick banks for $1 billion India IPO",
-      "description": "The Singapore-based engineering services firm has appointed Axis Capital Ltd., Kotak Mahindra Capital Co., JM Financial Ltd., Morgan Stanley and Citigroup Inc. to advise on the share sale",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-14T07:35:39+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/quest-global-said-to-pick-banks-for-1-billion-india-ipo",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-14T07:14:37+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
       "asset_tags": [
         "crypto"
       ]
