@@ -1,28 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T01:05:26.744821+00:00",
+    "last_updated": "2026-08-17T02:25:23.479546+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "forex": 9,
-      "crypto": 48,
-      "macro": 23,
-      "general": 102,
-      "equities": 42,
-      "commodities": 6
+      "commodities": 7,
+      "macro": 22,
+      "general": 103,
+      "crypto": 47,
+      "equities": 42
     }
   },
   "articles": [
     {
-      "headline": "Singapore NODX growth holds above 20% for fourth straight month in July",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The July print, though a touch below the Reuters poll median, extends a run of exceptionally strong export growth that has already prompted a sharp upgrade to Singapore's official 2026 trade forecast, reinforcing the view t",
+      "headline": "Yen edges higher as traders push back Fed rate hike bets, shrug off soft GDP",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The yen's modest advance despite a clear GDP miss underscores how currency direction is currently being driven more by shifting Fed expectations than by domestic Japanese data, with fed funds futures now implying a two-thir",
       "source": "Forexlive",
-      "publication_date": "2026-08-17T00:41:44+00:00",
-      "article_url": "https://investinglive.com/news/singapore-nodx-growth-holds-above-20-for-fourth-straight-month-in-july/",
+      "publication_date": "2026-08-17T01:08:00+00:00",
+      "article_url": "https://investinglive.com/news/yen-edges-higher-as-traders-push-back-fed-rate-hike-bets-shrug-off-soft-gdp/",
       "asset_tags": [
         "forex",
-        "crypto",
+        "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+      "description": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T00:39:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2031,16 +2041,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWFBVSG5XTFk4cmNwOEFSUFRHSVVFYVB6dTZmenJaZ3NJMDdBcXVVeElPUDV1WGZ0ZTJ0WFk2WGp3RmsyN01Zem5acmpPcnd3czdsdjlOVG5qa0lMVUFweG9Lb1ZuTnlJbXc5ekpKOEVpQk9CR0w4WEZXNENXRUJIcEVLSHdtUDljMFI2ZXBwUklHSHlMZWdfcTZlTEkzeDFHQnltZTRKTld0d01NcFZFYy1uQnFoa1d2MmcxZVRKTQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Fed's Goolsbee says latest inflation data is better - Reuters",
-      "description": "Fed's Goolsbee says latest inflation data is better Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T22:51:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHQ3RV9DUU5mVVpveUtFNmJfelJtYnluMGVCQ2FPRzEzSG1nUUZidUsxSURTQ3Rwa1htSm5EMXpZVHNpN1Y3aDMzd1pwV2gydjE5RkZWOFdQWFE2WGVZMU1GX1h4dnh0OFlwWnJKOHZrVndsaFA2cm45SDNjdmJXd3k0YklSVkxsaWphX1paQkNpUE1xWFlJ?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
