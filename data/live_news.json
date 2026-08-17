@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-17T02:25:23.479546+00:00",
+    "last_updated": "2026-08-17T03:28:07.155409+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 43,
       "forex": 9,
       "commodities": 7,
       "macro": 22,
-      "general": 103,
-      "crypto": 47,
-      "equities": 42
+      "general": 102,
+      "crypto": 47
     }
   },
   "articles": [
+    {
+      "headline": "Asian shares mark time as Gulf war keeps oil prices up - Reuters",
+      "description": "Asian shares mark time as Gulf war keeps oil prices up Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T01:17:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Yen edges higher as traders push back Fed rate hike bets, shrug off soft GDP",
       "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The yen's modest advance despite a clear GDP miss underscores how currency direction is currently being driven more by shifting Fed expectations than by domestic Japanese data, with fed funds futures now implying a two-thir",
@@ -26,10 +36,10 @@
       ]
     },
     {
-      "headline": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
-      "description": "Oil treads water as US-Iran peace talks stall, Hormuz shipping slows Reuters",
+      "headline": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows - Reuters",
+      "description": "Oil hangs onto gains as US-Iran peace talks stall, Hormuz shipping slows Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-17T00:39:52+00:00",
+      "publication_date": "2026-08-17T00:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
       "asset_tags": [
         "general"
@@ -56,21 +66,21 @@
       ]
     },
     {
-      "headline": "Trump instructs Pentagon to reduce military exercises with South Korea - Reuters",
-      "description": "Trump instructs Pentagon to reduce military exercises with South Korea Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T23:30:39+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Stripe is said to agree to buy OpenRouter for more than $7B",
       "description": "",
       "source": "SeekingAlpha",
       "publication_date": "2026-08-16T21:51:31+00:00",
       "article_url": "https://seekingalpha.com/news/4633616-stripe-is-said-to-agree-to-buy-openrouter-for-more-than-7b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
+      "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-16T21:39:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -311,6 +321,16 @@
       ]
     },
     {
+      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
+      "description": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-15T22:16:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Democrats pick South Carolina as first 2028 primary state​​ - Reuters",
       "description": "Democrats pick South Carolina as first 2028 primary state​​ Reuters",
       "source": "Reuters",
@@ -391,8 +411,8 @@
       ]
     },
     {
-      "headline": "Palestinians in Qusra say they have faced militant settler attacks for months - Reuters",
-      "description": "Palestinians in Qusra say they have faced militant settler attacks for months Reuters",
+      "headline": "Palestinians in Qusra say they have faced militant settler attacks for months - reuters.com",
+      "description": "Palestinians in Qusra say they have faced militant settler attacks for months reuters.com",
       "source": "Reuters",
       "publication_date": "2026-08-15T16:18:41+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMVIzMUNoVC03bVZyb0I2ckIyY3JhMWpNMm56VFBHSk1jUG1kOTdxbkNrZ2p1NWdoYTA5SGxraWpBTUExbnVoeWwxQU5IOW5mYzEtNTh5bExJZ01VUHZjdS1QRWVyNHBodDU3RGdnUV9ldl9SYTVFLWljMWZta3VvZTliRWg5Mm9xVXFVOUNUSXBNRG1WNlRDbXdLMlNEbVFRNW1tVW9OQ2FvUDh2ZUdMeXhQMFBpS0dPd1pUVEMtNm5IUQ?oc=5",
@@ -692,16 +712,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
-      "description": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T22:01:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2029,16 +2039,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-13T23:09:14+00:00",
       "article_url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Cook Islands PM's party likely to retain parliament in preliminary results - Reuters",
-      "description": "Cook Islands PM's party likely to retain parliament in preliminary results Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-13T23:07:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWFBVSG5XTFk4cmNwOEFSUFRHSVVFYVB6dTZmenJaZ3NJMDdBcXVVeElPUDV1WGZ0ZTJ0WFk2WGp3RmsyN01Zem5acmpPcnd3czdsdjlOVG5qa0lMVUFweG9Lb1ZuTnlJbXc5ekpKOEVpQk9CR0w4WEZXNENXRUJIcEVLSHdtUDljMFI2ZXBwUklHSHlMZWdfcTZlTEkzeDFHQnltZTRKTld0d01NcFZFYy1uQnFoa1d2MmcxZVRKTQ?oc=5",
       "asset_tags": [
         "general"
       ]
