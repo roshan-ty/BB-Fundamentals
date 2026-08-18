@@ -1,18 +1,50 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T17:54:25.952357+00:00",
+    "last_updated": "2026-08-18T18:34:27.963860+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 28,
-      "equities": 33,
-      "general": 103,
-      "crypto": 44,
+      "general": 104,
       "forex": 16,
+      "equities": 34,
+      "macro": 28,
+      "crypto": 44,
       "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "Virtu Financial gains on takeover speculation",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-18T17:42:22+00:00",
+      "article_url": "https://seekingalpha.com/news/4634452-virtu-financial-gains-on-takeover-speculation?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Canadian and US negotiators are expected to meet again ahead of midnight tariff deadline",
+      "description": "<ul><li>Full report <a href=\"https://www.cbc.ca/news/politics/new-trump-tariffs-deadline-9.7311125\" rel=\"follow\">here</a></li></ul><p>Canadian and US negotiators are expected to meet again as both sides make a final push to reach an agreement before US’s midnight tariff deadline, according to CBC Ne",
+      "source": "Forexlive",
+      "publication_date": "2026-08-18T17:41:48+00:00",
+      "article_url": "https://investinglive.com/news/canadian-and-us-negotiators-are-expected-to-meet-again-ahead-of-midnight-tariff-deadline/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+      "description": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T17:39:37+00:00",
+      "article_url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
       "description": "Fixed income market watchers ascribe a run that began in June to a number of variables.",
@@ -35,12 +67,13 @@
       ]
     },
     {
-      "headline": "Cleveland Fed survey: businesses expect inflation to ease, investment to weaken over the coming year",
-      "description": "<ul><li>Full report <a href=\"https://www.clevelandfed.org/indicators-and-data/survey-of-firms-inflation-expectations\" rel=\"follow\">here</a></li></ul><p class=\"isSelectedEnd\">Business executives surveyed by the Federal Reserve Bank of Cleveland expect consumer price inflation to ease slightly over th",
-      "source": "Forexlive",
-      "publication_date": "2026-08-18T17:03:44+00:00",
-      "article_url": "https://investinglive.com/news/cleveland-fed-survey-businesses-expect-inflation-to-ease-investment-to-weaken-over-the-coming-year/",
+      "headline": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T17:00:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
       "asset_tags": [
+        "crypto",
         "macro"
       ]
     },
@@ -50,6 +83,16 @@
       "source": "BusinessWire",
       "publication_date": "2026-08-18T16:54:00+00:00",
       "article_url": "http://www.businesswire.com/news/home/20260817087284/de/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "UAE says Iran launched two missiles at it - Reuters",
+      "description": "UAE says Iran launched two missiles at it Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T16:52:10+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -127,6 +170,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
+      "description": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T15:32:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1067,8 +1120,8 @@
       ]
     },
     {
-      "headline": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus - Reuters",
-      "description": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus Reuters",
+      "headline": "Dollar mostly flat as softer US data fuel dovish rate bets - Reuters",
+      "description": "Dollar mostly flat as softer US data fuel dovish rate bets Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:51:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
@@ -1918,16 +1971,6 @@
       ]
     },
     {
-      "headline": "Fulcrum Therapeutics and Slate Medicines Announce Merger Agreement to Advance Next-Generation Migraine Therapies",
-      "description": "Combined company to operate as Slate Medicines and focus on advancing Slate's portfolio of next-generation migraine therapeutics",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345962/0/en/fulcrum-therapeutics-and-slate-medicines-announce-merger-agreement-to-advance-next-generation-migraine-therapies.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
       "description": "",
       "source": "CoinDesk",
@@ -2004,47 +2047,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-17T09:31:47+00:00",
       "article_url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T09:16:14+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T09:13:02+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Yes Bank makes bond market comeback years after AT1 write-off",
-      "description": "The bank plans to sell a benchmark-sized three-year US currency note and is holding calls with fixed-income investors starting Monday",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-17T08:44:43+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/yes-bank-makes-bond-market-comeback-years-after-at1-write-off",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T08:38:26+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
       "asset_tags": [
         "crypto"
       ]
