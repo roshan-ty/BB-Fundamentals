@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T09:07:48.250168+00:00",
+    "last_updated": "2026-08-18T09:47:08.063651+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 108,
-      "forex": 19,
-      "equities": 28,
-      "crypto": 38,
       "macro": 27,
+      "crypto": 37,
+      "forex": 18,
+      "equities": 27,
       "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "How investors profit from soccer even as Premier League club losses skyrocket",
+      "description": "While English football clubs are gaining popularity with investors across the globe, teams remain risky and often unprofitable ventures.",
+      "source": "CNBC",
+      "publication_date": "2026-08-18T09:09:19+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Germany August ZEW survey current conditions -61.1 vs -69.5 expected",
+      "description": "<ul><li>August current conmditions -61.1 vs -69.5 expected</li><li>Prior -77.6</li><li>August economic sentiment 34.2 vs 30.0 expected</li><li>Prior 26.3</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">A good set of positives there as German investor morale is seen improving furt",
+      "source": "Forexlive",
+      "publication_date": "2026-08-18T09:01:02+00:00",
+      "article_url": "https://investinglive.com/news/germany-august-zew-survey-current-conditions-61-1-vs-69-5-expected/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "China adds 8 banks to digital yuan network as operator count hits 30",
       "description": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
@@ -41,19 +61,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346624/0/en/form-8-3-rotork-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "UK labour market shows further signs of cooling in June",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">Just a little catch up on things as we had some technical issues for a couple of hours. Apologies on that.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">Earlier at the start of the session, we had the UK labour market report ",
-      "source": "Forexlive",
-      "publication_date": "2026-08-18T08:22:33+00:00",
-      "article_url": "https://investinglive.com/news/uk-labour-market-shows-further-signs-of-cooling-in-june/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -105,6 +112,16 @@
       "article_url": "http://www.businesswire.com/news/home/20260818849481/en/Midas-Atlantic-Partners-in-Partnership-With-The-Najafi-Companies-to-Acquire-Panasonic-Industry%E2%80%99s-Power-and-Battery-Control-Solutions-Business-in-Germany-and-Slovakia/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "forex"
+      ]
+    },
+    {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T07:13:39+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -348,16 +365,6 @@
       "asset_tags": [
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T00:21:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -709,6 +716,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-17T14:43:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3Rmc3puMlE0OGNHd3RFY2dEM3EzbkdKR3pxal9tVm1lWFliOE9Yc1NlVXN6aEx3SXJCSkVWVENjbjBJMWlXLThJdDE3NzF5aTRMbXJYdDNqRkRtYmlRUVhDcW02My04NWR1MXVianVOdDIwZXdsNGJ5a21walB1UjMxV2YyTGpfMFMzdHNZLW1YRjRaZENWZDE5akdRcFVibWlYcV9aTTM4UQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Russia receives Indian gasoline cargo as fuel shortages bite - Reuters",
+      "description": "Russia receives Indian gasoline cargo as fuel shortages bite Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T14:20:10+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbFY5ZEhCSHJadzdWWk11MDlBcEdmcjI0cjlBSE9JVHMtS0ZYMjhySWxwV2hhenVOVUhjS2xkbDFUb2phclplZnQ5SjhlakZjWkxzM2p6VnY5RUdGRWhrcm9ybXhkRmV0UmE4MlJsVHpNMEs1eFJGX3VXS0JXemU3a1RJa05WOERfLS1MejZ0SlV1UWZ4Qnk4X284enlTT3hzRUJxMWZzbUx2d0hESlE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2022,26 +2039,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-16T09:41:03+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Vietnam Airlines Boeing 787 returned to Munich after takeoff incident - Reuters",
-      "description": "Vietnam Airlines Boeing 787 returned to Munich after takeoff incident Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T01:57:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjk0ZFl5R3ZQblJ0T0MwemxocHVlbmo0a3FpbkFHUUp5SG9IWjhDcGQ4SDF1Q09ZOWRRdjZDclFxbnFGNUQ4Nmw3WTBRMURtSUVmc1duQlVsZ3c5QmhiclVaWHBRSEhadmc1TnFxTFo5RjNvVWZqYkd5Sm5MUFJYTFlVYWU3YWVSZjF2LVZwT0lTbE9ZMU1fUTZaWVJNYzhWODZDcWNIc0xQQXUxeUJ4cjNNcEtvZmtsT2FFUUp2dE1wMjFzSU5oekxCalNJTjBaeWRDX1JJUURwa0k?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening - Reuters",
-      "description": "UAE says Iran attacked ADNOC vessel in Hormuz, urges waterway's reopening Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T22:16:49+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
       "asset_tags": [
         "general"
       ]
