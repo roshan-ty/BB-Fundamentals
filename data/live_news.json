@@ -1,18 +1,89 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T09:47:08.063651+00:00",
+    "last_updated": "2026-08-18T10:12:31.167550+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 108,
-      "macro": 27,
-      "crypto": 37,
-      "forex": 18,
+      "crypto": 38,
       "equities": 27,
-      "commodities": 13
+      "general": 109,
+      "commodities": 13,
+      "macro": 26,
+      "forex": 17
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "description": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T09:31:15+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T09:21:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346640/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T09:20:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346639/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "CesiumAstro社、Jariet Technologiesを買収――半導体からミッションまで垂直統合した通信・ISRソリューションの実現へ",
+      "description": "米テキサス州オースティン--(BUSINESS WIRE)--（ビジネスワイヤ） -- 先進的な宇宙通信および情報収集・監視・偵察（ISR）システムのグローバルリーダーである CesiumAstro Inc. （以下、CesiumAstro）は、SATCOM（衛星通信）、電子戦（EW）、レーダーシステム向けの統合ソリューションを手がけるミリ波RFシステムオンチップ（RF-SoC）半導体の大手企業、 Jariet Technologies （以下、Jariet）の買収を発表しました。 本買収は、業界で最も垂直統合された衛星通信企業を目指すCesiumAstroの戦略を大きく前進させるものです。半",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T09:19:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260817780046/ja/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T09:19:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346638/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T09:18:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346637/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T09:16:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346636/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
     {
       "headline": "How investors profit from soccer even as Premier League club losses skyrocket",
       "description": "While English football clubs are gaining popularity with investors across the globe, teams remain risky and often unprofitable ventures.",
@@ -74,6 +145,16 @@
       ]
     },
     {
+      "headline": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports - Reuters",
+      "description": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T08:18:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGU5SDV5WlhteEdoT2hlZTBkZzY2N1hnYU5sZHF1N3FqTGc1UEd1Mm9MTjk5V24telp3cWVsc08yU3dqU3lJemxZaGhXb0t4UUNBdkpXTFFUckwzRDZ2cDFOenpsN013aW5RRDVWSUxHRHpkVTBzeTV6NmRRR2NhWGtoeEpjLURMTEY5bjlyck5zLXQ5cU9KVTRwNDFQUjZuWU9lRU1vRnBORm5zdi1zTVpIb3VqY0FLRjZZUzBQYktDOEs3Rl9nOHBOZF9zQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Form 8.5 (EPT/RI) - AEW UK REIT Plc",
       "description": "FORM 8.5 (EPT/RI)",
       "source": "GlobalNewswire",
@@ -105,23 +186,13 @@
       ]
     },
     {
-      "headline": "Midas Atlantic Partners, in Partnership With The Najafi Companies, to Acquire Panasonic Industry’s Power and Battery Control Solutions Business in Germany and Slovakia",
-      "description": "LÜNEBURG, Germany--(BUSINESS WIRE)-- #carveout--Midas Atlantic Partners (“Midas Atlantic”), in partnership with The Najafi Companies, has signed an agreement to acquire the European Power and Battery Control Solutions business (the “Business”) of Panasonic Industry Co., Ltd. (“Panasonic Industry”), ",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-18T08:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260818849481/en/Midas-Atlantic-Partners-in-Partnership-With-The-Najafi-Companies-to-Acquire-Panasonic-Industry%E2%80%99s-Power-and-Battery-Control-Solutions-Business-in-Germany-and-Slovakia/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "headline": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say - Reuters",
+      "description": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-18T07:13:39+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "publication_date": "2026-08-18T07:59:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWW02TjlHQUZwRXJZd29PczBMRFpLUkhMbk9oVWNnSXg2X0NLOVhxUF9YQTJvRENzcGo4WnBsbnFEZGNlZ1dHcm1KWnhqSjllU2RjTXBOd3VvQUpoN0dDeTYtSXYyNFhWWXdXLTR3M0c0Y0ZvSkFSSlhLT29iZk5DQ1BuVno4eERCSnVmQVluRElScUpxV2R5V2FKYVVBUVRIQnBxZkFSZnp2RUN2eU5OTnZ3aXZEU3ZQZTNqZ29qNlJ0b0l5ajdZYWNtaw?oc=5",
       "asset_tags": [
-        "equities"
+        "general"
       ]
     },
     {
@@ -285,6 +356,16 @@
       ]
     },
     {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T03:28:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
       "description": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
       "source": "Cointelegraph",
@@ -317,8 +398,8 @@
       ]
     },
     {
-      "headline": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds - Reuters",
-      "description": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds Reuters",
+      "headline": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus - Reuters",
+      "description": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:51:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
@@ -1318,26 +1399,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:59:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345896/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:57:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345895/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1345,37 +1406,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345894/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:53:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345891/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:52:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345890/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:50:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345889/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
       ]
     },
     {
@@ -2009,36 +2039,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-16T10:50:26+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVdhVzI2TzFiQUNlclh3TzduWm5TYmRQbVY5bE0zQ3ZMbEVFQ1ZqUWRGN24tQjFRT1dfaUMxSHd1VHVFQURUVXdDOWJlNWhBeU56eHlYX0l3bkJST0JsVmY4RWVwcmNpZTVLdHpXV2lhRFMxc1RoQV8tRHpPUEpHZXhXeXJ2WG84QWwwWndlZ3BDMG51c3o3bE8xRFhLdEpaQ19NLVF4QXBUNTVFUk0yX1U5N3VQVjV3am1GdEJCWE85N00?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
-      "description": "Trump wants more economic pressure on Iran. What are his options? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T10:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "India sets targets for oil companies to boost cooking gas output amid Middle East war - Reuters",
-      "description": "India sets targets for oil companies to boost cooking gas output amid Middle East war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T09:51:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDN3YTl5QWtjWjg5VTZtSEVzZnNheklhcUxHb0Q5M2I5dElCOUdDbkFpR0xrX2JzTEtsMzRIVFpWRjJZeG1zTTFIckVpdy1xNnNpaDltN1BCeklreVNFSU5wZlprUnJvWkxiQXVfOTlQcTVxckkwQ0hnVEpsSnhYem1yclNkMjNLTUVYd1pMc2tnVkRESk82QjNCMG9KeFh4bGdiTVpVYUhEWDBwLUFTS2tnVkZsUWpTSmU0eFZiZjFHejJrQUJzUFpn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Suspected Russian drone shot down in Romanian airspace - Reuters",
-      "description": "Suspected Russian drone shot down in Romanian airspace Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T09:41:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
       "asset_tags": [
         "general"
       ]
