@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T11:45:12.197143+00:00",
+    "last_updated": "2026-08-18T12:04:41.684851+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 20,
-      "equities": 31,
+      "general": 109,
+      "forex": 18,
+      "equities": 32,
       "macro": 29,
-      "general": 107,
-      "crypto": 38,
-      "commodities": 13
+      "commodities": 14,
+      "crypto": 34
     }
   },
   "articles": [
+    {
+      "headline": "Form-8.3 GOOCH & HOUSEGO PLC - 17 08 2026 - (CGWL)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T11:34:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346725/0/en/form-8-3-gooch-housego-plc-17-08-2026-cgwl.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 17 08 2026 - (CGWL)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T11:32:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346724/0/en/form-8-3-advanced-medical-solutions-group-plc-17-08-2026-cgwl.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "investingLive European FX news wrap: Markets remain in limbo as US-Iran stalemate extends",
       "description": "<ul><li><a href=\"https://investinglive.com/news/qatar-says-iran-oman-hormuz-agreement-could-clear-path-for-broader-us-iran-talks\" rel=\"follow\">Qatar says Iran-Oman Hormuz agreement could clear path for broader US-Iran talks</a></li><li><a href=\"https://investinglive.com/central-banks/ecb-policymaker",
@@ -23,6 +43,37 @@
         "forex",
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T11:21:51+00:00",
+      "article_url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T11:05:56+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "GenNx360 Capital Partners Announces NVI’s Acquisition of Barracuda Specialty Services",
+      "description": "NEW YORK--(BUSINESS WIRE)--GenNx360 Capital Partners (“GenNx360”), a New York City-based private equity firm investing in U.S. lower middle market industrial services and business services companies, today announced that its portfolio company NVI, LLC (“NVI”), has acquired Barracuda Specialty Servic",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T11:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260818586294/en/GenNx360-Capital-Partners-Announces-NVI%E2%80%99s-Acquisition-of-Barracuda-Specialty-Services/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -59,13 +110,13 @@
       ]
     },
     {
-      "headline": "Agellus Capital’s Bluejack Fire & Life Safety Completes Acquisition of Phillips Fire & Life Safety, Expanding Its Presence in Houston",
-      "description": "CLAYTON, Mo.--(BUSINESS WIRE)--Agellus Capital’s Bluejack Fire & Life Safety Completes Acquisition of Phillips Fire & Life Safety, Expanding Its Presence in Houston",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-18T10:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260818539703/en/Agellus-Capital%E2%80%99s-Bluejack-Fire-Life-Safety-Completes-Acquisition-of-Phillips-Fire-Life-Safety-Expanding-Its-Presence-in-Houston/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "Morning Bid: Yields give way - Reuters",
+      "description": "Morning Bid: Yields give way Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T10:37:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzd0djlpMGQ3NlRiOG1GNTZUbGx0SGxWcGdsQk5rYWlfQi16YTZ5QUM2U0pyNGRWLWNRWVNFOTN0eVU0X25xSWlRdTczRVpaQ1NDVGlWVk05V0tQaHNGWkJRRnRZTjFaa2xtUWJfc2FMZkI3MDdOb1JhNnFGRzVmWWhobF9hZjI2NjhON21uQjZkR0JlbHRr?oc=5",
       "asset_tags": [
-        "general"
+        "macro"
       ]
     },
     {
@@ -100,6 +151,17 @@
       ]
     },
     {
+      "headline": "US stock futures drop as fading Iran peace hopes lift oil, bond yields - Reuters",
+      "description": "US stock futures drop as fading Iran peace hopes lift oil, bond yields Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T09:43:04+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
       "description": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
       "source": "Cointelegraph",
@@ -127,6 +189,18 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346639/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "European shares slip as oil prices and bond yields surge on Middle East fears - Reuters",
+      "description": "European shares slip as oil prices and bond yields surge on Middle East fears Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T09:19:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWJYWndUWEJjOWp1RXhHeWpQOFdFaTVhRFkzY3Rhc2pCYXJKcDRJWUlWeXlUZnhISjNiaXJVN0doZU9CdVZGcGhNRW5aUno1Vzc0U0xFNGpIbnRTV3BoWWtPNkE5ZXNrN0FDSlBOLVFrbHFDYjk5T0RJTGhGR2VtTmNxRzF1RUFNT3hJZnhCazgxdl96UFlJTzFnTE5CNkl1anFmYThZeXhodF9tX1MzbU1wRmZneU1EN3c?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
       ]
     },
     {
@@ -201,6 +275,16 @@
       ]
     },
     {
+      "headline": "Datavault AI to buy CyberCatch in $94.5M all-cash deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-18T08:37:34+00:00",
+      "article_url": "https://seekingalpha.com/news/4634189-datavault-ai-to-buy-cybercatch-in-945m-all-cash-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT Plc",
       "description": "FORM 8.5 (EPT/RI)",
       "source": "GlobalNewswire",
@@ -259,18 +343,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWW02TjlHQUZwRXJZd29PczBMRFpLUkhMbk9oVWNnSXg2X0NLOVhxUF9YQTJvRENzcGo4WnBsbnFEZGNlZ1dHcm1KWnhqSjllU2RjTXBOd3VvQUpoN0dDeTYtSXYyNFhWWXdXLTR3M0c0Y0ZvSkFSSlhLT29iZk5DQ1BuVno4eERCSnVmQVluRElScUpxV2R5V2FKYVVBUVRIQnBxZkFSZnp2RUN2eU5OTnZ3aXZEU3ZQZTNqZ29qNlJ0b0l5ajdZYWNtaw?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "European shares slip as oil prices and bond yields surge on Middle East fears - Reuters",
-      "description": "European shares slip as oil prices and bond yields surge on Middle East fears Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T07:17:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWJYWndUWEJjOWp1RXhHeWpQOFdFaTVhRFkzY3Rhc2pCYXJKcDRJWUlWeXlUZnhISjNiaXJVN0doZU9CdVZGcGhNRW5aUno1Vzc0U0xFNGpIbnRTV3BoWWtPNkE5ZXNrN0FDSlBOLVFrbHFDYjk5T0RJTGhGR2VtTmNxRzF1RUFNT3hJZnhCazgxdl96UFlJTzFnTE5CNkl1anFmYThZeXhodF9tX1MzbU1wRmZneU1EN3c?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
       ]
     },
     {
@@ -466,8 +538,8 @@
       ]
     },
     {
-      "headline": "Indian shares dip as oil tops $91, US-Iran ceasefire expires - Reuters",
-      "description": "Indian shares dip as oil tops $91, US-Iran ceasefire expires Reuters",
+      "headline": "Indian shares extend losing run on fading hopes of Mideast peace deal - Reuters",
+      "description": "Indian shares extend losing run on fading hopes of Mideast peace deal Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T02:21:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBR0dqOUx3OEJLUy1ZbDhBWFo2S2M1STJjYXk5cUlNZW1MTFlLdkhDc3FNOEhBYjVabjF3SE5QUE5ERnBPQWw1dTVLb0V2WDc5bDM4MURRc1FSVWJfMnFIT0doSDFMZHV1bTQxbU9tX3BrenFsdUhHSDBSQ2NnVll5OFBVTUN5M0dhS2psTlQ3MXIzSWptYm5OM0RrWWlpU0h2b2VKUUxkaEdqT2Fyc2VwVFA?oc=5",
@@ -1275,16 +1347,6 @@
       ]
     },
     {
-      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
-      "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T11:57:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "China's July oil throughput posts first month-on-month rise since Iran war - Reuters",
       "description": "China's July oil throughput posts first month-on-month rise since Iran war Reuters",
       "source": "Reuters",
@@ -1897,6 +1959,16 @@
       ]
     },
     {
+      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
+      "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-16T21:39:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Believe the unbelievable in this market — things can be different this time",
       "description": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
       "source": "CNBC",
@@ -1975,80 +2047,6 @@
       "asset_tags": [
         "equities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-16T16:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin analysis shows what bulls need to do next to end this bearish 2026",
-      "description": "<p>Bitcoin stabilizes near $63,000, but reclaiming $64,000 is the real test</p><p>Bitcoin is stabilizing near $63,100 after buyers defended the lower part of its recent range. That is constructive, but it is not yet a confirmed recovery. BTC must first overcome resistance near $63,175-$63,270, while",
-      "source": "Forexlive",
-      "publication_date": "2026-08-16T15:11:26+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-analysis-shows-what-bulls-need-to-do-next-to-end-this-bearish-2026/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-16T14:02:32+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-16T14:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption - Reuters",
-      "description": "Most Gulf bourses gain despite stalled Iran talks, Hormuz disruption Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T13:17:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYi10SGhJbU9xNklLZmFwR2ZoNkJtTW85b0hhbW05T3FMUzdiVDR1cXNqZ1l0VlBNeUVOb1RjZzhKWGtEWFd2WnpXbTQxS2tNczg1eGlWUlR4Uy1VNmVtNFpoTkdTZ1JiQTVYby1mU0NMZE1hV2Nid21nR2x0VjRjY3ZFNHRSZnlDRlJxZEVYMFFpZ0pOMGh1NG52RFpWTGsyZEd1VXVyczFkT1cwSkFZb0FTdV92dWt1R19V?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-16T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-      "description": "DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-16T12:48:09+00:00",
-      "article_url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
