@@ -1,27 +1,36 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T19:13:00.858690+00:00",
+    "last_updated": "2026-08-18T19:44:06.127300+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 16,
-      "equities": 35,
-      "macro": 29,
-      "general": 102,
       "crypto": 44,
+      "macro": 29,
+      "general": 103,
+      "equities": 34,
+      "forex": 15,
       "commodities": 12
     }
   },
   "articles": [
     {
-      "headline": "Canadian dollar extends losses as US downplays hopes for trade deal with Canada",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The outlook for a last-minute US-Canada trade agreement is getting a bit bleaker, with US officials reportedly downplaying hopes of a deal ahead of Tuesday’s tariff deadline. US President Trump and Canadian PM Carney are nevertheless expected to speak again",
+      "headline": "Trump is weighing whether to grant Canada a tariff reprieve - Politico",
+      "description": "<ul><li>Full report <a href=\"https://www.politico.com/news/2026/08/18/trump-canada-tariff-trade-agreement-01040518\" rel=\"follow\">here</a></li></ul><p class=\"PDq2pG_selectionAnchorContainer\">Politico is reporting that a potential interim trade deal between the US and Canada is now on President Trump’",
       "source": "Forexlive",
-      "publication_date": "2026-08-18T18:52:07+00:00",
-      "article_url": "https://investinglive.com/news/canadian-dollar-extends-losses-as-us-downplays-hopes-for-trade-deal-with-canada/",
+      "publication_date": "2026-08-18T19:23:10+00:00",
+      "article_url": "https://investinglive.com/news/trump-is-weighing-whether-to-grant-canada-a-tariff-reprieve-politico/",
       "asset_tags": [
-        "forex",
-        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - Reuters",
+      "description": "Tech selloff pulls Wall Street to two-week lows as bond yields climb Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T18:58:42+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "asset_tags": [
         "macro"
       ]
     },
@@ -115,16 +124,6 @@
       "article_url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb - Reuters",
-      "description": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T16:31:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -748,6 +747,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-18T10:22:23+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas - Reuters",
+      "description": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T10:12:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmZvWi1pSnAyOW9WZ0lLdkhfcDZvVXNPODFDRE9OYjVvYXJ1MmJzNFN5Z1FJNDgyNzFRR05pNHlValB2RFZuT3lmSVU4UEFkNUdSaEQ0RXBUZ2c0enpCRzlOZWJVUERyTGxlYUplTnY5YVNYekNZMXdqQWtsM1lLUWI1WGxHd0V6d183MGxVQkpqdFpDUmRVZjloNFVyWnRWSU9J?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2039,16 +2048,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkZkRXBDZ3pPWVFROGdBUVlseGpmSEpONkJ2MEdvQjFjajdMYmtLSVNOc1ZjeHg0WGZwNWZpM3ZjV1A2S2FNeHFrZTlRUFRKZGo4SUdwNDBoMUs3UEhwZTMxMzNXRDJEeEdzd0NTTVRaZF9JZFItWUduXzlsMEptODRYR2hFdVRKaDk1Sm83NFFMaTI0SFo5d3ExOTNIZ1M2TGsxWEdtRHRCdFB0eWc?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Bitpanda fined in Austria’s first published MiCA penalty",
-      "description": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-17T09:31:47+00:00",
-      "article_url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
