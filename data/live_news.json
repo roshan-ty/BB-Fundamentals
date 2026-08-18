@@ -1,26 +1,117 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T13:05:13.275564+00:00",
+    "last_updated": "2026-08-18T13:54:43.953330+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 32,
       "general": 107,
-      "commodities": 17,
-      "macro": 29,
-      "crypto": 35,
+      "macro": 28,
+      "equities": 31,
+      "crypto": 37,
+      "commodities": 15,
       "forex": 17
     }
   },
   "articles": [
     {
-      "headline": "Uplift Investors Announces Acquisition of Technology Consultancy Engage fi",
-      "description": "DARIEN, Conn.--(BUSINESS WIRE)--Uplift Investors (“Uplift”), a middle-market private equity firm with a business model-centric focus on services investing, today announced the acquisition of Engage fi, a leading technology and strategic advisory firm serving banks and credit unions from Falfurrias M",
+      "headline": "JK Technology Services Acquires 360 Rigging to Support the Growing Technology Sector",
+      "description": "STERLING, Va.--(BUSINESS WIRE)-- #ATA--JK Technology Services has acquired 360 Rigging, a firm that specializes in crane and rigging along with related services for the tech industry.",
       "source": "BusinessWire",
-      "publication_date": "2026-08-18T12:48:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260818933503/en/Uplift-Investors-Announces-Acquisition-of-Technology-Consultancy-Engage-fi/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "publication_date": "2026-08-18T13:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260818768835/en/JK-Technology-Services-Acquires-360-Rigging-to-Support-the-Growing-Technology-Sector/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US July industrial production +0.2% vs +0.3% expected",
+      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior was +0.3% </li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Industrial production y/y +1.1% vs +1.1% prior</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; pad",
+      "source": "Forexlive",
+      "publication_date": "2026-08-18T13:15:23+00:00",
+      "article_url": "https://investinglive.com/news/us-july-industrial-production-xx-vs-0-3-expected/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Disney-owned ABC files First Amendment lawsuit against FCC",
+      "description": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming.",
+      "source": "CNBC",
+      "publication_date": "2026-08-18T13:11:30+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "description": "The bond market is the story of the day.",
+      "source": "CNBC",
+      "publication_date": "2026-08-18T13:00:31+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
+      "description": "American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United.",
+      "source": "CNBC",
+      "publication_date": "2026-08-18T13:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "MoonPay adds Cash App Pay for crypto purchases by US customers",
+      "description": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T13:00:00+00:00",
+      "article_url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "R1 to Acquire Humata Health, Enhancing Phare OS with AI-Powered Prior Authorization Automation and Payer-Provider Collaboration",
+      "description": "Acquisition Removes Friction from Complex Prior Authorizations to Benefit Patients, Clinicians, Providers, and Payers Acquisition Removes Friction from Complex Prior Authorizations to Benefit Patients, Clinicians, Providers, and Payers",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T13:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346895/0/en/r1-to-acquire-humata-health-enhancing-phare-os-with-ai-powered-prior-authorization-automation-and-payer-provider-collaboration.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Cint Enters New Phase of Growth and Innovation Under Private Ownership",
+      "description": "Company to accelerate investment across research, media measurement, data and AI while maintaining a continued focus on trusted human intelligence Company to accelerate investment across research, media measurement, data and AI while maintaining a continued focus on trusted human intelligence",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T13:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346873/0/en/cint-enters-new-phase-of-growth-and-innovation-under-private-ownership.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
+      "description": "US stocks set for lower open as Iran stalemate lifts oil, yields Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T12:51:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
       ]
     },
     {
@@ -51,17 +142,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346842/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US July import prices -0.4% vs +0.1% expected",
-      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior import prices +0.3% (revised to -0.3%)</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Export prices -1.3% vs +0.2% expected</li><li style=\"vertical-align: baseline; border: 0; m",
-      "source": "Forexlive",
-      "publication_date": "2026-08-18T12:30:51+00:00",
-      "article_url": "https://investinglive.com/news/us-july-import-prices-xx-vs-0-1-expected/",
-      "asset_tags": [
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -114,6 +194,36 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346810/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T12:20:48+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
+      "description": "US 30-year yields hit highest level since 2007 as war, oil worries fester Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T12:17:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T12:17:05+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -186,17 +296,6 @@
       "asset_tags": [
         "commodities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "US stock futures fall as fading Iran peace prospects drive up oil, yields - Reuters",
-      "description": "US stock futures fall as fading Iran peace prospects drive up oil, yields Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T11:06:04+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -475,16 +574,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
-      "description": "US 30-year yields hit highest level since 2007 as war, oil worries fester Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T07:12:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -1661,16 +1750,6 @@
       ]
     },
     {
-      "headline": "Man Group PLC : Form 8.3 - JTC Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:39:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345880/0/en/man-group-plc-form-8-3-jtc-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitpanda fined in Austria’s first published MiCA penalty",
       "description": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
       "source": "Cointelegraph",
@@ -1699,27 +1778,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
-      "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T08:59:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345870/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T08:56:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345867/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1769,26 +1827,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-17T08:15:01+00:00",
       "article_url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "A.P. Moller Capital conclut un accord pour acquérir une participation majoritaire dans Globex Investissement, entreprise marocaine de référence dans le secteur de la logistique",
-      "description": "COPENHAGUE, Danemark et CASABLANCA, Maroc, 17 août 2026 (GLOBE NEWSWIRE) -- A.P. Moller Capital a le plaisir d’annoncer que A.P. Moller Capital – Emerging Markets Infrastructure Fund II (« EMIF II ») et APM Capital Morocco Fund (ensemble, les « Fonds ») ont conclu un accord en vue d’acquérir une par",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T08:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345855/0/fr/a-p-moller-capital-conclut-un-accord-pour-acqu%C3%A9rir-une-participation-majoritaire-dans-globex-investissement-entreprise-marocaine-de-r%C3%A9f%C3%A9rence-dans-le-secteur-de-la-logistique.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "A.P. Moller Capital agrees to acquire a majority stake in leading Moroccan logistics company Globex Investissement",
-      "description": "A.P. Moller Capital agrees to acquire a majority stake in leading Moroccan logistics company Globex Investissement",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T08:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345855/0/en/a-p-moller-capital-agrees-to-acquire-a-majority-stake-in-leading-moroccan-logistics-company-globex-investissement.html",
       "asset_tags": [
         "general"
       ]
@@ -2006,46 +2044,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-17T00:19:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
-      "description": "Shipping slows through Strait of Hormuz after tanker attacks, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T23:54:51+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
-      "description": "Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-16T23:54:50+00:00",
-      "article_url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Believe the unbelievable in this market — things can be different this time",
-      "description": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
-      "source": "CNBC",
-      "publication_date": "2026-08-16T21:32:25+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
-      "description": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
-      "source": "CNBC",
-      "publication_date": "2026-08-16T19:58:32+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
       "asset_tags": [
         "general"
       ]
