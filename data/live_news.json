@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T04:48:53.102159+00:00",
+    "last_updated": "2026-08-18T05:16:57.922815+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 40,
+      "crypto": 41,
       "forex": 14,
       "equities": 32,
       "commodities": 13,
-      "macro": 23,
-      "general": 108
+      "macro": 24,
+      "general": 107
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin climbs above $64,000 while most majors slip",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T04:32:38+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
       "description": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
@@ -34,6 +44,16 @@
         "equities",
         "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
+      "description": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T03:29:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -109,16 +129,6 @@
       ]
     },
     {
-      "headline": "CesiumAstro Acquires Jariet Technologies to Advance Vertically Integrated Communications and ISR from Silicon to Missions",
-      "description": "AUSTIN, Texas--(BUSINESS WIRE)--CesiumAstro Inc., a global leader in advanced space communications and intelligence, surveillance, and reconnaissance (ISR) systems, has announced the acquisition of Jariet Technologies, a leading mmWave RF System-on-Chip (RF-SoC) semiconductor company specializing in",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-18T01:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260817212221/en/CesiumAstro-Acquires-Jariet-Technologies-to-Advance-Vertically-Integrated-Communications-and-ISR-from-Silicon-to-Missions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Erdogan urges Trump to pursue talks with Iran, offers support - Reuters",
       "description": "Erdogan urges Trump to pursue talks with Iran, offers support Reuters",
       "source": "Reuters",
@@ -179,16 +189,6 @@
       ]
     },
     {
-      "headline": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit - Reuters",
-      "description": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T21:11:55+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "A Palestinian American's journey to his West Bank home under settler siege - Reuters",
       "description": "A Palestinian American's journey to his West Bank home under settler siege Reuters",
       "source": "Reuters",
@@ -206,6 +206,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEdqbXFtRnNWUFI5Z2k5QkEtMEUwbnR3emVxRTUyMS1IS0pXSWZZdC03aVpWNTFtSzlfN0kzQ3VCUVRpSzZQVGlpeFAyeVJKVGlBVlJicHpPcnBWSkJPcUpIazRPMkJabGJHMl9iRTRMUFRwZ0kxeVV3Sk16Mkx4ei1faDM2S2VDUXI0VHB0R1hyQVFGdU5IU3Nzby1xX2RFaVV4dmtzdmhhSGdKcjRYdDJlYlNLMmI4bGFqcDdZa0x4V0ZfQ3RN?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "DocGo Announces Second Quarter 2026 Results",
+      "description": "NEW YORK--(BUSINESS WIRE)--DocGo Inc. (Nasdaq: DCGO) (“DocGo” or the “Company”), a leading provider of technology-enabled mobile health and medical transportation services, today announced financial and operating results for the second quarter ended June 30, 2026. Second Quarter 2026 Financial Highl",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-17T20:20:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260817817897/en/DocGo-Announces-Second-Quarter-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1028,6 +1038,16 @@
       ]
     },
     {
+      "headline": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit - Reuters",
+      "description": "US railroad Union Pacific turned charges meant to cover fuel costs from Iran war into profit Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T10:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SEGRO PLC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1353,6 +1373,37 @@
       ]
     },
     {
+      "headline": "Domestic refiners told to boost LPG output as Hormuz uncertainty lingers",
+      "description": "India urges refiners to increase LPG production amid Hormuz uncertainty, aiming to secure supplies for the festival season.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-17T04:58:10+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ebola outbreak becomes Congo’s deadliest as UN warns virus Is ‘winning’",
+      "description": "Ebola is hitting a health system already weakened by years of conflict and mass displacement, with recent cuts to humanitarian funding adding to the strain",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-17T04:57:38+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/congo-ebola-outbreak-becomes-deadliest-with-2-325-deaths-almost-5-000-cases",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Goldman says markets too hawkish on betting Fed will hike rates",
+      "description": "Goldman Sachs warns that market expectations for Fed rate hikes are overly aggressive amid cooling inflation and weaker economic data.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-17T04:49:09+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
       "description": "",
       "source": "CoinDesk",
@@ -1477,16 +1528,6 @@
       ]
     },
     {
-      "headline": "Stripe is said to agree to buy OpenRouter for more than $7B",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-16T21:51:31+00:00",
-      "article_url": "https://seekingalpha.com/news/4633616-stripe-is-said-to-agree-to-buy-openrouter-for-more-than-7b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
       "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
       "source": "Reuters",
@@ -1544,16 +1585,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Charlie Ergen’s CONX to acquire control of MobileX in $200M deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-16T16:58:37+00:00",
-      "article_url": "https://seekingalpha.com/news/4633609-charlie-ergen-s-conx-to-acquire-control-of-mobilex-in-200m-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1792,16 +1823,6 @@
       ]
     },
     {
-      "headline": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-15T19:15:56+00:00",
-      "article_url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters",
       "description": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ Reuters",
       "source": "Reuters",
@@ -1829,16 +1850,6 @@
       "article_url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-15T17:23:09+00:00",
-      "article_url": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1971,16 +1982,6 @@
       "article_url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Workday could be acquired by private equity. Should it though?",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-15T13:00:30+00:00",
-      "article_url": "https://seekingalpha.com/news/4633440-workday-could-be-acquired-by-private-equity-should-it-though?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
