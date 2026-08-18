@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T20:37:06.379458+00:00",
+    "last_updated": "2026-08-18T20:57:27.691225+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 102,
-      "crypto": 45,
-      "forex": 17,
+      "general": 104,
       "macro": 29,
-      "equities": 33,
+      "equities": 30,
+      "crypto": 46,
+      "forex": 16,
       "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "Generational Group Advises Alamo Welding & Boiler Works, Inc. in its Sale to United MEP Partners",
+      "description": "DALLAS--(BUSINESS WIRE)--Generational Group, a leading mergers and acquisitions advisory firm for privately held businesses, is pleased to announce the sale of Alamo Welding & Boiler Works, Inc. to United MEP Partners. The acquisition closed May 4, 2026. Headquartered in San Antonio, Texas, Alamo We",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T20:23:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260818569832/en/Generational-Group-Advises-Alamo-Welding-Boiler-Works-Inc.-in-its-Sale-to-United-MEP-Partners/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia Wednesday, August 19, 2026",
+      "description": "<p>Australia's Wage Price Index rose 0.8% in Q1 2026, matching expectations. Private-sector wage growth kept slowing to the softest annual pace this cycle (3.2%), while public-sector gains cooled also. Q2 is expected to look similar. Q3 might heat up, the mimimum wage increase will feed through, but",
+      "source": "Forexlive",
+      "publication_date": "2026-08-18T20:11:07+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-august-19-2026/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "UAE says two missiles detected earlier were launched from Iran - reuters.com",
       "description": "UAE says two missiles detected earlier were launched from Iran reuters.com",
@@ -24,6 +44,17 @@
       ]
     },
     {
+      "headline": "Evolution Petroleum Announces Strategic Midland Basin Mineral & Royalty Acquisition",
+      "description": "HOUSTON, Aug. 18, 2026 (GLOBE NEWSWIRE) -- Evolution Petroleum Corporation (NYSE American: EPM) (\"Evolution\" or the \"Company\") has entered into a definitive agreement to acquire mineral and royalty (\"M&R\") interests in the core Midland Basin of the Permian Basin from a non-affiliated private seller ",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T20:01:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3347217/0/en/evolution-petroleum-announces-strategic-midland-basin-mineral-royalty-acquisition.html",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
       "headline": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
       "description": "A Florida representative not running for reelection who voted against the GENIUS and CLARITY Acts has endorsed a Democratic candidate, possibly leading to PAC-funded negative ads.",
       "source": "Cointelegraph",
@@ -31,18 +62,6 @@
       "article_url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "investingLive Americas FX news wrap: US data mixed as Iran headlines and Canada tariffs dominate",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/canadian-dollar-extends-losses-as-us-downplays-hopes-for-trade-deal-with-canada\" rel=\"follow\">Canadian dollar extends losses as US downplays hopes for trade deal with Canada</a></li><li><a href=\"https://investinglive.com/news/canadian-and-us-negotiator",
-      "source": "Forexlive",
-      "publication_date": "2026-08-18T19:41:35+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap/",
-      "asset_tags": [
-        "forex",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -57,6 +76,16 @@
       ]
     },
     {
+      "headline": "U.S. SEC proposes first major crypto rule in surprise announcement",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T19:09:33+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/18/r",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
       "headline": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - reuters.com",
       "description": "Tech selloff pulls Wall Street to two-week lows as bond yields climb reuters.com",
       "source": "Reuters",
@@ -67,6 +96,16 @@
       ]
     },
     {
+      "headline": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T18:57:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "ING reduces its stake in TMBThanachart Bank",
       "description": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN WHOLE OR IN PART IN OR INTO THE UNITED STATES",
       "source": "GlobalNewswire",
@@ -74,16 +113,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3347189/0/en/ing-reduces-its-stake-in-tmbthanachart-bank.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "The Crest Group Acquires Dukane, a Global Leader in Advanced Ultrasonic Solutions and Plastic Joining Technologies",
-      "description": "NEW YORK--(BUSINESS WIRE)--The Crest Group (“Crest”), a global industrial technology manufacturer, today announced it has acquired Dukane, a global manufacturer of advanced ultrasonic solutions and plastic joining technologies. Crest is backed by Stellex Capital Management (“Stellex”), a New York-ba",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-18T18:34:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260818744377/en/The-Crest-Group-Acquires-Dukane-a-Global-Leader-in-Advanced-Ultrasonic-Solutions-and-Plastic-Joining-Technologies/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1900,16 +1929,6 @@
       ]
     },
     {
-      "headline": "Schouw & Co. share buy-back programme, week 33 2026",
-      "description": "On 2 January 2026, Schouw & Co. initiated a share buy-back programme as outlined in Company Announcement no. 59 of 18 December 2025. Under the programme, Schouw & Co. will acquire shares for up to DKK 240 million during the period 2 January to 31 December 2026. As outlined in Company Announcement no",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3346016/0/en/schouw-co-share-buy-back-programme-week-33-2026.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
       "description": "",
       "source": "CoinDesk",
@@ -1982,16 +2001,6 @@
       ]
     },
     {
-      "headline": "Fulcrum Therapeutics, Slate Medicines to merge in all-stock deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-17T11:15:00+00:00",
-      "article_url": "https://seekingalpha.com/news/4633747-fulcrum-therapeutics-slate-medicines-to-merge-in-all-stock-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "India's Nifty 50 falls for fifth session on Mideast worries - Reuters",
       "description": "India's Nifty 50 falls for fifth session on Mideast worries Reuters",
       "source": "Reuters",
@@ -2039,16 +2048,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0RXV2Y5YWdkYmdqcENpd1FuWkdiMC1KQVByRFNwNzNmWVl0SVAyd0NxV2s1WGViMFR4WnVGb3VOWlREQ1IzU0ZOR2xoWmZyM0w0a2xqY3BTdXJkTHFucVdMXzJjLTd1b0Y1M2UtMFhnejZ6LTFhUW0tSTNWakRCbm42TDZHdmJGUm9XLUJHbER2UGFuX3lScVZoVS14NHhSREtDQTJtMTk0XzZHYzBvSWdTaw?oc=5",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
-      "description": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
-      "source": "CNBC",
-      "publication_date": "2026-08-17T10:31:33+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
