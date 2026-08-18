@@ -1,18 +1,41 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T04:02:57.308917+00:00",
+    "last_updated": "2026-08-18T04:48:53.102159+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 40,
       "forex": 14,
-      "crypto": 39,
-      "macro": 23,
-      "equities": 31,
+      "equities": 32,
       "commodities": 13,
-      "general": 110
+      "macro": 23,
+      "general": 108
     }
   },
   "articles": [
+    {
+      "headline": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "description": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T04:11:02+00:00",
+      "article_url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific market news: Diesel crack hits record $102, gold fell under $4400",
+      "description": "<ul><li><a href=\"https://investinglive.com/central-banks/indian-rupee-intervention-returns-as-usd-inr-hovers-near-all-time-high\" rel=\"follow\">Indian rupee intervention returns as USD/INR hovers near all-time high</a></li><li><a href=\"https://investinglive.com/commodities/ukmto-report-a-vessel-hit-by",
+      "source": "Forexlive",
+      "publication_date": "2026-08-18T03:54:42+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-diesel-crack-hits-record-102-gold-fell-under-4400/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
     {
       "headline": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
       "description": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
@@ -26,11 +49,11 @@
       ]
     },
     {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "headline": "Indian shares open lower as oil tops $91, US-Iran ceasefire expires - Reuters",
+      "description": "Indian shares open lower as oil tops $91, US-Iran ceasefire expires Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-18T03:13:24+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "publication_date": "2026-08-18T02:21:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBR0dqOUx3OEJLUy1ZbDhBWFo2S2M1STJjYXk5cUlNZW1MTFlLdkhDc3FNOEhBYjVabjF3SE5QUE5ERnBPQWw1dTVLb0V2WDc5bDM4MURRc1FSVWJfMnFIT0doSDFMZHV1bTQxbU9tX3BrenFsdUhHSDBSQ2NnVll5OFBVTUN5M0dhS2psTlQ3MXIzSWptYm5OM0RrWWlpU0h2b2VKUUxkaEdqT2Fyc2VwVFA?oc=5",
       "asset_tags": [
         "equities"
       ]
@@ -46,19 +69,6 @@
       ]
     },
     {
-      "headline": "ING says heavy tone in Treasuries has further to run as truce lapses",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The headline foreign holdings decline, Japan, the UK and China all trimming positions, sits alongside a messier picture on the transaction side, where June showed a modest $6.8 billion net inflow on one measure even as ING'",
-      "source": "Forexlive",
-      "publication_date": "2026-08-18T01:49:58+00:00",
-      "article_url": "https://investinglive.com/news/ing-says-heavy-tone-in-treasuries-has-further-to-run-as-truce-lapses/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
-      ]
-    },
-    {
       "headline": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
       "description": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
       "source": "Cointelegraph",
@@ -69,13 +79,23 @@
       ]
     },
     {
-      "headline": "Oil prices climb, bond yields rise as US-Iran ceasefire expires - Reuters",
-      "description": "Oil prices climb, bond yields rise as US-Iran ceasefire expires Reuters",
+      "headline": "Bond yields jump, oil extends gains as US-Iran ceasefire expires - Reuters",
+      "description": "Bond yields jump, oil extends gains as US-Iran ceasefire expires Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:16:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T01:14:24+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -2019,26 +2039,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-15T10:02:05+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Magnitude 7.7 quake kills 38 on Indonesia’s Flores island",
-      "description": "In the Nagekeo, Sikka and West Manggarai regencies on Flores, the “very strong” quake was felt for about a minute, prompting many people to rush out of their homes",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-15T09:36:27+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/powerful-7-7-magnitude-earthquake-strikes-near-indonesia",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Taliban mark five years in power as aid groups warn of crisis - Reuters",
-      "description": "Taliban mark five years in power as aid groups warn of crisis Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T09:04:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTh4U3hRdlRhY1RmYWJDa0o1RWZEcFUxMkJ1RkhMVE9NUnZUc2ZudjBhM0pKZEhfdVpzeWdTZ1BLaGVLUXd4Z0haUmZOTHktT0Q4dzlUQmFwRmZ4RzE2REZDN2JrWXI5Nm9jWlJRQXhXd3k5ekhTdEtyYWpjSDloSDV1cFZqTEVCT2w4QS1jX3gybktmQzFRekZYcTJVX3BkNVE?oc=5",
       "asset_tags": [
         "general"
       ]
