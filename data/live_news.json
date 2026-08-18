@@ -1,18 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T13:54:43.953330+00:00",
+    "last_updated": "2026-08-18T14:31:11.999683+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 107,
-      "macro": 28,
-      "equities": 31,
-      "crypto": 37,
-      "commodities": 15,
-      "forex": 17
+      "forex": 17,
+      "macro": 27,
+      "equities": 30,
+      "general": 105,
+      "crypto": 39,
+      "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+      "description": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T13:41:56+00:00",
+      "article_url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Trump says there are no talks going on, or scheduled, with Iran; US naval blockade remains in full force",
+      "description": "<blockquote>Trump on Truth Social:</blockquote><blockquote>There are no talks or conversations going on, or scheduled, with the Islamic Republic of Iran. The Naval Blockade remains in full force and effect. The Hormuz Strait is open and operating. All water mines have been removed or detonated. Than",
+      "source": "Forexlive",
+      "publication_date": "2026-08-18T13:37:54+00:00",
+      "article_url": "https://investinglive.com/news/trump-says-there-are-no-talks-going-on-or-scheduled-with-iran-us-naval-blockade-remains-in-full-force/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "US stocks open lower as Iran stalemate lifts oil, yields - Reuters",
+      "description": "US stocks open lower as Iran stalemate lifts oil, yields Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T13:36:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
     {
       "headline": "JK Technology Services Acquires 360 Rigging to Support the Growing Technology Sector",
       "description": "STERLING, Va.--(BUSINESS WIRE)-- #ATA--JK Technology Services has acquired 360 Rigging, a firm that specializes in crane and rigging along with related services for the tech industry.",
@@ -24,13 +55,33 @@
       ]
     },
     {
-      "headline": "US July industrial production +0.2% vs +0.3% expected",
-      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior was +0.3% </li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Industrial production y/y +1.1% vs +1.1% prior</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; pad",
-      "source": "Forexlive",
-      "publication_date": "2026-08-18T13:15:23+00:00",
-      "article_url": "https://investinglive.com/news/us-july-industrial-production-xx-vs-0-3-expected/",
+      "headline": "Citi plans to launch bitcoin custody for institutional clients later this year",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T13:25:13+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
       "asset_tags": [
-        "macro"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Crypto’s easy-money era is ending in a wave of failures",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T13:22:40+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Francisco Partners to buy Weave for $7.40/share cash",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-18T13:12:59+00:00",
+      "article_url": "https://seekingalpha.com/news/4634316-francisco-partners-to-buy-weave-for-740share-cash?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -104,14 +155,13 @@
       ]
     },
     {
-      "headline": "US stocks set for lower open as Iran stalemate lifts oil, yields - Reuters",
-      "description": "US stocks set for lower open as Iran stalemate lifts oil, yields Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T12:51:16+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "headline": "BioMarin to gain hypophosphatasia drug under Alesta buyout",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-18T12:52:17+00:00",
+      "article_url": "https://seekingalpha.com/news/4634301-biomarin-acquire-alesta-275m-upfront?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
-        "equities",
-        "macro"
+        "general"
       ]
     },
     {
@@ -1740,16 +1790,6 @@
       ]
     },
     {
-      "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 14 08 2026 - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:40:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345881/0/en/form-8-3-advanced-medical-solutions-group-plc-14-08-2026-cgwl.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitpanda fined in Austria’s first published MiCA penalty",
       "description": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
       "source": "Cointelegraph",
@@ -2004,48 +2044,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDFjUnFHUE1WM1psUjhsS0N3R0plSTRER2cyeTVlQl9wSDBLankxeEkyT2w1cGlrZWJNaUxZcktrVU96QU1rd0lkdjh1ZjVmR2dqRDBSNFdNNVdpV1c2MkVqbXFBWjdPTURwVjBnazA4OGdyOXZDMWtlOEo2ajJsQVpRV2kwUHFCRnc5MDBnbS1vdm5xcWpXRHJRNURnRjVpQ3NzNklpVGtUc3RDajdWREVSLXN0cWlGWTlJQmppeENNb0w3RGc?oc=5",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Indian shares fall as crude remains at elevated levels - Reuters",
-      "description": "Indian shares fall as crude remains at elevated levels Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T02:21:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUZOZ3VuQ2NHZWRMbVF4TE5WRlFMeWp5c3N6SlY4T2Y3ajV1YjdjaE9JLU5tTHVlaENLbV81NUxncUdhRWcxQXg1bUVIVlF0cHRJYzQ2RFB1VTRwMlNWRlNQbXpMSUhtMTFFcUtJaUJfRU5GUU9iQkl4QXRqM0dnYk9YS25NUDFBeFo2N0tST1c5elFsMDRXM1pPNnNCUW03eWRPNlFFZ2R1V2M?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Stocks, dollar fall after weak data; yields rise - reuters.com",
-      "description": "Stocks, dollar fall after weak data; yields rise reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T01:17:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up over $2 as Iran war stalemate stokes supply concerns - Reuters",
-      "description": "Oil settles up over $2 as Iran war stalemate stokes supply concerns Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T00:31:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmNqanA3WXVHU3JvRVRoZnVBYUpwUmRGbkxCYTNHLW9EeTFhbTdFcjFqM2JtZVctcTd6TzhEYnJUekhXQURDRXkzUXNNRlF4OEN3S2VQZ1ZIZ0c5OHo0d3RWdG01Z1o5amVMZFk0cGdUOGV1enVQYVVzTWtQVl9rTHhyM1RaeGxOd0RUNEM5NWJCMW91WFpITmp6TmlKOWF4RUYtMTRBQVpYX0pqZ0Q3UjNKVHIzZGc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
-      "description": "Japan Q2 growth misses forecasts on weaker spending, investment Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T00:19:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
