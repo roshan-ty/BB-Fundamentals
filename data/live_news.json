@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T21:48:06.329188+00:00",
+    "last_updated": "2026-08-18T22:02:29.700393+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 105,
       "crypto": 47,
-      "forex": 15,
+      "general": 105,
+      "equities": 31,
       "macro": 29,
-      "equities": 30,
+      "forex": 15,
       "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "SEC proposes new crypto rules in absence of CLARITY Act",
+      "description": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as“investment contracts” and certain exemptions for token issuance.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T21:24:15+00:00",
+      "article_url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
       "description": "UAE says two missiles detected earlier were launched from Iran Reuters",
@@ -24,6 +34,27 @@
       ]
     },
     {
+      "headline": "US yields edge lower despite Iran worries, broader sell-off - Reuters",
+      "description": "US yields edge lower despite Iran worries, broader sell-off Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T21:20:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Tech selloff weighs down Wall Street as bond yields climb - Reuters",
+      "description": "Tech selloff weighs down Wall Street as bond yields climb Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T20:48:56+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
       "description": "The non-custodial cross-chain swap engine connects Canton’s institutional tokenized-asset markets with liquidity and trading activity across major public blockchains.",
       "source": "Cointelegraph",
@@ -31,6 +62,16 @@
       "article_url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Dover to acquire Indian cryogenic-valve maker Leistung Engineering",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-18T20:31:29+00:00",
+      "article_url": "https://seekingalpha.com/news/4634561-dover-to-acquire-indian-cryogenic-valve-maker-leistung-engineering?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -61,6 +102,16 @@
       "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-august-19-2026/",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "CCC Intelligent Solutions gains on report of Copart takeover talks",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-18T20:05:26+00:00",
+      "article_url": "https://seekingalpha.com/news/4634502-ccc-inteligent-solutions-gains-on-report-of-copart-takeover-talks?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -113,16 +164,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/18/r",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - Reuters",
-      "description": "Tech selloff pulls Wall Street to two-week lows as bond yields climb Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T18:58:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -344,16 +385,6 @@
       ]
     },
     {
-      "headline": "US yields rise amid Iran worries, broader selloff - Reuters",
-      "description": "US yields rise amid Iran worries, broader selloff Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T15:00:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaERYcG1nTmtNcy1ia2hGekZQaVp4X1Y5RHlab3QydTVDV2tfSVZmQnctVC1iaWFmZ2xJRmN6U3pzNk1wdUx1VlpQWmF6WTZsdmtfdmF3SmpGUWYzMzluM3JEVVBVTmZXU2NfMG9lcjRzUktxWEZNZDZxbTE1Q2FkVmd4Mmd3ekpxeHY3RWtpRC14QmV0SktSNA?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Millennials and Gen Z are landing fast-growing, high-paying AI jobs, according to LinkedIn study",
       "description": "Young workers are holding their own in the AI job market, according to new research from LinkedIn.",
       "source": "CNBC",
@@ -443,16 +474,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3347043/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T14:18:53+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1312,6 +1333,16 @@
       ]
     },
     {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T00:39:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Erdogan urges Trump to pursue talks with Iran, offers support - Reuters",
       "description": "Erdogan urges Trump to pursue talks with Iran, offers support Reuters",
       "source": "Reuters",
@@ -1959,16 +1990,6 @@
       ]
     },
     {
-      "headline": "Volaris Group Announces the Acquisition of Alertacall, UK-based Provider of Tenant Engagement Technology for Social Housing",
-      "description": "TORONTO, Aug. 17, 2026 (GLOBE NEWSWIRE) -- Volaris Group today announced the acquisition of Alertacall, a UK-based provider of customer engagement and communications technology for the social housing and retirement living sectors. Alertacall delivers a purpose-built combination of Software as a Serv",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3346038/0/en/volaris-group-announces-the-acquisition-of-alertacall-uk-based-provider-of-tenant-engagement-technology-for-social-housing.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
       "description": "",
       "source": "CoinDesk",
@@ -1977,16 +1998,6 @@
       "asset_tags": [
         "commodities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
-      "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T11:57:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2038,16 +2049,6 @@
       "article_url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T11:28:41+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
