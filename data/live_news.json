@@ -1,18 +1,78 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T05:49:18.923492+00:00",
+    "last_updated": "2026-08-18T06:18:55.021613+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 39,
-      "forex": 15,
+      "forex": 17,
+      "general": 109,
+      "crypto": 37,
       "equities": 31,
       "commodities": 14,
-      "macro": 25,
-      "general": 108
+      "macro": 24
     }
   },
   "articles": [
+    {
+      "headline": "Virtualware signe un accord en vue de l'acquisition de la société britannique Virtalis",
+      "description": "L'opération porte sur 100 % de Virtalis Holding et donne naissance à un groupe affichant un chiffre d'affaires de 10 millions d'euros et un EBITDA de 2,5 millions d'euros.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T05:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346578/0/fr/virtualware-signe-un-accord-en-vue-de-l-acquisition-de-la-soci%C3%A9t%C3%A9-britannique-virtalis.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Virtualware firma un acuerdo para adquirir la compañía británica Virtalis",
+      "description": "La operación abarca el 100% de Virtalis Holding y da lugar a un grupo con 10 millones de euros de facturación y 2,5 millones de EBITDA.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T05:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346578/0/es/virtualware-firma-un-acuerdo-para-adquirir-la-compa%C3%B1%C3%ADa-brit%C3%A1nica-virtalis.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Virtualware signs agreement to acquire British company Virtalis",
+      "description": "Virtualware has signed an agreement to acquire 100% of Virtalis Holding, a Manchester-based virtual reality and RT3D visualization software company",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T05:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346578/0/en/virtualware-signs-agreement-to-acquire-british-company-virtalis.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Google wins $10M bid for Spirit Airlines’ business data to improve AI models - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-18T05:35:47+00:00",
+      "article_url": "https://seekingalpha.com/news/4634165-google-wins-10m-bid-for-spirit-airlines-business-data-to-improve-ai-models---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T05:34:32+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T05:18:18+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
       "description": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
@@ -21,6 +81,16 @@
       "article_url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' - Reuters",
+      "description": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T04:37:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -79,8 +149,18 @@
       ]
     },
     {
-      "headline": "Indian shares open lower as oil tops $91, US-Iran ceasefire expires - Reuters",
-      "description": "Indian shares open lower as oil tops $91, US-Iran ceasefire expires Reuters",
+      "headline": "Hormuz crossings rise slightly from weekend, remain in single digits, data shows - Reuters",
+      "description": "Hormuz crossings rise slightly from weekend, remain in single digits, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T03:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmFuNHJUd0NQNEY5WUNVLWlIUnZwb2F5VVJxZkpiX1hCRjRqRk44UjRkTjE0STF4aUlqRkVNTElObWJpVmJJQkZnR0V4RzllVko3bHJCTDM3VU9yQTdxd1picWtid0FaRkJmcEQzTzBpaEdjenlpc0Fnd0xDdGE1Z0FYVENRVjlEb3hUbFVCUVJ3VG9SVTFwSEVabWRXT0ZGdml1R2Yya3NZWlBGV2xVT1JXRDVnR0FpSVhLVERkb2JqQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Indian shares dip as oil tops $91, US-Iran ceasefire expires - Reuters",
+      "description": "Indian shares dip as oil tops $91, US-Iran ceasefire expires Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T02:21:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBR0dqOUx3OEJLUy1ZbDhBWFo2S2M1STJjYXk5cUlNZW1MTFlLdkhDc3FNOEhBYjVabjF3SE5QUE5ERnBPQWw1dTVLb0V2WDc5bDM4MURRc1FSVWJfMnFIT0doSDFMZHV1bTQxbU9tX3BrenFsdUhHSDBSQ2NnVll5OFBVTUN5M0dhS2psTlQ3MXIzSWptYm5OM0RrWWlpU0h2b2VKUUxkaEdqT2Fyc2VwVFA?oc=5",
@@ -89,8 +169,8 @@
       ]
     },
     {
-      "headline": "Dollar feeble as rate hike bets dwindle, Iran war worries grow - Reuters",
-      "description": "Dollar feeble as rate hike bets dwindle, Iran war worries grow Reuters",
+      "headline": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds - Reuters",
+      "description": "Dollar feeble as rate hike bets dwindle, Iran war worries jolt bonds Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:51:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclBwalB5bkFIQVRLaXc3bHdrSFEteXF1NllCaTVjU08zRnlNckhhSzlvT3lOQ1FpNTZhQzh1VFVBVjJzaVc3Wkd4WXhVcURZV1BtUGttNEdRUS1RNkxQYU1jNHptUGgtMEhaVGNQdkRLTVl4bnNTeDJHMG9pYkV0dld0OXVDT0ZERHV1eGM0WGw1VVlEeFVIWElYNFlCRUtBd1ItU2tCcXNheWs?oc=5",
@@ -1961,86 +2041,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-15T15:49:27+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-15T15:21:15+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-15T15:12:29+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Israeli strike kills seven in south Lebanon, state news reports​ - Reuters",
-      "description": "Israeli strike kills seven in south Lebanon, state news reports​ Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T14:43:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEtfNkx3SnBiVWQ4b2g4MTFYRjVKOFVnNWFzcjJWUUJFWDRaWHo0YzRYTXdTdXdJUjNLZk5rNC1WTEJSbGNVTWFpRTF1Rko1OVdrUmt1NlpCNlpJbU5NQ0dPVEFxQjdrRUtzQUF4Q19NQThGeGdhTFQ2LWltSEcxX01DYUZTQUNNd2dnd1c5UV82Unp2U0tubzZHeElSblhxbXVnOVdENUFXbmUwdDNiYVl0Yw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-      "description": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
-      "source": "CNBC",
-      "publication_date": "2026-08-15T14:22:54+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Reliance, Rolls-Royce team up for India’s advanced fighter jet engine programme",
-      "description": "The proposed collaboration comes as India seeks greater self-reliance in defence technology and prepares to develop next-generation twin-engine combat aircraft",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-15T14:20:09+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-14/reliance-taps-rolls-royce-to-make-fighter-jet-engines-in-india",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
-      "description": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T14:07:06+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-15T14:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
-      "description": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-15T13:30:00+00:00",
-      "article_url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
       ]
