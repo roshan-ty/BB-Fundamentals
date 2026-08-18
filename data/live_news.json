@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T06:18:55.021613+00:00",
+    "last_updated": "2026-08-18T07:10:26.197491+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 17,
       "general": 109,
-      "crypto": 37,
-      "equities": 31,
-      "commodities": 14,
-      "macro": 24
+      "macro": 25,
+      "crypto": 36,
+      "forex": 17,
+      "equities": 30,
+      "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "CesiumAstro Acquires Jariet Technologies to Advance Vertically Integrated Communications and ISR from Silicon to Missions",
+      "description": "AUSTIN, Texas--(BUSINESS WIRE)--CesiumAstro Inc., a global leader in advanced space communications and intelligence, surveillance, and reconnaissance (ISR) systems, has announced the acquisition of Jariet Technologies, a leading mmWave RF System-on-Chip (RF-SoC) semiconductor company specializing in",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T06:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260817127965/en/CesiumAstro-Acquires-Jariet-Technologies-to-Advance-Vertically-Integrated-Communications-and-ISR-from-Silicon-to-Missions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
+      "description": "The yield on the 30-year U.S. Treasury has surged to its highest level in 19 years, and some strategists see scope for the move to go further.",
+      "source": "CNBC",
+      "publication_date": "2026-08-18T06:11:52+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "The bitcoin price level where leveraged bulls could get whacked",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T05:55:43+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Virtualware signe un accord en vue de l'acquisition de la société britannique Virtalis",
       "description": "L'opération porte sur 100 % de Virtalis Holding et donne naissance à un groupe affichant un chiffre d'affaires de 10 millions d'euros et un EBITDA de 2,5 millions d'euros.",
@@ -199,16 +229,6 @@
       ]
     },
     {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T01:14:24+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters",
       "description": "Oil climbs as fading US-Iran peace hopes raise supply risks Reuters",
       "source": "Reuters",
@@ -219,13 +239,24 @@
       ]
     },
     {
-      "headline": "CesiumAstro Acquires Jariet Technologies to Advance Vertically Integrated Communications and ISR from Silicon to Missions",
-      "description": "AUSTIN, Texas--(BUSINESS WIRE)--CesiumAstro Inc., a global leader in advanced space communications and intelligence, surveillance, and reconnaissance (ISR) systems, has announced the acquisition of Jariet Technologies, a leading mmWave RF System-on-Chip (RF-SoC) semiconductor company specializing in",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-18T01:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260817212221/en/CesiumAstro-Acquires-Jariet-Technologies-to-Advance-Vertically-Integrated-Communications-and-ISR-from-Silicon-to-Missions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "Gold slips on firmer Treasury yields, oil prices; Fed minutes in focus - Reuters",
+      "description": "Gold slips on firmer Treasury yields, oil prices; Fed minutes in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T01:05:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
       "asset_tags": [
-        "general"
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
+      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T00:21:07+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -2012,37 +2043,6 @@
       "asset_tags": [
         "forex",
         "equities"
-      ]
-    },
-    {
-      "headline": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-15T16:00:00+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-15T15:56:05+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices - Reuters",
-      "description": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T15:49:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
