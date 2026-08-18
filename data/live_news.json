@@ -1,28 +1,59 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T01:03:35.782841+00:00",
+    "last_updated": "2026-08-18T02:20:55.892351+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 34,
-      "crypto": 43,
+      "forex": 11,
+      "equities": 33,
+      "commodities": 12,
       "macro": 26,
-      "general": 106,
-      "commodities": 11,
-      "forex": 10
+      "general": 107,
+      "crypto": 42
     }
   },
   "articles": [
     {
-      "headline": "China unveils nine-department plan to boost county-level consumption",
-      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The scope of the initiative, spanning market infrastructure, retail licensing, brand penetration, and service parity between urban and rural areas, signals Beijing continuing to lean on domestic demand policy to offset the ",
+      "headline": "ING says heavy tone in Treasuries has further to run as truce lapses",
+      "description": "<p class=\"font-claude-response-body break-words whitespace-normal\" dir=\"ltr\">The headline foreign holdings decline, Japan, the UK and China all trimming positions, sits alongside a messier picture on the transaction side, where June showed a modest $6.8 billion net inflow on one measure even as ING'",
       "source": "Forexlive",
-      "publication_date": "2026-08-18T00:39:56+00:00",
-      "article_url": "https://investinglive.com/news/china-unveils-nine-department-plan-to-boost-county-level-consumption/",
+      "publication_date": "2026-08-18T01:49:58+00:00",
+      "article_url": "https://investinglive.com/news/ing-says-heavy-tone-in-treasuries-has-further-to-run-as-truce-lapses/",
       "asset_tags": [
+        "forex",
         "equities",
-        "crypto",
+        "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Pictures of the Day | August 17, 2026 - reuters.com",
+      "description": "Pictures of the Day | August 17, 2026 reuters.com",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T01:47:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uVlZfdV8wakFJdkFCV0hYR1BmWWlvTF9vaDNpSlUyVE9uWWtyWlZ5dzltemVWQmdkeXp6YXVIcDE0LXJoeTNaTlBPbTg4RHl4RmdoUTNWb0xHUG1CSGRrV2RQNkY0SmhHaHJ5cldpYmxnS2YtUVVITFVjVHk?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+      "description": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T01:28:37+00:00",
+      "article_url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "CesiumAstro Acquires Jariet Technologies to Advance Vertically Integrated Communications and ISR from Silicon to Missions",
+      "description": "AUSTIN, Texas--(BUSINESS WIRE)--CesiumAstro Inc., a global leader in advanced space communications and intelligence, surveillance, and reconnaissance (ISR) systems, has announced the acquisition of Jariet Technologies, a leading mmWave RF System-on-Chip (RF-SoC) semiconductor company specializing in",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T01:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260817212221/en/CesiumAstro-Acquires-Jariet-Technologies-to-Advance-Vertically-Integrated-Communications-and-ISR-from-Silicon-to-Missions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -106,8 +137,8 @@
       ]
     },
     {
-      "headline": "A Palestinian American's journey to his West Bank home under settler siege - reuters.com",
-      "description": "A Palestinian American's journey to his West Bank home under settler siege reuters.com",
+      "headline": "A Palestinian American's journey to his West Bank home under settler siege - Reuters",
+      "description": "A Palestinian American's journey to his West Bank home under settler siege Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T21:03:46+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemVlSmx3ZkppbzZ6WE9oMzdjekdXOEIzUTBldm5NbG1DY3ZaUkUwSjlwdHFFekRjRDl6elZGdlUxQ1F5YmxTUXlDQTM0RHhKbGNMRlJxN3VsWHI2cGZ6Yjc2V2NaenFxRENiS003SmVYZlhReXEzYW9reUd6UWhyQnJZT1RwZFZyUk1rUFVMTk1ZZVR0MXJxdG1TREs5Sy0xOFdYeFFTemVqejJsN1RmQVZEbGlZY3A4NzJSZW5EWQ?oc=5",
@@ -123,16 +154,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEdqbXFtRnNWUFI5Z2k5QkEtMEUwbnR3emVxRTUyMS1IS0pXSWZZdC03aVpWNTFtSzlfN0kzQ3VCUVRpSzZQVGlpeFAyeVJKVGlBVlJicHpPcnBWSkJPcUpIazRPMkJabGJHMl9iRTRMUFRwZ0kxeVV3Sk16Mkx4ei1faDM2S2VDUXI0VHB0R1hyQVFGdU5IU3Nzby1xX2RFaVV4dmtzdmhhSGdKcjRYdDJlYlNLMmI4bGFqcDdZa0x4V0ZfQ3RN?oc=5",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "DocGo Announces Second Quarter 2026 Results",
-      "description": "NEW YORK--(BUSINESS WIRE)--DocGo Inc. (Nasdaq: DCGO) (“DocGo” or the “Company”), a leading provider of technology-enabled mobile health and medical transportation services, today announced financial and operating results for the second quarter ended June 30, 2026. Second Quarter 2026 Financial Highl",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-17T20:20:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260817817897/en/DocGo-Announces-Second-Quarter-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -506,16 +527,6 @@
       "article_url": "https://www.cnbc.com/2026/08/17/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Pictures of the Day | August 17, 2026 - reuters.com",
-      "description": "Pictures of the Day | August 17, 2026 reuters.com",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T13:28:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uVlZfdV8wakFJdkFCV0hYR1BmWWlvTF9vaDNpSlUyVE9uWWtyWlZ5dzltemVWQmdkeXp6YXVIcDE0LXJoeTNaTlBPbTg4RHl4RmdoUTNWb0xHUG1CSGRrV2RQNkY0SmhHaHJ5cldpYmxnS2YtUVVITFVjVHk?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1294,8 +1305,8 @@
       ]
     },
     {
-      "headline": "Japan Q2 growth misses forecasts on weaker spending, investment - reuters.com",
-      "description": "Japan Q2 growth misses forecasts on weaker spending, investment reuters.com",
+      "headline": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
+      "description": "Japan Q2 growth misses forecasts on weaker spending, investment Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-17T00:19:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
@@ -1579,10 +1590,10 @@
       ]
     },
     {
-      "headline": "Suspected Russian drone shot down in Romanian airspace - Reuters",
-      "description": "Suspected Russian drone shot down in Romanian airspace Reuters",
+      "headline": "Suspected Russian drone shot down in Romanian airspace - reuters.com",
+      "description": "Suspected Russian drone shot down in Romanian airspace reuters.com",
       "source": "Reuters",
-      "publication_date": "2026-08-16T03:40:00+00:00",
+      "publication_date": "2026-08-16T09:41:03+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
       "asset_tags": [
         "general"
@@ -1781,8 +1792,8 @@
       ]
     },
     {
-      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - reuters.com",
-      "description": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna reuters.com",
+      "headline": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna - Reuters",
+      "description": "PODCAST: Indonesia quake, Jason Arday dies, gas prices and Mount Etna Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-15T14:07:06+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnF1MHYyczd3ZFU2MEswRTgyUWhkZnZuTlBNNk1CdXFteXRrbE5yZ1hpNWp4V25famJCczJYdURXU0V1Vy1GRm16V2g0UmY2M2Nnc2l2dTZ2N2pCUjZFeUVLV014dGYtR1lkZTlhRVY5Sk5tbUpQN0YzNHBVR0ZkaTJOS1BPVUZDRlctYm5Idk5UUnZLZ29MXzlR?oc=5",
@@ -2031,16 +2042,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Hanwha, Fincantieri shares rise after Trump opens Navy shipbuilding to foreign yards - Reuters",
-      "description": "Hanwha, Fincantieri shares rise after Trump opens Navy shipbuilding to foreign yards Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-14T20:41:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNmZJY05rcUQ5ay1lOEZ1aFVrYU1CWmhicjZvR29ZeTUwRzR1bUZHZS1HNGh4WlNLdzh2aHBoNU11ekllNnJUeExVSU1LRElXQVJoaWU3TzNaOGpxT3hodF95WV81WThZelZSTTBKenRJNDRmVmdFQm0xTW9nekttZi1DcjhiaEE2QXJzTGhSMlhHNmY5MUFUSVk2YUlXbkhleU1oWjR2Y05KZ3FocmM2MU5uV1RQWHk2RmtLZnhaMnl3ZVh3VUdlZkRYSkxuSWFWNFdvRTZlQm5OVmM?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
