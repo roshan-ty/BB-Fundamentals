@@ -1,18 +1,52 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T11:12:59.826596+00:00",
+    "last_updated": "2026-08-18T11:45:12.197143+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 20,
+      "equities": 31,
+      "macro": 29,
+      "general": 107,
       "crypto": 38,
-      "macro": 28,
-      "general": 108,
-      "equities": 30,
-      "commodities": 14,
-      "forex": 19
+      "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "investingLive European FX news wrap: Markets remain in limbo as US-Iran stalemate extends",
+      "description": "<ul><li><a href=\"https://investinglive.com/news/qatar-says-iran-oman-hormuz-agreement-could-clear-path-for-broader-us-iran-talks\" rel=\"follow\">Qatar says Iran-Oman Hormuz agreement could clear path for broader US-Iran talks</a></li><li><a href=\"https://investinglive.com/central-banks/ecb-policymaker",
+      "source": "Forexlive",
+      "publication_date": "2026-08-18T11:22:35+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-european-fx-news-wrap-markets-remain-in-limbo-as-us-iran-stalemate-extends/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Kraken launches US-listed stock trading for EEA customers",
+      "description": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T10:53:21+00:00",
+      "article_url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
+      "description": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T10:44:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
       "description": "",
@@ -63,16 +97,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
-      "description": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T09:45:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -363,7 +387,7 @@
       "headline": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' - Reuters",
       "description": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-18T04:42:12+00:00",
+      "publication_date": "2026-08-18T04:37:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5",
       "asset_tags": [
         "general"
@@ -570,19 +594,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemVlSmx3ZkppbzZ6WE9oMzdjekdXOEIzUTBldm5NbG1DY3ZaUkUwSjlwdHFFekRjRDl6elZGdlUxQ1F5YmxTUXlDQTM0RHhKbGNMRlJxN3VsWHI2cGZ6Yjc2V2NaenFxRENiS003SmVYZlhReXEzYW9reUd6UWhyQnJZT1RwZFZyUk1rUFVMTk1ZZVR0MXJxdG1TREs5Sy0xOFdYeFFTemVqejJsN1RmQVZEbGlZY3A4NzJSZW5EWQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US stock indices closed lower on the day. Declines are led by the S&P/Dow",
-      "description": "<p class=\"isSelectedEnd\">The major U.S. stock indices closed lower, with selling accelerating into the afternoon as rising oil prices and higher Treasury yields weighed on investor sentiment. The declines came after the S&P 500 reached a record high last week, leaving the market vulnerable to some p",
-      "source": "Forexlive",
-      "publication_date": "2026-08-17T20:20:52+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/us-stock-indices-closed-lower-on-the-day-declines-are-led-by-the-s-p-down-with-declines-near-0-50/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -1264,6 +1275,16 @@
       ]
     },
     {
+      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
+      "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-17T11:57:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "China's July oil throughput posts first month-on-month rise since Iran war - Reuters",
       "description": "China's July oil throughput posts first month-on-month rise since Iran war Reuters",
       "source": "Reuters",
@@ -1876,16 +1897,6 @@
       ]
     },
     {
-      "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
-      "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T21:39:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Believe the unbelievable in this market — things can be different this time",
       "description": "Here is what's so amazing: These four unbelievably performing stocks remain the most hated and feared on Wall Street.",
       "source": "CNBC",
@@ -2038,16 +2049,6 @@
       "article_url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Pope calls for an end to West Bank violence against Palestinians - Reuters",
-      "description": "Pope calls for an end to West Bank violence against Palestinians Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T12:23:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGQ4SWdqSHFLZE1qOUNXWDhnLVlQa09TeGtURVpuZC1BWjFPNE1CalBpTU5NM3c2Uy1qSi1mSnlmRjB6UTlab1hMd19Zd2tubTFLNUZoSWZqUWdyN2V3UFZXWlY3c3d6RGlNbGduMjRWMlZ5cDcyU3U4R3VfXzVUZlZ3T3A0TnBHdnZmWHQ2VmxLdmdSVFBBQVdrckZULUFJNEEyc0Q2cko1WmprZVdNeA?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
