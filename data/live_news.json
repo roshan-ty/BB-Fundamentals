@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T16:52:16.794859+00:00",
+    "last_updated": "2026-08-18T17:24:51.351511+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 36,
+      "macro": 26,
+      "equities": 35,
       "crypto": 45,
-      "macro": 25,
-      "general": 102,
-      "forex": 16,
+      "general": 101,
+      "forex": 17,
       "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb - Reuters",
+      "description": "Tech selloff pulls Wall Street to two-week lows as oil and yields climb Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T16:31:13+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Providence Equity Partners to Acquire Majority Stake in CheckedUp, Accelerating the Next Phase of Growth for Leading Specialty Point-of-Care Engagement Platform",
       "description": "NEW YORK & PROVIDENCE, R.I.--(BUSINESS WIRE)--Providence Equity Partners L.L.C. (\"Providence\"), a specialist private equity firm focused on media, communications and education, today announced that it has agreed to acquire a majority stake in CheckedUp, a leading specialty point-of-care education an",
@@ -131,6 +141,16 @@
       ]
     },
     {
+      "headline": "South African rand flat as pressure on currency persists - Reuters",
+      "description": "South African rand flat as pressure on currency persists Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T15:07:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazJZWmZPOTczR2lXTDd1RWpaUnFfSHpnaGkxbTQxM0gyX1FwdFFCWWlXcnVwbWxRaElZQWFrbG95NXpxdzY1cENxTlB2WE9CalFIU1BxS0txajVlSXpmTlVWaXJWR0M0UElYSFhub0ppUFY3WFppNVVYNGJJelR4WFVtSnlOZWxrMXl1M004dmhhcW9NRDJXQVdNZHBpbzhvQzJhR0MxdWV3RXBTSDVoQ0ZIZG1ZTVhuVVNBMw?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "Millennials and Gen Z are landing fast-growing, high-paying AI jobs, according to LinkedIn study",
       "description": "Young workers are holding their own in the AI job market, according to new research from LinkedIn.",
       "source": "CNBC",
@@ -220,17 +240,6 @@
       "article_url": "https://www.cnbc.com/2026/08/18/how-to-educate-your-children-about-custodial-accounts-and-trump-acccounts.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Tech stocks weigh on Wall Street as Iran stalemate lifts oil, yields - Reuters",
-      "description": "Tech stocks weigh on Wall Street as Iran stalemate lifts oil, yields Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T14:04:24+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -1048,18 +1057,19 @@
       ]
     },
     {
-      "headline": "Bonds, stocks jolted as Middle East tensions shatter market calm - Reuters",
-      "description": "Bonds, stocks jolted as Middle East tensions shatter market calm Reuters",
+      "headline": "Stocks slide, yields elevated as Mideast conflict fears grow - Reuters",
+      "description": "Stocks slide, yields elevated as Mideast conflict fears grow Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:16:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
       "asset_tags": [
-        "equities"
+        "equities",
+        "macro"
       ]
     },
     {
-      "headline": "Oil prices at near three-week high as US-Iran peace hopes fade - Reuters",
-      "description": "Oil prices at near three-week high as US-Iran peace hopes fade Reuters",
+      "headline": "Oil rises as US-Iran peace hopes fade - Reuters",
+      "description": "Oil rises as US-Iran peace hopes fade Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:13:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
@@ -1068,8 +1078,8 @@
       ]
     },
     {
-      "headline": "Gold slips as oil, bond yields climb on waning US-Iran peace hopes - Reuters",
-      "description": "Gold slips as oil, bond yields climb on waning US-Iran peace hopes Reuters",
+      "headline": "Gold retreats as bond yields surge to highest levels in decades - Reuters",
+      "description": "Gold retreats as bond yields surge to highest levels in decades Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:05:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
@@ -2038,16 +2048,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
-      "description": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-17T08:15:01+00:00",
-      "article_url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
