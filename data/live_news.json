@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T05:16:57.922815+00:00",
+    "last_updated": "2026-08-18T05:49:18.923492+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 41,
-      "forex": 14,
-      "equities": 32,
-      "commodities": 13,
-      "macro": 24,
-      "general": 107
+      "crypto": 39,
+      "forex": 15,
+      "equities": 31,
+      "commodities": 14,
+      "macro": 25,
+      "general": 108
     }
   },
   "articles": [
+    {
+      "headline": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "description": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T05:12:18+00:00",
+      "article_url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Bitcoin climbs above $64,000 while most majors slip",
       "description": "",
@@ -129,6 +139,16 @@
       ]
     },
     {
+      "headline": "CesiumAstro Acquires Jariet Technologies to Advance Vertically Integrated Communications and ISR from Silicon to Missions",
+      "description": "AUSTIN, Texas--(BUSINESS WIRE)--CesiumAstro Inc., a global leader in advanced space communications and intelligence, surveillance, and reconnaissance (ISR) systems, has announced the acquisition of Jariet Technologies, a leading mmWave RF System-on-Chip (RF-SoC) semiconductor company specializing in",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T01:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260817212221/en/CesiumAstro-Acquires-Jariet-Technologies-to-Advance-Vertically-Integrated-Communications-and-ISR-from-Silicon-to-Missions/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Erdogan urges Trump to pursue talks with Iran, offers support - Reuters",
       "description": "Erdogan urges Trump to pursue talks with Iran, offers support Reuters",
       "source": "Reuters",
@@ -206,16 +226,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEdqbXFtRnNWUFI5Z2k5QkEtMEUwbnR3emVxRTUyMS1IS0pXSWZZdC03aVpWNTFtSzlfN0kzQ3VCUVRpSzZQVGlpeFAyeVJKVGlBVlJicHpPcnBWSkJPcUpIazRPMkJabGJHMl9iRTRMUFRwZ0kxeVV3Sk16Mkx4ei1faDM2S2VDUXI0VHB0R1hyQVFGdU5IU3Nzby1xX2RFaVV4dmtzdmhhSGdKcjRYdDJlYlNLMmI4bGFqcDdZa0x4V0ZfQ3RN?oc=5",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "DocGo Announces Second Quarter 2026 Results",
-      "description": "NEW YORK--(BUSINESS WIRE)--DocGo Inc. (Nasdaq: DCGO) (“DocGo” or the “Company”), a leading provider of technology-enabled mobile health and medical transportation services, today announced financial and operating results for the second quarter ended June 30, 2026. Second Quarter 2026 Financial Highl",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-17T20:20:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260817817897/en/DocGo-Announces-Second-Quarter-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1373,6 +1383,17 @@
       ]
     },
     {
+      "headline": "Dollar weakens as traders pare Fed rate-hike bets: Markets Wrap",
+      "description": "Pressure on the dollar increased after US government data on Friday showed retail sales fell in July by the most in more than a year as consumers pulled back on purchases",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-17T05:20:41+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
       "headline": "Domestic refiners told to boost LPG output as Hormuz uncertainty lingers",
       "description": "India urges refiners to increase LPG production amid Hormuz uncertainty, aiming to secure supplies for the festival season.",
       "source": "Bloomberg",
@@ -1528,6 +1549,16 @@
       ]
     },
     {
+      "headline": "Stripe is said to agree to buy OpenRouter for more than $7B",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-16T21:51:31+00:00",
+      "article_url": "https://seekingalpha.com/news/4633616-stripe-is-said-to-agree-to-buy-openrouter-for-more-than-7b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
       "description": "Trump orders Pentagon to cut back military exercises with South Korea Reuters",
       "source": "Reuters",
@@ -1585,6 +1616,16 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Charlie Ergen’s CONX to acquire control of MobileX in $200M deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-16T16:58:37+00:00",
+      "article_url": "https://seekingalpha.com/news/4633609-charlie-ergen-s-conx-to-acquire-control-of-mobilex-in-200m-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1823,6 +1864,16 @@
       ]
     },
     {
+      "headline": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-15T19:15:56+00:00",
+      "article_url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters",
       "description": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ Reuters",
       "source": "Reuters",
@@ -1850,6 +1901,16 @@
       "article_url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "China to lift travel ban on Manus founders as Meta unwinds buyout deal: FT",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-15T17:23:09+00:00",
+      "article_url": "https://seekingalpha.com/news/4633587-manus-founders-return-china-meta-unwinds-buyout-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1982,66 +2043,6 @@
       "article_url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-      "description": "With November's midterms fast approaching, cannabis reform is an issue. It's popular with voters, but its power to tilt elections remains uncertain.",
-      "source": "CNBC",
-      "publication_date": "2026-08-15T13:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-15T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
-      "description": "Klippsten said Bitcoin could bottom about a year after its previous peak and argued that crypto’s best outcome is to become part of TradFi.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-15T12:57:58+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-15T12:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Kalshi ordered to stop broad range of prediction markets in Washington",
-      "description": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-15T10:44:52+00:00",
-      "article_url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Alibaba AI models hit 3 billion downloads, passing Meta, Google",
-      "description": "Open models can be downloaded, customised and used as building blocks for new AI products; that has made download and derivative-model figures one measure of influence in the US-China AI race",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-15T10:02:05+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
