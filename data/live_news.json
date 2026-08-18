@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T08:34:03.516342+00:00",
+    "last_updated": "2026-08-18T09:07:48.250168+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 17,
+      "general": 108,
+      "forex": 19,
       "equities": 28,
-      "crypto": 37,
+      "crypto": 38,
       "macro": 27,
-      "general": 109,
-      "commodities": 14
+      "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "China adds 8 banks to digital yuan network as operator count hits 30",
+      "description": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T08:48:51+00:00",
+      "article_url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "South Korea moves to block Polymarket over gambling concerns",
+      "description": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-18T08:39:57+00:00",
+      "article_url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Rotork plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T08:38:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346624/0/en/form-8-3-rotork-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "UK labour market shows further signs of cooling in June",
       "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">Just a little catch up on things as we had some technical issues for a couple of hours. Apologies on that.</p><p class=\"text-align-justify\" style=\"text-align: justify;\">Earlier at the start of the session, we had the UK labour market report ",
@@ -22,6 +52,37 @@
       "asset_tags": [
         "forex",
         "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T08:21:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346618/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - AEW UK REIT Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T08:17:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346617/0/en/form-8-5-ept-ri-aew-uk-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T08:16:11+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+      "asset_tags": [
         "crypto",
         "macro"
       ]
@@ -37,6 +98,16 @@
       ]
     },
     {
+      "headline": "Midas Atlantic Partners, in Partnership With The Najafi Companies, to Acquire Panasonic Industry’s Power and Battery Control Solutions Business in Germany and Slovakia",
+      "description": "LÜNEBURG, Germany--(BUSINESS WIRE)-- #carveout--Midas Atlantic Partners (“Midas Atlantic”), in partnership with The Najafi Companies, has signed an agreement to acquire the European Power and Battery Control Solutions business (the “Business”) of Panasonic Industry Co., Ltd. (“Panasonic Industry”), ",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T08:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260818849481/en/Midas-Atlantic-Partners-in-Partnership-With-The-Najafi-Companies-to-Acquire-Panasonic-Industry%E2%80%99s-Power-and-Battery-Control-Solutions-Business-in-Germany-and-Slovakia/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "US 30-year yields hit highest level since 2007 as war, oil worries fester - Reuters",
       "description": "US 30-year yields hit highest level since 2007 as war, oil worries fester Reuters",
       "source": "Reuters",
@@ -44,16 +115,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdzFVRER2LTY3b1FZNkxaZ1NXeVJKVEUxRVB0bEpFWnRyVE5rLTZaV0EtaFVRaUhHUjNpRmtMUXgzR0J1VFFPV2ZOMTVkV0VRNW45dGp4TGt0N1ZORVJwUUtrV1FrNnZvVzRSVkFUcURwb0lvcmdUWlRfQmJCeGxva3lmOVZlbDhONVJ0WDVmQnNaMlp6WHoteHhoOTBaLVN5V2ZBTUo5bmZ1OFF3QUdVZkU2X0Y?oc=5",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "THL Partners opkøber danske Queue-it af GRO og investerer i næste fase af den spændende vækstrejse",
-      "description": "KØBENHAVN og BOSTON--(BUSINESS WIRE)--Queue-it, global leverandør af løsninger til orkestrering af onlinetrafik, annoncerede i dag, at virksomheden har indgået en endelig aftale om en majoritetsinvestering fra THL Partners (\"THL\"), et førende investeringsselskab med fokus på mellemstore vækstvirksom",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-18T07:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260818296337/da/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -259,18 +320,18 @@
       ]
     },
     {
-      "headline": "Bond yields rise, oil extends gains as US-Iran ceasefire expires - Reuters",
-      "description": "Bond yields rise, oil extends gains as US-Iran ceasefire expires Reuters",
+      "headline": "Bonds, stocks jolted as Middle East tensions shatter market calm - Reuters",
+      "description": "Bonds, stocks jolted as Middle East tensions shatter market calm Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:16:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IRXVLRUlydV9LUjVfX3hOQ0hKc2d0aE5MS0hqLXBrbTg2QXNhcEc2MnlhOU15dkxXSDV4V2hTM2lCR19Gc3BUWUpJYk0za3VXTTFTYTlDdXk3cjhoa19SdFJxcWk3N01rSGkwSmF3MUlMcm9BU09ZMW5QNA?oc=5",
       "asset_tags": [
-        "macro"
+        "equities"
       ]
     },
     {
-      "headline": "Oil climbs as fading US-Iran peace hopes raise supply risks - Reuters",
-      "description": "Oil climbs as fading US-Iran peace hopes raise supply risks Reuters",
+      "headline": "Oil prices at near three-week high as US-Iran peace hopes fade - Reuters",
+      "description": "Oil prices at near three-week high as US-Iran peace hopes fade Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:13:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWFFMnZIN09zQ01kSjJtOWZDTzJHTk1xazNXM09aamwwLTBjeVRhc3VodGhQNWI4UlFaUFdEaFhNNDhFRzR6emlja2xYSTRhaHdFYzQwcnBWZnpkckpXSU5qUkFWZ0UyS0xzZ0lFbHdQRTFkWHJYY1JLM3gydXlKTllCLUFkclJiTEFTcFNOMTdEME95ekVaUHRtZmgwTmVDSWQzeHVodGtGNHkx?oc=5",
@@ -1393,23 +1454,13 @@
       ]
     },
     {
-      "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T08:42:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345866/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+      "headline": "Yes Bank makes bond market comeback years after AT1 write-off",
+      "description": "The bank plans to sell a benchmark-sized three-year US currency note and is holding calls with fixed-income investors starting Monday",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-17T08:44:43+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/yes-bank-makes-bond-market-comeback-years-after-at1-write-off",
       "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - AEW UK REIT plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T08:39:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345865/0/en/form-8-5-ept-ri-aew-uk-reit-plc.html",
-      "asset_tags": [
-        "general"
+        "forex"
       ]
     },
     {
@@ -1991,56 +2042,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-15T22:16:49+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEFoM0Z1VnBsRUlGMUtsU3pXUWd6WUVvVW84ak5jbVpIZ25ld1VfR3RITUJ4MEx1ZTRJaGdXSDRadGVRNThPMzFlOVNsNWo4QzV2eTMzVmoxb1RDSE5QNXZkQ1d3bl9oSk85SUFxNEgxU1N6ME9UWHJ6dENMZmk1LWhacTJreTc4VlgtaGRxaFVQbFltR2UwMVN3Z1V3WUJLeHdDNy0wU0NldXRLaVA0NVY5WTZLQ1NOQjJQQWFHSjMtMk9icXc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Democrats pick South Carolina as first 2028 primary state​​ - Reuters",
-      "description": "Democrats pick South Carolina as first 2028 primary state​​ Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T20:07:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcUdUWnZta0dqWnVmdERxVEg1ay1leG1IZWQyUVJ2U1Y2cVJSNjg2X1BZWHRBOV9ZemJnT1pVeGpoRUt4ekFaTER1NUhVcEtObFd2X1doR2x2SnpGaDNGTEFOaUNDdUpZOVJPQ1Z5Q1d0YkQ3YlE0NGl4a0xrZ2VrdjBOdlpfdnN3aEsxZHJCcFd5M1lOZHRmWnVrd0NiaUYt?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Qatar denies detaining Iranian pilots, says it found remains of one - Reuters",
-      "description": "Qatar denies detaining Iranian pilots, says it found remains of one Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T19:28:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-      "description": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-15T19:27:29+00:00",
-      "article_url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Key deals this week: Workday, Diversified Energy, Aurora Cannabis, and more",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-15T19:15:56+00:00",
-      "article_url": "https://seekingalpha.com/news/4633577-key-deals-this-week-workday-diversified-energy-aurora-cannabis-and-more?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ - Reuters",
-      "description": "Lebanon says Israeli strikes in south of the country kill at least 11​​​ Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-15T18:33:50+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXM0UF9hbGcwOHNUVUZ1Zms5RDF1UWhGVWVyRHRSbm5zdXpSSmxoMGhsLWNhUE90YkVCU2tESnBPTUFURDFFTkpzUFhRRElKdkJNQmpZV0RhOEhLS0FhSVFNUkd0dDhON0dicVl4OTc0X2RzN1gxVlJMbzJqMlNpRTl0QlVtdWp4eHQ3ZklZRXZsU205NG1Bdl9jXzhTa0xDcExkLUVQY0tUcXBpOWlHMk5n?oc=5",
       "asset_tags": [
         "general"
       ]
