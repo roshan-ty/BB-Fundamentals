@@ -1,18 +1,80 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-18T10:50:21.455412+00:00",
+    "last_updated": "2026-08-18T11:12:59.826596+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "crypto": 38,
-      "equities": 28,
+      "macro": 28,
       "general": 108,
-      "commodities": 13,
-      "macro": 27,
-      "forex": 18
+      "equities": 30,
+      "commodities": 14,
+      "forex": 19
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T10:38:56+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Agellus Capital’s Bluejack Fire & Life Safety Completes Acquisition of Phillips Fire & Life Safety, Expanding Its Presence in Houston",
+      "description": "CLAYTON, Mo.--(BUSINESS WIRE)--Agellus Capital’s Bluejack Fire & Life Safety Completes Acquisition of Phillips Fire & Life Safety, Expanding Its Presence in Houston",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-18T10:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260818539703/en/Agellus-Capital%E2%80%99s-Bluejack-Fire-Life-Safety-Completes-Acquisition-of-Phillips-Fire-Life-Safety-Expanding-Its-Presence-in-Houston/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T10:10:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346662/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Man Group PLC : Form 8.3 - Rotork plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-18T10:08:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346660/0/en/man-group-plc-form-8-3-rotork-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-18T10:01:23+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
+      "description": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T09:45:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
       "description": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
@@ -39,16 +101,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-18T09:20:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346639/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "CesiumAstro社、Jariet Technologiesを買収――半導体からミッションまで垂直統合した通信・ISRソリューションの実現へ",
-      "description": "米テキサス州オースティン--(BUSINESS WIRE)--（ビジネスワイヤ） -- 先進的な宇宙通信および情報収集・監視・偵察（ISR）システムのグローバルリーダーである CesiumAstro Inc. （以下、CesiumAstro）は、SATCOM（衛星通信）、電子戦（EW）、レーダーシステム向けの統合ソリューションを手がけるミリ波RFシステムオンチップ（RF-SoC）半導体の大手企業、 Jariet Technologies （以下、Jariet）の買収を発表しました。 本買収は、業界で最も垂直統合された衛星通信企業を目指すCesiumAstroの戦略を大きく前進させるものです。半",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-18T09:19:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260817780046/ja/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -92,16 +144,6 @@
       "article_url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Germany August ZEW survey current conditions -61.1 vs -69.5 expected",
-      "description": "<ul><li>August current conmditions -61.1 vs -69.5 expected</li><li>Prior -77.6</li><li>August economic sentiment 34.2 vs 30.0 expected</li><li>Prior 26.3</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">A good set of positives there as German investor morale is seen improving furt",
-      "source": "Forexlive",
-      "publication_date": "2026-08-18T09:01:02+00:00",
-      "article_url": "https://investinglive.com/news/germany-august-zew-survey-current-conditions-61-1-vs-69-5-expected/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -321,7 +363,7 @@
       "headline": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' - Reuters",
       "description": "Morning Bid: Bond investors in revolt as Iran threatens to go 'fully offensive' Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-18T04:37:00+00:00",
+      "publication_date": "2026-08-18T04:42:12+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TkUySkxRRHMtX3JyMWRJOUFZbjZwMkFiTG1wRlctaWNpZXJXOFppdHlPTjBTT2ptNHJqOFRTRjdDOWUtNzZfY0tQVllfaFlxd3dJRWxncnFrcGdLR0xQVFVmLS1tUmFLYklQbzc3UF9wVmltRkdrcUpUbGNYeVU?oc=5",
       "asset_tags": [
         "general"
@@ -450,8 +492,8 @@
       ]
     },
     {
-      "headline": "Gold slips on firmer Treasury yields, oil prices; Fed minutes in focus - Reuters",
-      "description": "Gold slips on firmer Treasury yields, oil prices; Fed minutes in focus Reuters",
+      "headline": "Gold slips as oil, bond yields climb on waning US-Iran peace hopes - Reuters",
+      "description": "Gold slips as oil, bond yields climb on waning US-Iran peace hopes Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-18T01:05:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
@@ -528,6 +570,19 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemVlSmx3ZkppbzZ6WE9oMzdjekdXOEIzUTBldm5NbG1DY3ZaUkUwSjlwdHFFekRjRDl6elZGdlUxQ1F5YmxTUXlDQTM0RHhKbGNMRlJxN3VsWHI2cGZ6Yjc2V2NaenFxRENiS003SmVYZlhReXEzYW9reUd6UWhyQnJZT1RwZFZyUk1rUFVMTk1ZZVR0MXJxdG1TREs5Sy0xOFdYeFFTemVqejJsN1RmQVZEbGlZY3A4NzJSZW5EWQ?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "US stock indices closed lower on the day. Declines are led by the S&P/Dow",
+      "description": "<p class=\"isSelectedEnd\">The major U.S. stock indices closed lower, with selling accelerating into the afternoon as rising oil prices and higher Treasury yields weighed on investor sentiment. The declines came after the S&P 500 reached a record high last week, leaving the market vulnerable to some p",
+      "source": "Forexlive",
+      "publication_date": "2026-08-17T20:20:52+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/us-stock-indices-closed-lower-on-the-day-declines-are-led-by-the-s-p-down-with-declines-near-0-50/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
       ]
     },
     {
@@ -1451,16 +1506,6 @@
       ]
     },
     {
-      "headline": "Man Group PLC : Form 8.3 - Rotork plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T09:37:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3345879/0/en/man-group-plc-form-8-3-rotork-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitpanda fined in Austria’s first published MiCA penalty",
       "description": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
       "source": "Cointelegraph",
@@ -2003,46 +2048,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGQ4SWdqSHFLZE1qOUNXWDhnLVlQa09TeGtURVpuZC1BWjFPNE1CalBpTU5NM3c2Uy1qSi1mSnlmRjB6UTlab1hMd19Zd2tubTFLNUZoSWZqUWdyN2V3UFZXWlY3c3d6RGlNbGduMjRWMlZ5cDcyU3U4R3VfXzVUZlZ3T3A0TnBHdnZmWHQ2VmxLdmdSVFBBQVdrckZULUFJNEEyc0Q2cko1WmprZVdNeA?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-16T12:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel - Reuters",
-      "description": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T11:27:57+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ukrainian drones strike Moscow region, killing one - Reuters",
-      "description": "Ukrainian drones strike Moscow region, killing one Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-16T11:21:14+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUVQMGdnUEljNGo4eDhSbHFoSUtDZ2FVLU5hTHNmZXUwMFVDTTdneTR3S2owc1pSZjBtcHNtVkZKU25oLXlNbWxENHVhM2F1ZUtnUVVicEMzai1MMVgyZk5JLVJPRjRDUklLc21zcjJycVM5endpS2plUjRHS3FhMmFIa29MUlRjRzRpNDlTdnRLS0JuTUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
-      "description": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-16T11:12:51+00:00",
-      "article_url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
