@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T11:07:06.463964+00:00",
+    "last_updated": "2026-08-19T11:37:00.501980+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 48,
       "forex": 15,
-      "crypto": 47,
       "general": 102,
       "commodities": 12,
       "macro": 29,
-      "equities": 37
+      "equities": 36
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
+      "description": "Bitcoin maintained its appeal as a diversification investment despite dropping more than 50% from all-time high, a BlackRock report stated.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T11:06:13+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Nexo launches regulated crypto-backed credit in Australia",
       "description": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
@@ -1710,16 +1720,6 @@
       "asset_tags": [
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "China surprises oil markets again with a return to stockpiling in July - Reuters",
-      "description": "China surprises oil markets again with a return to stockpiling in July Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T00:39:08+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWM3eVRJMFNmUjRab1RyZFVmQU12ZUVkbDVIUnpRQ2o3WnhSWlJ2RHhFWXE5bDM0WDFydXd1X3haSFQ5WUFVa1lrcFZGVTlUUjREY0NGNHZ3YWxEWDlxQjdIN3F5QTdPVEk5OURMbW9QQ2d2cDJxSVBYZVpoMU9yUU84Y0JkNFZ6anZ1d0FGaHpmek40WUJKTWxpeVZId2tnc0FxNXlLRmZWQmdLZG43SXdHUlBHc2F3MmlSZEpDVnRaRjRUb1hjWnhvOA?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
