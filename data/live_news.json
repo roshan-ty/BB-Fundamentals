@@ -1,18 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T11:37:00.501980+00:00",
+    "last_updated": "2026-08-19T11:58:08.376021+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 48,
-      "forex": 15,
-      "general": 102,
-      "commodities": 12,
-      "macro": 29,
+      "general": 101,
+      "crypto": 52,
+      "macro": 30,
+      "forex": 14,
+      "commodities": 11,
       "equities": 36
     }
   },
   "articles": [
+    {
+      "headline": "Turnspire Capital Partners Acquires Hulcher Services",
+      "description": "NEW YORK--(BUSINESS WIRE)--Turnspire Capital Partners LLC (“Turnspire”) announced today that an affiliate has acquired Hulcher Services, Inc. (“Hulcher”), a leading North American provider of mission-critical rail infrastructure, maintenance, and field services. Hulcher builds, maintains, and repair",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-19T11:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260819334319/en/Turnspire-Capital-Partners-Acquires-Hulcher-Services/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ripple raises $275M for US prime brokerage to meet institutional demand",
+      "description": "Ripple said the $275 million raised will support its expansion into traditional financial services such as prime brokerage and multi-asset clearing, citing strong demand from institutions.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T11:18:38+00:00",
+      "article_url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T11:14:50+00:00",
+      "article_url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
       "description": "Bitcoin maintained its appeal as a diversification investment despite dropping more than 50% from all-time high, a BlackRock report stated.",
@@ -24,6 +55,27 @@
       ]
     },
     {
+      "headline": "StoneX Group Inc. Acquires Advanced Marketing Group, Expanding Its Feed Ingredients Trading Capabilities",
+      "description": "Acquisition extends StoneX Supply & Trading into animal-protein feed ingredients, pet food, and organic fertilizer across North America",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-19T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347515/11961/en/stonex-group-inc-acquires-advanced-marketing-group-expanding-its-feed-ingredients-trading-capabilities.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T10:29:57+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
       "headline": "Nexo launches regulated crypto-backed credit in Australia",
       "description": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
       "source": "Cointelegraph",
@@ -31,6 +83,26 @@
       "article_url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "forex",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T10:04:30+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ripple raises $275 million in senior notes for prime brokerage push",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T09:55:50+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+      "asset_tags": [
         "crypto"
       ]
     },
@@ -124,16 +196,6 @@
         "forex",
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Brinqa Acquires PlexTrac to Close CTEM Loop; Becomes Largest Standalone Unified Exposure Management Vendor",
-      "description": "AUSTIN, Texas & BOISE, Idaho--(BUSINESS WIRE)--Brinqa, the leader in exposure management for enterprise security teams, today announced it has acquired PlexTrac, the trusted platform for offensive security validation, workflow, and reporting. The acquisition adds the ability to verify that remediati",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-19T09:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260819112855/en/Brinqa-Acquires-PlexTrac-to-Close-CTEM-Loop-Becomes-Largest-Standalone-Unified-Exposure-Management-Vendor/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1993,66 +2055,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff - Reuters",
-      "description": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T15:45:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY3R1eTV5bGh0UnI2d3NXVXBfRVZLQ2ltUUlJS3ozTTg5c0dySDZMN1VGSXZaT1RDSVB2S2ZVc2xtaWFmbGgyUlF5YTVteFZNNU43VHBBVHZDbXNKcFZlWlNFME94M2xUNTU4T3VGa2F4N214dEprVXF6bVJucm50TTVQTjJPVzk3TEhsVDZ4RTUxcmw4V1pHN2Zwbk84aXdRdkZpSHBpSTZmU2xEaGx1YzFXVFF2eThra3c2bi1jZw?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Battered by war, Iran’s rulers wary of more economic pain and unrest if US tightens pressure - Reuters",
-      "description": "Battered by war, Iran’s rulers wary of more economic pain and unrest if US tightens pressure Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T15:37:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVEdqbXFtRnNWUFI5Z2k5QkEtMEUwbnR3emVxRTUyMS1IS0pXSWZZdC03aVpWNTFtSzlfN0kzQ3VCUVRpSzZQVGlpeFAyeVJKVGlBVlJicHpPcnBWSkJPcUpIazRPMkJabGJHMl9iRTRMUFRwZ0kxeVV3Sk16Mkx4ei1faDM2S2VDUXI0VHB0R1hyQVFGdU5IU3Nzby1xX2RFaVV4dmtzdmhhSGdKcjRYdDJlYlNLMmI4bGFqcDdZa0x4V0ZfQ3RN?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Compound bets $52 million, new leadership team in switch to institutional focus",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T15:32:30+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says - Reuters",
-      "description": "Kushner, Netanyahu agree on path forward for Gaza, Board of Peace official says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T15:30:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTFvcy1GOW8tU0NlQkU1UEREal9sZVJ0ZmZqTGpidDZ0emx6X18wT2RtbF8wVl9GR3hjZFFQWEtYT2xPc1lUa2ZCZ1oxYlJKSnJobDh4OGRtalVsdW52YnNrYjRhZkZpN0s1MFUxMjMwSUF1RldMdkJmbEtFbkdSMnRMbUtDbXZxejRERm8tVk1ta1UxdlNma3BQZGk3NnBTcHZGVWpPb2hHczRUX0xubm1PMmFRM25oUkhJT2JR?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Israeli flags on Lebanon road violate UN resolution, UNIFIL says - Reuters",
-      "description": "Israeli flags on Lebanon road violate UN resolution, UNIFIL says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T15:00:57+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHFhSUE0cmdLNk9NZUN6OVNHb1VTOTVtc3gyZ1d1SzZUbWVQRFVjTng5ZHV0bXZ4cC1UYkhlbGd2REsxdTUxV2hjZEJwZlFBMVA3MDhmR2tuMmRDbThnTVkxTm5ETzBWNFBIQ1F2aHQ4Q2t5SC1RbkE2YWticzhvNi1fbHVTRXpXYUhiRU9qSEFYSm1TQWRROWRrN3F1RUZEVlRFdHJ4OVJReFJNdnhkTXN6NW4?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "In National Advertising Division Challenge, Quanovate Tech Voluntarily Discontinues Mira Fertility Monitor and Test Wand Claims",
-      "description": "Following a BBB National Programs’ National Advertising Division challenge brought by The Procter & Gamble Company (P&G), Quanovate Tech, Inc. voluntarily discontinued claims for its Mira Fertility Monitor and Test Wands. Following a BBB National Programs’ National Advertising Division challenge bro",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-17T15:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3346251/0/en/in-national-advertising-division-challenge-quanovate-tech-voluntarily-discontinues-mira-fertility-monitor-and-test-wand-claims.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
