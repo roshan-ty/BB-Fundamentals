@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T21:23:01.871249+00:00",
+    "last_updated": "2026-08-19T21:51:06.566637+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 39,
+      "macro": 27,
       "forex": 12,
       "crypto": 58,
-      "macro": 27,
       "general": 99,
-      "equities": 39,
       "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
+      "description": "Wall St rises as yields ease, Moderna lifts healthcare stocks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T20:47:59+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
     {
       "headline": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
       "description": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
@@ -44,17 +55,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
-      "description": "Wall St rises as yields ease, Moderna lifts healthcare stocks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T20:01:14+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
