@@ -1,18 +1,62 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T20:25:48.056625+00:00",
+    "last_updated": "2026-08-19T20:54:36.769240+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 102,
-      "crypto": 56,
-      "equities": 40,
-      "forex": 11,
-      "commodities": 9,
-      "macro": 25
+      "forex": 12,
+      "crypto": 58,
+      "macro": 26,
+      "equities": 39,
+      "general": 100,
+      "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+      "description": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T20:33:51+00:00",
+      "article_url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Australia jobs preview: Divergence on whether June's hiring surge holds",
+      "description": "<p dir=\"ltr\">A soft jobs print would reinforce the Reserve Bank of Australia's view that the labour market is gradually cooling, supporting the case for a pause or a slower pace of further rate hikes and likely weighing on the Australian dollar. A stronger-than-expected outcome, closer to Westpac's ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-19T20:25:51+00:00",
+      "article_url": "https://investinglive.com/news/australia-jobs-preview-divergence-on-whether-june-s-hiring-surge-holds/",
+      "asset_tags": [
+        "forex",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
+      "description": "Wall St rises as yields ease, Moderna lifts healthcare stocks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T20:01:14+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Trump pushes for CLARITY Act passage alongside crypto leaders",
+      "description": "Donald Trump spoke from the White House on Wednesday, urging the Senate to pass a crypto market structure bill to keep the country “ahead of China.”",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T19:54:59+00:00",
+      "article_url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
       "description": "",
@@ -41,20 +85,6 @@
       "article_url": "https://cryptocurrencynews.com/crypto/bit-launches-margin-trading-for-u-s-stocks-with-cashback-rewards-of-up-to-2000-and-30-day-0-interest-on-margin-loan/",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "investingLive Americas FX news wrap: Surprise US Treasury announcement sends dollar lower, gold higher",
-      "description": "<ul><li><a href=\"https://investinglive.com/central-banks/fomc-minutes-many-participants-assessed-higher-rates-would-likely-be-necessary-if-inflation-did-not-fall\" rel=\"follow\">FOMC Minutes: Many participants assessed higher rates would likely be necessary if inflation did not fall</a></li><li><a hre",
-      "source": "Forexlive",
-      "publication_date": "2026-08-19T19:40:26+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-surprise-us-treasury-announcement-sends-dollar-lower-gold-higher/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -714,16 +744,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347562/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus - Reuters",
-      "description": "Wall St futures flat after tech rout; Iran tensions, retail earnings in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T11:43:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -2032,26 +2052,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-18T09:09:19+00:00",
       "article_url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "China adds 8 banks to digital yuan network as operator count hits 30",
-      "description": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T08:48:51+00:00",
-      "article_url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "South Korea moves to block Polymarket over gambling concerns",
-      "description": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T08:39:57+00:00",
-      "article_url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
       ]
