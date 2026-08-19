@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T20:54:36.769240+00:00",
+    "last_updated": "2026-08-19T21:23:01.871249+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "forex": 12,
       "crypto": 58,
-      "macro": 26,
+      "macro": 27,
+      "general": 99,
       "equities": 39,
-      "general": 100,
-      "commodities": 8
+      "commodities": 9
     }
   },
   "articles": [
@@ -34,6 +34,16 @@
         "forex",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants - Reuters",
+      "description": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T20:03:42+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -203,16 +213,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-19T16:43:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347886/0/en/infinity-aviation-group-expands-private-jet-fbo-network-into-nyc-metro-area-acquires-flightserv-fbo-at-trenton-mercer-airport-nj.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants - Reuters",
-      "description": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T16:41:28+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWFBQNnUwclV2NHRhcFo3Yk5Bd1F6N1hrZzR2WTFsNUtFZWxPYXZGV2dEMmpJRG8tcDNnUGxpQkUtc0FXLWZvc2hhOWZxYll6OVQ3c1N6SHZSVndYLXI5SmtRb182RUdpeVctUVpES1I4amtHano3TnNzV2ZxTVBEZmh4aXpaOE03Z0NXYlg3SDk5a2d2VzBsLXRqVnBQRFVWMFdqR3Z1di1WMUo2ZmZuNlRHNHozbTNzdHhfLTZIQQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1479,6 +1479,17 @@
       ]
     },
     {
+      "headline": "Gold retreats as bond yields surge to highest levels in decades - Reuters",
+      "description": "Gold retreats as bond yields surge to highest levels in decades Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T16:45:53+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
       "description": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says Reuters",
       "source": "Reuters",
@@ -2044,16 +2055,6 @@
         "forex",
         "equities",
         "macro"
-      ]
-    },
-    {
-      "headline": "How investors profit from soccer even as Premier League club losses skyrocket",
-      "description": "While English football clubs are gaining popularity with investors across the globe, teams remain risky and often unprofitable ventures.",
-      "source": "CNBC",
-      "publication_date": "2026-08-18T09:09:19+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
