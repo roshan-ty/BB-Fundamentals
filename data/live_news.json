@@ -1,18 +1,73 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T15:59:39.725139+00:00",
+    "last_updated": "2026-08-19T16:38:29.131276+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 42,
-      "general": 100,
-      "crypto": 53,
-      "forex": 13,
-      "commodities": 8,
-      "macro": 26
+      "equities": 43,
+      "crypto": 55,
+      "macro": 27,
+      "forex": 12,
+      "general": 98,
+      "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+      "description": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T16:00:03+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Jim Cramer says buy Target on any pullback as turnaround takes hold",
+      "description": "Wall Street cheered improving financial metrics across the board in its latest earnings results.",
+      "source": "CNBC",
+      "publication_date": "2026-08-19T15:57:17+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/19/jim-cramer-says-buy-target-on-any-pullback-as-turnaround-takes-hold.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Trump tells reporters US and Canada reached a deal, suggests Iran negotiations continue",
+      "description": "<p class=\"isSelectedEnd\">Trump spoke to reporters at the White House about the tariff deal with Canada, and added a couple of comments on Iran. On Canada, Trump said “we’ve come to a deal” following what he described as a good conversation with Canada's Prime Minister Carney. </p><p class=\"isSelecte",
+      "source": "Forexlive",
+      "publication_date": "2026-08-19T15:55:55+00:00",
+      "article_url": "https://investinglive.com/news/trump-tells-reporters-us-and-canada-reached-a-deal-suggests-iran-negotiations-continue/",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
+      "description": "The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T15:50:58+00:00",
+      "article_url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
+      "description": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T15:44:09+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Wall Street analysts just called this healthcare stock a buy — here’s our take",
       "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
@@ -164,6 +219,16 @@
       ]
     },
     {
+      "headline": "UAE stocks fall after missile scare; Qatar at over one-year low - Reuters",
+      "description": "UAE stocks fall after missile scare; Qatar at over one-year low Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T13:16:33+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
       "description": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target may be victim to profit-taking.",
       "source": "CNBC",
@@ -231,19 +296,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities",
-      "description": "<ul><li><a href=\"https://home.treasury.gov/news/press-releases/sb0607\" rel=\"follow\">US Treasury Statement</a></li></ul><p class=\"isSelectedEnd\">The U.S. Treasury announced today that it will at least double the size of its liquidity-support buyback operations for longer-dated Treasury securities, in",
-      "source": "Forexlive",
-      "publication_date": "2026-08-19T12:41:40+00:00",
-      "article_url": "https://investinglive.com/news/us-treasury-is-increasing-the-size-of-liquidity-support-buyback-operations-for-longer-dated-securities/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -632,16 +684,6 @@
       ]
     },
     {
-      "headline": "UAE stocks fall after missile scare - Reuters",
-      "description": "UAE stocks fall after missile scare Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T08:51:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
       "description": "FORM 8.5 (EPT/RI)",
       "source": "GlobalNewswire",
@@ -899,8 +941,8 @@
       ]
     },
     {
-      "headline": "Oil hits three-week high on uncertainty over Hormuz - Reuters",
-      "description": "Oil hits three-week high on uncertainty over Hormuz Reuters",
+      "headline": "Oil prices up 1%, near 3-week high as Middle East crisis escalates - Reuters",
+      "description": "Oil prices up 1%, near 3-week high as Middle East crisis escalates Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-19T00:39:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
@@ -1666,6 +1708,16 @@
       ]
     },
     {
+      "headline": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
+      "description": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T11:36:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Form-8.3 GOOCH & HOUSEGO PLC - 17 08 2026 - (CGWL)",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1999,58 +2051,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-18T03:46:28+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/adani-enterprises-eyes-india-nifty-crown-three-years-after-hindenburg-attack",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "US-Iran peace prospects dim with Trump in no hurry for deal",
-      "description": "In a phone interview with Fox News, Trump said a US naval blockade on Iranian ports is putting pressure on the country and that he has no timeline for resolving the conflict",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-18T03:45:49+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
-      "description": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T03:29:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-      "description": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T03:21:26+00:00",
-      "article_url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Hormuz crossings rise slightly from weekend, remain in single digits, data shows - Reuters",
-      "description": "Hormuz crossings rise slightly from weekend, remain in single digits, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T03:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObmFuNHJUd0NQNEY5WUNVLWlIUnZwb2F5VVJxZkpiX1hCRjRqRk44UjRkTjE0STF4aUlqRkVNTElObWJpVmJJQkZnR0V4RzllVko3bHJCTDM3VU9yQTdxd1picWtid0FaRkJmcEQzTzBpaEdjenlpc0Fnd0xDdGE1Z0FYVENRVjlEb3hUbFVCUVJ3VG9SVTFwSEVabWRXT0ZGdml1R2Yya3NZWlBGV2xVT1JXRDVnR0FpSVhLVERkb2JqQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Indian shares extend losing run on fading hopes of Mideast peace deal - Reuters",
-      "description": "Indian shares extend losing run on fading hopes of Mideast peace deal Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T02:21:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBR0dqOUx3OEJLUy1ZbDhBWFo2S2M1STJjYXk5cUlNZW1MTFlLdkhDc3FNOEhBYjVabjF3SE5QUE5ERnBPQWw1dTVLb0V2WDc5bDM4MURRc1FSVWJfMnFIT0doSDFMZHV1bTQxbU9tX3BrenFsdUhHSDBSQ2NnVll5OFBVTUN5M0dhS2psTlQ3MXIzSWptYm5OM0RrWWlpU0h2b2VKUUxkaEdqT2Fyc2VwVFA?oc=5",
       "asset_tags": [
         "equities"
       ]
