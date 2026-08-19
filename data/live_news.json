@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T19:57:13.636416+00:00",
+    "last_updated": "2026-08-19T20:25:48.056625+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 40,
       "general": 102,
-      "crypto": 54,
-      "commodities": 8,
-      "macro": 27,
-      "forex": 10
+      "crypto": 56,
+      "equities": 40,
+      "forex": 11,
+      "commodities": 9,
+      "macro": 25
     }
   },
   "articles": [
+    {
+      "headline": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T19:49:51+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump pushes Congress to move on Clarity Act during White House crypto event",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T19:48:33+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "BIT Launches Margin Trading for U.S. stocks with Cashback Rewards of Up to $2,000 and 30-Day 0% interest on Margin Loan",
       "description": "GELEPHU MINDFULNESS CITY, Bhutan, June 26, 2026 /PRNewswire/ — BIT, the digital asset platform backed by over 7 years of institutional-grade service experience, is launching a Margin Trading feature for its U.S. stock business, with public beta commencing on June 26, 2026. The new capability connect",
@@ -21,6 +41,20 @@
       "article_url": "https://cryptocurrencynews.com/crypto/bit-launches-margin-trading-for-u-s-stocks-with-cashback-rewards-of-up-to-2000-and-30-day-0-interest-on-margin-loan/",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "investingLive Americas FX news wrap: Surprise US Treasury announcement sends dollar lower, gold higher",
+      "description": "<ul><li><a href=\"https://investinglive.com/central-banks/fomc-minutes-many-participants-assessed-higher-rates-would-likely-be-necessary-if-inflation-did-not-fall\" rel=\"follow\">FOMC Minutes: Many participants assessed higher rates would likely be necessary if inflation did not fall</a></li><li><a hre",
+      "source": "Forexlive",
+      "publication_date": "2026-08-19T19:40:26+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-surprise-us-treasury-announcement-sends-dollar-lower-gold-higher/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
       ]
     },
     {
@@ -39,6 +73,16 @@
       "source": "CNBC",
       "publication_date": "2026-08-19T18:58:48+00:00",
       "article_url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
+      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T18:57:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -74,6 +118,16 @@
       ]
     },
     {
+      "headline": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T18:10:10+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
       "headline": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
       "description": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
       "source": "Cointelegraph",
@@ -81,17 +135,6 @@
       "article_url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "US Treasury auctions off $18 billion of 20-year bonds at a high yield of 5.204%",
-      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">High yield: 5.204%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">WI level at the time of the auction 5.199%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; paddi",
-      "source": "Forexlive",
-      "publication_date": "2026-08-19T17:17:39+00:00",
-      "article_url": "https://investinglive.com/news/us-treasury-auctions-off-16-billion-of-20-year-bonds-at-a-high-yield-of-xx/",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -529,16 +572,6 @@
       "article_url": "https://seekingalpha.com/news/4634893-zims-shares-fall-as-weaker-cash-flow-merger-uncertainty-weigh-on-shares?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T12:32:16+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2021,37 +2054,6 @@
       "article_url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "MCX plans India coal and ore exchanges to boost price discovery",
-      "description": "Sellers and buyers will be allowed to trade physical delivery contracts through centralized electronic platforms, creating a more transparent pricing system and improving supply chain efficiency",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-18T08:20:35+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/mcx-plans-india-coal-mineral-exchanges-to-boost-price-discovery",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports - Reuters",
-      "description": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T08:18:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGU5SDV5WlhteEdoT2hlZTBkZzY2N1hnYU5sZHF1N3FqTGc1UEd1Mm9MTjk5V24telp3cWVsc08yU3dqU3lJemxZaGhXb0t4UUNBdkpXTFFUckwzRDZ2cDFOenpsN013aW5RRDVWSUxHRHpkVTBzeTV6NmRRR2NhWGtoeEpjLURMTEY5bjlyck5zLXQ5cU9KVTRwNDFQUjZuWU9lRU1vRnBORm5zdi1zTVpIb3VqY0FLRjZZUzBQYktDOEs3Rl9nOHBOZF9zQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T08:16:11+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-      "asset_tags": [
-        "crypto",
-        "macro"
       ]
     }
   ]
