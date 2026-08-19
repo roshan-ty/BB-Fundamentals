@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T22:40:54.909773+00:00",
+    "last_updated": "2026-08-19T23:01:10.783572+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 59,
       "forex": 12,
       "equities": 39,
-      "crypto": 58,
       "macro": 26,
-      "general": 101,
+      "general": 100,
       "commodities": 7
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T22:26:01+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "A radical Bessent, panicking with big Treasury bond buyback move, craters the dollar",
       "description": "<p dir=\"ltr\">The Wall Street Journal's (<a href=\"https://www.wsj.com/finance/investing/bessent-leans-into-his-role-as-americas-bond-trader-in-chief-633f28a4\" rel=\"follow\">gated</a>) reporting adds important texture to how markets should read the buyback move, framing it less as a routine liquidity o",
@@ -2042,16 +2052,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-18T08:48:51+00:00",
       "article_url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "South Korea moves to block Polymarket over gambling concerns",
-      "description": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T08:39:57+00:00",
-      "article_url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
       ]
