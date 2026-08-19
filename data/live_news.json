@@ -1,18 +1,58 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T18:37:59.653834+00:00",
+    "last_updated": "2026-08-19T19:06:59.597431+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 54,
-      "equities": 42,
-      "macro": 29,
-      "general": 101,
-      "commodities": 7,
+      "general": 102,
+      "crypto": 55,
+      "commodities": 8,
+      "equities": 40,
+      "macro": 28,
       "forex": 11
     }
   },
   "articles": [
+    {
+      "headline": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-08-19T18:58:48+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto PAC notches primary wins, but loses $2M Florida race",
+      "description": "A Fairshake spokesperson said that the PAC was “just getting started“ on its expenditures as part of efforts to fill US Congress with lawmakers friendly to the crypto industry.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T18:48:58+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Dominion Energy upgraded at TD Cowen on favorable merger odds",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-19T18:29:36+00:00",
+      "article_url": "https://seekingalpha.com/news/4635072-dominion-energy-upgraded-at-td-cowen-on-favorable-merger-odds?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Stripe confirms OpenRouter acquisition, terms undisclosed",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-19T18:28:14+00:00",
+      "article_url": "https://seekingalpha.com/news/4635068-stripe-confirms-openrouter-acquisition-terms-undisclosed?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
       "description": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
@@ -1790,16 +1830,6 @@
       ]
     },
     {
-      "headline": "Curaleaf launches $4/share takeover bid for Aurora Cannabis",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-18T12:24:21+00:00",
-      "article_url": "https://seekingalpha.com/news/4634270-curaleaf-launches-aurora-cannabis-takeover-bid?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
       "description": "",
       "source": "CoinDesk",
@@ -1845,6 +1875,16 @@
       "source": "CNBC",
       "publication_date": "2026-08-18T11:59:01+00:00",
       "article_url": "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
+      "description": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T11:36:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2015,46 +2055,6 @@
       "article_url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say - Reuters",
-      "description": "China's state shippers deploy oil tankers outside Gulf, avoid chokepoints, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T07:59:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWW02TjlHQUZwRXJZd29PczBMRFpLUkhMbk9oVWNnSXg2X0NLOVhxUF9YQTJvRENzcGo4WnBsbnFEZGNlZ1dHcm1KWnhqSjllU2RjTXBOd3VvQUpoN0dDeTYtSXYyNFhWWXdXLTR3M0c0Y0ZvSkFSSlhLT29iZk5DQ1BuVno4eERCSnVmQVluRElScUpxV2R5V2FKYVVBUVRIQnBxZkFSZnp2RUN2eU5OTnZ3aXZEU3ZQZTNqZ29qNlJ0b0l5ajdZYWNtaw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Anthropic’s annualized revenue tops $65 billion before IPO",
-      "description": "Anthropic PBC is on track to generate annualized revenue of more than $65 billion based on its current performance, according to people familiar with the matter, up more than sevenfold from its pace at the end of last year.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-18T07:44:02+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Oil market starts pricing in a prolonged Hormuz crisis - Reuters",
-      "description": "Oil market starts pricing in a prolonged Hormuz crisis Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T06:15:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXctNVRqVGF3b1I2TWk1UFlrVkx2bWQwY2Y5dFFuZ0hYYi1tMXUtQVl5aWFHT0tmaWJ2YUlyczB1QjlDUVJVQzFuZkdhLVN0T0lUTi0ySzhibXBWNGpvMlJYcXE0VnRaRDE2NzRHR0F0dWV2anVKQmVTM1NVZ2hXcXhrSVhQVVN1clRYaGw5WjlvRkVRbHVLbFNva1l2dmFvNWdFNEowMFhiOVlWczJ3eTFJNXd0dWRDZ0E?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "The 30-year Treasury yield just hit a 19-year high. Three things could drive it even higher",
-      "description": "The yield on the 30-year U.S. Treasury has surged to its highest level in 19 years, and some strategists see scope for the move to go further.",
-      "source": "CNBC",
-      "publication_date": "2026-08-18T06:11:52+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/18/30-year-treasury-yield-three-things-that-could-drive-it-even-higher.html",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
