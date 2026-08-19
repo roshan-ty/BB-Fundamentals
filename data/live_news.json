@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T10:43:06.162304+00:00",
+    "last_updated": "2026-08-19T11:07:06.463964+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 15,
+      "crypto": 47,
       "general": 102,
-      "crypto": 46,
-      "forex": 14,
       "commodities": 12,
-      "macro": 30,
+      "macro": 29,
       "equities": 37
     }
   },
   "articles": [
+    {
+      "headline": "Nexo launches regulated crypto-backed credit in Australia",
+      "description": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-19T10:20:27+00:00",
+      "article_url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "crypto"
+      ]
+    },
     {
       "headline": "Form 8.3 - Brave Bison Group Plc",
       "description": "Downing LLPLEI: 213800G3X76VBG9SB50419 August 2026Form 8.3 re. Brave Bison Group Plc",
@@ -193,6 +204,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347441/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
+      "description": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T08:37:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2030,26 +2051,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-17T15:00:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/17/3346251/0/en/in-national-advertising-division-challenge-quanovate-tech-voluntarily-discontinues-mira-fertility-monitor-and-test-wand-claims.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T14:44:29+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman - Reuters",
-      "description": "Trump says Iran won't make deal he thinks is needed, threatens to bomb Oman Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-17T14:43:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3Rmc3puMlE0OGNHd3RFY2dEM3EzbkdKR3pxal9tVm1lWFliOE9Yc1NlVXN6aEx3SXJCSkVWVENjbjBJMWlXLThJdDE3NzF5aTRMbXJYdDNqRkRtYmlRUVhDcW02My04NWR1MXVianVOdDIwZXdsNGJ5a21walB1UjMxV2YyTGpfMFMzdHNZLW1YRjRaZENWZDE5akdRcFVibWlYcV9aTTM4UQ?oc=5",
       "asset_tags": [
         "general"
       ]
