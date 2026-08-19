@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-19T02:46:28.693721+00:00",
+    "last_updated": "2026-08-19T03:33:08.519926+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 107,
+      "general": 108,
+      "crypto": 43,
       "equities": 32,
       "macro": 27,
-      "crypto": 44,
       "forex": 15,
-      "commodities": 12
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "Pictures of the Day | August 18, 2026 - Reuters",
+      "description": "Pictures of the Day | August 18, 2026 Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T02:41:33+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Trump pauses 50% Canada tariffs for 'three day period'",
       "description": "<p>Trump pauses the new tariffs that were due at midnight US Eastern time. Says has a tentative deal. </p><p>USD/CAD dropped from around 1.3900 to around 1.3880.</p><p></p><p></p> This article was written by Eamonn Sheridan at investinglive.com.",
@@ -21,6 +31,16 @@
       "article_url": "https://investinglive.com/news/trump-pauses-50-canada-tariffs-for-three-day-period/",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-19T01:35:36+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -81,16 +101,6 @@
       "article_url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
-      "description": "UAE says two missiles detected earlier were launched from Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T21:21:04+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -276,6 +286,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
+      "description": "UAE says two missiles detected earlier were launched from Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T16:51:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2026,27 +2046,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
       "asset_tags": [
         "forex",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T12:02:10+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-17T11:59:23+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
-      "asset_tags": [
-        "commodities",
         "crypto"
       ]
     }
