@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T14:52:04.041645+00:00",
+    "last_updated": "2026-08-20T15:30:50.294195+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 58,
+      "general": 99,
       "equities": 35,
-      "macro": 20,
-      "general": 98,
+      "macro": 19,
       "forex": 13,
-      "crypto": 59,
       "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "Harry and Meghan: Their life together in photos - Reuters",
+      "description": "Harry and Meghan: Their life together in photos Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T14:56:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+      "description": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+      "source": "CNBC",
+      "publication_date": "2026-08-20T14:52:28+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Yemen's Houthis say they attacked Najran airport, Aramco facilities in Saudi Arabia - Reuters",
+      "description": "Yemen's Houthis say they attacked Najran airport, Aramco facilities in Saudi Arabia Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T14:12:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG03UE5RQVR1RzZTc3d2REJhZVRDUWZRbkZtcnZnUUFWMS1UenhvQnZ3SHozRTA2TEZoRW91X3pRQm5DbkdsYm5fRlJfN0I0YmZ3T3BlQ2YwUUQtS0JhWW44a0FTNThMcnVSU2xleExYVWJZV2VkVlNqUktGSHRpTjd1LXZBQjF2anhaazRHbDdySkNBQVM0U0JoVGxZT3cyUnJGZm0ta1c1TlljUVljMVR5NGdBSWotc2NxeW1FZ1ZGdE1nVXJwRVRsV2s?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "US leading index for July +0.2% vs +0.1% expected",
       "description": "<ul><li>Prior -0.2% (revised to -0.1%)</li></ul><p>The Conference Board Leading Economic Index increased by 0.2% in July, after an upwardly revised decline of 0.1% in June. As a result, the LEI’s six-month growth rate turned positive, to an increase of 0.2% between January and July 2026, a sharp rev",
@@ -62,16 +92,6 @@
       "article_url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "forex",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Harry and Meghan: Their life together in photos - Reuters",
-      "description": "Harry and Meghan: Their life together in photos Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T13:28:06+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
-      "asset_tags": [
         "crypto"
       ]
     },
@@ -235,6 +255,16 @@
       "asset_tags": [
         "forex",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say - Reuters",
+      "description": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T11:24:10+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -558,6 +588,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-20T09:08:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348145/0/en/man-group-plc-form-8-3-rotork-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tajikistan says it has asked to import 2.5 million tons of oil and fuel from Iran - Reuters",
+      "description": "Tajikistan says it has asked to import 2.5 million tons of oil and fuel from Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T09:02:56+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEdaSFl0WHdDRFdhX3hTRDJVSG5jaGVOVmZmZGdmOGliSGp0TGs3WEpDYlpaX1EtUG84LUdaem4wckhKN2lTTldqTURsZmstUC1MT0pZTlBVLUhfU2tpSXdRWWE1clBhUi12VW5zTVU3aTlFcU5neElwbXdvZ3MwUTZuSkY3al9EMWhSYXdtZHR6ZzhLSkt3NjdxT3poS3NKRUQtUGdPM3RQVXNqMGhOVVI5TTdHX1hy?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2009,47 +2049,6 @@
       "article_url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say - Reuters",
-      "description": "Israel kills six in Gaza on day after Kushner meeting with Netanyahu, medics say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T17:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUljaVdkdjZZMngxR1FnWEVjQ25STWQxNDRtVVNGV0dUdFkzN0tVWUh6UmtPTlZVZU14eTBuWW13Um9WUzZ1QzlBS0tHcFhhakc3aUZOVnc5QlJ2aFpqSF9fejNPd3ZUMFpMN2Q0RVhSVFM3ZHVJWHlka05acUpTY3lQdFFSSDZHbzJzLWxTOXdOdk9QbUI5Rm4yd1ZGUzJ1UTNwbjRhRXpNTkxnZG9LbzVTRGdfbEd0VGw3M1FGRzdoRW1CY3c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T17:00:00+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
-      "description": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T16:51:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
-      "description": "UAE says two missiles detected earlier were launched from Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T16:51:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
