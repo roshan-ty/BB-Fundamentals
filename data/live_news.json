@@ -1,18 +1,61 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T19:42:02.252639+00:00",
+    "last_updated": "2026-08-20T20:11:30.923000+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 100,
+      "general": 101,
+      "forex": 13,
       "equities": 38,
       "commodities": 16,
-      "crypto": 60,
-      "forex": 13,
-      "macro": 18
+      "macro": 18,
+      "crypto": 59
     }
   },
   "articles": [
+    {
+      "headline": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
+      "description": "The previously undisclosed capacity increase is part of Hyundai's plan to invest $26 billion in the U.S. through 2028.",
+      "source": "CNBC",
+      "publication_date": "2026-08-20T19:59:52+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Generational Capital Markets Advises Mayatax in Investment Partnership with Heritage Point Partners",
+      "description": "DALLAS--(BUSINESS WIRE)--Generational Capital Markets advises Mayatax, a Houston tax firm, on its investment partnership with Heritage Point Partners, closed May 26, 2026.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-20T19:56:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260820662134/en/Generational-Capital-Markets-Advises-Mayatax-in-Investment-Partnership-with-Heritage-Point-Partners/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "investingLive Americas news wrap: Bessent doubles down on buyback plan",
+      "description": "<ul><li><a href=\"https://investinglive.com/news/us-treasury-auctions-off-9-billion-of-30-year-tips-at-2-973-vs-2-991-wi\" rel=\"follow\">US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI</a></li><li><a href=\"https://investinglive.com/central-banks/fed-s-musalem-says-hiking-rate",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T19:31:32+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-news-wrap-bessent-doubles-down-on-buyback-plan/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Private equity firms seek to exit EverBank three years after acquisition - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-20T18:59:44+00:00",
+      "article_url": "https://seekingalpha.com/news/4635606-private-equity-firms-seek-to-exit-everbank-three-years-after-acquisition---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
       "description": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate Reuters",
@@ -44,17 +87,6 @@
       ]
     },
     {
-      "headline": "PCI Energy Solutions to Join Mitsubishi Electric, Reinforcing Long-Term Commitment to Customers, Employees, and the Energy Industry",
-      "description": "NORMAN, Okla.--(BUSINESS WIRE)--PCI Energy Solutions (\"PCI\"), a leading U.S.-based provider of enterprise software for energy management and optimization, announced today that it has entered into a definitive agreement to be acquired by Mitsubishi Electric Corporation. The agreement was executed on ",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-20T17:46:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820286481/en/PCI-Energy-Solutions-to-Join-Mitsubishi-Electric-Reinforcing-Long-Term-Commitment-to-Customers-Employees-and-the-Energy-Industry/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "commodities",
-        "crypto"
-      ]
-    },
-    {
       "headline": "US debt tops $40T stoking debate on what it means for Bitcoin",
       "description": "Analysts say the $40 trillion debt milestone could bolster Bitcoin’s long-term case, even as Treasury yields, dollar strength and liquidity remain key near-term drivers.",
       "source": "Cointelegraph",
@@ -67,33 +99,11 @@
       ]
     },
     {
-      "headline": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
-      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">High yield: 2.973%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">WI level at the time of the auction 2.991%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; paddi",
-      "source": "Forexlive",
-      "publication_date": "2026-08-20T17:11:13+00:00",
-      "article_url": "https://investinglive.com/news/us-treasury-auctions-off-9-billion-of-30-year-tips-at-2-973-vs-2-991-wi/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
       "headline": "LivePerson slips as SoundHound AI vote adjourned until Sept. 2",
       "description": "",
       "source": "SeekingAlpha",
       "publication_date": "2026-08-20T17:00:44+00:00",
       "article_url": "https://seekingalpha.com/news/4635570-liveperson-slips-as-soundhound-ai-vote-adjourned-until-sept-2?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T16:59:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -979,6 +989,16 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T03:14:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
       "description": "Hormuz shipping unchanged amid US-Iran stalemate, data shows Reuters",
       "source": "Reuters",
@@ -1689,16 +1709,6 @@
       ]
     },
     {
-      "headline": "EigenQ, Silicon Valley Acquisition submit draft S-4 to SEC",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-19T11:39:03+00:00",
-      "article_url": "https://seekingalpha.com/news/4634845-eigenq-silicon-valley-acquisition-submit-draft-sminus-4-to-sec?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Ripple raises $275M for US prime brokerage to meet institutional demand",
       "description": "Ripple said the $275 million raised will support its expansion into traditional financial services such as prime brokerage and multi-asset clearing, citing strong demand from institutions.",
       "source": "Cointelegraph",
@@ -2046,16 +2056,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T23:11:12+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
