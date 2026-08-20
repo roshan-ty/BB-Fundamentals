@@ -1,18 +1,50 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T17:15:25.004831+00:00",
+    "last_updated": "2026-08-20T17:49:29.042212+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 102,
+      "forex": 12,
       "equities": 37,
-      "crypto": 59,
       "macro": 18,
-      "commodities": 15,
-      "forex": 11
+      "general": 102,
+      "crypto": 58,
+      "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
+      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">High yield: 2.973%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">WI level at the time of the auction 2.991%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; paddi",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T17:11:13+00:00",
+      "article_url": "https://investinglive.com/news/us-treasury-auctions-off-9-billion-of-30-year-tips-at-2-973-vs-2-991-wi/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say - Reuters",
+      "description": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T16:53:58+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T16:32:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work",
       "description": "AI has changed jobs and businesses, but it's also creating bottlenecks, confusion and downright awkward encounters for humans in the workplace.",
@@ -136,18 +168,6 @@
       "article_url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
-      "description": "<ul><li>Buyback could be more than 4 billion</li><li>Part of it is signalling </li><li>We want to show that yields do not reflect underlying fundamentals</li><li>Probably going to announce increased focus on fiscal consolidation </li><li>Nothing magic about $40 trillion debt number</li><li>Expect ta",
-      "source": "Forexlive",
-      "publication_date": "2026-08-20T15:04:57+00:00",
-      "article_url": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -391,16 +411,6 @@
       "asset_tags": [
         "forex",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say - Reuters",
-      "description": "Saudi Aramco sells at least 4 million barrels of crude loading outside Hormuz to China, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T11:24:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHNxUXpMLWp6eDNUendUcVlMS01NTnk0eVNqN1FlYnBwdlgwMElUTXlfR3paamtTNFhBXzJULXlfUDBkaHFuU3poamlYVHhBMGdEQ3ZiWTdtR2dpQng4aE1CMERFWFVGLXBtSTFLY2VpODJKN3paamJSUDV5U1JYUHZIVGNILWJiZzluejV5Vy12dURhVmRfVjdLVTFETXMyRE9hUG1Da2JUcGhISGM4clB0LV9CbXVfeVBlamhRNTA5cjQ1d1hpWA?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -777,16 +787,6 @@
       "article_url": "https://seekingalpha.com/news/4635260-mitsubishi-electric-to-buy-pci-energy-solutions-for-14b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T08:26:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
