@@ -1,29 +1,57 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T05:52:15.249027+00:00",
+    "last_updated": "2026-08-20T06:40:50.630841+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 13,
-      "equities": 40,
-      "crypto": 56,
-      "macro": 24,
-      "commodities": 10,
-      "general": 101
+      "commodities": 12,
+      "general": 100,
+      "crypto": 55,
+      "macro": 25,
+      "equities": 39,
+      "forex": 12
     }
   },
   "articles": [
     {
-      "headline": "Chart of the day: Is the Nasdaq breakout retesting or failing?",
-      "description": "<p>Nasdaq futures are testing the upper boundary of the descending channel that has contained price since June. With NQ near 29,616, the key question is whether the 29,500-29,600 area becomes support or whether price falls back inside the channel.</p><p>Key takeaways for Nasdaq traders</p><ul><li><p",
+      "headline": "German producer prices nudge up again in July as energy prices rise further",
+      "description": "<ul><li>July producer prices +1.1% vs +0.7% m/m expected</li><li>Prior -0.3%</li><li>July producer prices +3.0% vs +2.7% y/y expected</li><li>Prior +1.8%</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">German producer prices continue to move up again in July but owes much to anot",
       "source": "Forexlive",
-      "publication_date": "2026-08-20T04:52:33+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/chart-of-the-day-is-the-nasdaq-breakout-retesting-or-failing/",
+      "publication_date": "2026-08-20T06:00:41+00:00",
+      "article_url": "https://investinglive.com/news/german-producer-prices-nudge-up-again-in-july-as-energy-prices-rise-further/",
       "asset_tags": [
-        "forex",
-        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
+      "description": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-20T05:52:30+00:00",
+      "article_url": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-20T05:40:54+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+      "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-20T04:29:56+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -62,6 +90,16 @@
       ]
     },
     {
+      "headline": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
+      "description": "Hormuz shipping unchanged amid US-Iran stalemate, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T02:58:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2wyclNjWVpvOTM3X0dCUjJNdEhZYkYwOC0taHk5bnNRXzZ2d3R2V092Z0pNTlBiVDdzejJXS0ozSnc1aGRjenhxbXRUY3RsMjgzUV9wSkFlTEJxbk1VbUFvbDZMTjhwTXpzR2lJVndmanZhUDhudjFlMUNVdVptcjlQYXZ1UTczRnVNM3pIUTQzQ3ctcUxwd2VYalFHYXRXdzJHemNSOUE5Vmwzdzd0NFNEcw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Trump warns of economic consequences for any country that supports Iran - Reuters",
       "description": "Trump warns of economic consequences for any country that supports Iran Reuters",
       "source": "Reuters",
@@ -72,8 +110,8 @@
       ]
     },
     {
-      "headline": "Oil prices steady as investors assess US-Iran war outlook - Reuters",
-      "description": "Oil prices steady as investors assess US-Iran war outlook Reuters",
+      "headline": "Oil gains on Middle East supply concerns amid impasse in US-Iran war - Reuters",
+      "description": "Oil gains on Middle East supply concerns amid impasse in US-Iran war Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-20T01:11:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
@@ -1658,6 +1696,17 @@
       ]
     },
     {
+      "headline": "Gold retreats as bond yields surge to highest levels in decades - Reuters",
+      "description": "Gold retreats as bond yields surge to highest levels in decades Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T16:45:53+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG9XMjZPS3g0am1fSnhSbndBTlUwbkxHN0FJanR5OFRlZUgwUzZPVjRxcnVGQjUtdmdnYVU5a0xNYXhFcGJNY0t2SlVvTHg3QW1yVFQyRTEyckdHU1hhTFhDRWwyMzZBeTQ0alMxUmJ1TmQ4bVp4aXFNdGljOVJ5WVRNbEptdWZqaVJPVFkydVNQYTBrRmRZMU5PLWZ0cW5qbFp3cTUwOVA1b1FpRnBBMlF2QXRFdw?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
       "description": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says Reuters",
       "source": "Reuters",
@@ -2005,56 +2054,6 @@
       "article_url": "https://www.cnbc.com/2026/08/18/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "American Airlines to add seatback screens, bigger first class in race to catch up to Delta and United",
-      "description": "American is trying to add more premium seating and passenger perks after falling behind rivals Delta and United.",
-      "source": "CNBC",
-      "publication_date": "2026-08-18T13:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/18/american-airlines-seatback-screens.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "MoonPay adds Cash App Pay for crypto purchases by US customers",
-      "description": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T13:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "R1 to Acquire Humata Health, Enhancing Phare OS with AI-Powered Prior Authorization Automation and Payer-Provider Collaboration",
-      "description": "Acquisition Removes Friction from Complex Prior Authorizations to Benefit Patients, Clinicians, Providers, and Payers Acquisition Removes Friction from Complex Prior Authorizations to Benefit Patients, Clinicians, Providers, and Payers",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-18T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346895/0/en/r1-to-acquire-humata-health-enhancing-phare-os-with-ai-powered-prior-authorization-automation-and-payer-provider-collaboration.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Cint Enters New Phase of Growth and Innovation Under Private Ownership",
-      "description": "Company to accelerate investment across research, media measurement, data and AI while maintaining a continued focus on trusted human intelligence Company to accelerate investment across research, media measurement, data and AI while maintaining a continued focus on trusted human intelligence",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-18T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3346873/0/en/cint-enters-new-phase-of-growth-and-innovation-under-private-ownership.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
