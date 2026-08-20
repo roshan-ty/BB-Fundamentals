@@ -1,14 +1,14 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T04:08:11.958072+00:00",
+    "last_updated": "2026-08-20T04:51:05.784950+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 12,
-      "equities": 37,
-      "commodities": 9,
-      "crypto": 57,
-      "macro": 23,
+      "forex": 11,
+      "equities": 38,
+      "commodities": 10,
+      "crypto": 56,
+      "macro": 21,
       "general": 105
     }
   },
@@ -1229,6 +1229,16 @@
       ]
     },
     {
+      "headline": "OpenAI makes AI safety changes in wake of Hugging Face breach",
+      "description": "The latest disclosures serve as fresh evidence that AI agents are capable of acting autonomously in ways that even researchers trained to root out vulnerabilities in the technology can no longer anticipate.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-19T04:17:18+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Pictures of the Day | August 18, 2026 - Reuters",
       "description": "Pictures of the Day | August 18, 2026 Reuters",
       "source": "Reuters",
@@ -1236,6 +1246,27 @@
       "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Energy stocks hit record as oil rises on fading deal hopes",
+      "description": "The S&P 500 Energy Sector Index climbed 1.8% on Tuesday, marking the first all-time high for the gauge since March 27",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-19T04:09:16+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Anthropic pre-IPO credit facility set to climb past $10 billion",
+      "description": "The Claude chatbot maker’s proposed expansion of its so-called revolver is drawing a clutch of banks seeking to bolster their pitch for roles on the IPO",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-19T04:06:16+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -2021,39 +2052,6 @@
       "asset_tags": [
         "commodities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T11:05:56+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Kraken launches US-listed stock trading for EEA customers",
-      "description": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T10:53:21+00:00",
-      "article_url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T10:38:56+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
-      "asset_tags": [
-        "crypto",
-        "macro"
       ]
     }
   ]
