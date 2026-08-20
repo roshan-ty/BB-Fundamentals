@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T20:11:30.923000+00:00",
+    "last_updated": "2026-08-20T20:50:16.827656+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 101,
-      "forex": 13,
-      "equities": 38,
-      "commodities": 16,
       "macro": 18,
-      "crypto": 59
+      "equities": 37,
+      "crypto": 59,
+      "forex": 12,
+      "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
+      "description": "The pending $12.5 billion Lakers sale would lift CNBC’s average NBA team valuation 21% to $6.68 billion, with the Warriors still No. 1.",
+      "source": "CNBC",
+      "publication_date": "2026-08-20T20:28:21+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia Friday, August 21, 2026 - focus on Japanese inflation data",
+      "description": "<p>It's a busy data agenda ahead, with the eyes mainly on the CPI data from Japan. </p><p>I'll have a preview to come on this separately, inclduiong implications for the Bank of Japan's next policy meeting. </p><p></p> This article was written by Eamonn Sheridan at investinglive.com.",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T20:12:54+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-friday-august-21-2026-focus-on-japanese-inflation-data/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Hyundai to increase U.S. production at new Georgia plant, CEO tells CNBC",
       "description": "The previously undisclosed capacity increase is part of Hyundai's plan to invest $26 billion in the U.S. through 2028.",
@@ -34,19 +54,6 @@
       ]
     },
     {
-      "headline": "investingLive Americas news wrap: Bessent doubles down on buyback plan",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/us-treasury-auctions-off-9-billion-of-30-year-tips-at-2-973-vs-2-991-wi\" rel=\"follow\">US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI</a></li><li><a href=\"https://investinglive.com/central-banks/fed-s-musalem-says-hiking-rate",
-      "source": "Forexlive",
-      "publication_date": "2026-08-20T19:31:32+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-news-wrap-bessent-doubles-down-on-buyback-plan/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
-      ]
-    },
-    {
       "headline": "Private equity firms seek to exit EverBank three years after acquisition - report",
       "description": "",
       "source": "SeekingAlpha",
@@ -54,6 +61,26 @@
       "article_url": "https://seekingalpha.com/news/4635606-private-equity-firms-seek-to-exit-everbank-three-years-after-acquisition---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-20T18:54:18+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
+      "description": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T18:20:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -96,6 +123,16 @@
         "forex",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T17:16:34+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -984,16 +1021,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-20T03:24:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTlfMHNQWDJxLTRQUnk3S3BmSThwcFNFWTY4dHhTaVZlaENYcFliSkRTVFMzRVliRkgweUxUVThXN0ZfU2Q0Rl9WVXBCZkxBQXZPcUlkeVNKa2kwcFQzM3FVakJMRlQ2N1FBZ3hVUGNXb25ySko1UFVEQjZqU3dfekJUdVBYMFVkQ3RiSm1mMTZFUTFsNFhidHNxY0lsbnVCeTNJOUh0eEQ5dVRMM3VtajlWWlFxOFhfRTFjdXlTWjNtLUhi?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T03:14:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2024,36 +2051,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-19T03:53:11+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/uae-says-iran-fired-two-missiles-at-country-as-war-drags-on",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
-      "description": "Hormuz traffic slows as uncertainty over waterway persists Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T03:39:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T01:35:36+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
-      "description": "Oil prices settle near 4-week high as Middle East crisis escalates Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T00:39:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
       "asset_tags": [
         "general"
       ]
