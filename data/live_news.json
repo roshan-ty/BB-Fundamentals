@@ -1,18 +1,59 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T14:02:54.315587+00:00",
+    "last_updated": "2026-08-20T14:52:04.041645+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 35,
+      "macro": 20,
+      "general": 98,
       "forex": 13,
       "crypto": 59,
-      "equities": 34,
-      "general": 99,
-      "macro": 19,
       "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "US leading index for July +0.2% vs +0.1% expected",
+      "description": "<ul><li>Prior -0.2% (revised to -0.1%)</li></ul><p>The Conference Board Leading Economic Index increased by 0.2% in July, after an upwardly revised decline of 0.1% in June. As a result, the LEI’s six-month growth rate turned positive, to an increase of 0.2% between January and July 2026, a sharp rev",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T14:00:08+00:00",
+      "article_url": "https://investinglive.com/news/us-leading-index-for-july-0-2-vs-0-1-expected/",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Barnes Aerospace Acquires Jet AirWerks LLC to Expand Commercial Aeroengine Component Repair and Overhaul Capabilities",
+      "description": "BRISTOL, Conn.--(BUSINESS WIRE)--Barnes Aerospace, a global provider of component engineering, manufacturing and repair solutions for the aerospace industry, today announced the closing of its acquisition of Jet AirWerks LLC (“Jet AirWerks”), a provider of inspection, repair, overhaul and disassembl",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-20T14:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260820687407/en/Barnes-Aerospace-Acquires-Jet-AirWerks-LLC-to-Expand-Commercial-Aeroengine-Component-Repair-and-Overhaul-Capabilities/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Following National Advertising Division Challenge, Wellspring Meds Voluntarily Discontinues Claims",
+      "description": "Following a BBB National Programs’ National Advertising Division challenge brought by Reese Consumer Health, YYBA Corp. d/b/a Wellspring Meds voluntarily discontinued the challenged claims regarding PIN RID®, a chewable pinworm treatment for humans. Following a BBB National Programs’ National Advert",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T14:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348518/0/en/following-national-advertising-division-challenge-wellspring-meds-voluntarily-discontinues-claims.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 -DCC plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T14:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348506/0/en/form-8-3-dcc-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "MiCA cracks down on USDT in Europe... but no one else cares",
       "description": "USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weakening global demand for Tether.",
@@ -42,6 +83,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348483/0/es/zenatech-cierra-su-28-a-adquisici%C3%B3n-de-drones-como-servicio-incorporando-una-empresa-canadiense-de-ingenier%C3%ADa-civil-y-estructural-con-clientes-en-cinco-provincias.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T13:20:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -75,16 +126,6 @@
       ]
     },
     {
-      "headline": "ProHome Acquires Metro DC Franchise, Expanding Corporate Presence Across the Mid-Atlantic",
-      "description": "WICHITA, Kan.--(BUSINESS WIRE)--ProHome, a leading provider of builder warranty management services, today announced it has acquired the ProHome Metro DC franchise, bringing the successful regional operation directly into ProHome’s corporate platform. The acquisition strengthens ProHome’s presence a",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-20T13:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820977134/en/ProHome-Acquires-Metro-DC-Franchise-Expanding-Corporate-Presence-Across-the-Mid-Atlantic/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
       "description": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
       "source": "Cointelegraph",
@@ -103,16 +144,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348366/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US August Philly Fed business index +47.4 vs +25.0 expected",
-      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior was +41.4</li></ul><p style=\"font-style: normal; font-weight: 400; font-size: 16px; line-height: 22px; vertical-align: baseline; border: 0; margin: 0 0 20px; padding: 0; font-family: Inter, InterFallback, serif; ",
-      "source": "Forexlive",
-      "publication_date": "2026-08-20T12:30:42+00:00",
-      "article_url": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -729,16 +760,6 @@
       ]
     },
     {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T00:48:34+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
       "description": "",
       "source": "CoinDesk",
@@ -1182,16 +1203,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-19T14:00:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347766/0/en/national-advertising-division-finds-certain-safelyyou-safety-ai-claims-supported-recommends-other-claims-be-modified-or-discontinued.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 -DCC plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T13:59:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347751/0/en/form-8-3-dcc-plc.html",
       "asset_tags": [
         "general"
       ]
@@ -2037,16 +2048,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-18T16:51:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
-      "description": "Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T16:49:58+00:00",
-      "article_url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
       ]
