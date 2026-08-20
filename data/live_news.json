@@ -1,26 +1,42 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T03:25:51.557851+00:00",
+    "last_updated": "2026-08-20T04:08:11.958072+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 11,
-      "crypto": 56,
+      "forex": 12,
+      "equities": 37,
+      "commodities": 9,
+      "crypto": 57,
       "macro": 23,
-      "general": 104,
-      "equities": 36,
-      "commodities": 7
+      "general": 105
     }
   },
   "articles": [
     {
-      "headline": "Run on banks feared as concern rises over government seizing deposits to fund war",
-      "description": "<p dir=\"ltr\">This is a domestic financial stability story for Russia rather than one with a direct read-through for Western asset prices, but it carries meaningful signal value for anyone tracking the sustainability of Moscow's war financing. A sustained deposit exodus of this scale tightens the fun",
+      "headline": "investingLive Asia-Pacific market news: Trump vows sweeping new Iran sanctions",
+      "description": "<ul><li><a href=\"https://investinglive.com/stock-market-update/sk-hynix-swap-costs-which-spiked-to-1000bp-in-june-now-said-to-halve\" rel=\"follow\">SK Hynix swap costs, which spiked to 1000bp in June, now said to halve</a></li><li><a href=\"https://investinglive.com/news/run-on-banks-feared-as-concern-",
       "source": "Forexlive",
-      "publication_date": "2026-08-20T02:19:54+00:00",
-      "article_url": "https://investinglive.com/news/run-on-banks-feared-as-concern-rises-over-government-seizing-deposits-to-fund-war/",
+      "publication_date": "2026-08-20T03:29:39+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-vows-sweeping-new-iran-sanctions/",
       "asset_tags": [
         "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bitcoin nears $70K, but Ethereum’s eight-hour breakout reveals the bigger crypto shift",
+      "description": "<p>Crypto market update: Bitcoin nears $70K as Ethereum and altcoins broaden the rebound</p><p>Crypto has shifted from fragile stabilization to a broad market rebound. Bitcoin has pushed toward $69,000-$70,000, Ethereum is outperforming, ETF demand has improved, and major altcoins are participating.",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T03:25:25+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-nears-70k-but-ethereum-s-eight-hour-breakout-reveals-the-bigger-crypto-shift/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
         "crypto",
         "macro"
       ]
@@ -134,16 +150,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "BIT Launches Margin Trading for U.S. stocks with Cashback Rewards of Up to $2,000 and 30-Day 0% interest on Margin Loan",
-      "description": "GELEPHU MINDFULNESS CITY, Bhutan, June 26, 2026 /PRNewswire/ — BIT, the digital asset platform backed by over 7 years of institutional-grade service experience, is launching a Margin Trading feature for its U.S. stock business, with public beta commencing on June 26, 2026. The new capability connect",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-08-19T19:44:00+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/bit-launches-margin-trading-for-u-s-stocks-with-cashback-rewards-of-up-to-2000-and-30-day-0-interest-on-margin-loan/",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1243,6 +1249,16 @@
       ]
     },
     {
+      "headline": "UAE says Iran fired 2 missiles at country as war drags on",
+      "description": "The last time the UAE Defense Ministry confirmed being attacked by Iran was in May, when Tehran carried out several strikes on the country.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-19T03:53:11+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/uae-says-iran-fired-two-missiles-at-country-as-war-drags-on",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
       "description": "Hormuz traffic slows as uncertainty over waterway persists Reuters",
       "source": "Reuters",
@@ -1290,6 +1306,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
+      "description": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T21:27:34+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2028,26 +2054,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Morning Bid: Yields give way - Reuters",
-      "description": "Morning Bid: Yields give way Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T10:37:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzd0djlpMGQ3NlRiOG1GNTZUbGx0SGxWcGdsQk5rYWlfQi16YTZ5QUM2U0pyNGRWLWNRWVNFOTN0eVU0X25xSWlRdTczRVpaQ1NDVGlWVk05V0tQaHNGWkJRRnRZTjFaa2xtUWJfc2FMZkI3MDdOb1JhNnFGRzVmWWhobF9hZjI2NjhON21uQjZkR0JlbHRr?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Saudi Arabia tightens anti-crime oversight on UAE-bound bank transfers - Reuters",
-      "description": "EXCLUSIVE: Saudi Arabia tightens anti-crime oversight on UAE-bound bank transfers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T10:21:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3FiMTFmdzZfN3RFSlRJQUtGcGhwaDFXN1ZMNDh4dzNtUV9jY2YxbzJmSFBvNmhuOGtNbHc3c09WcWt6LVhoaXZTdzFFSUlQVEpZS3MyMWU5NnZYUXBzRU81X294d2lFQ3VqWWJ4SFlzanZ5Q1h5c0Fwck41aXEycnRMX1ZKRUdQNk5iSEFFMUVud3VEaFlXcFFSekdvOHlSU1NJeHdfY1Bic2tmWUt1NWhJMFd2c2haUy13V3R3?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
