@@ -1,18 +1,120 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T11:47:07.388518+00:00",
+    "last_updated": "2026-08-20T12:16:39.618345+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 12,
-      "crypto": 58,
-      "general": 99,
-      "equities": 39,
-      "commodities": 14,
-      "macro": 24
+      "crypto": 60,
+      "equities": 40,
+      "macro": 23,
+      "general": 97,
+      "forex": 11,
+      "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "Harry and Meghan: Their life together in photos - Reuters",
+      "description": "Harry and Meghan: Their life together in photos Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T11:58:06+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Solmate Infrastructure PLC (NASDAQ: SLMT) Continues SOL Accumulation with Additional Purchases as Holdings Surpass $100 Million",
+      "description": "DUBLIN--(BUSINESS WIRE)--Solmate Infrastructure PLC (NASDAQ: SLMT) (“Solmate” or the “Company”) today announced the acquisition of approximately 1,000 SOL on August 20th, 2026. Following the acquisition, the Company held approximately 1.25M SOL as of August 20th, 2026. Based on a SOL market price of",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-20T11:54:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260820464664/en/Solmate-Infrastructure-PLC-NASDAQ-SLMT-Continues-SOL-Accumulation-with-Additional-Purchases-as-Holdings-Surpass-100-Million/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Experienced Traders Can Now Apply to Teach on investingLive Academy",
+      "description": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;\">Have years of trading experience and knowledge worth sharing? investingLive Academy is now welcoming new instructors.</p><p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;\">Trading knowledge is ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T11:52:24+00:00",
+      "article_url": "https://investinglive.com/news/experienced-traders-can-now-apply-to-teach-on-investinglive-academy/",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T11:18:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348243/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T11:17:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348242/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
+      "description": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-20T11:16:41+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "ChatGPT for Teens makes vital safety strides, says expert. 'The real question is, does any of this work?'",
+      "description": "ChatGPT for Teens' new features include a reminder to take a break and various learning tools. For experts, the big question is how effective these are.",
+      "source": "CNBC",
+      "publication_date": "2026-08-20T11:15:17+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T11:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348241/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T11:14:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348239/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T11:12:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348238/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
       "description": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter’s revenue stream.",
@@ -32,6 +134,28 @@
       "article_url": "https://www.cnbc.com/2026/08/20/workers-cant-agree-if-junior-employees-should-use-ai-at-work-cnbc-survey.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Labrador Gold Announces Investment in San Cristobal Mining",
+      "description": "TORONTO, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Labrador Gold Corp. (TSX.V: LAB | FNR: 2N6) (“LabGold” or the “Company”) is pleased to announce that it has completed a US$1,410,000 ($1,964,835 CDN @ 1.3935) investment in San Cristobal Mining Inc. (\"San Cristobal Mining\" or \"SCM\"), a private Canadian mini",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348229/0/en/labrador-gold-announces-investment-in-san-cristobal-mining.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T10:59:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348202/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
       ]
     },
     {
@@ -156,17 +280,6 @@
       ]
     },
     {
-      "headline": "At best, German economy may grow slightly in this quarter - Bundesbank",
-      "description": "<ul><li>Poor weather conditions have hampered economic recovery</li><li class=\"text-align-justify\" style=\"text-align: justify;\">Limited usable transport routes on major rivers likely to impair industrial output, export growth</li><li class=\"text-align-justify\" style=\"text-align: justify;\">The low wa",
-      "source": "Forexlive",
-      "publication_date": "2026-08-20T10:09:33+00:00",
-      "article_url": "https://investinglive.com/news/at-best-german-economy-may-grow-slightly-in-this-quarter-bundesbank/",
-      "asset_tags": [
-        "forex",
-        "macro"
-      ]
-    },
-    {
       "headline": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
       "description": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
       "source": "Cointelegraph",
@@ -174,16 +287,6 @@
       "article_url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Organigram Global Accelerates Integration of Sanity Group Under Unified Global Operating Structure",
-      "description": "TORONTO--(BUSINESS WIRE)--Organigram Global Inc. (NASDAQ: OGI) (TSX: OGI) (“Organigram” or the “Company”) today announced an important milestone in its global growth strategy through the accelerated integration of Sanity Group GmbH (“Sanity”) and the alignment of leadership, operations and market de",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-20T10:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260819112033/en/Organigram-Global-Accelerates-Integration-of-Sanity-Group-Under-Unified-Global-Operating-Structure/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1378,36 +1481,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T08:42:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347443/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T08:40:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347442/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T08:38:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347441/0/en/dimensional-fund-advisors-ltd-form-8-3-gamma-communications-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
       "description": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base Reuters",
       "source": "Reuters",
@@ -1415,27 +1488,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T08:37:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347440/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T08:36:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347438/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
       ]
     },
     {
@@ -1686,16 +1738,6 @@
       ]
     },
     {
-      "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
-      "description": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T21:27:34+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
       "description": "",
       "source": "CoinDesk",
@@ -1777,27 +1819,6 @@
       ]
     },
     {
-      "headline": "CCC Intelligent Solutions gains on report of Copart takeover talks",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-18T20:05:26+00:00",
-      "article_url": "https://seekingalpha.com/news/4634502-ccc-inteligent-solutions-gains-on-report-of-copart-takeover-talks?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Evolution Petroleum Announces Strategic Midland Basin Mineral & Royalty Acquisition",
-      "description": "HOUSTON, Aug. 18, 2026 (GLOBE NEWSWIRE) -- Evolution Petroleum Corporation (NYSE American: EPM) (\"Evolution\" or the \"Company\") has entered into a definitive agreement to acquire mineral and royalty (\"M&R\") interests in the core Midland Basin of the Permian Basin from a non-affiliated private seller ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-18T20:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3347217/0/en/evolution-petroleum-announces-strategic-midland-basin-mineral-royalty-acquisition.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
       "headline": "DOJ unseals new charges against 17 hackers in Iran-backed campaign - Reuters",
       "description": "DOJ unseals new charges against 17 hackers in Iran-backed campaign Reuters",
       "source": "Reuters",
@@ -1859,26 +1880,6 @@
       ]
     },
     {
-      "headline": "ING reduces its stake in TMBThanachart Bank",
-      "description": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION IN WHOLE OR IN PART IN OR INTO THE UNITED STATES",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-18T18:40:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3347189/0/en/ing-reduces-its-stake-in-tmbthanachart-bank.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Virtu Financial gains on takeover speculation",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-18T17:42:22+00:00",
-      "article_url": "https://seekingalpha.com/news/4634452-virtu-financial-gains-on-takeover-speculation?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
       "description": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
       "source": "Cointelegraph",
@@ -1895,17 +1896,6 @@
       "publication_date": "2026-08-18T17:26:34+00:00",
       "article_url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
       "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Schouw & Co. exceeds the 10% threshold of treasury shares",
-      "description": "In accordance with Section 31 of the Danish Capital Markets Act, it is hereby announced that on 18 August 2026, Schouw & Co. crossed the 10% threshold of the company’s treasury shares as part of its ongoing share buy-back programme.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-18T17:19:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/18/3347166/0/en/schouw-co-exceeds-the-10-threshold-of-treasury-shares.html",
-      "asset_tags": [
-        "equities",
         "macro"
       ]
     },
@@ -1928,6 +1918,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says - Reuters",
+      "description": "Vessel struck by unknown projectile in Strait of Hormuz, crew casualty reported, UKMTO says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-18T16:51:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdC1DbUtnYVo3NzVqcVBVR3FXcm1WQXBOWHI2b1d0SG5NOG1wS25jdjJJeUx3NFc0Ym13OTlZTzl5Q1hnR3dVWFpuTkF6cVlic0NNdXJDWHBIcGZlRVRLWUtJclYybUxvNTJ5RWFDZjJOaGR2aGFrS21Ibzg3b1FudnZjVkZTQV9ra2ZmMnNZNGZWWGdDZXpxUmpoMXEybC1oMjd2T3RYVjJwZ3NacE9XcERRWEZhcHZtbVE1VmhsaDNiWkhlV2hyei1QZ3c?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
