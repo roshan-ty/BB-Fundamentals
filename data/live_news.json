@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T10:05:02.422762+00:00",
+    "last_updated": "2026-08-20T10:44:28.828180+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 100,
+      "forex": 12,
+      "macro": 25,
       "crypto": 57,
-      "macro": 26,
-      "commodities": 13,
-      "forex": 11,
+      "general": 99,
+      "commodities": 14,
       "equities": 37
     }
   },
   "articles": [
+    {
+      "headline": "At best, German economy may grow slightly in this quarter - Bundesbank",
+      "description": "<ul><li>Poor weather conditions have hampered economic recovery</li><li class=\"text-align-justify\" style=\"text-align: justify;\">Limited usable transport routes on major rivers likely to impair industrial output, export growth</li><li class=\"text-align-justify\" style=\"text-align: justify;\">The low wa",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T10:09:33+00:00",
+      "article_url": "https://investinglive.com/news/at-best-german-economy-may-grow-slightly-in-this-quarter-bundesbank/",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
+      "description": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-20T10:03:04+00:00",
+      "article_url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Form 8.3 - Brave Bison Group Plc",
       "description": "Downing LLPLEI: 213800G3X76VBG9SB50420 August 2026Form 8.3 re. Brave Bison Group Plc",
@@ -95,16 +116,6 @@
       ]
     },
     {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T08:57:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Mitsubishi Electric to buy PCI Energy Solutions for $1.4B",
       "description": "",
       "source": "SeekingAlpha",
@@ -135,16 +146,6 @@
       ]
     },
     {
-      "headline": "Iran foreign minister plays down US president Trump's economic threat",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">From overnight: <a href=\"https://investinglive.com/commodities/trump-vows-crushing-new-economic-operation-against-iran-warns-allies/\" rel=\"follow\">Trump vows crushing new economic operation against Iran, warns allies</a></p><p class=\"text-al",
-      "source": "Forexlive",
-      "publication_date": "2026-08-20T07:19:49+00:00",
-      "article_url": "https://investinglive.com/news/iran-foreign-minister-plays-down-us-president-trump-s-economic-threat/",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Iran executes man over charges related to January protests, state media says - Reuters",
       "description": "Iran executes man over charges related to January protests, state media says Reuters",
       "source": "Reuters",
@@ -162,6 +163,16 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "The Iran war energy crisis is just getting started - Reuters",
+      "description": "The Iran war energy crisis is just getting started Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T06:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -278,6 +289,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T01:50:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1131,6 +1152,16 @@
       "asset_tags": [
         "forex",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Novo Nordisk tests low-dose Wegovy pill in new weight-loss study",
+      "description": "The study reflects growing interest in lower-dose obesity treatments as patients balance weight-loss benefits, costs and potential side effects",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-19T10:10:12+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/novo-starts-testing-low-dose-wegovy-pills-in-new-obesity-study",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2024,37 +2055,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Trump says no talks are taking place with Iran and none are scheduled - Reuters",
-      "description": "Trump says no talks are taking place with Iran and none are scheduled Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-18T14:39:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHhKekZqU0IxWEQwY2JOckhOeTBJd0FraHloM25INUJuQXNnRk5BM1JzU05UTl9RbDVSUnVkbWVzYlpaaV9lRG16bloxZGxRRXQ5dlV2a1plTkpHXzQ5Smg0Nlk0c3VjdFZLSjdkRHIxLVl6Sm5yamhoVWF3SlowaDVYV01QdGE0emdOd3N6cnFOeW5FbDRsdEExSTNNMFFMOUtYQjFDakRUbWdVbVNoWkNCcm02RkhYcjUw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T14:35:08+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "After a long job search, this 45-year-old is ditching corporate for nursing school—she wishes she'd done it earlier",
-      "description": "Kristy Layden spent over a year job searching after losing her job as a senior manager in e-commerce and fulfillment. Now she's going to nursing school instead.",
-      "source": "CNBC",
-      "publication_date": "2026-08-18T14:25:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/18/after-a-layoff-and-long-job-search-kristy-layden-is-going-to-nursing-school.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
