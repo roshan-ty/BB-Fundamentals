@@ -1,24 +1,65 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T20:50:16.827656+00:00",
+    "last_updated": "2026-08-20T21:14:42.898456+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 101,
-      "macro": 18,
-      "equities": 37,
-      "crypto": 59,
+      "equities": 38,
+      "general": 99,
+      "crypto": 60,
+      "macro": 19,
       "forex": 12,
       "commodities": 15
     }
   },
   "articles": [
     {
+      "headline": "Saba Capital Income & Opportunities Fund (BRW) and Saba Capital Income & Opportunities Fund II (SABA) Announce Reapproval of Merger",
+      "description": "NEW YORK--(BUSINESS WIRE)--The Boards of Trustees of Saba Capital Income & Opportunities Fund (NYSE: BRW) and Saba Capital Income & Opportunities Fund II (NYSE: SABA) have reapproved a proposal to merge the funds. The proposed merger, if approved by shareholders, would combine SABA into BRW. The mer",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-20T20:45:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260820671650/en/Saba-Capital-Income-Opportunities-Fund-BRW-and-Saba-Capital-Income-Opportunities-Fund-II-SABA-Announce-Reapproval-of-Merger/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Evolution Petroleum Closes Strategic Acquisition of Midland Basin Mineral & Royalty Interests",
+      "description": "Acquisition is Immediately Accretive to Cash Flow per Share",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-20T20:40:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348830/0/en/evolution-petroleum-closes-strategic-acquisition-of-midland-basin-mineral-royalty-interests.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "The Los Angeles Lakers sold for $12.5 billion. Here’s what every NBA team is now worth",
       "description": "The pending $12.5 billion Lakers sale would lift CNBC’s average NBA team valuation 21% to $6.68 billion, with the Warriors still No. 1.",
       "source": "CNBC",
       "publication_date": "2026-08-20T20:28:21+00:00",
       "article_url": "https://www.cnbc.com/2026/08/20/heres-how-the-los-angeles-lakers-12point5b-sale-impacts-the-value-of-all-30-nba-teams.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Binance opens crypto trading to AI agents with user-set controls",
+      "description": "Binance’s Agent OS lets AI agents access market data, execute trades and make payments while giving users control over permissions and account access.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-20T20:26:28+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-opens-crypto-trading-to-ai-agents-with-user-set-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "T. Rowe Price announces F/m Investments acquisition, terms undisclosed",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-20T20:14:47+00:00",
+      "article_url": "https://seekingalpha.com/news/4635646-t-rowe-price-announces-fm-investments-acquisition-terms-undisclosed?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -39,16 +80,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-20T19:59:52+00:00",
       "article_url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Generational Capital Markets Advises Mayatax in Investment Partnership with Heritage Point Partners",
-      "description": "DALLAS--(BUSINESS WIRE)--Generational Capital Markets advises Mayatax, a Houston tax firm, on its investment partnership with Heritage Point Partners, closed May 26, 2026.",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-20T19:56:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820662134/en/Generational-Capital-Markets-Advises-Mayatax-in-Investment-Partnership-with-Heritage-Point-Partners/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
       ]
@@ -123,16 +154,6 @@
         "forex",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T17:16:34+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -991,6 +1012,16 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T04:16:34+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
       "description": "",
       "source": "CoinDesk",
@@ -1046,8 +1077,8 @@
       ]
     },
     {
-      "headline": "Oil hits more than three-week high as Trump threatens Iran-related retaliation - Reuters",
-      "description": "Oil hits more than three-week high as Trump threatens Iran-related retaliation Reuters",
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-20T01:11:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
@@ -1664,26 +1695,6 @@
       ]
     },
     {
-      "headline": "Aurora Cannabis shareholders urged to wait on Curaleaf bid",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-19T12:06:43+00:00",
-      "article_url": "https://seekingalpha.com/news/4634848-aurora-cannabis-shareholders-urged-to-wait-on-curaleaf-bid?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Veralto to acquire Cleanwater1 for $465M",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-19T12:06:03+00:00",
-      "article_url": "https://seekingalpha.com/news/4634862-veralto-to-acquire-cleanwater1-for-465m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
       "description": "",
       "source": "CoinDesk",
@@ -2041,16 +2052,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-19T03:58:13+00:00",
       "article_url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UAE says Iran fired 2 missiles at country as war drags on",
-      "description": "The last time the UAE Defense Ministry confirmed being attacked by Iran was in May, when Tehran carried out several strikes on the country.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T03:53:11+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/uae-says-iran-fired-two-missiles-at-country-as-war-drags-on",
       "asset_tags": [
         "general"
       ]
