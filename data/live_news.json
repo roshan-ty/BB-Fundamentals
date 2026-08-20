@@ -1,18 +1,92 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-20T15:30:50.294195+00:00",
+    "last_updated": "2026-08-20T16:02:10.891954+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 58,
-      "general": 99,
-      "equities": 35,
-      "macro": 19,
+      "crypto": 59,
+      "general": 100,
+      "equities": 37,
+      "macro": 18,
       "forex": 13,
       "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "description": "A new poll showed 64% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-20T15:53:51+00:00",
+      "article_url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+      "description": "The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-20T15:42:14+00:00",
+      "article_url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Anthropic AI venture to acquire consultancy firm: report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-20T15:41:51+00:00",
+      "article_url": "https://seekingalpha.com/news/4635529-anthropic-ai-venture-to-acquire-consultancy-firm-report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
+      "description": "Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-20T15:40:54+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Arctos agrees to buy 10% of Atlanta Falcons at $10.6 billion valuation, sources say",
+      "description": "Private equity firm Arctos has agreed to buy 10% of the Atlanta Falcons in a deal valued at $10.6 billion, two sources told CNBC.",
+      "source": "CNBC",
+      "publication_date": "2026-08-20T15:08:28+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/20/arctos-agrees-to-buy-10percent-of-atlanta-falcons-at-10point6-billion-valuation-sources.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
+      "description": "<ul><li>Buyback could be more than 4 billion</li><li>Part of it is signalling </li><li>We want to show that yields do not reflect underlying fundamentals</li><li>Probably going to announce increased focus on fiscal consolidation </li><li>Nothing magic about $40 trillion debt number</li><li>Expect ta",
+      "source": "Forexlive",
+      "publication_date": "2026-08-20T15:04:57+00:00",
+      "article_url": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Certerra Expands Southeast Presence with Acquisition of Skyrise Engineering and Testing",
+      "description": "FORT LAUDERDALE, Fla. & LAS VEGAS--(BUSINESS WIRE)-- #AECIndustry--Certerra today announced the acquisition of Skyrise Engineering and Testing, a rapidly growing engineering and consulting firm headquartered in Fort Lauderdale, Fla. The transaction marks Certerra’s fifth acquisition of 2026, further",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-20T15:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260820969723/en/Certerra-Expands-Southeast-Presence-with-Acquisition-of-Skyrise-Engineering-and-Testing/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Harry and Meghan: Their life together in photos - Reuters",
       "description": "Harry and Meghan: Their life together in photos Reuters",
@@ -41,27 +115,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG03UE5RQVR1RzZTc3d2REJhZVRDUWZRbkZtcnZnUUFWMS1UenhvQnZ3SHozRTA2TEZoRW91X3pRQm5DbkdsYm5fRlJfN0I0YmZ3T3BlQ2YwUUQtS0JhWW44a0FTNThMcnVSU2xleExYVWJZV2VkVlNqUktGSHRpTjd1LXZBQjF2anhaazRHbDdySkNBQVM0U0JoVGxZT3cyUnJGZm0ta1c1TlljUVljMVR5NGdBSWotc2NxeW1FZ1ZGdE1nVXJwRVRsV2s?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "US leading index for July +0.2% vs +0.1% expected",
-      "description": "<ul><li>Prior -0.2% (revised to -0.1%)</li></ul><p>The Conference Board Leading Economic Index increased by 0.2% in July, after an upwardly revised decline of 0.1% in June. As a result, the LEI’s six-month growth rate turned positive, to an increase of 0.2% between January and July 2026, a sharp rev",
-      "source": "Forexlive",
-      "publication_date": "2026-08-20T14:00:08+00:00",
-      "article_url": "https://investinglive.com/news/us-leading-index-for-july-0-2-vs-0-1-expected/",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Barnes Aerospace Acquires Jet AirWerks LLC to Expand Commercial Aeroengine Component Repair and Overhaul Capabilities",
-      "description": "BRISTOL, Conn.--(BUSINESS WIRE)--Barnes Aerospace, a global provider of component engineering, manufacturing and repair solutions for the aerospace industry, today announced the closing of its acquisition of Jet AirWerks LLC (“Jet AirWerks”), a provider of inspection, repair, overhaul and disassembl",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-20T14:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820687407/en/Barnes-Aerospace-Acquires-Jet-AirWerks-LLC-to-Expand-Commercial-Aeroengine-Component-Repair-and-Overhaul-Capabilities/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -103,16 +156,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348483/0/es/zenatech-cierra-su-28-a-adquisici%C3%B3n-de-drones-como-servicio-incorporando-una-empresa-canadiense-de-ingenier%C3%ADa-civil-y-estructural-con-clientes-en-cinco-provincias.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T13:20:02+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -634,6 +677,16 @@
       ]
     },
     {
+      "headline": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
+      "description": "German spy agency opens helpline for those exiled from Russia, China Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T08:25:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0ZpY0hRRGNUbXJaUERQNlAtUWFHU3hCWi16UlRkUFg5TGVkUWtYeHFiQl80M1loeVd6OF9ORHRmQ000dlpYdWlZdERFR0V5Wm5mOGxfOXlvMnQtUFY0WFB6LWYwMXRaT0JmVmVCcC13Z0JiTUJHb01mU2phQ3QwQ1BmSm91QzB3Ul9yZWNySWN4SFNXZm9IX0hfTGlfNDBnbzlxNnVHTW1ydw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "BitGo Korea secures VASP registration for institutional crypto custody",
       "description": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
       "source": "Cointelegraph",
@@ -787,6 +840,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T01:51:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1623,26 +1686,6 @@
       ]
     },
     {
-      "headline": "Form-8.3 APTITUDE SOFTWARE GROUP PLC - 18 08 2026 - (CGAML)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T09:26:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347466/0/en/form-8-3-aptitude-software-group-plc-18-08-2026-cgaml.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 18 08 2026 - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T09:24:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347463/0/en/form-8-3-advanced-medical-solutions-group-plc-18-08-2026-cgwl.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
       "description": "",
       "source": "CoinDesk",
@@ -2009,46 +2052,6 @@
       "asset_tags": [
         "forex",
         "crypto"
-      ]
-    },
-    {
-      "headline": "U.S. SEC proposes first major crypto rule in surprise announcement",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T19:09:33+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/18/r",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-18T18:57:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
-      "description": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-18T17:39:37+00:00",
-      "article_url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-      "description": "Fixed income market watchers ascribe a run that began in June to a number of variables.",
-      "source": "CNBC",
-      "publication_date": "2026-08-18T17:26:34+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
