@@ -1,18 +1,94 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T08:52:10.759741+00:00",
+    "last_updated": "2026-08-21T09:33:58.719896+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 92,
-      "equities": 36,
+      "equities": 37,
+      "commodities": 13,
       "forex": 15,
-      "macro": 16,
-      "crypto": 69,
-      "commodities": 12
+      "crypto": 70,
+      "macro": 19,
+      "general": 90
     }
   },
   "articles": [
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T08:52:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348936/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T08:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348935/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Why markets care more about the signal than the size of the Treasury buyback",
+      "description": "<p>The first thing any trader should learn is that markets move on expectations. It doesn't matter if they are right or wrong, prices will still move based on the prevailing context and expectations about the future. If something changes those expectations, markets will just reprice to reflect the n",
+      "source": "Forexlive",
+      "publication_date": "2026-08-21T08:50:53+00:00",
+      "article_url": "https://investinglive.com/news/why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SPIRE HEALTHCARE GROUP PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T08:50:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348933/0/en/dimensional-fund-advisors-ltd-form-8-3-spire-healthcare-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+      "description": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T08:48:52+00:00",
+      "article_url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Rotork PLC",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T08:48:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348931/0/en/form-8-3-rotork-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T08:48:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348932/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Form 8.5 (EPT/RI) - Kore Potash Plc",
       "description": "FORM 8.5 (EPT/RI)",
@@ -94,14 +170,12 @@
       ]
     },
     {
-      "headline": "Euro area business activity sees further pick up in August despite France, Germany softness",
-      "description": "<ul><li>August flash services PMI 51.7 vs 51.5 expected</li><li>Prior 51.7</li><li>August flash manufacturing PMI 52.8 vs 51.8 expected</li><li>Prior 51.9</li><li>August flash composite PMI 52.1 vs 51.7 expected</li><li>Prior 52.0</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">A",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T08:00:23+00:00",
-      "article_url": "https://investinglive.com/news/euro-area-business-activity-sees-further-pick-up-in-august-despite-france-germany-softness/",
+      "headline": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure - Reuters",
+      "description": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T08:14:41+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
       "asset_tags": [
-        "forex",
-        "equities",
         "macro"
       ]
     },
@@ -111,6 +185,16 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-21T07:56:42+00:00",
       "article_url": "https://seekingalpha.com/news/4635746-questor-technology-signs-loi-to-acquire-emission-rx-for-up-to-c3m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Six months of war - Reuters",
+      "description": "Six months of war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T07:53:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -279,8 +363,8 @@
       ]
     },
     {
-      "headline": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
-      "description": "Oil set for second weekly rise as unsettled US-Iran war crimps supply Reuters",
+      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+      "description": "Oil set for second weekly gain as US ramps up pressure on Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-21T01:50:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
@@ -872,16 +956,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T11:18:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348243/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
       "description": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
       "source": "Cointelegraph",
@@ -899,16 +973,6 @@
       "article_url": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Irish Continental Group Plc - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T11:12:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348238/0/en/dimensional-fund-advisors-ltd-form-8-3-irish-continental-group-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -938,17 +1002,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-20T11:00:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348229/0/en/labrador-gold-announces-investment-in-san-cristobal-mining.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T10:59:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348202/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
       "asset_tags": [
         "equities",
         "commodities"
@@ -1071,16 +1124,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-20T09:30:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348152/0/en/form-8-3-ramsdens-holdings-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Rotork plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T09:28:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348149/0/en/form-8-3-rotork-plc.html",
       "asset_tags": [
         "general"
       ]
@@ -1401,26 +1444,6 @@
       ]
     },
     {
-      "headline": "SpaceX tried to purchase AI coding startup Cognition - Bloomberg",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-19T21:47:38+00:00",
-      "article_url": "https://seekingalpha.com/news/4635188-spacex-tried-to-purchase-ai-coding-startup-cognition---bloomberg?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Canadian regulator seeks to block Nortera-B&G Foods deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-19T21:08:29+00:00",
-      "article_url": "https://seekingalpha.com/news/4635170-canadian-regulator-seeks-to-block-nortera-b-and-g-foods-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
       "description": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
       "source": "Cointelegraph",
@@ -1429,6 +1452,16 @@
       "asset_tags": [
         "forex",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Lebanon hands Assad-era general to Syria in first such transfer since Assad’s fall - Reuters",
+      "description": "Lebanon hands Assad-era general to Syria in first such transfer since Assad’s fall Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T20:14:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWE1rY294d19rVW51c1RpWk1tQUhpdWtvY0ZialJkREZuUFFYQklmLXhsQ19JMmlOM0ZMVzJ6bWdUdXlhSXdadXZ1NVRuWHdxMFVDMUp2a1hIYmM5b0RkSEtGZnJ0OXh5WnBwcm5RcUlDREdBcmYxVkl1Mnp2VlAwSzJXN3RVZXkzTDFWZmZDWmhmRUJONVlrVWFYYUlHSDNsYy1NMkhJWWJaSElXOU9neVNCbkF1bHlpbjQxYWRmUk5ZWGptLVZxeg?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1472,16 +1505,6 @@
       ]
     },
     {
-      "headline": "World Services Group Earns Band 1 Chambers and Partners Rankings Across Global and Regional Guides for 2026",
-      "description": "World Services Group (WSG), the most prominent global network of independent firms and professional services organizations, is proud to announce that WSG has earned Band 1 rankings across all Chambers and Partners regional network listings, along with multiple recognitions in the Chambers Global Gui",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T19:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347950/0/en/world-services-group-earns-band-1-chambers-and-partners-rankings-across-global-and-regional-guides-for-2026.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
       "source": "CNBC",
@@ -1499,16 +1522,6 @@
       "article_url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Dominion Energy upgraded at TD Cowen on favorable merger odds",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-19T18:29:36+00:00",
-      "article_url": "https://seekingalpha.com/news/4635072-dominion-energy-upgraded-at-td-cowen-on-favorable-merger-odds?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1974,6 +1987,17 @@
       ]
     },
     {
+      "headline": "UK inflation picks up after July surge in household energy bills - Reuters",
+      "description": "UK inflation picks up after July surge in household energy bills Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T09:11:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDlHUDNTVHV0SHFvcWN2UEZSQmN3TENFSklmWXJlRjY0ZFBhOU0zcUdwN0JNRE5JNFMtVmxiZTdMeW9ZRFZlSm5lcjhwcTRpd04xanJQMkhhSGQydTVmeGhEZk9VUzlDOEZRak02ZDVMdWNjaHl2VEpPaThuNExYMVl0eGNHdnRWdTVtNFk5NHU?oc=5",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
       "headline": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
       "description": "",
       "source": "CoinDesk",
@@ -2031,26 +2055,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas - Reuters",
-      "description": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T07:11:08+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmZvWi1pSnAyOW9WZ0lLdkhfcDZvVXNPODFDRE9OYjVvYXJ1MmJzNFN5Z1FJNDgyNzFRR05pNHlValB2RFZuT3lmSVU4UEFkNUdSaEQ0RXBUZ2c0enpCRzlOZWJVUERyTGxlYUplTnY5YVNYekNZMXdqQWtsM1lLUWI1WGxHd0V6d183MGxVQkpqdFpDUmRVZjloNFVyWnRWSU9J?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T06:36:11+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
