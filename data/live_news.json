@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T19:48:30.490943+00:00",
+    "last_updated": "2026-08-21T20:02:39.525218+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 43,
+      "general": 88,
+      "equities": 41,
       "commodities": 11,
       "crypto": 74,
-      "macro": 22,
-      "general": 87,
-      "forex": 13
+      "forex": 14,
+      "macro": 22
     }
   },
   "articles": [
+    {
+      "headline": "Generational Group Advises J.C. Services, LLC dba American Chimney & Fireplace in its Sale to Chimney Collective",
+      "description": "DALLAS--(BUSINESS WIRE)--Generational Group announces the sale of American Chimney & Fireplace to Chimney Collective, expanding its residential services network.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-21T19:41:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260821585501/en/Generational-Group-Advises-J.C.-Services-LLC-dba-American-Chimney-Fireplace-in-its-Sale-to-Chimney-Collective/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
       "description": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
@@ -26,6 +36,28 @@
       ]
     },
     {
+      "headline": "Onchain, in court: What happened in crypto legal news this week",
+      "description": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T19:19:27+00:00",
+      "article_url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "description": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T19:10:47+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
       "headline": "USDJPY sets the close guardrails for next week's trading",
       "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDJPY has set the technical guardrails for the rest of today and heading into next week.</p><p>Looking at the hourly chart, the low for the day stalled just ahead of the 200-day moving average, currently at 158.313. The low reached 158.35 before buyers",
       "source": "Forexlive",
@@ -33,6 +65,16 @@
       "article_url": "https://investinglive.com/technical-analysis/usdjpy-sets-the-close-guardrails-for-next-week-s-trading/",
       "asset_tags": [
         "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Wall St indexes eye weekly losses; bond yields and Iran in focus - Reuters",
+      "description": "Wall St indexes eye weekly losses; bond yields and Iran in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T18:57:01+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+      "asset_tags": [
         "macro"
       ]
     },
@@ -117,16 +159,6 @@
       ]
     },
     {
-      "headline": "Oil rises as Trump threatens sanctions on Iran partners - Reuters",
-      "description": "Oil rises as Trump threatens sanctions on Iran partners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T16:13:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
       "description": "Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaan, Strive and Metaplanet posting double-digit gains as crypto stocks surged.",
       "source": "Cointelegraph",
@@ -188,16 +220,6 @@
       "article_url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "انضمام PCI Energy Solutions إلى شركة Mitsubishi Electric، بما يعزز الالتزام طويل الأجل تجاه العملاء، والموظفين، قطاع الطاقة",
-      "description": "نورمان، أوكلاهوما--(BUSINESS WIRE)--أعلنت شركة PCI Energy Solutions (\"PCI\")، المزود الرائد لبرمجيات المؤسسات لإدارة الطاقة وتحسينها والتي مقرها الولايات المتحدة، اليوم أنها دخلت في اتفاقية نهائية ليتم الاستحواذ عليها من قِبل شركة Mitsubishi Electric Corporation. تم تنفيذ الاتفاقية في 20 أغسطس 2026 (",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-21T14:55:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820810819/ar/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -896,6 +918,16 @@
       ]
     },
     {
+      "headline": "Oil rises as Trump threatens sanctions on Iran partners - Reuters",
+      "description": "Oil rises as Trump threatens sanctions on Iran partners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T01:50:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Iran vows 'devastating' response to US threat to cut off its economic lifelines - Reuters",
       "description": "Iran vows 'devastating' response to US threat to cut off its economic lifelines Reuters",
       "source": "Reuters",
@@ -1016,16 +1048,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T20:19:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1408,6 +1430,16 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T12:00:31+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
       "description": "",
       "source": "CoinDesk",
@@ -1715,16 +1747,6 @@
       ]
     },
     {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T04:38:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "India bars JPMorgan unit for alleged market manipulation",
       "description": "SEBI impounded 37 million rupees ($386,000), which it described as wrongful gains made by JPMorgan unit Copthall Mauritius Investment Ltd. and local firm Mansi Share and Stock Broking Ltd",
       "source": "Bloomberg",
@@ -1802,6 +1824,16 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-20T02:00:44+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T01:11:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2027,38 +2059,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-19T15:50:58+00:00",
       "article_url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
-      "description": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T15:44:09+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Wall Street analysts just called this healthcare stock a buy — here’s our take",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "publication_date": "2026-08-19T15:39:52+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/19/wall-street-analysts-just-called-this-healthcare-stock-a-buy-heres-our-take.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T15:22:47+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
       "asset_tags": [
         "crypto"
       ]
