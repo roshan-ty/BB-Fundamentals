@@ -1,18 +1,42 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T03:38:54.578586+00:00",
+    "last_updated": "2026-08-21T04:23:05.398147+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 66,
+      "forex": 12,
       "equities": 36,
-      "crypto": 65,
+      "commodities": 16,
       "macro": 18,
-      "commodities": 15,
-      "general": 99,
-      "forex": 11
+      "general": 98
     }
   },
   "articles": [
+    {
+      "headline": "Capital.com plans UAE spot crypto services after affiliate wins licence",
+      "description": "UAE clients will be able to buy and hold crypto through Capital.com’s app, expanding beyond price exposure through contracts for difference.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T03:33:11+00:00",
+      "article_url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific market news: Surge for crypto",
+      "description": "<ul><li><a href=\"https://investinglive.com/stock-market-update/asia-shares-mixed-as-nikkei-heads-for-worst-week-in-a-month-on-oil-fears\" rel=\"follow\">Asia shares mixed as Nikkei heads for worst week in a month on oil fears</a></li><li><a href=\"https://investinglive.com/news/china-vice-finance-minist",
+      "source": "Forexlive",
+      "publication_date": "2026-08-21T03:28:29+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-surge-for-crypto/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "MEXC Reports 142% Volume Surge for MU Futures Following Record Micron Earnings Beat",
       "description": "VICTORIA, Seychelles, June 26, 2026 /PRNewswire/ — MEXC, a pioneer in 0-fee digital asset trading, releases its observations on equity-related futures trading activity around Micron’s (MU) earnings report. Micron posted quarterly revenue of approximately $41.4 billion, significantly exceeding market",
@@ -21,18 +45,6 @@
       "article_url": "https://cryptocurrencynews.com/crypto/mexc-reports-142-volume-surge-for-mu-futures-following-record-micron-earnings-beat/",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "China vice finance minister signals more fiscal support as economy slows",
-      "description": "<p dir=\"ltr\">Liao Min's comments arrive against a backdrop of a broadening Chinese slowdown, with industrial output and retail sales both missing forecasts in July and officials already weighing fresh stimulus after growth abruptly weakened. The emphasis on timely, incremental measures rather than a",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T02:41:53+00:00",
-      "article_url": "https://investinglive.com/news/china-vice-finance-minister-signals-more-fiscal-support-as-economy-slows/",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -118,6 +130,16 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T22:48:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Questor Technology Signs Letter of Intent to Acquire Emission Rx in Strategic Move to Lead North American Emissions Combustion Technology",
       "description": "CALGARY, Alberta, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Questor Technology Inc. (“Questor” or the “Company”) (TSXV: QST) announces that it has entered into an LOI to acquire Emission Rx Ltd. (“Emission Rx”), a privately held Calgary-based waste gas combustion service company (the “Transaction”). Through",
       "source": "GlobalNewswire",
@@ -147,16 +169,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T21:00:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -208,6 +220,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T20:19:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1199,16 +1221,6 @@
       ]
     },
     {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T01:11:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
       "description": "Oil prices settle near 4-week high as Middle East crisis escalates Reuters",
       "source": "Reuters",
@@ -2043,16 +2055,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-19T04:17:18+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Pictures of the Day | August 18, 2026 - Reuters",
-      "description": "Pictures of the Day | August 18, 2026 Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T04:11:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
       "asset_tags": [
         "general"
       ]
