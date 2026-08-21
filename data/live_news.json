@@ -1,27 +1,47 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T15:17:29.540338+00:00",
+    "last_updated": "2026-08-21T15:52:36.553032+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 13,
+      "general": 86,
+      "forex": 14,
       "macro": 21,
-      "general": 85,
-      "commodities": 10,
-      "crypto": 74,
-      "equities": 41
+      "commodities": 11,
+      "crypto": 72,
+      "equities": 42
     }
   },
   "articles": [
     {
-      "headline": "EU consumer confidence -15.5 versus -16.3 expected",
-      "description": "<ul><li>Prior month -15.9</li><li>Flash estimate for August -15.5 versus -16.3 estimate</li></ul><p></p><p></p><p>Every month, the Directorate-GeneralEconomic and Financial Affairs (DG ECFIN) of the European Commission releases the flash CCI for the EU andeuro-area aggregates, using the data availab",
+      "headline": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+      "description": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
+      "source": "CNBC",
+      "publication_date": "2026-08-21T15:08:00+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump: Gets rid of 26.4% tariffs on imported beef and prices will come down by 25%",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">President Trump is looking to solve another problem - the rising cost of beef prices. He is solving the problem by getting rid of a tariff. Trump in a TruthSocial post said: </p><p class=\"PDq2pG_selectionAnchorContainer\"></p><p class=\"PDq2pG_selectionAnchor",
       "source": "Forexlive",
-      "publication_date": "2026-08-21T14:04:08+00:00",
-      "article_url": "https://investinglive.com/news/eu-consumer-confidence-15-5-versus-16-3-expected/",
+      "publication_date": "2026-08-21T14:59:43+00:00",
+      "article_url": "https://investinglive.com/news/trump-gets-rid-of-26-4-tariffs-on-imported-beef-and-prices-will-come-down-by-25/",
       "asset_tags": [
         "forex",
         "macro"
+      ]
+    },
+    {
+      "headline": "انضمام PCI Energy Solutions إلى شركة Mitsubishi Electric، بما يعزز الالتزام طويل الأجل تجاه العملاء، والموظفين، قطاع الطاقة",
+      "description": "نورمان، أوكلاهوما--(BUSINESS WIRE)--أعلنت شركة PCI Energy Solutions (\"PCI\")، المزود الرائد لبرمجيات المؤسسات لإدارة الطاقة وتحسينها والتي مقرها الولايات المتحدة، اليوم أنها دخلت في اتفاقية نهائية ليتم الاستحواذ عليها من قِبل شركة Mitsubishi Electric Corporation. تم تنفيذ الاتفاقية في 20 أغسطس 2026 (",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-21T14:55:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260820810819/ar/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -42,16 +62,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349121/0/en/form-8-3-dcc-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "PCI Energy Solutions、三菱電機グループ入りへ、顧客・従業員・エネルギー業界への長期的なコミットメントを強化",
-      "description": "オクラホマ州ノーマン--(BUSINESS WIRE)--（ビジネスワイヤ） -- 米国を拠点とするエネルギー管理・最適化向けエンタープライズ・ソフトウエアの大手プロバイダーであるPCI Energy Solutions（以下「PCI」）は、三菱電機株式会社によるPCIの買収に関する最終契約を締結したと発表しました。同契約は2026年8月20日（日本時間）に締結されました。 本取引は、PCIの事業、技術、従業員、顧客との関係、エネルギー業界における地位に対する高い評価の表れです。三菱電機は、本取引完了後もPCIの中核経営陣を留任させる意向であり、これによりPCIは、経営体制の継続性、業界の専門",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-21T13:49:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820255023/ja/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -546,6 +556,18 @@
       ]
     },
     {
+      "headline": "European shares climb on gold boost; weekly decline still in sight - Reuters",
+      "description": "European shares climb on gold boost; weekly decline still in sight Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T08:36:25+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGI4aEFTYmRYM0wyeVlIYmtqcjNFRWpHQndSS1FZRzBqTnZUUmJoRGdXTGNtV2VaakRWdzBqNmZpUWh5OFdTM0RqWmZrQ0ZmX0VqMEtnRU5jOGlQUDlHR0VxX1JhMS15ZGtCVmNDWV9QUTN6WFlwalVqbTZvcXNDQzVVRjRwQU1XcUxPNmMyajMyMHdtbHVwY2dPWUpWOHJjTzFIR2RfV29QeW9wOEVqMFJvdVVHUQ?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities"
+      ]
+    },
+    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -778,16 +800,6 @@
       ]
     },
     {
-      "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
-      "description": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T21:22:25+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin breaks above 200-day moving average for first time since November",
       "description": "The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.",
       "source": "Cointelegraph",
@@ -851,16 +863,6 @@
       ]
     },
     {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T20:19:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "T. Rowe Price announces F/m Investments acquisition, terms undisclosed",
       "description": "",
       "source": "SeekingAlpha",
@@ -898,6 +900,16 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
+      "description": "US will impose 'toughest sanctions in history' on Iran, Bessent says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T18:25:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1300,6 +1312,16 @@
       ]
     },
     {
+      "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
+      "description": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T11:32:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNk15eGo2WTQ2MFVpa1ViTEt2aFhNMUd5OU0ybFNGanlqbFhPVzhOTlhOTU94MXM5MTc5M2lVRk1yYmhYYzMxR3NiZGdaS1NVWTlXTTFEaWZVRFF6TUozRUdTTnl4WUxxVGhjelJ0QTVIc0pRQnlPSUlncGRROWs4d3J1a0hCdmNTeHdwRWNNS0ZoYzJLeUQ0OW1vLWhEclZtVS1sYTl0bEoyaWN5a2tDQ2xGWnk2dGpPV3ZTSGU0UXZRSW9uNm5hd05n?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
       "description": "",
       "source": "CoinDesk",
@@ -1620,11 +1642,11 @@
       ]
     },
     {
-      "headline": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
-      "description": "US will impose 'toughest sanctions in history' on Iran, Bessent says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T02:29:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
+      "headline": "Gurman Says No Camera-Equipped AirPods Until 2027",
+      "description": "",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-20T02:28:03+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
       "asset_tags": [
         "general"
       ]
@@ -1635,6 +1657,16 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-20T02:00:44+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T01:11:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2023,36 +2055,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-19T13:00:00+00:00",
       "article_url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T12:45:35+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T12:01:09+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
       "asset_tags": [
         "general"
       ]
