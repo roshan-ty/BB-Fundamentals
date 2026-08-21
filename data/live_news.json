@@ -1,52 +1,90 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T02:49:49.131830+00:00",
+    "last_updated": "2026-08-21T03:38:54.578586+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "commodities": 17,
-      "forex": 13,
       "equities": 36,
-      "crypto": 63,
-      "macro": 19,
-      "general": 99
+      "crypto": 65,
+      "macro": 18,
+      "commodities": 15,
+      "general": 99,
+      "forex": 11
     }
   },
   "articles": [
     {
-      "headline": "PCI Energy Solutions將加入Mitsubishi Electric，進一步強化對客戶、員工及能源產業的長期承諾",
-      "description": "奧克拉荷馬州諾曼--(BUSINESS WIRE)--(美國商業資訊)-- 總部位於美國的一流能源管理與最佳化企業軟體供應商PCI Energy Solutions (\"PCI\")今日宣布，已與Mitsubishi Electric Corporation達成最終收購協議。該協議於日本標準時間2026年8月20日正式簽署。 此次交易是對PCI業務、技術、員工、客戶關係及其在能源產業地位的強力肯定。Mitsubishi Electric計畫在交易完成後保留PCI的核心管理團隊，使PCI能夠保持領導層的連續性、產業專長以及客戶至上的營運模式，同時受惠於Mitsubishi Electric的全球規",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-21T01:51:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820927505/zh-HK/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "MEXC Reports 142% Volume Surge for MU Futures Following Record Micron Earnings Beat",
+      "description": "VICTORIA, Seychelles, June 26, 2026 /PRNewswire/ — MEXC, a pioneer in 0-fee digital asset trading, releases its observations on equity-related futures trading activity around Micron’s (MU) earnings report. Micron posted quarterly revenue of approximately $41.4 billion, significantly exceeding market",
+      "source": "Cryptocurrency News",
+      "publication_date": "2026-08-21T03:09:58+00:00",
+      "article_url": "https://cryptocurrencynews.com/crypto/mexc-reports-142-volume-surge-for-mu-futures-following-record-micron-earnings-beat/",
       "asset_tags": [
-        "commodities"
+        "equities"
       ]
     },
     {
-      "headline": "Bitcoin price forecasts for year 2027",
-      "description": "<p>Bitcoin forecasts for 2027: One speculative fractal scenario maps a $148,000 peak</p><p>Bitcoin could approach $145,000-$150,000 around summer 2027 under one long-range chart scenario. The projection combines a repeated historical price pattern with an extended resistance line drawn across three ",
+      "headline": "China vice finance minister signals more fiscal support as economy slows",
+      "description": "<p dir=\"ltr\">Liao Min's comments arrive against a backdrop of a broadening Chinese slowdown, with industrial output and retail sales both missing forecasts in July and officials already weighing fresh stimulus after growth abruptly weakened. The emphasis on timely, incremental measures rather than a",
       "source": "Forexlive",
-      "publication_date": "2026-08-21T00:52:34+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-price-forecasts-for-year-2028/",
+      "publication_date": "2026-08-21T02:41:53+00:00",
+      "article_url": "https://investinglive.com/news/china-vice-finance-minister-signals-more-fiscal-support-as-economy-slows/",
       "asset_tags": [
-        "forex",
         "equities",
         "crypto",
         "macro"
       ]
     },
     {
-      "headline": "Flash PMI shows Japan factories leading strongest growth since February",
-      "description": "<p dir=\"ltr\">The acceleration in output growth, combined with near record selling price inflation and a sustained rise in employment, strengthens the case for the Bank of Japan to proceed with a rate hike at its September meeting. A private sector expanding at its fastest pace in six months, alongsi",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T00:37:27+00:00",
-      "article_url": "https://investinglive.com/news/flash-pmi-shows-japan-factories-leading-strongest-growth-since-february/",
+      "headline": "PCI Energy Solutions se sumará a Mitsubishi Electric y consolida su compromiso a largo plazo con los clientes, los empleados y la industria energética",
+      "description": "NORMAN, Oklahoma--(BUSINESS WIRE)--PCI Energy Solutions (\"PCI\"), proveedor líder de software empresarial para la gestión y optimización de la energía, con sede en Estados Unidos, anunció hoy que ha firmado un acuerdo definitivo por el cual será adquirida por Mitsubishi Electric Corporation. El docum",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-21T01:57:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260820241591/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
-        "forex",
         "commodities",
-        "crypto",
-        "macro"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin pushes past $75,000 as rally continues.",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T01:55:50+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T01:51:56+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Oil set for second weekly rise as unsettled US-Iran war crimps supply - Reuters",
+      "description": "Oil set for second weekly rise as unsettled US-Iran war crimps supply Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T01:50:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US says it will impose 'toughest sanctions in history' on Iran - Reuters",
+      "description": "US says it will impose 'toughest sanctions in history' on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T23:59:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -90,16 +128,6 @@
       ]
     },
     {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T22:17:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
       "description": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land Reuters",
       "source": "Reuters",
@@ -119,6 +147,16 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T21:00:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -210,16 +248,6 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
-      "description": "US will impose 'toughest sanctions in history' on Iran, Bessent says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T18:25:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1151,6 +1179,16 @@
       ]
     },
     {
+      "headline": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
+      "description": "US will impose 'toughest sanctions in history' on Iran, Bessent says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T02:29:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "OpenAI to enhance safety processes for paid tool customers",
       "description": "OpenAI said it will enhance safety processes for paying users who have access to its most advanced artificial intelligence models, stepping up its safeguards at a time when customers are entrusting AI with more complex tasks and sensitive information.",
       "source": "Bloomberg",
@@ -1166,6 +1204,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-20T01:11:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
+      "description": "Oil prices settle near 4-week high as Middle East crisis escalates Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T00:10:58+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSkdUVWxmeFlpYXd4VjhyeHhvNjBmaVlPbVdFemxvNTJHaExLNWhQbzNXeTN5QkVkWVh4aVU4ODJCWnFGazJnQklMejNuVnpPaHFUN1JEM1lFZ3FZaG96ME00QWdZN1JmYW5fN1lXNmV6dDVZUWxFWlJYc05BaEtzbEpGbXlqSHoxRnB3dTQ2NnZXX0tzRENESXFhRDlGSmxNT01LMWhSWQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1914,16 +1962,6 @@
       ]
     },
     {
-      "headline": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
-      "description": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T06:46:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
       "description": "",
       "source": "CoinDesk",
@@ -2015,47 +2053,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-19T04:11:33+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LaVExX2JhY0VxcXFVanBJbWdlSk9OeGZTbnpsSTV5VmJkMjY1VHJIcWFHZGg3bDRjTWpGSHVNU3g5TmhsSE9kVE1URmdQbVJzRS1WaTFPZDBSaWZZZHJrdG1IbmpfX0x5ZVpMaUpvNXBUYlhYX251YzBpQlU?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Energy stocks hit record as oil rises on fading deal hopes",
-      "description": "The S&P 500 Energy Sector Index climbed 1.8% on Tuesday, marking the first all-time high for the gauge since March 27",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T04:09:16+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Anthropic pre-IPO credit facility set to climb past $10 billion",
-      "description": "The Claude chatbot maker’s proposed expansion of its so-called revolver is drawing a clutch of banks seeking to bolster their pitch for roles on the IPO",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T04:06:16+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
-      "description": "The FASB said secondary-market liquidity alone would not be enough, with holders needing direct issuer redemption rights and one-to-one liquid reserves.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T03:58:13+00:00",
-      "article_url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UAE says Iran fired 2 missiles at country as war drags on",
-      "description": "The last time the UAE Defense Ministry confirmed being attacked by Iran was in May, when Tehran carried out several strikes on the country.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T03:53:11+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/uae-says-iran-fired-two-missiles-at-country-as-war-drags-on",
       "asset_tags": [
         "general"
       ]
