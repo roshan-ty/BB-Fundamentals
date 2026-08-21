@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T10:05:18.936009+00:00",
+    "last_updated": "2026-08-21T10:43:54.345562+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 89,
-      "crypto": 72,
+      "general": 90,
+      "crypto": 71,
       "macro": 21,
       "equities": 36,
       "commodities": 13,
@@ -13,6 +13,16 @@
     }
   },
   "articles": [
+    {
+      "headline": "Coldcard strengthens seed generation with firmware update",
+      "description": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T10:13:23+00:00",
+      "article_url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Man Group PLC : Form 8.3 - Senior plc",
       "description": "FORM 8.3",
@@ -554,6 +564,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T20:19:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1415,16 +1435,6 @@
       ]
     },
     {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T01:11:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Oil prices settle near 4-week high as Middle East crisis escalates - Reuters",
       "description": "Oil prices settle near 4-week high as Middle East crisis escalates Reuters",
       "source": "Reuters",
@@ -2046,16 +2056,6 @@
       "article_url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin ETFs add $189M as August net inflows approach $1B",
-      "description": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T07:59:16+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
