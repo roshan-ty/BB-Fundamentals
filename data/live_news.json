@@ -1,18 +1,41 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T19:24:44.690299+00:00",
+    "last_updated": "2026-08-21T19:48:30.490943+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 42,
-      "general": 88,
+      "equities": 43,
       "commodities": 11,
-      "crypto": 73,
+      "crypto": 74,
       "macro": 22,
+      "general": 87,
       "forex": 13
     }
   },
   "articles": [
+    {
+      "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+      "description": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
+      "source": "CNBC",
+      "publication_date": "2026-08-21T19:21:21+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "USDJPY sets the close guardrails for next week's trading",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDJPY has set the technical guardrails for the rest of today and heading into next week.</p><p>Looking at the hourly chart, the low for the day stalled just ahead of the 200-day moving average, currently at 158.313. The low reached 158.35 before buyers",
+      "source": "Forexlive",
+      "publication_date": "2026-08-21T19:01:19+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/usdjpy-sets-the-close-guardrails-for-next-week-s-trading/",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -31,18 +54,6 @@
       "article_url": "https://seekingalpha.com/news/4635961-charter-closes-cox-deal-sees-potential-for-1-billion-in-annual-synergies?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "AUDUSD is the biggest mover today and trades at highest level since early June",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The AUD is the strongest of the major currencies against the USD today, rising 0.86% and pushing AUDUSD to its highest level since early June. The pair has reached a high of 0.7178, with the next key upside target coming in at the swing area between 0.71993",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T17:54:35+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/audusd-is-the-biggest-mover-today-and-trades-at-highest-level-since-early-june/",
-      "asset_tags": [
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -71,6 +82,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-21T16:53:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349262/0/en/vireo-growth-inc-completes-acquisition-of-c21-investments-inc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "NATO members discuss Strait of Hormuz options without alliance involvement - Reuters",
+      "description": "NATO members discuss Strait of Hormuz options without alliance involvement Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T16:51:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC1YSDVDa3NjOU9ndVc5Z2ZkNVp3Vjliay1ObVFfcUw3UGYtdFU0ZkpjVTkzNWVjQnN0dzNVaGMzUnFOeG04TkZFd21kN3FCRkVrNG9pdzg4VWQ4SHU1YkhBRTVJeF9xaFJTUlM1UnRBUVFYVHNjdk9uc1lkSF95OG5ZWTNWbkYtNVZCem9xWFdTTnBxc014Z0JTRktydjZ6TTY5MnBlcE40ZGhGUzQ4WngteHd4dzE0Y0JhcjNGaGhsS2c?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -411,6 +432,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-21T11:25:55+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+      "description": "Ships passing through Hormuz hover in single digits, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T11:22:01+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -841,16 +872,6 @@
       "article_url": "https://cryptocurrencynews.com/crypto/mexc-reports-142-volume-surge-for-mu-futures-following-record-micron-earnings-beat/",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
-      "description": "Ships passing through Hormuz hover in single digits, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T02:43:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1571,16 +1592,6 @@
       ]
     },
     {
-      "headline": "The Iran war energy crisis is just getting started - Reuters",
-      "description": "The Iran war energy crisis is just getting started Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T10:02:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
       "description": "",
       "source": "CoinDesk",
@@ -1670,6 +1681,16 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "The Iran war energy crisis is just getting started - Reuters",
+      "description": "The Iran war energy crisis is just getting started Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T06:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -2040,26 +2061,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T15:22:29+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Injective receives SEC transfer agent registration for institutional services arm",
-      "description": "Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T15:19:21+00:00",
-      "article_url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
