@@ -1,30 +1,110 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T12:15:34.952629+00:00",
+    "last_updated": "2026-08-21T13:14:48.950780+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 15,
-      "equities": 38,
-      "commodities": 12,
+      "general": 86,
+      "forex": 14,
+      "macro": 21,
+      "equities": 40,
       "crypto": 74,
-      "macro": 22,
-      "general": 88
+      "commodities": 11
     }
   },
   "articles": [
     {
-      "headline": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
-      "description": "<p>Headlines:</p><ul><li><a href=\"https://investinglive.com/commodities/gold-stays-poised-to-post-third-straight-week-of-gains\" rel=\"follow\">Gold stays poised to post third straight week of gains</a></li><li><a href=\"https://investinglive.com/news/us-treasury-move-risks-creating-unintended-consequen",
+      "headline": "Binance says employees questioned in UAE cleared and released",
+      "description": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T12:48:04+00:00",
+      "article_url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
+      "description": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
+      "source": "CNBC",
+      "publication_date": "2026-08-21T12:32:32+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/21/wall-streets-existential-crisis-over-perpetual-futures-the-24/7-security-on-steroids-just-got-urgent.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Canada Retail sales for June 0.6% vs 0.4% estimate",
+      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior was +1.0% revised to 1.1%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">The advanced July reading comes in at 0.8%</li><li style=\"vertical-align: baseline; border: 0; margin: 0",
       "source": "Forexlive",
-      "publication_date": "2026-08-21T11:38:13+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-runs-higher-dollar-stays-under-pressure/",
+      "publication_date": "2026-08-21T12:31:15+00:00",
+      "article_url": "https://investinglive.com/news/canada-retail-sales-for-june-0-6-vs-0-4-estimate/",
       "asset_tags": [
         "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "reAlpha (NASDAQ: AIRE) Completes InstaMortgage Acquisition, Adding Direct Lending Capabilities to Company’s Integrated Platform",
+      "description": "Acquisition adds multi-state direct lending with in-house underwriting and funding, expanding reAlpha’s integrated mortgage platform across 38 states and Washington, D.C. Acquisition adds multi-state direct lending with in-house underwriting and funding, expanding reAlpha’s integrated mortgage platf",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T12:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349049/0/en/realpha-nasdaq-aire-completes-instamortgage-acquisition-adding-direct-lending-capabilities-to-company-s-integrated-platform.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T12:10:55+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Australia's Steadfast to be acquired by KKR-led group for $5.5B",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-21T12:09:00+00:00",
+      "article_url": "https://seekingalpha.com/news/4635828-australias-steadfast-to-be-acquired-by-kkr-led-group-for-55b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Werewolf Therapeutics and Ambros Therapeutics Announce Merger Agreement and Concurrent Oversubscribed $150 Million Private Placement",
+      "description": "WALTHAM, Mass. and SAN DIEGO, Aug. 21, 2026 (GLOBE NEWSWIRE) -- Werewolf Therapeutics, Inc. (Nasdaq: HOWL) and Ambros Therapeutics, Inc., today announced that they entered into a definitive merger agreement to combine the companies in an all-stock transaction. The combined company will focus on adva",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T12:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349041/0/en/werewolf-therapeutics-and-ambros-therapeutics-announce-merger-agreement-and-concurrent-oversubscribed-150-million-private-placement.html",
+      "asset_tags": [
         "equities",
-        "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
+      "description": "Standard Chartered’s Geoff Kendrick said Bitcoin could move toward its $126,000 all-time high after Oct. 6 as spot Bitcoin ETF inflows recover.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T11:58:10+00:00",
+      "article_url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bunker Hill Mining to buy Silver47 in $163M all-stock deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-21T11:53:19+00:00",
+      "article_url": "https://seekingalpha.com/news/4635843-bunker-hill-mining-to-buy-silver47-in-163m-all-stock-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities",
+        "commodities"
       ]
     },
     {
@@ -37,6 +117,36 @@
         "forex",
         "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T11:31:30+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "The hard truth is that the Clarity Act is an anti-crypto bill",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T11:30:00+00:00",
+      "article_url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T11:26:27+00:00",
+      "article_url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -128,16 +238,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-21T10:00:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348956/0/en/form-8-3-aptitude-software-group-plc-20-08-2026-cgaml.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
-      "description": "Oil set for second weekly gain as US ramps up pressure on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T09:56:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -518,6 +618,16 @@
       ]
     },
     {
+      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+      "description": "Oil set for second weekly gain as US ramps up pressure on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T01:50:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Iran vows 'devastating' response as US threatens toughest ever economic hit - Reuters",
       "description": "Iran vows 'devastating' response as US threatens toughest ever economic hit Reuters",
       "source": "Reuters",
@@ -638,16 +748,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T20:19:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1040,6 +1140,16 @@
       ]
     },
     {
+      "headline": "NSE said to plan trading of its shares on own platform",
+      "description": "The proposed arrangement could reshape trading dynamics for the exchange operator while adding a new dimension to its closely watched public offering.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-20T12:22:57+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-20/nse-said-to-plan-allowing-trading-its-shares-on-own-platform",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "ZenaTech Closes 28th Drone as a Service Acquisition, Adding a Canadian-based Civil and Structural Engineering Firm with Customers Across Five Provinces",
       "description": "VANCOUVER, British Columbia, Aug. 20, 2026 (GLOBE NEWSWIRE) -- ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), a technology solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, announces ",
       "source": "GlobalNewswire",
@@ -1275,26 +1385,6 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Brave Bison Group Plc",
-      "description": "Downing LLPLEI: 213800G3X76VBG9SB50420 August 2026Form 8.3 re. Brave Bison Group Plc",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T09:36:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348155/0/en/form-8-3-brave-bison-group-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Ramsdens Holdings Plc",
-      "description": "Downing LLPLEI: 213800G3X76VBG9SB50420 August 2026Form 8.3 re. Ramsdens Holdings Plc",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T09:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348152/0/en/form-8-3-ramsdens-holdings-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
       "description": "",
       "source": "CoinDesk",
@@ -1337,6 +1427,16 @@
       ]
     },
     {
+      "headline": "The Iran war energy crisis is just getting started - Reuters",
+      "description": "The Iran war energy crisis is just getting started Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T08:26:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
       "description": "German spy agency opens helpline for those exiled from Russia, China Reuters",
       "source": "Reuters",
@@ -1374,16 +1474,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "The Iran war energy crisis is just getting started - Reuters",
-      "description": "The Iran war energy crisis is just getting started Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T06:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1485,6 +1575,16 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-20T02:00:44+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T01:11:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1955,109 +2055,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-19T11:18:38+00:00",
       "article_url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T11:14:50+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
-      "description": "Bitcoin maintained its appeal as a diversification investment despite dropping more than 50% from all-time high, a BlackRock report stated.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T11:06:13+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight - Reuters",
-      "description": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T10:52:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US stock futures steady after tech slump; investors focus on Middle East tensions - Reuters",
-      "description": "US stock futures steady after tech slump; investors focus on Middle East tensions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T10:36:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T10:29:57+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Nexo launches regulated crypto-backed credit in Australia",
-      "description": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T10:20:27+00:00",
-      "article_url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Novo Nordisk tests low-dose Wegovy pill in new weight-loss study",
-      "description": "The study reflects growing interest in lower-dose obesity treatments as patients balance weight-loss benefits, costs and potential side effects",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T10:10:12+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/novo-starts-testing-low-dose-wegovy-pills-in-new-obesity-study",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T10:04:30+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US natural gas rises as Texas heat outlook boosts power demand",
-      "description": "US natural gas prices rise as Texas heat increases power demand, with Houston temperatures averaging 100F from August 20-23.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T09:57:34+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/us-natural-gas-futures-rise-as-texas-heat-boosts-power-demand",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Ripple raises $275 million in senior notes for prime brokerage push",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T09:55:50+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
       "asset_tags": [
         "crypto"
       ]
