@@ -1,18 +1,52 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T15:52:36.553032+00:00",
+    "last_updated": "2026-08-21T16:30:28.175082+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 42,
+      "crypto": 74,
+      "macro": 23,
       "general": 86,
       "forex": 14,
-      "macro": 21,
-      "commodities": 11,
-      "crypto": 72,
-      "equities": 42
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
+      "description": "Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaan, Strive and Metaplanet posting double-digit gains as crypto stocks surged.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T16:11:07+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
+      "description": "Bitcoin rallied as Treasury bond buybacks fueled the “not-QE” trade, while Metaplanet expanded to the US and Cypherpunk made a $33 million Zcash mining bet.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T15:50:08+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
+      "description": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T15:18:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
       "description": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
@@ -156,6 +190,16 @@
       ]
     },
     {
+      "headline": "South African rand hits strongest level since start of Iran war - Reuters",
+      "description": "South African rand hits strongest level since start of Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T12:46:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHZPRld0NlUwNUZsYlNzalpPUEdZNHR0dU9VaWRDVmt5WDNaNDJpdm1ranFOdHM5WVdoOVcxaUZuLXVtV19zT3kxNEFaMEFlQ2JsVXhnTVBJcGZ1a3FtT0lQQjVUeXd5SDNuM1lxLU5FZmE5dzVvTlB6eHc1Q2R4aUxlSTVNYjVxbEt1b29kM2lNRUJKeFpjMS1uY2hCa1RyOGxyZGNpRlptTnU3M3ViWXRIS2NoZzFBZGRHeVpDMnE5T3c?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent",
       "description": "Perpetual futures, or perps, are shaking up exchanges as investors seek continuous access to trading.",
       "source": "CNBC",
@@ -276,16 +320,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-21T11:25:55+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
-      "description": "Ships passing through Hormuz hover in single digits, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T11:22:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -588,16 +622,6 @@
       ]
     },
     {
-      "headline": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure - Reuters",
-      "description": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T08:24:41+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1k1ZnYtdXFiVWJvUVdmQlJLR1hWN1czeTU1Vkt5VFEyWkNISDhnUHVBY1hLb1JMdnp1dmRxU3Z6WG9wNlZRUmVZaUZxeVJVOERnX0QzeEVuU1FPbzByQ29EQXBvMzJrSkZWOWdkV0pHYUlfYkNTcFZDaTc3cUdLMzdmemlmV2hhUlYzdDFwUHpMcE9oSVZCbXlGYzM2LW9DcEFBdl9kSHRwOF9PdUtUMjdaWUZ5Rm90aFh4blpzaXhXUkZSU0ZPNzRvRQ?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Questor Technology signs LOI to acquire Emission Rx for up to C$3M",
       "description": "",
       "source": "SeekingAlpha",
@@ -726,6 +750,16 @@
       "article_url": "https://cryptocurrencynews.com/crypto/mexc-reports-142-volume-surge-for-mu-futures-following-record-micron-earnings-beat/",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+      "description": "Ships passing through Hormuz hover in single digits, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T02:43:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1211,6 +1245,16 @@
       ]
     },
     {
+      "headline": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
+      "description": "Hormuz shipping unchanged amid US-Iran stalemate, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T12:43:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2wyclNjWVpvOTM3X0dCUjJNdEhZYkYwOC0taHk5bnNRXzZ2d3R2V092Z0pNTlBiVDdzejJXS0ozSnc1aGRjenhxbXRUY3RsMjgzUV9wSkFlTEJxbk1VbUFvbDZMTjhwTXpzR2lJVndmanZhUDhudjFlMUNVdVptcjlQYXZ1UTczRnVNM3pIUTQzQ3ctcUxwd2VYalFHYXRXdzJHemNSOUE5Vmwzdzd0NFNEcw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
       "description": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
       "source": "Cointelegraph",
@@ -1249,16 +1293,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348331/0/en/zenatech-closes-28th-drone-as-a-service-acquisition-adding-a-canadian-based-civil-and-structural-engineering-firm-with-customers-across-five-provinces.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T12:00:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1509,6 +1543,26 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T08:26:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The Iran war energy crisis is just getting started - Reuters",
+      "description": "The Iran war energy crisis is just getting started Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T08:26:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
       "description": "German spy agency opens helpline for those exiled from Russia, China Reuters",
       "source": "Reuters",
@@ -1546,16 +1600,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "The Iran war energy crisis is just getting started - Reuters",
-      "description": "The Iran war energy crisis is just getting started Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T06:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1627,16 +1671,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-20T03:24:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTlfMHNQWDJxLTRQUnk3S3BmSThwcFNFWTY4dHhTaVZlaENYcFliSkRTVFMzRVliRkgweUxUVThXN0ZfU2Q0Rl9WVXBCZkxBQXZPcUlkeVNKa2kwcFQzM3FVakJMRlQ2N1FBZ3hVUGNXb25ySko1UFVEQjZqU3dfekJUdVBYMFVkQ3RiSm1mMTZFUTFsNFhidHNxY0lsbnVCeTNJOUh0eEQ5dVRMM3VtajlWWlFxOFhfRTFjdXlTWjNtLUhi?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Hormuz shipping unchanged amid US-Iran stalemate, data shows - Reuters",
-      "description": "Hormuz shipping unchanged amid US-Iran stalemate, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T02:58:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR2wyclNjWVpvOTM3X0dCUjJNdEhZYkYwOC0taHk5bnNRXzZ2d3R2V092Z0pNTlBiVDdzejJXS0ozSnc1aGRjenhxbXRUY3RsMjgzUV9wSkFlTEJxbk1VbUFvbDZMTjhwTXpzR2lJVndmanZhUDhudjFlMUNVdVptcjlQYXZ1UTczRnVNM3pIUTQzQ3ctcUxwd2VYalFHYXRXdzJHemNSOUE5Vmwzdzd0NFNEcw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2027,36 +2061,6 @@
       "article_url": "https://cointelegraph.com/news/sec-proposal-forward-inapt-crypto-rules-commissioner-peirce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "UAE stocks fall after missile scare; Qatar at over one-year low - Reuters",
-      "description": "UAE stocks fall after missile scare; Qatar at over one-year low Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T13:16:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTFBZeTZITFl5NWRzUU9DUDZZZVM4ck5NQnY2bFdpZDRHUW9ZNGZRRHdSSjdpM3NUWlFSbnR1Rkl6ajFnbW51bktTY2VqWWdNeURtOVZXS1ZzOVNFRTE3dG5JdV9TbW0tTkh2VnRxblBiZmZRWmlueDQ1d3BFNVluSGExd1hVNS1JNjdUQmt0TG9WZ2s?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "description": "Moderna is soaring after promising results for its cancer vaccine. Plus, Target may be victim to profit-taking.",
-      "source": "CNBC",
-      "publication_date": "2026-08-19T13:08:48+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/19/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Strengthen the Clarity Act",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
