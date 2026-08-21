@@ -1,18 +1,66 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T11:46:08.009809+00:00",
+    "last_updated": "2026-08-21T12:15:34.952629+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 89,
-      "crypto": 73,
-      "equities": 37,
+      "forex": 15,
+      "equities": 38,
+      "commodities": 12,
+      "crypto": 74,
       "macro": 22,
-      "commodities": 11,
-      "forex": 14
+      "general": 88
     }
   },
   "articles": [
+    {
+      "headline": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
+      "description": "<p>Headlines:</p><ul><li><a href=\"https://investinglive.com/commodities/gold-stays-poised-to-post-third-straight-week-of-gains\" rel=\"follow\">Gold stays poised to post third straight week of gains</a></li><li><a href=\"https://investinglive.com/news/us-treasury-move-risks-creating-unintended-consequen",
+      "source": "Forexlive",
+      "publication_date": "2026-08-21T11:38:13+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-european-markets-wrap-gold-runs-higher-dollar-stays-under-pressure/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "description": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
+      "source": "CNBC",
+      "publication_date": "2026-08-21T11:35:46+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Take Five: Six months of war - Reuters",
+      "description": "Take Five: Six months of war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T11:25:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bunker Hill and Silver47 Announce Merger to Create a ‘Made in America’ U.S. Silver & Critical Minerals Champion",
+      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, Aug. 21, 2026 (GLOBE NEWSWIRE) -- Bunker Hill Mining Corp. (“Bunker Hill”) (TSX: BNKR | OTCQB: BHLL), and Silver47 Exploration Corp. (“Silver47”) (TSXV: AGA | OTCQX: AAGAF | Frankfurt: QP2) are pleased to announce that they have entered into a definiti",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T11:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348997/0/en/bunker-hill-and-silver47-announce-merger-to-create-a-made-in-america-u-s-silver-critical-minerals-champion.html",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Form 8.3 - Picton Property Income Limited",
       "description": "8.3",
@@ -85,6 +133,16 @@
       ]
     },
     {
+      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+      "description": "Oil set for second weekly gain as US ramps up pressure on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T09:56:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Man Group PLC : Form 8.3 - Senior plc",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -144,20 +202,6 @@
       "asset_tags": [
         "equities",
         "commodities"
-      ]
-    },
-    {
-      "headline": "Why markets care more about the signal than the size of the Treasury buyback",
-      "description": "<p>The first thing any trader should learn is that markets move on expectations. It doesn't matter if they are right or wrong, prices will still move based on the prevailing context and expectations about the future. If something changes those expectations, markets will just reprice to reflect the n",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T08:50:53+00:00",
-      "article_url": "https://investinglive.com/news/why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -322,16 +366,6 @@
       ]
     },
     {
-      "headline": "Six months of war - Reuters",
-      "description": "Six months of war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T07:53:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
       "description": "Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.",
       "source": "Cointelegraph",
@@ -481,16 +515,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
-      "description": "Oil set for second weekly gain as US ramps up pressure on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T01:50:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1292,16 +1316,6 @@
       ]
     },
     {
-      "headline": "Man Group PLC : Form 8.3 - JTC Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T09:09:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348146/0/en/man-group-plc-form-8-3-jtc-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Tajikistan says it has asked to import 2.5 million tons of oil and fuel from Iran - Reuters",
       "description": "Tajikistan says it has asked to import 2.5 million tons of oil and fuel from Iran Reuters",
       "source": "Reuters",
@@ -2046,17 +2060,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "UK inflation picks up after July surge in household energy bills - Reuters",
-      "description": "UK inflation picks up after July surge in household energy bills Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T09:11:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDlHUDNTVHV0SHFvcWN2UEZSQmN3TENFSklmWXJlRjY0ZFBhOU0zcUdwN0JNRE5JNFMtVmxiZTdMeW9ZRFZlSm5lcjhwcTRpd04xanJQMkhhSGQydTVmeGhEZk9VUzlDOEZRak02ZDVMdWNjaHl2VEpPaThuNExYMVl0eGNHdnRWdTVtNFk5NHU?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
       ]
     }
   ]
