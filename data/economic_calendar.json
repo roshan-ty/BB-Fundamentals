@@ -1,10 +1,10 @@
 {
   "meta": {
     "source": "Financial Modeling Prep, Alpha Vantage, Finnhub",
-    "last_updated": "2026-08-21T20:02:23.591555+00:00",
-    "total_events": 1423,
+    "last_updated": "2026-08-21T20:37:22.407348+00:00",
+    "total_events": 1040,
     "breakdown_by_impact": {
-      "high_impact_events": 1423,
+      "high_impact_events": 1040,
       "medium_impact_events": 0,
       "low_impact_events": 0
     }
@@ -41,16 +41,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2026-04-01",
-      "actual": 70812.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2026-04-01",
@@ -75,16 +65,6 @@
       "country": "United States",
       "timestamp": "2026-02-01",
       "actual": 4.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2026-01-01",
-      "actual": 70583.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -121,16 +101,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2025-10-01",
-      "actual": 70249.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2025-10-01",
@@ -161,16 +131,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2025-07-01",
-      "actual": 70218.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2025-07-01",
@@ -195,16 +155,6 @@
       "country": "United States",
       "timestamp": "2025-05-01",
       "actual": 4.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2025-04-01",
-      "actual": 69549.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -251,16 +201,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2025-01-01",
-      "actual": 68979.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2025-01-01",
@@ -285,16 +225,6 @@
       "country": "United States",
       "timestamp": "2024-11-01",
       "actual": 4.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2024-10-01",
-      "actual": 69168.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -331,16 +261,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2024-07-01",
-      "actual": 68951.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2024-07-01",
@@ -365,16 +285,6 @@
       "country": "United States",
       "timestamp": "2024-05-01",
       "actual": 3.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2024-04-01",
-      "actual": 68524.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -421,26 +331,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2024-01-01",
-      "actual": 68082.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2024-01-01",
-      "actual": 2.94952520485207,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2024-01-01",
@@ -465,16 +355,6 @@
       "country": "United States",
       "timestamp": "2023-11-01",
       "actual": 3.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2023-10-01",
-      "actual": 68089.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -511,16 +391,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2023-07-01",
-      "actual": 67689.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2023-07-01",
@@ -545,16 +415,6 @@
       "country": "United States",
       "timestamp": "2023-05-01",
       "actual": 3.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2023-04-01",
-      "actual": 67077.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -601,26 +461,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2023-01-01",
-      "actual": 66789.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2023-01-01",
-      "actual": 4.11633838374488,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2023-01-01",
@@ -645,16 +485,6 @@
       "country": "United States",
       "timestamp": "2022-11-01",
       "actual": 3.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2022-10-01",
-      "actual": 66433.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -691,16 +521,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2022-07-01",
-      "actual": 66120.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2022-07-01",
@@ -725,16 +545,6 @@
       "country": "United States",
       "timestamp": "2022-05-01",
       "actual": 3.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2022-04-01",
-      "actual": 65777.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -781,26 +591,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2022-01-01",
-      "actual": 65773.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2022-01-01",
-      "actual": 8.00279982052121,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2022-01-01",
@@ -825,16 +615,6 @@
       "country": "United States",
       "timestamp": "2021-11-01",
       "actual": 4.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2021-10-01",
-      "actual": 66011.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -871,16 +651,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2021-07-01",
-      "actual": 64990.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2021-07-01",
@@ -905,16 +675,6 @@
       "country": "United States",
       "timestamp": "2021-05-01",
       "actual": 5.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2021-04-01",
-      "actual": 64539.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -961,26 +721,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2021-01-01",
-      "actual": 63490.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2021-01-01",
-      "actual": 4.69785886363742,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2021-01-01",
@@ -1005,16 +745,6 @@
       "country": "United States",
       "timestamp": "2020-11-01",
       "actual": 6.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2020-10-01",
-      "actual": 62605.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1051,16 +781,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2020-07-01",
-      "actual": 61936.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2020-07-01",
@@ -1085,16 +805,6 @@
       "country": "United States",
       "timestamp": "2020-05-01",
       "actual": 13.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2020-04-01",
-      "actual": 57504.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1141,26 +851,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2020-01-01",
-      "actual": 62463.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2020-01-01",
-      "actual": 1.23358439630629,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2020-01-01",
@@ -1185,16 +875,6 @@
       "country": "United States",
       "timestamp": "2019-11-01",
       "actual": 3.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2019-10-01",
-      "actual": 63360.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1231,16 +911,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2019-07-01",
-      "actual": 63022.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2019-07-01",
@@ -1265,16 +935,6 @@
       "country": "United States",
       "timestamp": "2019-05-01",
       "actual": 3.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2019-04-01",
-      "actual": 62385.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1321,26 +981,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2019-01-01",
-      "actual": 61939.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2019-01-01",
-      "actual": 1.81221007526021,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2019-01-01",
@@ -1365,16 +1005,6 @@
       "country": "United States",
       "timestamp": "2018-11-01",
       "actual": 3.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2018-10-01",
-      "actual": 61619.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1411,16 +1041,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2018-07-01",
-      "actual": 61622.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2018-07-01",
@@ -1445,16 +1065,6 @@
       "country": "United States",
       "timestamp": "2018-05-01",
       "actual": 3.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2018-04-01",
-      "actual": 61336.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1501,26 +1111,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2018-01-01",
-      "actual": 61093.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2018-01-01",
-      "actual": 2.44258329692817,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2018-01-01",
@@ -1545,16 +1135,6 @@
       "country": "United States",
       "timestamp": "2017-11-01",
       "actual": 4.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2017-10-01",
-      "actual": 60674.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1591,16 +1171,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2017-07-01",
-      "actual": 60099.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2017-07-01",
@@ -1625,16 +1195,6 @@
       "country": "United States",
       "timestamp": "2017-05-01",
       "actual": 4.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2017-04-01",
-      "actual": 59736.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1681,26 +1241,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2017-01-01",
-      "actual": 59494.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2017-01-01",
-      "actual": 2.13011000365961,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2017-01-01",
@@ -1725,16 +1265,6 @@
       "country": "United States",
       "timestamp": "2016-11-01",
       "actual": 4.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2016-10-01",
-      "actual": 59296.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1771,16 +1301,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2016-07-01",
-      "actual": 59084.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2016-07-01",
@@ -1805,16 +1325,6 @@
       "country": "United States",
       "timestamp": "2016-05-01",
       "actual": 4.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2016-04-01",
-      "actual": 58787.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1861,26 +1371,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2016-01-01",
-      "actual": 58704.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2016-01-01",
-      "actual": 1.26158320570536,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2016-01-01",
@@ -1905,16 +1395,6 @@
       "country": "United States",
       "timestamp": "2015-11-01",
       "actual": 5.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2015-10-01",
-      "actual": 58470.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -1951,16 +1431,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2015-07-01",
-      "actual": 58486.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2015-07-01",
@@ -1985,16 +1455,6 @@
       "country": "United States",
       "timestamp": "2015-05-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2015-04-01",
-      "actual": 58376.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2041,26 +1501,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2015-01-01",
-      "actual": 58121.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2015-01-01",
-      "actual": 0.118627135552451,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2015-01-01",
@@ -2085,16 +1525,6 @@
       "country": "United States",
       "timestamp": "2014-11-01",
       "actual": 5.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2014-10-01",
-      "actual": 57702.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2131,16 +1561,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2014-07-01",
-      "actual": 57536.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2014-07-01",
@@ -2165,16 +1585,6 @@
       "country": "United States",
       "timestamp": "2014-05-01",
       "actual": 6.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2014-04-01",
-      "actual": 56968.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2221,26 +1631,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2014-01-01",
-      "actual": 56345.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2014-01-01",
-      "actual": 1.62222297740817,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2014-01-01",
@@ -2265,16 +1655,6 @@
       "country": "United States",
       "timestamp": "2013-11-01",
       "actual": 6.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2013-10-01",
-      "actual": 56642.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2311,16 +1691,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2013-07-01",
-      "actual": 56272.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2013-07-01",
@@ -2345,16 +1715,6 @@
       "country": "United States",
       "timestamp": "2013-05-01",
       "actual": 7.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2013-04-01",
-      "actual": 55914.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2401,26 +1761,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2013-01-01",
-      "actual": 55859.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2013-01-01",
-      "actual": 1.46483265562717,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2013-01-01",
@@ -2445,16 +1785,6 @@
       "country": "United States",
       "timestamp": "2012-11-01",
       "actual": 7.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2012-10-01",
-      "actual": 55403.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2491,16 +1821,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2012-07-01",
-      "actual": 55454.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2012-07-01",
@@ -2525,16 +1845,6 @@
       "country": "United States",
       "timestamp": "2012-05-01",
       "actual": 8.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2012-04-01",
-      "actual": 55490.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2581,26 +1891,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2012-01-01",
-      "actual": 55342.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2012-01-01",
-      "actual": 2.06933726526067,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2012-01-01",
@@ -2625,16 +1915,6 @@
       "country": "United States",
       "timestamp": "2011-11-01",
       "actual": 8.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2011-10-01",
-      "actual": 54979.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2671,16 +1951,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2011-07-01",
-      "actual": 54482.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2011-07-01",
@@ -2705,16 +1975,6 @@
       "country": "United States",
       "timestamp": "2011-05-01",
       "actual": 9.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2011-04-01",
-      "actual": 54610.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2761,26 +2021,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2011-01-01",
-      "actual": 54341.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2011-01-01",
-      "actual": 3.156841568622,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2011-01-01",
@@ -2805,16 +2045,6 @@
       "country": "United States",
       "timestamp": "2010-11-01",
       "actual": 9.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2010-10-01",
-      "actual": 54569.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2851,16 +2081,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2010-07-01",
-      "actual": 54401.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2010-07-01",
@@ -2885,16 +2105,6 @@
       "country": "United States",
       "timestamp": "2010-05-01",
       "actual": 9.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2010-04-01",
-      "actual": 54100.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -2941,26 +2151,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2010-01-01",
-      "actual": 53683.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2010-01-01",
-      "actual": 1.6400434423899,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2010-01-01",
@@ -2985,16 +2175,6 @@
       "country": "United States",
       "timestamp": "2009-11-01",
       "actual": 9.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2009-10-01",
-      "actual": 53531.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3031,16 +2211,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2009-07-01",
-      "actual": 53081.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2009-07-01",
@@ -3065,16 +2235,6 @@
       "country": "United States",
       "timestamp": "2009-05-01",
       "actual": 9.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2009-04-01",
-      "actual": 53017.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3121,26 +2281,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2009-01-01",
-      "actual": 53221.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2009-01-01",
-      "actual": -0.355546266299747,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2009-01-01",
@@ -3165,16 +2305,6 @@
       "country": "United States",
       "timestamp": "2008-11-01",
       "actual": 6.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2008-10-01",
-      "actual": 53941.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3211,16 +2341,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2008-07-01",
-      "actual": 55278.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2008-07-01",
@@ -3245,16 +2365,6 @@
       "country": "United States",
       "timestamp": "2008-05-01",
       "actual": 5.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2008-04-01",
-      "actual": 55705.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3301,26 +2411,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2008-01-01",
-      "actual": 55497.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2008-01-01",
-      "actual": 3.839100296651,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2008-01-01",
@@ -3345,16 +2435,6 @@
       "country": "United States",
       "timestamp": "2007-11-01",
       "actual": 4.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2007-10-01",
-      "actual": 55857.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3391,16 +2471,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2007-07-01",
-      "actual": 55649.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2007-07-01",
@@ -3425,16 +2495,6 @@
       "country": "United States",
       "timestamp": "2007-05-01",
       "actual": 4.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2007-04-01",
-      "actual": 55474.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3481,26 +2541,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2007-01-01",
-      "actual": 55260.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2007-01-01",
-      "actual": 2.85267248150138,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2007-01-01",
@@ -3525,16 +2565,6 @@
       "country": "United States",
       "timestamp": "2006-11-01",
       "actual": 4.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2006-10-01",
-      "actual": 55216.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3571,16 +2601,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2006-07-01",
-      "actual": 54886.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2006-07-01",
@@ -3605,16 +2625,6 @@
       "country": "United States",
       "timestamp": "2006-05-01",
       "actual": 4.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2006-04-01",
-      "actual": 54945.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3661,26 +2671,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2006-01-01",
-      "actual": 54927.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2006-01-01",
-      "actual": 3.22594410070404,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2006-01-01",
@@ -3705,16 +2695,6 @@
       "country": "United States",
       "timestamp": "2005-11-01",
       "actual": 5.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2005-10-01",
-      "actual": 54317.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3751,16 +2731,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2005-07-01",
-      "actual": 54153.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2005-07-01",
@@ -3785,16 +2755,6 @@
       "country": "United States",
       "timestamp": "2005-05-01",
       "actual": 5.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2005-04-01",
-      "actual": 53868.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3841,26 +2801,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2005-01-01",
-      "actual": 53719.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2005-01-01",
-      "actual": 3.3927468454955,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2005-01-01",
@@ -3885,16 +2825,6 @@
       "country": "United States",
       "timestamp": "2004-11-01",
       "actual": 5.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2004-10-01",
-      "actual": 53242.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -3931,16 +2861,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2004-07-01",
-      "actual": 52835.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2004-07-01",
@@ -3965,16 +2885,6 @@
       "country": "United States",
       "timestamp": "2004-05-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2004-04-01",
-      "actual": 52469.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4021,26 +2931,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2004-01-01",
-      "actual": 52179.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2004-01-01",
-      "actual": 2.67723669309172,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2004-01-01",
@@ -4065,16 +2955,6 @@
       "country": "United States",
       "timestamp": "2003-11-01",
       "actual": 5.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2003-10-01",
-      "actual": 51986.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4111,16 +2991,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2003-07-01",
-      "actual": 51512.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2003-07-01",
@@ -4145,16 +3015,6 @@
       "country": "United States",
       "timestamp": "2003-05-01",
       "actual": 6.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2003-04-01",
-      "actual": 50796.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4201,26 +3061,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2003-01-01",
-      "actual": 50462.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2003-01-01",
-      "actual": 2.27009497336115,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2003-01-01",
@@ -4245,16 +3085,6 @@
       "country": "United States",
       "timestamp": "2002-11-01",
       "actual": 5.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2002-10-01",
-      "actual": 50302.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4291,16 +3121,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2002-07-01",
-      "actual": 50362.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2002-07-01",
@@ -4325,16 +3145,6 @@
       "country": "United States",
       "timestamp": "2002-05-01",
       "actual": 5.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2002-04-01",
-      "actual": 50286.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4381,26 +3191,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2002-01-01",
-      "actual": 50091.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2002-01-01",
-      "actual": 1.58603162650601,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2002-01-01",
@@ -4425,16 +3215,6 @@
       "country": "United States",
       "timestamp": "2001-11-01",
       "actual": 5.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2001-10-01",
-      "actual": 49783.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4471,16 +3251,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2001-07-01",
-      "actual": 49774.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2001-07-01",
@@ -4505,16 +3275,6 @@
       "country": "United States",
       "timestamp": "2001-05-01",
       "actual": 4.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2001-04-01",
-      "actual": 50105.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4561,26 +3321,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2001-01-01",
-      "actual": 49911.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2001-01-01",
-      "actual": 2.82617111885407,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2001-01-01",
@@ -4605,16 +3345,6 @@
       "country": "United States",
       "timestamp": "2000-11-01",
       "actual": 3.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2000-10-01",
-      "actual": 50190.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4651,16 +3381,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2000-07-01",
-      "actual": 50024.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2000-07-01",
@@ -4685,16 +3405,6 @@
       "country": "United States",
       "timestamp": "2000-05-01",
       "actual": 4.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2000-04-01",
-      "actual": 50109.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4741,26 +3451,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "2000-01-01",
-      "actual": 49335.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "2000-01-01",
-      "actual": 3.37685727149929,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "2000-01-01",
@@ -4785,16 +3475,6 @@
       "country": "United States",
       "timestamp": "1999-11-01",
       "actual": 4.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1999-10-01",
-      "actual": 49281.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4831,16 +3511,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1999-07-01",
-      "actual": 48632.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1999-07-01",
@@ -4865,16 +3535,6 @@
       "country": "United States",
       "timestamp": "1999-05-01",
       "actual": 4.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1999-04-01",
-      "actual": 48148.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -4921,26 +3581,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1999-01-01",
-      "actual": 47880.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1999-01-01",
-      "actual": 2.18802719697358,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1999-01-01",
@@ -4965,16 +3605,6 @@
       "country": "United States",
       "timestamp": "1998-11-01",
       "actual": 4.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1998-10-01",
-      "actual": 47555.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5011,16 +3641,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1998-07-01",
-      "actual": 46943.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1998-07-01",
@@ -5045,16 +3665,6 @@
       "country": "United States",
       "timestamp": "1998-05-01",
       "actual": 4.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1998-04-01",
-      "actual": 46504.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5101,26 +3711,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1998-01-01",
-      "actual": 46204.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1998-01-01",
-      "actual": 1.55227909874364,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1998-01-01",
@@ -5145,16 +3735,6 @@
       "country": "United States",
       "timestamp": "1997-11-01",
       "actual": 4.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1997-10-01",
-      "actual": 45862.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5191,16 +3771,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1997-07-01",
-      "actual": 45616.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1997-07-01",
@@ -5225,16 +3795,6 @@
       "country": "United States",
       "timestamp": "1997-05-01",
       "actual": 4.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1997-04-01",
-      "actual": 45203.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5281,26 +3841,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1997-01-01",
-      "actual": 44590.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1997-01-01",
-      "actual": 2.33768993730735,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1997-01-01",
@@ -5325,16 +3865,6 @@
       "country": "United States",
       "timestamp": "1996-11-01",
       "actual": 5.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1996-10-01",
-      "actual": 44421.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5371,16 +3901,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1996-07-01",
-      "actual": 44105.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1996-07-01",
@@ -5405,16 +3925,6 @@
       "country": "United States",
       "timestamp": "1996-05-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1996-04-01",
-      "actual": 43856.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5461,26 +3971,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1996-01-01",
-      "actual": 43259.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1996-01-01",
-      "actual": 2.93120419993441,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1996-01-01",
@@ -5505,16 +3995,6 @@
       "country": "United States",
       "timestamp": "1995-11-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1995-10-01",
-      "actual": 43044.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5551,16 +4031,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1995-07-01",
-      "actual": 42885.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1995-07-01",
@@ -5585,16 +4055,6 @@
       "country": "United States",
       "timestamp": "1995-05-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1995-04-01",
-      "actual": 42660.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5641,26 +4101,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1995-01-01",
-      "actual": 42654.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1995-01-01",
-      "actual": 2.80541968853662,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1995-01-01",
@@ -5685,16 +4125,6 @@
       "country": "United States",
       "timestamp": "1994-11-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1994-10-01",
-      "actual": 42618.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5731,16 +4161,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1994-07-01",
-      "actual": 42264.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1994-07-01",
@@ -5765,16 +4185,6 @@
       "country": "United States",
       "timestamp": "1994-05-01",
       "actual": 6.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1994-04-01",
-      "actual": 42154.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5821,26 +4231,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1994-01-01",
-      "actual": 41713.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1994-01-01",
-      "actual": 2.60744159215453,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1994-01-01",
@@ -5865,16 +4255,6 @@
       "country": "United States",
       "timestamp": "1993-11-01",
       "actual": 6.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1993-10-01",
-      "actual": 41423.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -5911,16 +4291,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1993-07-01",
-      "actual": 40997.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1993-07-01",
@@ -5945,16 +4315,6 @@
       "country": "United States",
       "timestamp": "1993-05-01",
       "actual": 7.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1993-04-01",
-      "actual": 40942.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6001,26 +4361,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1993-01-01",
-      "actual": 40829.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1993-01-01",
-      "actual": 2.95165696638559,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1993-01-01",
@@ -6045,16 +4385,6 @@
       "country": "United States",
       "timestamp": "1992-11-01",
       "actual": 7.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1992-10-01",
-      "actual": 40881.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6091,16 +4421,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1992-07-01",
-      "actual": 40599.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1992-07-01",
@@ -6125,16 +4445,6 @@
       "country": "United States",
       "timestamp": "1992-05-01",
       "actual": 7.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1992-04-01",
-      "actual": 40350.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6181,26 +4491,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1992-01-01",
-      "actual": 40051.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1992-01-01",
-      "actual": 3.02881967814969,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1992-01-01",
@@ -6225,16 +4515,6 @@
       "country": "United States",
       "timestamp": "1991-11-01",
       "actual": 7.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1991-10-01",
-      "actual": 39694.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6271,16 +4551,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1991-07-01",
-      "actual": 39691.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1991-07-01",
@@ -6305,16 +4575,6 @@
       "country": "United States",
       "timestamp": "1991-05-01",
       "actual": 6.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1991-04-01",
-      "actual": 39632.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6361,26 +4621,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1991-01-01",
-      "actual": 39451.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1991-01-01",
-      "actual": 4.23496396453849,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1991-01-01",
@@ -6405,16 +4645,6 @@
       "country": "United States",
       "timestamp": "1990-11-01",
       "actual": 6.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1990-10-01",
-      "actual": 39759.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6451,16 +4681,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1990-07-01",
-      "actual": 40266.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1990-07-01",
@@ -6485,16 +4705,6 @@
       "country": "United States",
       "timestamp": "1990-05-01",
       "actual": 5.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1990-04-01",
-      "actual": 40382.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6541,26 +4751,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1990-01-01",
-      "actual": 40361.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1990-01-01",
-      "actual": 5.39795643990325,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1990-01-01",
@@ -6585,16 +4775,6 @@
       "country": "United States",
       "timestamp": "1989-11-01",
       "actual": 5.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1989-10-01",
-      "actual": 40015.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6631,16 +4811,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1989-07-01",
-      "actual": 40046.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1989-07-01",
@@ -6665,16 +4835,6 @@
       "country": "United States",
       "timestamp": "1989-05-01",
       "actual": 5.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1989-04-01",
-      "actual": 39861.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6721,26 +4881,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1989-01-01",
-      "actual": 39648.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1989-01-01",
-      "actual": 4.82700303008944,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1989-01-01",
@@ -6765,16 +4905,6 @@
       "country": "United States",
       "timestamp": "1988-11-01",
       "actual": 5.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1988-10-01",
-      "actual": 39328.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6811,16 +4941,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1988-07-01",
-      "actual": 38908.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1988-07-01",
@@ -6845,16 +4965,6 @@
       "country": "United States",
       "timestamp": "1988-05-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1988-04-01",
-      "actual": 38782.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6901,26 +5011,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1988-01-01",
-      "actual": 38359.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1988-01-01",
-      "actual": 4.07774110744413,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1988-01-01",
@@ -6945,16 +5035,6 @@
       "country": "United States",
       "timestamp": "1987-11-01",
       "actual": 5.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1987-10-01",
-      "actual": 38238.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -6991,16 +5071,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1987-07-01",
-      "actual": 37685.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1987-07-01",
@@ -7025,16 +5095,6 @@
       "country": "United States",
       "timestamp": "1987-05-01",
       "actual": 6.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1987-04-01",
-      "actual": 37454.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7081,26 +5141,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1987-01-01",
-      "actual": 37132.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1987-01-01",
-      "actual": 3.6645632175169,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1987-01-01",
@@ -7125,16 +5165,6 @@
       "country": "United States",
       "timestamp": "1986-11-01",
       "actual": 6.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1986-10-01",
-      "actual": 36931.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7171,16 +5201,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1986-07-01",
-      "actual": 36822.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1986-07-01",
@@ -7205,16 +5225,6 @@
       "country": "United States",
       "timestamp": "1986-05-01",
       "actual": 7.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1986-04-01",
-      "actual": 36563.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7261,26 +5271,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1986-01-01",
-      "actual": 36476.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1986-01-01",
-      "actual": 1.89804772234276,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1986-01-01",
@@ -7305,16 +5295,6 @@
       "country": "United States",
       "timestamp": "1985-11-01",
       "actual": 7.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1985-10-01",
-      "actual": 36210.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7351,16 +5331,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1985-07-01",
-      "actual": 36033.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1985-07-01",
@@ -7385,16 +5355,6 @@
       "country": "United States",
       "timestamp": "1985-05-01",
       "actual": 7.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1985-04-01",
-      "actual": 35582.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7441,26 +5401,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1985-01-01",
-      "actual": 35346.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1985-01-01",
-      "actual": 3.54564415209365,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1985-01-01",
@@ -7485,16 +5425,6 @@
       "country": "United States",
       "timestamp": "1984-11-01",
       "actual": 7.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1984-10-01",
-      "actual": 35072.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7531,16 +5461,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1984-07-01",
-      "actual": 34871.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1984-07-01",
@@ -7565,16 +5485,6 @@
       "country": "United States",
       "timestamp": "1984-05-01",
       "actual": 7.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1984-04-01",
-      "actual": 34622.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7621,26 +5531,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1984-01-01",
-      "actual": 34103.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1984-01-01",
-      "actual": 4.30053547523429,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1984-01-01",
@@ -7665,16 +5555,6 @@
       "country": "United States",
       "timestamp": "1983-11-01",
       "actual": 8.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1983-10-01",
-      "actual": 33513.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7711,16 +5591,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1983-07-01",
-      "actual": 32906.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1983-07-01",
@@ -7745,16 +5615,6 @@
       "country": "United States",
       "timestamp": "1983-05-01",
       "actual": 10.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1983-04-01",
-      "actual": 32340.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7801,26 +5661,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1983-01-01",
-      "actual": 31686.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1983-01-01",
-      "actual": 3.21243523316065,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1983-01-01",
@@ -7845,16 +5685,6 @@
       "country": "United States",
       "timestamp": "1982-11-01",
       "actual": 10.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1982-10-01",
-      "actual": 31337.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7891,16 +5721,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1982-07-01",
-      "actual": 31402.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1982-07-01",
@@ -7925,16 +5745,6 @@
       "country": "United States",
       "timestamp": "1982-05-01",
       "actual": 9.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1982-04-01",
-      "actual": 31603.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -7981,26 +5791,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1982-01-01",
-      "actual": 31529.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1982-01-01",
-      "actual": 6.13142700027493,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1982-01-01",
@@ -8025,16 +5815,6 @@
       "country": "United States",
       "timestamp": "1981-11-01",
       "actual": 8.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1981-10-01",
-      "actual": 32095.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8071,16 +5851,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1981-07-01",
-      "actual": 32533.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1981-07-01",
@@ -8105,16 +5875,6 @@
       "country": "United States",
       "timestamp": "1981-05-01",
       "actual": 7.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1981-04-01",
-      "actual": 32236.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8161,26 +5921,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1981-01-01",
-      "actual": 32550.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1981-01-01",
-      "actual": 10.3347153402771,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1981-01-01",
@@ -8205,16 +5945,6 @@
       "country": "United States",
       "timestamp": "1980-11-01",
       "actual": 7.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1980-10-01",
-      "actual": 31990.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8251,16 +5981,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1980-07-01",
-      "actual": 31489.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1980-07-01",
@@ -8285,16 +6005,6 @@
       "country": "United States",
       "timestamp": "1980-05-01",
       "actual": 7.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1980-04-01",
-      "actual": 31621.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8341,26 +6051,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1980-01-01",
-      "actual": 32377.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1980-01-01",
-      "actual": 13.5492019749684,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1980-01-01",
@@ -8385,16 +6075,6 @@
       "country": "United States",
       "timestamp": "1979-11-01",
       "actual": 5.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1979-10-01",
-      "actual": 32366.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8431,16 +6111,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1979-07-01",
-      "actual": 32386.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1979-07-01",
@@ -8465,16 +6135,6 @@
       "country": "United States",
       "timestamp": "1979-05-01",
       "actual": 5.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1979-04-01",
-      "actual": 32244.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8521,26 +6181,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1979-01-01",
-      "actual": 32294.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1979-01-01",
-      "actual": 11.2544711292795,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1979-01-01",
@@ -8565,16 +6205,6 @@
       "country": "United States",
       "timestamp": "1978-11-01",
       "actual": 5.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1978-10-01",
-      "actual": 32318.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8611,16 +6241,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1978-07-01",
-      "actual": 31982.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1978-07-01",
@@ -8645,16 +6265,6 @@
       "country": "United States",
       "timestamp": "1978-05-01",
       "actual": 6.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1978-04-01",
-      "actual": 31757.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8701,26 +6311,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1978-01-01",
-      "actual": 30653.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1978-01-01",
-      "actual": 7.63096383885606,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1978-01-01",
@@ -8745,16 +6335,6 @@
       "country": "United States",
       "timestamp": "1977-11-01",
       "actual": 6.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1977-10-01",
-      "actual": 30626.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8791,16 +6371,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1977-07-01",
-      "actual": 30713.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1977-07-01",
@@ -8825,16 +6395,6 @@
       "country": "United States",
       "timestamp": "1977-05-01",
       "actual": 7.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1977-04-01",
-      "actual": 30254.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8881,26 +6441,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1977-01-01",
-      "actual": 29749.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1977-01-01",
-      "actual": 6.5016839947284,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1977-01-01",
@@ -8925,16 +6465,6 @@
       "country": "United States",
       "timestamp": "1976-11-01",
       "actual": 7.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1976-10-01",
-      "actual": 29469.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -8971,16 +6501,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1976-07-01",
-      "actual": 29335.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1976-07-01",
@@ -9005,16 +6525,6 @@
       "country": "United States",
       "timestamp": "1976-05-01",
       "actual": 7.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1976-04-01",
-      "actual": 29250.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9061,26 +6571,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1976-01-01",
-      "actual": 29099.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1976-01-01",
-      "actual": 5.74481263549085,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1976-01-01",
@@ -9105,16 +6595,6 @@
       "country": "United States",
       "timestamp": "1975-11-01",
       "actual": 8.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1975-10-01",
-      "actual": 28520.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9151,16 +6631,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1975-07-01",
-      "actual": 28214.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1975-07-01",
@@ -9185,16 +6655,6 @@
       "country": "United States",
       "timestamp": "1975-05-01",
       "actual": 9.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1975-04-01",
-      "actual": 27821.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9241,26 +6701,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1975-01-01",
-      "actual": 27690.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1975-01-01",
-      "actual": 9.14314686496535,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1975-01-01",
@@ -9285,16 +6725,6 @@
       "country": "United States",
       "timestamp": "1974-11-01",
       "actual": 6.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1974-10-01",
-      "actual": 28088.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9331,16 +6761,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1974-07-01",
-      "actual": 28270.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1974-07-01",
@@ -9365,16 +6785,6 @@
       "country": "United States",
       "timestamp": "1974-05-01",
       "actual": 5.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1974-04-01",
-      "actual": 28613.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9421,26 +6831,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1974-01-01",
-      "actual": 28606.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1974-01-01",
-      "actual": 11.0548048048048,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1974-01-01",
@@ -9465,16 +6855,6 @@
       "country": "United States",
       "timestamp": "1973-11-01",
       "actual": 4.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1973-10-01",
-      "actual": 28913.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9511,16 +6891,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1973-07-01",
-      "actual": 28711.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1973-07-01",
@@ -9545,16 +6915,6 @@
       "country": "United States",
       "timestamp": "1973-05-01",
       "actual": 4.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1973-04-01",
-      "actual": 28935.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9601,26 +6961,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1973-01-01",
-      "actual": 28687.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1973-01-01",
-      "actual": 6.17776006377038,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1973-01-01",
@@ -9645,16 +6985,6 @@
       "country": "United States",
       "timestamp": "1972-11-01",
       "actual": 5.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1972-10-01",
-      "actual": 28055.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9691,16 +7021,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1972-07-01",
-      "actual": 27666.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1972-07-01",
@@ -9725,16 +7045,6 @@
       "country": "United States",
       "timestamp": "1972-05-01",
       "actual": 5.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1972-04-01",
-      "actual": 27478.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9781,26 +7091,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1972-01-01",
-      "actual": 26932.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1972-01-01",
-      "actual": 3.27227824655283,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1972-01-01",
@@ -9825,16 +7115,6 @@
       "country": "United States",
       "timestamp": "1971-11-01",
       "actual": 6.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1971-10-01",
-      "actual": 26510.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9871,16 +7151,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1971-07-01",
-      "actual": 26529.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1971-07-01",
@@ -9905,16 +7175,6 @@
       "country": "United States",
       "timestamp": "1971-05-01",
       "actual": 5.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1971-04-01",
-      "actual": 26394.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -9961,26 +7221,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1971-01-01",
-      "actual": 26328.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1971-01-01",
-      "actual": 4.29276668813051,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1971-01-01",
@@ -10005,16 +7245,6 @@
       "country": "United States",
       "timestamp": "1970-11-01",
       "actual": 5.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1970-10-01",
-      "actual": 25710.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10051,16 +7281,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1970-07-01",
-      "actual": 26079.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1970-07-01",
@@ -10085,16 +7305,6 @@
       "country": "United States",
       "timestamp": "1970-05-01",
       "actual": 4.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1970-04-01",
-      "actual": 25929.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10141,26 +7351,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1970-01-01",
-      "actual": 25973.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1970-01-01",
-      "actual": 5.83825533848251,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1970-01-01",
@@ -10185,16 +7375,6 @@
       "country": "United States",
       "timestamp": "1969-11-01",
       "actual": 3.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1969-10-01",
-      "actual": 26076.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10231,16 +7411,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1969-07-01",
-      "actual": 26281.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1969-07-01",
@@ -10265,16 +7435,6 @@
       "country": "United States",
       "timestamp": "1969-05-01",
       "actual": 3.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1969-04-01",
-      "actual": 26181.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10321,26 +7481,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1969-01-01",
-      "actual": 26162.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1969-01-01",
-      "actual": 5.46238620028745,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1969-01-01",
@@ -10365,16 +7505,6 @@
       "country": "United States",
       "timestamp": "1968-11-01",
       "actual": 3.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1968-10-01",
-      "actual": 25813.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10411,16 +7541,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1968-07-01",
-      "actual": 25781.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1968-07-01",
@@ -10445,16 +7565,6 @@
       "country": "United States",
       "timestamp": "1968-05-01",
       "actual": 3.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1968-04-01",
-      "actual": 25652.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10501,26 +7611,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1968-01-01",
-      "actual": 25288.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1968-01-01",
-      "actual": 4.27179615288537,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1968-01-01",
@@ -10545,16 +7635,6 @@
       "country": "United States",
       "timestamp": "1967-11-01",
       "actual": 3.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1967-10-01",
-      "actual": 24836.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10591,16 +7671,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1967-07-01",
-      "actual": 24719.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1967-07-01",
@@ -10625,16 +7695,6 @@
       "country": "United States",
       "timestamp": "1967-05-01",
       "actual": 3.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1967-04-01",
-      "actual": 24556.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10681,26 +7741,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1967-01-01",
-      "actual": 24602.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1967-01-01",
-      "actual": 2.77278562259309,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1967-01-01",
@@ -10725,16 +7765,6 @@
       "country": "United States",
       "timestamp": "1966-11-01",
       "actual": 3.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1966-10-01",
-      "actual": 24446.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10771,16 +7801,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1966-07-01",
-      "actual": 24321.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1966-07-01",
@@ -10805,16 +7825,6 @@
       "country": "United States",
       "timestamp": "1966-05-01",
       "actual": 3.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1966-04-01",
-      "actual": 24191.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10861,26 +7871,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1966-01-01",
-      "actual": 24172.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1966-01-01",
-      "actual": 3.0150753768844,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1966-01-01",
@@ -10905,16 +7895,6 @@
       "country": "United States",
       "timestamp": "1965-11-01",
       "actual": 4.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1965-10-01",
-      "actual": 23656.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -10951,16 +7931,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1965-07-01",
-      "actual": 23198.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1965-07-01",
@@ -10985,16 +7955,6 @@
       "country": "United States",
       "timestamp": "1965-05-01",
       "actual": 4.6,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1965-04-01",
-      "actual": 22770.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11041,26 +8001,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1965-01-01",
-      "actual": 22547.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1965-01-01",
-      "actual": 1.58516926383662,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1965-01-01",
@@ -11085,16 +8025,6 @@
       "country": "United States",
       "timestamp": "1964-11-01",
       "actual": 4.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1964-10-01",
-      "actual": 22075.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11131,16 +8061,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1964-07-01",
-      "actual": 22085.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1964-07-01",
@@ -11165,16 +8085,6 @@
       "country": "United States",
       "timestamp": "1964-05-01",
       "actual": 5.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1964-04-01",
-      "actual": 21824.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11221,26 +8131,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1964-01-01",
-      "actual": 21657.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1964-01-01",
-      "actual": 1.27891156462591,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1964-01-01",
@@ -11265,16 +8155,6 @@
       "country": "United States",
       "timestamp": "1963-11-01",
       "actual": 5.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1963-10-01",
-      "actual": 21276.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11311,16 +8191,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1963-07-01",
-      "actual": 21219.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1963-07-01",
@@ -11345,16 +8215,6 @@
       "country": "United States",
       "timestamp": "1963-05-01",
       "actual": 5.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1963-04-01",
-      "actual": 20842.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11401,26 +8261,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1963-01-01",
-      "actual": 20677.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1963-01-01",
-      "actual": 1.23966942148753,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1963-01-01",
@@ -11445,16 +8285,6 @@
       "country": "United States",
       "timestamp": "1962-11-01",
       "actual": 5.7,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1962-10-01",
-      "actual": 20521.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11491,16 +8321,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1962-07-01",
-      "actual": 20536.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1962-07-01",
@@ -11525,16 +8345,6 @@
       "country": "United States",
       "timestamp": "1962-05-01",
       "actual": 5.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1962-04-01",
-      "actual": 20366.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11581,26 +8391,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1962-01-01",
-      "actual": 20254.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1962-01-01",
-      "actual": 1.19877334820186,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1962-01-01",
@@ -11625,16 +8415,6 @@
       "country": "United States",
       "timestamp": "1961-11-01",
       "actual": 6.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1961-10-01",
-      "actual": 19970.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11671,16 +8451,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1961-07-01",
-      "actual": 19670.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1961-07-01",
@@ -11705,16 +8475,6 @@
       "country": "United States",
       "timestamp": "1961-05-01",
       "actual": 7.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1961-04-01",
-      "actual": 19380.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11761,26 +8521,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1961-01-01",
-      "actual": 19130.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1961-01-01",
-      "actual": 1.07072414764724,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1961-01-01",
@@ -11805,16 +8545,6 @@
       "country": "United States",
       "timestamp": "1960-11-01",
       "actual": 6.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1960-10-01",
-      "actual": 19065.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11851,16 +8581,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1960-07-01",
-      "actual": 19390.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1960-07-01",
@@ -11885,16 +8605,6 @@
       "country": "United States",
       "timestamp": "1960-05-01",
       "actual": 5.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1960-04-01",
-      "actual": 19392.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -11941,26 +8651,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1960-01-01",
-      "actual": 19614.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Inflation Rate (CPI Based)",
-      "country": "United States",
-      "timestamp": "1960-01-01",
-      "actual": 1.45797598627791,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1960-01-01",
@@ -11985,16 +8675,6 @@
       "country": "United States",
       "timestamp": "1959-11-01",
       "actual": 5.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1959-10-01",
-      "actual": 19296.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12031,16 +8711,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1959-07-01",
-      "actual": 19326.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1959-07-01",
@@ -12065,16 +8735,6 @@
       "country": "United States",
       "timestamp": "1959-05-01",
       "actual": 5.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1959-04-01",
-      "actual": 19395.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12121,16 +8781,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1959-01-01",
-      "actual": 19041.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1959-01-01",
@@ -12155,16 +8805,6 @@
       "country": "United States",
       "timestamp": "1958-11-01",
       "actual": 6.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1958-10-01",
-      "actual": 18764.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12201,16 +8841,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1958-07-01",
-      "actual": 18419.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1958-07-01",
@@ -12235,16 +8865,6 @@
       "country": "United States",
       "timestamp": "1958-05-01",
       "actual": 7.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1958-04-01",
-      "actual": 18081.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12291,16 +8911,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1958-01-01",
-      "actual": 18032.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1958-01-01",
@@ -12325,16 +8935,6 @@
       "country": "United States",
       "timestamp": "1957-11-01",
       "actual": 5.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1957-10-01",
-      "actual": 18582.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12371,16 +8971,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1957-07-01",
-      "actual": 18862.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1957-07-01",
@@ -12405,16 +8995,6 @@
       "country": "United States",
       "timestamp": "1957-05-01",
       "actual": 4.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1957-04-01",
-      "actual": 18763.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12461,16 +9041,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1957-01-01",
-      "actual": 18881.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1957-01-01",
@@ -12495,16 +9065,6 @@
       "country": "United States",
       "timestamp": "1956-11-01",
       "actual": 4.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1956-10-01",
-      "actual": 18845.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12541,16 +9101,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1956-07-01",
-      "actual": 18632.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1956-07-01",
@@ -12575,16 +9125,6 @@
       "country": "United States",
       "timestamp": "1956-05-01",
       "actual": 4.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1956-04-01",
-      "actual": 18736.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12631,16 +9171,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1956-01-01",
-      "actual": 18658.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1956-01-01",
@@ -12665,16 +9195,6 @@
       "country": "United States",
       "timestamp": "1955-11-01",
       "actual": 4.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1955-10-01",
-      "actual": 18808.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12711,16 +9231,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1955-07-01",
-      "actual": 18787.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1955-07-01",
@@ -12745,16 +9255,6 @@
       "country": "United States",
       "timestamp": "1955-05-01",
       "actual": 4.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1955-04-01",
-      "actual": 18621.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12801,16 +9301,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1955-01-01",
-      "actual": 18396.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1955-01-01",
@@ -12835,16 +9325,6 @@
       "country": "United States",
       "timestamp": "1954-11-01",
       "actual": 5.3,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1954-10-01",
-      "actual": 17960.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12881,16 +9361,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1954-07-01",
-      "actual": 17701.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1954-07-01",
@@ -12915,16 +9385,6 @@
       "country": "United States",
       "timestamp": "1954-05-01",
       "actual": 5.9,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1954-04-01",
-      "actual": 17584.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -12971,16 +9431,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1954-01-01",
-      "actual": 17636.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1954-01-01",
@@ -13005,16 +9455,6 @@
       "country": "United States",
       "timestamp": "1953-11-01",
       "actual": 3.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1953-10-01",
-      "actual": 17797.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13051,16 +9491,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1953-07-01",
-      "actual": 18155.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1953-07-01",
@@ -13085,16 +9515,6 @@
       "country": "United States",
       "timestamp": "1953-05-01",
       "actual": 2.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1953-04-01",
-      "actual": 18341.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13141,16 +9561,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1953-01-01",
-      "actual": 18268.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1953-01-01",
@@ -13175,16 +9585,6 @@
       "country": "United States",
       "timestamp": "1952-11-01",
       "actual": 2.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1952-10-01",
-      "actual": 18001.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13221,16 +9621,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1952-07-01",
-      "actual": 17509.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1952-07-01",
@@ -13255,16 +9645,6 @@
       "country": "United States",
       "timestamp": "1952-05-01",
       "actual": 3.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1952-04-01",
-      "actual": 17459.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13311,16 +9691,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1952-01-01",
-      "actual": 17490.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1952-01-01",
@@ -13345,16 +9715,6 @@
       "country": "United States",
       "timestamp": "1951-11-01",
       "actual": 3.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1951-10-01",
-      "actual": 17375.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13391,16 +9751,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1951-07-01",
-      "actual": 17420.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1951-07-01",
@@ -13425,16 +9775,6 @@
       "country": "United States",
       "timestamp": "1951-05-01",
       "actual": 3.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1951-04-01",
-      "actual": 17147.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13481,16 +9821,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1951-01-01",
-      "actual": 16922.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1951-01-01",
@@ -13515,16 +9845,6 @@
       "country": "United States",
       "timestamp": "1950-11-01",
       "actual": 4.2,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1950-10-01",
-      "actual": 16764.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13561,16 +9881,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1950-07-01",
-      "actual": 16524.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1950-07-01",
@@ -13595,16 +9905,6 @@
       "country": "United States",
       "timestamp": "1950-05-01",
       "actual": 5.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1950-04-01",
-      "actual": 15977.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13651,16 +9951,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1950-01-01",
-      "actual": 15559.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1950-01-01",
@@ -13685,16 +9975,6 @@
       "country": "United States",
       "timestamp": "1949-11-01",
       "actual": 6.4,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1949-10-01",
-      "actual": 15032.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13731,16 +10011,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1949-07-01",
-      "actual": 15228.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1949-07-01",
@@ -13765,16 +10035,6 @@
       "country": "United States",
       "timestamp": "1949-05-01",
       "actual": 6.1,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1949-04-01",
-      "actual": 15137.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13821,16 +10081,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1949-01-01",
-      "actual": 15250.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1949-01-01",
@@ -13855,16 +10105,6 @@
       "country": "United States",
       "timestamp": "1948-11-01",
       "actual": 3.8,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1948-10-01",
-      "actual": 15530.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13901,16 +10141,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1948-07-01",
-      "actual": 15585.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1948-07-01",
@@ -13935,16 +10165,6 @@
       "country": "United States",
       "timestamp": "1948-05-01",
       "actual": 3.5,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1948-04-01",
-      "actual": 15563.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",
@@ -13991,16 +10211,6 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1948-01-01",
-      "actual": 15371.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Civilian Unemployment Rate",
       "country": "United States",
       "timestamp": "1948-01-01",
@@ -14011,50 +10221,10 @@
       "source": "alphavantage"
     },
     {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1947-10-01",
-      "actual": 15204.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1947-07-01",
-      "actual": 15039.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1947-04-01",
-      "actual": 15139.0,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
       "event_name": "Real Gross Domestic Product",
       "country": "United States",
       "timestamp": "1947-01-01",
       "actual": 2184.614,
-      "consensus": null,
-      "previous": null,
-      "impact_level": "High",
-      "source": "alphavantage"
-    },
-    {
-      "event_name": "Real Gross Domestic Product Per Capita",
-      "country": "United States",
-      "timestamp": "1947-01-01",
-      "actual": 15248.0,
       "consensus": null,
       "previous": null,
       "impact_level": "High",

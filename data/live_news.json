@@ -1,18 +1,51 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T20:02:39.525218+00:00",
+    "last_updated": "2026-08-21T20:37:39.256369+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 88,
-      "equities": 41,
-      "commodities": 11,
+      "equities": 42,
       "crypto": 74,
-      "forex": 14,
-      "macro": 22
+      "macro": 22,
+      "commodities": 12,
+      "general": 88,
+      "forex": 14
     }
   },
   "articles": [
+    {
+      "headline": "Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Both the Nasdaq and S&P indices are settling with nearly identical gains of around 0.45% on the day. From a technical perspective, both are also ending the week caught between key shorter-term moving averages — below their 100-hour moving averages on the to",
+      "source": "Forexlive",
+      "publication_date": "2026-08-21T20:16:36+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/nasdaq-and-s-p-indices-are-settling-between-risk-bias-defining-mas-as-the-week-comes-to-a-close/",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
+      "description": "Wall St rises on the day but falls for the week; bond yields and Iran in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T20:02:20+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+      "description": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T20:00:47+00:00",
+      "article_url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Generational Group Advises J.C. Services, LLC dba American Chimney & Fireplace in its Sale to Chimney Collective",
       "description": "DALLAS--(BUSINESS WIRE)--Generational Group announces the sale of American Chimney & Fireplace to Chimney Collective, expanding its residential services network.",
@@ -55,27 +88,6 @@
         "forex",
         "commodities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "USDJPY sets the close guardrails for next week's trading",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDJPY has set the technical guardrails for the rest of today and heading into next week.</p><p>Looking at the hourly chart, the low for the day stalled just ahead of the 200-day moving average, currently at 158.313. The low reached 158.35 before buyers",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T19:01:19+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usdjpy-sets-the-close-guardrails-for-next-week-s-trading/",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Wall St indexes eye weekly losses; bond yields and Iran in focus - Reuters",
-      "description": "Wall St indexes eye weekly losses; bond yields and Iran in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T18:57:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -2051,16 +2063,6 @@
       "article_url": "https://www.cnbc.com/2026/08/19/jim-cramer-says-buy-target-on-any-pullback-as-turnaround-takes-hold.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-      "description": "The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T15:50:58+00:00",
-      "article_url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
