@@ -1,24 +1,85 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T10:43:54.345562+00:00",
+    "last_updated": "2026-08-21T11:11:41.453895+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 90,
-      "crypto": 71,
+      "crypto": 72,
+      "equities": 37,
       "macro": 21,
-      "equities": 36,
-      "commodities": 13,
+      "commodities": 11,
       "forex": 14
     }
   },
   "articles": [
+    {
+      "headline": "Form 8.3 - Picton Property Income Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T10:58:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348987/0/en/form-8-3-picton-property-income-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T10:57:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348986/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T10:38:47+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T10:15:36+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Coldcard strengthens seed generation with firmware update",
       "description": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.",
       "source": "Cointelegraph",
       "publication_date": "2026-08-21T10:13:23+00:00",
       "article_url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trustar Bank Announces $750 Million Branch Acquisition from Forbright Bank",
+      "description": "GREAT FALLS, Va.--(BUSINESS WIRE)--Trustar Bank, the wholly-owned banking subsidiary of Trustar Bankshares, Inc. (the “Company”) (OTCQX: TRSB), today announced the signing of a purchase and assumption agreement (the “Agreement”), under which Trustar Bank will acquire Forbright Bank’s branches in Pot",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-21T10:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260821322193/en/Trustar-Bank-Announces-750-Million-Branch-Acquisition-from-Forbright-Bank/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Form-8.3 APTITUDE SOFTWARE GROUP PLC - 20 08 2026 - (CGAML)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T10:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348956/0/en/form-8-3-aptitude-software-group-plc-20-08-2026-cgaml.html",
       "asset_tags": [
         "general"
       ]
@@ -402,17 +463,6 @@
       ]
     },
     {
-      "headline": "PCI Energy Solutions se sumará a Mitsubishi Electric y consolida su compromiso a largo plazo con los clientes, los empleados y la industria energética",
-      "description": "NORMAN, Oklahoma--(BUSINESS WIRE)--PCI Energy Solutions (\"PCI\"), proveedor líder de software empresarial para la gestión y optimización de la energía, con sede en Estados Unidos, anunció hoy que ha firmado un acuerdo definitivo por el cual será adquirida por Mitsubishi Electric Corporation. El docum",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-21T01:57:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260820241591/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "commodities",
-        "crypto"
-      ]
-    },
-    {
       "headline": "Bitcoin pushes past $75,000 as rally continues.",
       "description": "",
       "source": "CoinDesk",
@@ -564,16 +614,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T20:19:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1130,11 +1170,11 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Picton Property Income Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T10:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348194/0/en/form-8-3-picton-property-income-limited.html",
+      "headline": "Indian startup aims to compete with OpenAI in crowded voice arena",
+      "description": "Like other voice foundation models, it aims to provide big savings for users like call centers, banks and airlines, which hope to employ the technology to handle large volumes of customer communications",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-20T10:37:50+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena",
       "asset_tags": [
         "general"
       ]
@@ -1157,16 +1197,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348188/0/en/form-8-3-nextenergy-solar-fund-limited.html",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T10:28:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348186/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1269,16 +1299,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Mitsubishi Electric to buy PCI Energy Solutions for $1.4B",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-20T08:44:51+00:00",
-      "article_url": "https://seekingalpha.com/news/4635260-mitsubishi-electric-to-buy-pci-energy-solutions-for-14b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1430,6 +1450,16 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-20T02:00:44+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T01:11:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2024,36 +2054,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-19T09:10:22+00:00",
       "article_url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T09:05:45+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
-      "description": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T08:37:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
-      "description": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T08:34:51+00:00",
-      "article_url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
       ]
