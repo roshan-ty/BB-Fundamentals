@@ -1,30 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T05:45:49.841543+00:00",
+    "last_updated": "2026-08-21T06:19:40.116192+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 12,
-      "equities": 36,
-      "commodities": 15,
-      "crypto": 66,
-      "macro": 17,
-      "general": 98
+      "forex": 14,
+      "equities": 35,
+      "crypto": 68,
+      "macro": 15,
+      "commodities": 13,
+      "general": 95
     }
   },
   "articles": [
     {
-      "headline": "US yields push back up, looks to challenge \"Bessent put\"",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">US long-term yields have bounced back in the second half of the week in erasing much of the drop from the US Treasury announcement. 10-year yields have more or less recovered fully to be back up to 4.704% now while 30-year yields are nudging",
+      "headline": "US Treasury move risks creating unintended consequences for markets and the economy",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">I think everyone has talked enough about the US Treasury move to double long-term debt buybacks this week, and its impact on broader markets. Bessent was even bold enough to suggest that they might do more and take further action if needed, ",
       "source": "Forexlive",
-      "publication_date": "2026-08-21T05:13:26+00:00",
-      "article_url": "https://investinglive.com/news/us-yields-push-back-up-looks-to-challenge-bessent-put/",
+      "publication_date": "2026-08-21T05:52:55+00:00",
+      "article_url": "https://investinglive.com/news/us-treasury-move-risks-creating-unintended-consequences-for-markets-and-the-economy/",
       "asset_tags": [
         "forex",
         "equities",
-        "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+      "description": "The proposal would let the FIU investigate suspected violations and refer unregistered crypto operators directly to law enforcement.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T05:47:16+00:00",
+      "article_url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T05:29:48+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -33,6 +52,36 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-21T05:04:52+00:00",
       "article_url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Ipsen finalise l'acquisition de Kartos Therapeutics, renforçant son portefeuille d'oncologie en phase avancée",
+      "description": "PARIS, FRANCE, 21 AOUT 2026 - Ipsen (Euronext: IPN; ADR: IPSEY) a annoncé aujourd’hui avoir finalisé l'acquisition de Kartos Therapeutics, une société biopharmaceutique au stade clinique, apportant le navtemadlin, un inhibiteur de MDM2 en développement clinique de phase III dans la myélofibrose.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T05:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348882/0/fr/ipsen-finalise-l-acquisition-de-kartos-therapeutics-renfor%C3%A7ant-son-portefeuille-d-oncologie-en-phase-avanc%C3%A9e.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Ipsen completes acquisition of Kartos Therapeutics, strengthening late-stage Oncology pipeline",
+      "description": "PARIS, FRANCE, 21 AUGUST 2026 - Ipsen (Euronext: IPN; ADR: IPSEY) announced today it has completed the acquisition of Kartos Therapeutics, a clinical-stage biopharmaceutical company adding late-stage MDM2 inhibitor navtemadlin in Phase III clinical development in myelofibrosis.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-21T05:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348882/0/en/ipsen-completes-acquisition-of-kartos-therapeutics-strengthening-late-stage-oncology-pipeline.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T04:56:30+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
       "asset_tags": [
         "crypto"
       ]
@@ -1670,16 +1719,6 @@
       ]
     },
     {
-      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle Plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-19T14:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/19/3347784/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Hedge funds are about to jump into prediction markets in a big way",
       "description": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
       "source": "CNBC",
@@ -2012,49 +2051,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "UK inflation picks up after July surge in household energy bills - Reuters",
-      "description": "UK inflation picks up after July surge in household energy bills Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T06:04:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDlHUDNTVHV0SHFvcWN2UEZSQmN3TENFSklmWXJlRjY0ZFBhOU0zcUdwN0JNRE5JNFMtVmxiZTdMeW9ZRFZlSm5lcjhwcTRpd04xanJQMkhhSGQydTVmeGhEZk9VUzlDOEZRak02ZDVMdWNjaHl2VEpPaThuNExYMVl0eGNHdnRWdTVtNFk5NHU?oc=5",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T05:45:27+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment - Reuters",
-      "description": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T05:19:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "MAYAChain halts network after estimated $1.7M exploit",
-      "description": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T05:13:54+00:00",
-      "article_url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
