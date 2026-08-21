@@ -1,18 +1,32 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T22:09:49.345300+00:00",
+    "last_updated": "2026-08-21T22:40:06.753428+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 90,
-      "macro": 21,
-      "crypto": 74,
+      "forex": 15,
       "equities": 40,
-      "commodities": 12,
-      "forex": 14
+      "commodities": 13,
+      "crypto": 74,
+      "macro": 21,
+      "general": 90
     }
   },
   "articles": [
+    {
+      "headline": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
+      "description": "<ul><li><a href=\"https://investinglive.com/technical-analysis/nasdaq-and-s-p-indices-are-settling-between-risk-bias-defining-mas-as-the-week-comes-to-a-close\" rel=\"follow\">Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close</a></li><li><a href=\"https://inv",
+      "source": "Forexlive",
+      "publication_date": "2026-08-21T22:14:33+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-aug-trump-folds-on-beef-tariffs-0/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Two Harbors gets final regulatory approval for CrossCountry deal",
       "description": "",
@@ -50,18 +64,6 @@
       "publication_date": "2026-08-21T20:26:16+00:00",
       "article_url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Both the Nasdaq and S&P indices are settling with nearly identical gains of around 0.45% on the day. From a technical perspective, both are also ending the week caught between key shorter-term moving averages — below their 100-hour moving averages on the to",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T20:16:36+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/nasdaq-and-s-p-indices-are-settling-between-risk-bias-defining-mas-as-the-week-comes-to-a-close/",
-      "asset_tags": [
-        "equities",
         "crypto",
         "macro"
       ]
@@ -991,16 +993,6 @@
       ]
     },
     {
-      "headline": "Israel and Turkey step up warnings over Syria after airbase bombing - Reuters",
-      "description": "Israel and Turkey step up warnings over Syria after airbase bombing Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T23:45:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTlfMHNQWDJxLTRQUnk3S3BmSThwcFNFWTY4dHhTaVZlaENYcFliSkRTVFMzRVliRkgweUxUVThXN0ZfU2Q0Rl9WVXBCZkxBQXZPcUlkeVNKa2kwcFQzM3FVakJMRlQ2N1FBZ3hVUGNXb25ySko1UFVEQjZqU3dfekJUdVBYMFVkQ3RiSm1mMTZFUTFsNFhidHNxY0lsbnVCeTNJOUh0eEQ5dVRMM3VtajlWWlFxOFhfRTFjdXlTWjNtLUhi?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate - Reuters",
       "description": "Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate Reuters",
       "source": "Reuters",
@@ -1026,6 +1018,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-20T22:33:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348861/0/en/questor-technology-signs-letter-of-intent-to-acquire-emission-rx-in-strategic-move-to-lead-north-american-emissions-combustion-technology.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T21:12:11+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1081,16 +1083,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T20:19:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1709,6 +1701,26 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T08:26:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The Iran war energy crisis is just getting started - Reuters",
+      "description": "The Iran war energy crisis is just getting started Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T08:26:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "German spy agency opens helpline for those exiled from Russia, China - Reuters",
       "description": "German spy agency opens helpline for those exiled from Russia, China Reuters",
       "source": "Reuters",
@@ -1759,16 +1771,6 @@
       ]
     },
     {
-      "headline": "The Iran war energy crisis is just getting started - Reuters",
-      "description": "The Iran war energy crisis is just getting started Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T06:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzN3VmVtUVpMWHBXcnNDdUJXbkNFMFRxRjkxSzJjWEtZMWpnV2V1WWNfWFBNWlNENWhJVFBsUjhrcEtEa1ViaXhwcDRCR3BqeHFTX0JCektpb0dPYjIwTm55eXVGdm5yaDBQSUtjbWxEWllxUWJGVXBTVkVybi12U3pnT1hnQ0g0cW9UbE1jdjFGT3BUVWdKcHJNX1EzMHEybXNOcS1waEZyVk1qaVNFaFpyZHpjQQ?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
       "description": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
       "source": "Cointelegraph",
@@ -1787,16 +1789,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T04:38:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1839,6 +1831,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Israel and Turkey step up warnings over Syria after airbase bombing - Reuters",
+      "description": "Israel and Turkey step up warnings over Syria after airbase bombing Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T03:24:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTlfMHNQWDJxLTRQUnk3S3BmSThwcFNFWTY4dHhTaVZlaENYcFliSkRTVFMzRVliRkgweUxUVThXN0ZfU2Q0Rl9WVXBCZkxBQXZPcUlkeVNKa2kwcFQzM3FVakJMRlQ2N1FBZ3hVUGNXb25ySko1UFVEQjZqU3dfekJUdVBYMFVkQ3RiSm1mMTZFUTFsNFhidHNxY0lsbnVCeTNJOUh0eEQ5dVRMM3VtajlWWlFxOFhfRTFjdXlTWjNtLUhi?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
