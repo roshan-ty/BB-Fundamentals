@@ -1,18 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T20:37:39.256369+00:00",
+    "last_updated": "2026-08-21T20:58:15.329651+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 42,
+      "general": 89,
       "crypto": 74,
       "macro": 22,
+      "equities": 40,
       "commodities": 12,
-      "general": 88,
       "forex": 14
     }
   },
   "articles": [
+    {
+      "headline": "Two Harbors gets final regulatory approval for CrossCountry deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-21T20:48:21+00:00",
+      "article_url": "https://seekingalpha.com/news/4636021-two-harbors-gets-final-regulatory-approval-for-crosscountry-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Real and RE/MAX Holdings Announce Real’s Receipt of Court Approval of Proposed Arrangement in Connection with Proposed Combination",
+      "description": "MIAMI & DENVER--(BUSINESS WIRE)--Real and RE/MAX Holdings Announce Real’s Receipt of Court Approval of Proposed Arrangement in Connection with Proposed Combination",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-21T20:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260821001781/en/Real-and-REMAX-Holdings-Announce-Real%E2%80%99s-Receipt-of-Court-Approval-of-Proposed-Arrangement-in-Connection-with-Proposed-Combination/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+      "description": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T20:26:16+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close",
       "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Both the Nasdaq and S&P indices are settling with nearly identical gains of around 0.45% on the day. From a technical perspective, both are also ending the week caught between key shorter-term moving averages — below their 100-hour moving averages on the to",
@@ -47,16 +78,6 @@
       ]
     },
     {
-      "headline": "Generational Group Advises J.C. Services, LLC dba American Chimney & Fireplace in its Sale to Chimney Collective",
-      "description": "DALLAS--(BUSINESS WIRE)--Generational Group announces the sale of American Chimney & Fireplace to Chimney Collective, expanding its residential services network.",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-21T19:41:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260821585501/en/Generational-Group-Advises-J.C.-Services-LLC-dba-American-Chimney-Fireplace-in-its-Sale-to-Chimney-Collective/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
       "description": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
       "source": "CNBC",
@@ -88,6 +109,16 @@
         "forex",
         "commodities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Pass the Clarity Act",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T19:00:00+00:00",
+      "article_url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2031,38 +2062,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Trump says he plans to meet with North Korea's Kim this year - Reuters",
-      "description": "Trump says he plans to meet with North Korea's Kim this year Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T16:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjlyRG93Zk1yZ01NcGdqcVlhN2JDWDFfRndXM1VvSEF4UmExQ3NMVkJFcTRIYkdSSGNYR1UwRnU5cUUxa3QwMHl2MWFVQmswdVlqbUxvNU9GOXpiU3VJTktyLXktMk9BMVQwNGVTYW5VZUlQVEJYNlFtdHlUSE80aEtvRldkM2FHYVBaSXEyVHZVbzdNc1pWOHIyMDU5Z0tBMW90QQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-      "description": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T16:00:03+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Jim Cramer says buy Target on any pullback as turnaround takes hold",
-      "description": "Wall Street cheered improving financial metrics across the board in its latest earnings results.",
-      "source": "CNBC",
-      "publication_date": "2026-08-19T15:57:17+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/19/jim-cramer-says-buy-target-on-any-pullback-as-turnaround-takes-hold.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
