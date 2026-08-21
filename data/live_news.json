@@ -1,36 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T07:13:27.098496+00:00",
+    "last_updated": "2026-08-21T08:01:01.781533+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 14,
+      "equities": 35,
       "macro": 15,
-      "general": 96,
-      "crypto": 66,
-      "forex": 13,
-      "equities": 34,
+      "crypto": 68,
+      "general": 94,
       "commodities": 13
     }
   },
   "articles": [
     {
-      "headline": "French business confidence extends recovery into August",
-      "description": "<ul><li>August business confidence 98 vs 98 expected</li><li>Prior 97</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">The French business climate indicator picks up again in August, nudging back up to the highest since February. That being said, it's still keeping below the long-",
+      "headline": "French business activity contracts further in August as demand conditions remain subdued",
+      "description": "<ul><li>August flash services PMI 48.4 vs 49.8 expected</li><li>Prior 49.6</li><li>August flash manufacturing PMI 51.5 vs 50.0 expected</li><li>Prior 49.8</li><li>August flash composite PMI 48.8 vs 49.5 expected</li><li>Prior 49.4</li></ul><p class=\"text-align-justify\" style=\"text-align: justify;\">T",
       "source": "Forexlive",
-      "publication_date": "2026-08-21T06:45:10+00:00",
-      "article_url": "https://investinglive.com/news/french-business-confidence-extends-recovery-into-august/",
+      "publication_date": "2026-08-21T07:15:15+00:00",
+      "article_url": "https://investinglive.com/news/french-business-activity-contracts-further-in-august-as-demand-conditions-remain-subdued/",
       "asset_tags": [
+        "forex",
+        "equities",
         "macro"
       ]
     },
     {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T06:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "headline": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T06:43:24+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "asset_tags": [
-        "general"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-21T05:52:27+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -286,6 +298,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T20:19:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1206,6 +1228,16 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T04:38:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "India bars JPMorgan unit for alleged market manipulation",
       "description": "SEBI impounded 37 million rupees ($386,000), which it described as wrongful gains made by JPMorgan unit Copthall Mauritius Investment Ltd. and local firm Mansi Share and Stock Broking Ltd",
       "source": "Bloomberg",
@@ -1283,16 +1315,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-20T02:00:44+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T01:11:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2028,26 +2050,6 @@
       "article_url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Kenya Airways says its fuel cost up 72% due to Middle East conflict - Reuters",
-      "description": "Kenya Airways says its fuel cost up 72% due to Middle East conflict Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T07:22:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas - Reuters",
-      "description": "PODCAST: US-Iran ceasefire expires, Tupac murder trial and microdramas Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-19T07:11:08+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmZvWi1pSnAyOW9WZ0lLdkhfcDZvVXNPODFDRE9OYjVvYXJ1MmJzNFN5Z1FJNDgyNzFRR05pNHlValB2RFZuT3lmSVU4UEFkNUdSaEQ0RXBUZ2c0enpCRzlOZWJVUERyTGxlYUplTnY5YVNYekNZMXdqQWtsM1lLUWI1WGxHd0V6d183MGxVQkpqdFpDUmRVZjloNFVyWnRWSU9J?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
