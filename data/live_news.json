@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T04:23:05.398147+00:00",
+    "last_updated": "2026-08-21T05:04:38.180315+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "crypto": 66,
-      "forex": 12,
-      "equities": 36,
+      "forex": 13,
+      "equities": 37,
       "commodities": 16,
       "macro": 18,
-      "general": 98
+      "general": 97
     }
   },
   "articles": [
@@ -130,16 +130,6 @@
       ]
     },
     {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T22:48:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Questor Technology Signs Letter of Intent to Acquire Emission Rx in Strategic Move to Lead North American Emissions Combustion Technology",
       "description": "CALGARY, Alberta, Aug. 20, 2026 (GLOBE NEWSWIRE) -- Questor Technology Inc. (“Questor” or the “Company”) (TSXV: QST) announces that it has entered into an LOI to acquire Emission Rx Ltd. (“Emission Rx”), a privately held Calgary-based waste gas combustion service company (the “Transaction”). Through",
       "source": "GlobalNewswire",
@@ -169,6 +159,16 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T21:00:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -220,16 +220,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T20:19:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1150,6 +1140,17 @@
       ]
     },
     {
+      "headline": "India bars JPMorgan unit for alleged market manipulation",
+      "description": "SEBI impounded 37 million rupees ($386,000), which it described as wrongful gains made by JPMorgan unit Copthall Mauritius Investment Ltd. and local firm Mansi Share and Stock Broking Ltd",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-20T04:31:54+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
+      "asset_tags": [
+        "forex",
+        "equities"
+      ]
+    },
+    {
       "headline": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
       "description": "",
       "source": "CoinDesk",
@@ -1216,6 +1217,16 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-20T02:00:44+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T01:11:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2047,16 +2058,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "OpenAI makes AI safety changes in wake of Hugging Face breach",
-      "description": "The latest disclosures serve as fresh evidence that AI agents are capable of acting autonomously in ways that even researchers trained to root out vulnerabilities in the technology can no longer anticipate.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T04:17:18+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
