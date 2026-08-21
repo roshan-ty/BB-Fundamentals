@@ -1,18 +1,42 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-21T05:04:38.180315+00:00",
+    "last_updated": "2026-08-21T05:45:49.841543+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 12,
+      "equities": 36,
+      "commodities": 15,
       "crypto": 66,
-      "forex": 13,
-      "equities": 37,
-      "commodities": 16,
-      "macro": 18,
-      "general": 97
+      "macro": 17,
+      "general": 98
     }
   },
   "articles": [
+    {
+      "headline": "US yields push back up, looks to challenge \"Bessent put\"",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">US long-term yields have bounced back in the second half of the week in erasing much of the drop from the US Treasury announcement. 10-year yields have more or less recovered fully to be back up to 4.704% now while 30-year yields are nudging",
+      "source": "Forexlive",
+      "publication_date": "2026-08-21T05:13:26+00:00",
+      "article_url": "https://investinglive.com/news/us-yields-push-back-up-looks-to-challenge-bessent-put/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "MANTRA token sinks 18% to record low amid blockchain halt",
+      "description": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-21T05:04:52+00:00",
+      "article_url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Capital.com plans UAE spot crypto services after affiliate wins licence",
       "description": "UAE clients will be able to buy and hold crypto through Capital.com’s app, expanding beyond price exposure through contracts for difference.",
@@ -21,20 +45,6 @@
       "article_url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "investingLive Asia-Pacific market news: Surge for crypto",
-      "description": "<ul><li><a href=\"https://investinglive.com/stock-market-update/asia-shares-mixed-as-nikkei-heads-for-worst-week-in-a-month-on-oil-fears\" rel=\"follow\">Asia shares mixed as Nikkei heads for worst week in a month on oil fears</a></li><li><a href=\"https://investinglive.com/news/china-vice-finance-minist",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T03:28:29+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-surge-for-crypto/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -140,6 +150,16 @@
       ]
     },
     {
+      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
+      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T22:06:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land - Reuters",
       "description": "US envoy Huckabee tells Israeli settlers not to take Palestinian Americans' land Reuters",
       "source": "Reuters",
@@ -159,16 +179,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T21:00:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1802,6 +1812,16 @@
       ]
     },
     {
+      "headline": "UAE says two missiles detected earlier were launched from Iran - Reuters",
+      "description": "UAE says two missiles detected earlier were launched from Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-19T11:31:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Ripple raises $275M for US prime brokerage to meet institutional demand",
       "description": "Ripple said the $275 million raised will support its expansion into traditional financial services such as prime brokerage and multi-asset clearing, citing strong demand from institutions.",
       "source": "Cointelegraph",
@@ -2035,29 +2055,6 @@
       "article_url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Gold edges below $4,400 as traders eye slump in long-dated bonds",
-      "description": "Spot gold lost as much as 0.7% on Tuesday, with a gauge of the dollar steady after hitting a three-month low on Monday",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-19T04:47:32+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T04:25:42+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     }
   ]
