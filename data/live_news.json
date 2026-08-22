@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-22T14:32:03.385273+00:00",
+    "last_updated": "2026-08-22T15:00:23.771360+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 26,
       "crypto": 68,
-      "general": 89,
-      "equities": 42,
+      "equities": 43,
+      "macro": 26,
+      "general": 88,
       "forex": 15,
       "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-22T14:10:17+00:00",
+      "article_url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-22T14:00:00+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
       "description": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
@@ -21,6 +41,16 @@
       "article_url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-22T13:30:00+00:00",
+      "article_url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2035,36 +2065,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0alhTVF8wYVhBNFUzbWN6TFhEU21UdTA1MHpEYkxrOE5jQ3d6OUNySnpQMXdnanlXV2s4Y3NsVFlJU0d6QmhsS3Qtei1NMVcwUzRielE2cFIydnNVWkR3Y0U1aDdQNmhrZ3YzMDBYRFlMR0t5Y0pGZElFbUwwMElZbndyMVVNS19FdA?oc=5",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Iran executes man over charges related to January protests, state media says - Reuters",
-      "description": "Iran executes man over charges related to January protests, state media says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T06:40:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGdaUUMxaVVtb1Zjc0o0dkwwaFhibExzZjBQNEc0emRZYm5LRVpTNm80c3FjYVhhRktwOHFYMzVVNU9GUkRVU1RkQ0ozakdwdEp3dUd4TUZ2a1ZhVFI1Q05jdTY3YXZ0OHduTGJIQV9zT1pxRm1UblpuM2ZCR3RpUkxzNGNzVUhVYlAwSXY3ZzVkWWhMMWpQUlA5ellzOXZVTEdNVUVOM1JReU5ESWYwMWFDVWZFLWk1YktvTWRuUk0tWFBM?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-20T06:21:17+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
-      "description": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-20T05:52:30+00:00",
-      "article_url": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
