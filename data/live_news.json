@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-22T11:59:31.763905+00:00",
+    "last_updated": "2026-08-22T12:56:05.682075+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 87,
-      "forex": 16,
-      "crypto": 70,
       "equities": 43,
+      "crypto": 70,
+      "forex": 16,
       "macro": 26,
       "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
+      "description": "Schools and increasingly teen employers are drawing a hard line against phone use. The benefits for teens can be profound.",
+      "source": "CNBC",
+      "publication_date": "2026-08-22T12:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-22T12:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
       "description": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz Reuters",
@@ -2046,27 +2067,6 @@
       "article_url": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-20T04:10:40+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US will impose 'toughest sanctions in history' on Iran, Bessent says - Reuters",
-      "description": "US will impose 'toughest sanctions in history' on Iran, Bessent says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T02:29:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc0t6ejR6ZDNSMllnR0lXWC1vV3ZyTXoxUDEyeHRXczFpRWtRbzEyWmdkRVRqWi1oZzJEaEF6UnAxcHItbXZ6Z1hKTzBQV2hPOUVFQml3Wk80T1F2UmFRSzIwakhFR2hKbmp3MFJ6LUFDX1BHV3BKeDZxYXdaT2wwWi1kaU5LbkFaX19IekRKSGNUT0VBc1FQeWVRdUxLd0U3V1I5WjZoMmtIcXZUQnRBczZKcTFZa19zUVE?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
