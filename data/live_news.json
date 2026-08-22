@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-22T03:27:10.323449+00:00",
+    "last_updated": "2026-08-22T04:08:36.311398+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 20,
+      "general": 90,
+      "macro": 24,
       "forex": 15,
-      "equities": 39,
+      "equities": 41,
       "commodities": 14,
-      "crypto": 73,
-      "general": 90
+      "crypto": 70
     }
   },
   "articles": [
+    {
+      "headline": "Trump says Iran not ready to make the 'right deal' - Reuters",
+      "description": "Trump says Iran not ready to make the 'right deal' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-22T01:05:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
       "description": "Wall St rises on the day but falls for the week; bond yields and Iran in focus Reuters",
@@ -45,6 +55,16 @@
       "article_url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "US Treasury Secretary Bessent to hold press conference on Monday - Reuters",
+      "description": "US Treasury Secretary Bessent to hold press conference on Monday Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T22:09:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -952,6 +972,39 @@
       ]
     },
     {
+      "headline": "Bitcoin leaps past $75,000 as crypto rally continues in Asia",
+      "description": "Bitcoin surges past $75,000 in Asia as market optimism grows following US Treasury bond yield plans and Trump’s crypto discussions.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-21T03:48:31+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/bitcoin-leaps-past-75-000-as-crypto-rally-continues-in-asia",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Indian proprietary traders’ derivatives profits fall to $4.7 billion",
+      "description": "Indian proprietary traders' derivatives profits dropped to $4.7 billion as regulatory curbs affected market dynamics and individual investor losses decreased.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-21T03:45:39+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-20/india-prop-traders-derivatives-profits-fall-to-4-7-billion",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "SEBI’s swift ban on JPMorgan unit seen as warning to traders",
+      "description": "SEBI's swift ban on JPMorgan's unit signals a strong stance against market manipulation in India's new closing stock auction system.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-21T03:35:43+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/india-s-quick-rebuke-of-jpmorgan-unit-seen-as-warning-to-traders",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Capital.com plans UAE spot crypto services after affiliate wins licence",
       "description": "UAE clients will be able to buy and hold crypto through Capital.com’s app, expanding beyond price exposure through contracts for difference.",
       "source": "Cointelegraph",
@@ -1141,6 +1194,16 @@
       "source": "CNBC",
       "publication_date": "2026-08-20T19:59:52+00:00",
       "article_url": "https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "NEWSLETTER: Trump's DC makeover advances as Iran agenda stalls - Reuters",
+      "description": "NEWSLETTER: Trump's DC makeover advances as Iran agenda stalls Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T19:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDM2MUlpY2Zhc0xTLTg0VXM4T0s5Z0xiOVVqejAtRlJhTi12eTlZY3MyU0hKY0NjTFFvbHY3OTFuWDJwR0diRENXbkRKOU1jczhienF2bnRRZW9xRnd1QXltd1VvZ1FKUjN6TmdqR2ZVcTN6RnJManJpXzA1TWFnZ3JyY3ROZ3lHeEhGZS1iRzNqRVVIUWc?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2000,66 +2063,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-19T19:49:51+00:00",
       "article_url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T19:48:33+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Where we stand on Broadcom after Marvell muscles in on its key customer Google",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-19T18:58:48+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/19/where-we-stand-on-broadcom-as-shares-dip-on-googles-deal-with-marvell.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto PAC notches primary wins, but loses $2M Florida race",
-      "description": "A Fairshake spokesperson said that the PAC was “just getting started“ on its expenditures as part of efforts to fill US Congress with lawmakers friendly to the crypto industry.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T18:48:58+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-19T18:10:10+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
-      "description": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-19T17:34:10+00:00",
-      "article_url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "A speakeasy inside a gas station is the hottest cocktail bar in a Minnesota town—the business brought in almost $5 million in a year",
-      "description": "Tony Donatell turned an empty storefront next to a gas station into a sophisticated speakeasy, The Farmer's Cellar. Inside, it's still the \"roaring twenties.\"",
-      "source": "CNBC",
-      "publication_date": "2026-08-19T17:05:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/19/this-gas-station-speakeasy-brought-in-almost-5-million-in-a-year.html",
       "asset_tags": [
         "general"
       ]
