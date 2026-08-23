@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-23T11:37:05.157845+00:00",
+    "last_updated": "2026-08-23T12:00:05.932687+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 92,
+      "general": 93,
       "equities": 42,
       "commodities": 15,
-      "crypto": 63,
+      "crypto": 62,
       "macro": 26,
-      "forex": 14
+      "forex": 13
     }
   },
   "articles": [
@@ -204,6 +204,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "EAM Jaishankar to visit Russia amid Trump’s tariff threat",
+      "description": "Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-22T11:35:31+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2052,17 +2062,6 @@
       "article_url": "https://www.cnbc.com/2026/08/20/chatgpt-for-teens-makes-safety-strides-but-do-they-work.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
-      "description": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter’s revenue stream.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-20T11:05:00+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "crypto"
       ]
     }
   ]
