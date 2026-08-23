@@ -3,17 +3,17 @@
     "application": "Bulls & Bears Fundamentals",
     "engine": "Quantitative Institutional Analysis Engine",
     "version": "1.0.0",
-    "last_updated": "2026-08-23T08:25:16.157861+00:00",
-    "total_instruments_analyzed": 81,
+    "last_updated": "2026-08-23T09:25:20.286595+00:00",
+    "total_instruments_analyzed": 82,
     "reference_fed_funds_rate": 3.63
   },
   "market_summary": {
-    "average_composite_score": 5.4802,
+    "average_composite_score": 5.4735,
     "median_composite_score": 5.325,
-    "standard_deviation_of_scores": 0.9494,
+    "standard_deviation_of_scores": 0.9455,
     "bias_distribution_across_all_instruments": {
       "Very Bearish": 0,
-      "Bearish": 33,
+      "Bearish": 34,
       "Neutral": 0,
       "Bullish": 48,
       "Very Bullish": 0
@@ -1533,6 +1533,33 @@
       }
     },
     {
+      "symbol": "CL=F",
+      "display_name": "Crude Oil West Texas Intermediate Futures (CL=F)",
+      "asset_class": "commodities",
+      "current_spot_pricing": 87.059998,
+      "twenty_four_hour_percentage_price_variance": 0.0,
+      "calculated_comprehensive_fundamental_bias": "Bearish",
+      "final_composite_score": 4.9375,
+      "pillar_scores": {
+        "monetary_policy_spread_pillar_1_weight_35": {
+          "score": 5.0,
+          "reasoning": "Moderate rates (3.63%) - neutral for commodities"
+        },
+        "growth_inflation_vector_pillar_2_weight_25": {
+          "score": 4.75,
+          "reasoning": "CPI: Inflation accelerating (+0.07%) - bearish for risk assets | GDP: Moderate GDP growth (+0.37%)"
+        },
+        "liquidity_curve_structure_pillar_3_weight_20": {
+          "score": 5.0,
+          "reasoning": "Flat curve (0.50%) - neutral liquidity"
+        },
+        "positioning_extremes_pillar_4_weight_20": {
+          "score": 5.0,
+          "reasoning": "No CFTC data for asset class 'commodities'"
+        }
+      }
+    },
+    {
       "symbol": "BZ=F",
       "display_name": "Brent Crude Oil Futures (BZ=F)",
       "asset_class": "commodities",
@@ -1860,8 +1887,8 @@
       "symbol": "BTC-USD",
       "display_name": "Bitcoin / United States Dollar (BTC-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 76224.148438,
-      "twenty_four_hour_percentage_price_variance": -1.1147,
+      "current_spot_pricing": 76489.539062,
+      "twenty_four_hour_percentage_price_variance": -0.7704,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -1887,8 +1914,8 @@
       "symbol": "ETH-USD",
       "display_name": "Ethereum / United States Dollar (ETH-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 2406.600098,
-      "twenty_four_hour_percentage_price_variance": -0.7281,
+      "current_spot_pricing": 2408.419922,
+      "twenty_four_hour_percentage_price_variance": -0.653,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -1914,8 +1941,8 @@
       "symbol": "SOL-USD",
       "display_name": "Solana / United States Dollar (SOL-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 92.870003,
-      "twenty_four_hour_percentage_price_variance": -1.1101,
+      "current_spot_pricing": 93.120003,
+      "twenty_four_hour_percentage_price_variance": -0.8439,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -1941,8 +1968,8 @@
       "symbol": "BNB-USD",
       "display_name": "BNB / United States Dollar (BNB-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 688.01001,
-      "twenty_four_hour_percentage_price_variance": -1.1056,
+      "current_spot_pricing": 688.320007,
+      "twenty_four_hour_percentage_price_variance": -1.061,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -1968,8 +1995,8 @@
       "symbol": "XRP-USD",
       "display_name": "XRP / United States Dollar (XRP-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 1.4787,
-      "twenty_four_hour_percentage_price_variance": 1.0229,
+      "current_spot_pricing": 1.4771,
+      "twenty_four_hour_percentage_price_variance": 0.9136,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -1995,8 +2022,8 @@
       "symbol": "ADA-USD",
       "display_name": "Cardano / United States Dollar (ADA-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 0.21918,
-      "twenty_four_hour_percentage_price_variance": -3.1279,
+      "current_spot_pricing": 0.22004,
+      "twenty_four_hour_percentage_price_variance": -2.7478,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -2022,8 +2049,8 @@
       "symbol": "DOGE-USD",
       "display_name": "Dogecoin / United States Dollar (DOGE-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 0.09091,
-      "twenty_four_hour_percentage_price_variance": -1.1332,
+      "current_spot_pricing": 0.09073,
+      "twenty_four_hour_percentage_price_variance": -1.329,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -2049,8 +2076,8 @@
       "symbol": "DOT-USD",
       "display_name": "Polkadot / United States Dollar (DOT-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 0.8969,
-      "twenty_four_hour_percentage_price_variance": -2.6541,
+      "current_spot_pricing": 0.8963,
+      "twenty_four_hour_percentage_price_variance": -2.7193,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -2076,8 +2103,8 @@
       "symbol": "AVAX-USD",
       "display_name": "Avalanche / United States Dollar (AVAX-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 7.391,
-      "twenty_four_hour_percentage_price_variance": -1.446,
+      "current_spot_pricing": 7.402,
+      "twenty_four_hour_percentage_price_variance": -1.2994,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -2103,8 +2130,8 @@
       "symbol": "LINK-USD",
       "display_name": "Chainlink / United States Dollar (LINK-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 11.346,
-      "twenty_four_hour_percentage_price_variance": -2.6689,
+      "current_spot_pricing": 11.361,
+      "twenty_four_hour_percentage_price_variance": -2.5402,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -2130,8 +2157,8 @@
       "symbol": "ATOM-USD",
       "display_name": "Cosmos / United States Dollar (ATOM-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 1.5498,
-      "twenty_four_hour_percentage_price_variance": -1.7463,
+      "current_spot_pricing": 1.5588,
+      "twenty_four_hour_percentage_price_variance": -1.1758,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -2157,8 +2184,8 @@
       "symbol": "LTC-USD",
       "display_name": "Litecoin / United States Dollar (LTC-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 51.848999,
-      "twenty_four_hour_percentage_price_variance": -1.2468,
+      "current_spot_pricing": 51.752998,
+      "twenty_four_hour_percentage_price_variance": -1.4296,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
@@ -2184,8 +2211,8 @@
       "symbol": "BCH-USD",
       "display_name": "Bitcoin Cash / United States Dollar (BCH-USD)",
       "asset_class": "crypto",
-      "current_spot_pricing": 269.149994,
-      "twenty_four_hour_percentage_price_variance": -2.7676,
+      "current_spot_pricing": 270.380005,
+      "twenty_four_hour_percentage_price_variance": -2.3233,
       "calculated_comprehensive_fundamental_bias": "Bearish",
       "final_composite_score": 4.6813,
       "pillar_scores": {
