@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-23T10:43:11.758669+00:00",
+    "last_updated": "2026-08-23T11:02:46.856874+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 43,
+      "general": 92,
+      "equities": 42,
       "commodities": 15,
-      "crypto": 64,
-      "general": 91,
+      "crypto": 63,
       "macro": 26,
       "forex": 14
     }
   },
   "articles": [
+    {
+      "headline": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
+      "description": "Iran says Pakistan's army chief to visit Tehran on Monday Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-23T09:49:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Hyperscale Data Cash, Restricted Cash, Bitcoin, and Silver Assets of Approximately $94.8 Million Represents Approximately 100.42% of Market Capitalization of Common Stock",
       "description": "LAS VEGAS, June 25, 2026 /PRNewswire/ — Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (“AI“) data center company anchored by Bitcoin (“Hyperscale Data” or the “Company“), today announced that as of June 24, 2026, the Company held approximately $94.8 million collectively of ",
@@ -2053,17 +2063,6 @@
       "article_url": "https://www.cnbc.com/2026/08/20/workers-cant-agree-if-junior-employees-should-use-ai-at-work-cnbc-survey.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-20T10:47:35+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     }
   ]
