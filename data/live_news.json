@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-23T15:38:56.982051+00:00",
+    "last_updated": "2026-08-23T16:00:20.111428+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 59,
+      "macro": 26,
       "general": 95,
       "equities": 42,
       "commodities": 15,
-      "crypto": 59,
-      "macro": 25,
       "forex": 13
     }
   },
   "articles": [
+    {
+      "headline": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "description": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-23T15:30:53+00:00",
+      "article_url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
       "description": "Iran says new sanctions threatened by 'desperate' US will fail Reuters",
@@ -2050,16 +2061,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348276/0/en/american-gold-copper-inc-otc-agci-signs-non-binding-letter-of-intent-to-acquire-shamrock-nickel-copper-project-from-homeland-nickel-inc.html",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-20T11:35:47+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
