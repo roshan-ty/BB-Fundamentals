@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-23T17:37:02.130079+00:00",
+    "last_updated": "2026-08-23T18:07:38.439877+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 93,
       "equities": 42,
       "crypto": 62,
       "macro": 27,
-      "general": 93,
       "commodities": 15,
       "forex": 13
     }
   },
   "articles": [
+    {
+      "headline": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
+      "description": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
+      "source": "CNBC",
+      "publication_date": "2026-08-23T17:58:06+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
       "description": "",
@@ -2053,16 +2063,6 @@
       "asset_tags": [
         "forex",
         "crypto"
-      ]
-    },
-    {
-      "headline": "How wealthy families can prepare for aging parents and avoid a succession crisis",
-      "description": "Relatively few wealthy families are addressing the question of when an aging parent should give up control, advisors and lawyers told CNBC.",
-      "source": "CNBC",
-      "publication_date": "2026-08-20T12:30:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
