@@ -1,18 +1,30 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-23T16:37:26.191203+00:00",
+    "last_updated": "2026-08-23T17:03:18.307390+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 59,
-      "macro": 26,
-      "general": 94,
+      "equities": 42,
+      "crypto": 62,
+      "macro": 27,
+      "general": 93,
       "commodities": 15,
-      "equities": 43,
       "forex": 13
     }
   },
   "articles": [
+    {
+      "headline": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-23T15:52:21+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
       "description": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
@@ -22,6 +34,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-23T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -42,6 +64,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-23T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -1552,6 +1584,16 @@
       ]
     },
     {
+      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
+      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-20T21:12:11+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin breaks above 200-day moving average for first time since November",
       "description": "The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.",
       "source": "Cointelegraph",
@@ -1622,16 +1664,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles up more than 2% after Trump threatens countries supporting Iran - Reuters",
-      "description": "Oil settles up more than 2% after Trump threatens countries supporting Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T20:19:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM1ZTcG5JRHQxeFFrOEd6Q0s4eWdFZGZwRmUyaFlPQkEwWEFLZ2xtLUJxMDFGRzZEZ1VEMjA5MjlMazgtZkJRM01FRXJ3Yk5wZUJSRW8yUEc5THM4VEZBd3V0LVhiRHBBWExnTElPMTRCX3d1ODhKR2lDdHVDVktTZS1BTUtuLXN2ZGRwUmpnNzhEdDJBZnp3cHExVndUYWlrenVEOXI0dVppdw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2029,36 +2061,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-20T12:30:01+00:00",
       "article_url": "https://www.cnbc.com/2026/08/20/wealthy-families-aging-parents-succession.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "NSE said to plan trading of its shares on own platform",
-      "description": "The proposed arrangement could reshape trading dynamics for the exchange operator while adding a new dimension to its closely watched public offering.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-20T12:22:57+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-20/nse-said-to-plan-allowing-trading-its-shares-on-own-platform",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "ZenaTech Closes 28th Drone as a Service Acquisition, Adding a Canadian-based Civil and Structural Engineering Firm with Customers Across Five Provinces",
-      "description": "VANCOUVER, British Columbia, Aug. 20, 2026 (GLOBE NEWSWIRE) -- ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), a technology solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, announces ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-20T12:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/20/3348331/0/en/zenatech-closes-28th-drone-as-a-service-acquisition-adding-a-canadian-based-civil-and-structural-engineering-firm-with-customers-across-five-provinces.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "China boosts imports of Russian crude, stymieing India's refiners - Reuters",
-      "description": "China boosts imports of Russian crude, stymieing India's refiners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T12:00:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZU9oV2RaZ2RZNW5hZlFqbXFNNmd5RnJkM21hWmo0WVhJX1paTlBWaE50SHhMazFzdHJuVVF2QlpzT1lRZG1VUEdERkdsSXcxTjFmQjd5RXlJeDM1eVR1NHZnd0xlRWJFXzlsbS0tdmpJMlVzeFNrLUk1R25abzR3cUxDYXRCUW1lekg0LU9lWmNzdWFyekI1SFJOdmxJSWVaRS0zT3Z5QzRVNkt3VndialQySlRtbTVKTTdJb3g1T0h2ZXFabXNLMQ?oc=5",
       "asset_tags": [
         "general"
       ]
