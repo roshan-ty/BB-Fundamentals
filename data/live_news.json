@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-23T08:03:22.903860+00:00",
+    "last_updated": "2026-08-23T08:50:45.260018+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 90,
       "forex": 15,
       "equities": 43,
       "crypto": 65,
       "macro": 27,
-      "general": 91,
-      "commodities": 13
+      "commodities": 14
     }
   },
   "articles": [
+    {
+      "headline": "Syria foreign minister sees Israel security talks resuming despite no trust - Reuters",
+      "description": "Syria foreign minister sees Israel security talks resuming despite no trust Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-23T08:04:14+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Is Bitcoin at $77k preparing for another breakout? This BTCUSD analysis shows a a potential bull flag pointing to $84K-$86K",
       "description": "<p>Bitcoin price analysis: What would activate the potential bull flag toward $84K-$86K?</p><p>Bitcoin is trading near $77,100 inside a mildly downward-sloping 1-hour regression channel. The structure resembles a bull flag following the surge from below $70,000 to $79,461, but the pattern is not act",
@@ -40,7 +50,7 @@
       "headline": "Israel strikes southern Syria; Damascus condemns attack - Reuters",
       "description": "Israel strikes southern Syria; Damascus condemns attack Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-22T18:51:50+00:00",
+      "publication_date": "2026-08-22T18:51:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
       "asset_tags": [
         "general"
@@ -185,6 +195,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
+      "description": "Indian companies are adopting locally-designed nuclear reactors to expedite approvals and enhance supply chain efficiency in energy projects.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-22T08:40:34+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -2045,26 +2065,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO says - Reuters",
-      "description": "Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T10:39:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWpiNUo1OU1oZm1TLXIxOEtMYUtXRXJPV0dETDZqSmhBby0xOEJSeTVJVXVxZlp4ZFA5bFVyMF9icm10S3ZyTmVlZk1VSFJHanZIaFNYM3pzRlEwQjhwSzZJUmN5MzVYRlJ6NUdOM0pwRlBCMFFYV09QQ2tRRkJiVXR1UUhnZUFTM3JyY3ZOeVBET01QQWdZeE1YT3RaVjN6cFVZOUVCSk5iU0xCMTY5M0ZEN0FfS0xhNHBZRmpIdUk3eEg0dzdhX1dn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Indian startup aims to compete with OpenAI in crowded voice arena",
-      "description": "Like other voice foundation models, it aims to provide big savings for users like call centers, banks and airlines, which hope to employ the technology to handle large volumes of customer communications",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-20T10:37:50+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-19/india-startup-aims-to-compete-with-openai-in-crowded-voice-arena",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
