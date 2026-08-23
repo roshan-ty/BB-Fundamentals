@@ -1,18 +1,31 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-23T19:59:03.625658+00:00",
+    "last_updated": "2026-08-23T20:34:11.397024+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 62,
-      "general": 92,
-      "equities": 42,
-      "macro": 28,
+      "forex": 13,
       "commodities": 15,
-      "forex": 13
+      "crypto": 62,
+      "macro": 28,
+      "general": 92,
+      "equities": 41
     }
   },
   "articles": [
+    {
+      "headline": "US-Canada trade talks collapse as 50% tariffs take effect, Carney vows retaliation",
+      "description": "<p dir=\"ltr\">The breakdown reintroduces cross-border trade risk into North American markets just as investors had begun pricing in a de-escalation after weeks of negotiation. The <a href=\"https://investinglive.com/forex/monday-open-indicative-forex-prices-24-august-2026-cad-weaker-on-trade-war/\" rel",
+      "source": "Forexlive",
+      "publication_date": "2026-08-23T20:07:39+00:00",
+      "article_url": "https://investinglive.com/news/us-canada-trade-talks-collapse-as-50-tariffs-take-effect-carney-vows-retaliation/",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Regulation Crypto is here: State of Crypto",
       "description": "",
@@ -422,20 +435,6 @@
       ]
     },
     {
-      "headline": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
-      "description": "<ul><li><a href=\"https://investinglive.com/technical-analysis/nasdaq-and-s-p-indices-are-settling-between-risk-bias-defining-mas-as-the-week-comes-to-a-close\" rel=\"follow\">Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close</a></li><li><a href=\"https://inv",
-      "source": "Forexlive",
-      "publication_date": "2026-08-21T22:14:33+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-21-aug-trump-folds-on-beef-tariffs-0/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Crypto advocates join in suing Illinois over digital asset tax",
       "description": "",
       "source": "CoinDesk",
@@ -453,6 +452,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Iran threatens military response to US sanctions - Reuters",
+      "description": "Iran threatens military response to US sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T22:03:59+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1541,16 +1550,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Iran threatens military response to US sanctions - Reuters",
-      "description": "Iran threatens military response to US sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T23:59:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
