@@ -1,18 +1,61 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T05:12:17.057626+00:00",
+    "last_updated": "2026-08-24T05:57:11.368206+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 12,
-      "equities": 41,
-      "macro": 28,
+      "crypto": 60,
+      "equities": 43,
+      "macro": 29,
       "general": 94,
-      "crypto": 59,
-      "commodities": 13
+      "forex": 12,
+      "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
+      "description": "Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T05:17:57+00:00",
+      "article_url": "https://cointelegraph.com/news/pakistan-crypto-licensing-portal-september-5-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bessent's $4 billion bond buyback wanted lower yields. It got a bitcoin surge instead.",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T05:12:56+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/bessent-s-usd4-billion-bond-buyback-wanted-lower-yields-it-got-a-bitcoin-surge-instead",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T04:45:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T04:41:28+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "What are the main events for today?",
       "description": "<p>EUROPEAN SESSION</p><p>In the European session, we don't have anything on the agenda today, with markets likely consolidating or extending the trends started with the Treasury buyback. The most important event this week will be Fed Chair Warsh's speech at the Jackson Hole Symposium on Friday.</p>",
@@ -31,6 +74,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-24T04:15:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349440/0/en/questerre-wins-first-bid-round-for-nova-scotia-exploration-rights.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
+      "description": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T04:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2008,56 +2061,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "U.S. sports fans spend about $2,000 a year on their favorite teams—many find themselves in debt as a result",
-      "description": "As football season approaches, many Americans are planning to take on debt to pay for tickets, memorabilia, parlays and more.",
-      "source": "CNBC",
-      "publication_date": "2026-08-20T16:15:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
-      "description": "Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-20T16:12:00+00:00",
-      "article_url": "https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "ENERGY WATCH: Oil squeeze is just getting started - Reuters",
-      "description": "ENERGY WATCH: Oil squeeze is just getting started Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T16:00:31+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdVJoQTJUUmRvTm0wRml6UXowWDVpZUVSXzliSFhkY0U3VU5TbVhqR2dQN1F5UnJ4bl9JNGVleEF1VEhCSF9ILVhRNmZ1VzNYREllbnlGRVg4MUliaDR5UlNETjVOeHl5dE5kejhrZk14RWxqWENqaTBER3lLUFRuSnRhMUJTYjZLSHgycVlQTnF2U1BURHVnY3JtWkhiRWZ1SlV0Z3dXMms3WllyV0VlRkRqbWFTZ01v?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
-      "description": "Trump threatens to isolate Iran. Who are its trading partners? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T15:54:22+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
-      "description": "A new poll showed 64% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-20T15:53:51+00:00",
-      "article_url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
