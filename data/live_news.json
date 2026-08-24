@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T21:26:21.624045+00:00",
+    "last_updated": "2026-08-24T21:54:32.711182+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 51,
-      "equities": 45,
-      "macro": 27,
-      "general": 100,
+      "general": 101,
+      "crypto": 49,
+      "equities": 46,
+      "macro": 26,
       "forex": 7,
-      "commodities": 11
+      "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
+      "description": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T21:33:13+00:00",
+      "article_url": "https://cointelegraph.com/news/cftc-us-soldier-polymarket-bet-prediction-market-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Calian completes acquisition of Galaxy Broadband",
+      "description": "Calian Group Ltd. has acquired Galaxy Broadband Communications, a Canadian leader in satellite communications and remote connectivity solutions.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-24T21:09:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350131/0/en/calian-completes-acquisition-of-galaxy-broadband.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Canyon Creek Acquires One Eleven Congress, Securing Landmark Class A Office Tower in Downtown Austin",
+      "description": "Acquisition of the 519,653-Square-Foot Iconic Asset Highlights Strong Conviction in Austin’s CBD, Combining Institutional Stability, Modern Amenities, and Value-Add Potential Acquisition of the 519,653-Square-Foot Iconic Asset Highlights Strong Conviction in Austin’s CBD, Combining Institutional Sta",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-24T21:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350128/0/en/canyon-creek-acquires-one-eleven-congress-securing-landmark-class-a-office-tower-in-downtown-austin.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
       "description": "The proposed deal would make Gemini the exclusive venue for crypto event contracts offered through Apex’s FCM, expanding its prediction-market reach to brokerage clients.",
@@ -91,6 +121,16 @@
       "article_url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
+      "description": "US removes Syria from terrorism sponsor list, lifting major investment obstacle Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T19:35:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -622,6 +662,16 @@
       "article_url": "https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Sterling pauses after four-week rally as investors brace for US sanctions on Iran - Reuters",
+      "description": "Sterling pauses after four-week rally as investors brace for US sanctions on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T11:55:21+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2kyQWJvcmZMUVBVOWY0S2FkellsUGptYktWT3MwOHFSY2FIdDJuS0ZWeUlYYUwybEtEN2dCelBIXzdaeWVZVWlPdXJzcXg1ZDNXaHJwNWpOenhqSWFOSnhFSTdlXzlUZFBRYk5yVEZucXA3Q3lKY3lJTHJ3cjg3d3RDRlJBRm1EYnpPajB5RlhMUUFkS0tVM0FQVGFmd0VFT3ZpWlVyc1I3YWxnSEpFQVRCOWpmRGs?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -2000,58 +2050,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeDcwRjI3TkpVODVXRkhpY1JhSXZIeHNkZW84RTdDaEFEdmlDUHZ1Uy1GNXdlOHpMaDVHdGl1RlZBSVFaSC1MbGxXcFRMdjl5Y19KUUpyNkJLaEl3NjlXZklHbkhDaWpLOFJ2Mmk2SWpmWFZuQ2ZQb2VXOUVpVElHQ18wTFBSSUFwODhSS29jLVFUWVM0M1RfRmhTVnBVOFVVUjV4dFpn?oc=5",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Iran threatens military response to US sanctions - Reuters",
-      "description": "Iran threatens military response to US sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T22:03:59+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2ZEV0ttbXhQZHVsUVNRYTBoVkczUHp5MVN5ME9vWGo4ajVmWmhMUXBwdkVVaXo3MjZlSEpyTC0wWWtvaGdYZkttakoyazRFMXBCM1ZUVmZ4TldhaUF2WU1QdTgtR3NwaFlMa016ZGJ6UjBaTmZGZjVTN011RXFNWktVcm44QUxMbHE4WVNyOWpNUkJwNzVKLW0wUTdQSUZCdGNrT1NkWXZPMzVJ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports - Reuters",
-      "description": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T21:39:22+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblVNM2JWT0l4cUVHSzdxOHRqaDg2QlEzaFh2V0FkQmdobHNQeHgwZUx0M2JrOFN4Rm9ia1ZlS0g3Y2VoNGFtbVlpaXlNczktaHRwM2NCZk9jU190SkFCZWJaUGRwLXdZUkdOeEpxTzJsd1BsUGlzR0xsZFBEVEtZOVI2T2d4OW9HRE9ZcU9ZUTB2QjFaWVdyUHV3NExhaUx6NVQxTllkZHdCeUVPWUdIdXVjaWxWUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Two Harbors gets final regulatory approval for CrossCountry deal",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-21T20:48:21+00:00",
-      "article_url": "https://seekingalpha.com/news/4636021-two-harbors-gets-final-regulatory-approval-for-crosscountry-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-      "description": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T20:26:16+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-      "description": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T20:00:47+00:00",
-      "article_url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "commodities",
-        "crypto"
       ]
     }
   ]
