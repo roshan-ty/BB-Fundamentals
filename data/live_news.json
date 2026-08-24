@@ -1,21 +1,55 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T03:37:05.601564+00:00",
+    "last_updated": "2026-08-24T04:27:02.677063+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 60,
+      "forex": 13,
       "equities": 41,
-      "crypto": 59,
-      "general": 95,
+      "commodities": 14,
       "macro": 28,
-      "commodities": 13,
-      "forex": 11
+      "general": 93
     }
   },
   "articles": [
     {
-      "headline": "Shares flat in Asia before Iran sanctions news, Nvidia results - Reuters",
-      "description": "Shares flat in Asia before Iran sanctions news, Nvidia results Reuters",
+      "headline": "Term Finance loses estimated $8.5M in vault governance exploit",
+      "description": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T03:59:29+00:00",
+      "article_url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific market news: Gold hit a three month high",
+      "description": "<ul><li><a href=\"https://investinglive.com/commodities/icymi-india-gold-imports-double-in-july-as-wgc-flags-demand-recovery\" rel=\"follow\">ICYMI - India gold imports double in July as WGC flags demand recovery</a></li><li><a href=\"https://investinglive.com/commodities/ing-says-fiscal-credibility-fear",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T03:29:54+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-hit-a-three-month-high/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Dollar trading near multi-month lows, restrained by debt nerves - Reuters",
+      "description": "Dollar trading near multi-month lows, restrained by debt nerves Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T01:48:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Shares dither, oil slips in wait for US details of Iran sanctions - Reuters",
+      "description": "Shares dither, oil slips in wait for US details of Iran sanctions Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-24T00:49:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
@@ -35,8 +69,8 @@
       ]
     },
     {
-      "headline": "Oil falls ahead of US announcement on new Iran sanctions - Reuters",
-      "description": "Oil falls ahead of US announcement on new Iran sanctions Reuters",
+      "headline": "Oil falls as US prepares to unveil new Iran sanctions - Reuters",
+      "description": "Oil falls as US prepares to unveil new Iran sanctions Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-23T23:18:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
@@ -70,16 +104,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-23T22:57:03+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "New Zealand Q2 retail sales have slowed much worse than expected",
-      "description": "<p>New Zealand Retail Sales Q2 2026:</p><p>+3.3% y/y</p><ul><li>prior +4.5%</li></ul><p> -0.5% q/q</p><ul><li>expected +0.1%, prior +0.9%</li></ul><p>NZD is little changed circa 0.5973</p><p><a href=\"https://investinglive.com/news/retail-sales-data-due-from-new-zealand-imminently/\" rel=\"follow\">Back",
-      "source": "Forexlive",
-      "publication_date": "2026-08-23T22:50:30+00:00",
-      "article_url": "https://investinglive.com/news/new-zealand-q2-retail-sales-have-slowed-much-worse-than-expected/",
       "asset_tags": [
         "general"
       ]
@@ -2036,28 +2060,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF95VlNpbHpVYW5pUXFDWG45czgtQUFscFd5aC1iUDNocHhLNmR0UHhNcENfbnk0YUc1VzhyNGFfSjRQN2M2aHlwc0pLc095QW5sOTJQemdDV2lwLUNTcTZPZTE2M01DWTd4WnFZVG83a3hueVdaYUJDdnlySURNMlV2akZfLWdMcFhUTml4TV9yMVlGRFNtLXZ3WVNLSC05VTZnSnkyUUJCZXhob3pSNjBBTGI5enUwcDF3a3RZdTc?oc=5",
       "asset_tags": [
         "forex"
-      ]
-    },
-    {
-      "headline": "Anthropic AI venture to acquire consultancy firm: report",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-20T15:41:51+00:00",
-      "article_url": "https://seekingalpha.com/news/4635529-anthropic-ai-venture-to-acquire-consultancy-firm-report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
-      "description": "Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-20T15:40:54+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
       ]
     }
   ]
