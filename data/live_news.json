@@ -1,18 +1,43 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T06:56:51.671473+00:00",
+    "last_updated": "2026-08-24T07:57:30.466063+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 93,
+      "commodities": 14,
       "crypto": 60,
-      "forex": 11,
-      "equities": 43,
-      "macro": 28,
-      "commodities": 13
+      "forex": 12,
+      "equities": 42,
+      "macro": 29,
+      "general": 94
     }
   },
   "articles": [
+    {
+      "headline": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T06:50:58+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin Bull Flag Analysis: See this video after the $79,460 surge",
+      "description": "<p>Bitcoin bull flag analysis: How a regression channel can guide BTC after the $79,460 surge</p><p>Bitcoin is consolidating after surging approximately 26% in four days to $79,460. On the hourly BTCUSD chart, the regression channel still frames this pause as a potential bull flag rather than a conf",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T06:47:13+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-bull-flag-analysis-see-this-video-after-the-79-460-surge/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "New board members to transform Thames Water announced",
       "description": "LONDON, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Today, the London & Valley Water consortium (“L&VW”) announces the first cohort of proposed Non-Executive Directors (“Board Members”) who would be appointed to the board of directors of Thames Water Utilities Limited (“Thames Water”) if L&VW’s proposed acqui",
@@ -42,6 +67,16 @@
       "asset_tags": [
         "forex",
         "equities"
+      ]
+    },
+    {
+      "headline": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
+      "description": "US cancels joint marine drills with South Korea over Iran war-related force constraints Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T05:52:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3JEYi12MkZSRkRCaEIwR2FaNjhzSUZueTgwQzhWSHlhSnpWRVU3ZkdrMXdrUTMxMjVmdi1NLVBleGFDTXFRRDFVWVA5RUdVV1Y0dXlUWlJTcmJ2eHZuYTR4Nkh1T3k3cXplTmc4MVJUSGl2bGpWMllzRnBMaV9oMXR3T0RGd2dRR0NWaEkyYUpXX0tBUnBTcVAwVlVQQjBvOURvN3RpOVo1b2RRVEFZSFR2dVRlSm9GZTNBUmttWUhibWl5X2JPc1FB?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -102,6 +137,16 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-24T04:45:00+00:00",
       "article_url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says - Reuters",
+      "description": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T04:42:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkJfZGxYQ3dRdFhQNi12SXNHbmhYcjV4UHlnM1RwSm1Lcmt0ejJWTUh6OUlQRnBLbWh3YlM5V2dKVkNPNXBiVGI3b2Z6WUFGeWdCa0wwc1RTX2NHX0FaSzBGOVQ4dk1SRzFvejI3SXRUZVNVWWMybXVpWEJrY0poNExaQ2lEZjBvSDM2UWNhZGxtb3RFRWxZaFlYTk5EQXVmNFNEb0MxSWhVRl9tT2RJcjd5OUo3WTN3QlVPTFdFbno3Nk0xNHc?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -212,8 +257,8 @@
       ]
     },
     {
-      "headline": "Shares dither, oil slips in wait for US details of Iran sanctions - Reuters",
-      "description": "Shares dither, oil slips in wait for US details of Iran sanctions Reuters",
+      "headline": "Shares, oil slip awaiting US details of Iran sanctions - Reuters",
+      "description": "Shares, oil slip awaiting US details of Iran sanctions Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-24T00:49:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
@@ -413,18 +458,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0hPR1JrMFBOb05wQlVBbnlyNmkwQnZHQnpXdWNaRllmT2dpNzFCcDI0allOU1NkOEtjVHBOZVVpb2NOd1VFcXJ6bzN4U0tJUXBXTDJOMEc3ZF82Rm80T3FnWHE1dGxqOHpfZDlIbzloVFg1LTlMTDhrb3ZpYTZpUHV4dklUeEFMaVNxMTZReXJQZExXYjB3UlFaRVdVVk8wOV80ZGV0alljTVc2Q3hRSzhJTWZsb1h5S1lUY2c0Nno?oc=5",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Hyperscale Data Cash, Restricted Cash, Bitcoin, and Silver Assets of Approximately $94.8 Million Represents Approximately 100.42% of Market Capitalization of Common Stock",
-      "description": "LAS VEGAS, June 25, 2026 /PRNewswire/ — Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (“AI“) data center company anchored by Bitcoin (“Hyperscale Data” or the “Company“), today announced that as of June 24, 2026, the Company held approximately $94.8 million collectively of ",
-      "source": "Cryptocurrency News",
-      "publication_date": "2026-08-23T09:47:16+00:00",
-      "article_url": "https://cryptocurrencynews.com/crypto/hyperscale-data-cash-restricted-cash-bitcoin-and-silver-assets-of-approximately-94-8-million-represents-approximately-100-42-of-market-capitalization-of-common-stock/",
-      "asset_tags": [
-        "equities",
-        "commodities",
-        "crypto"
       ]
     },
     {
@@ -2027,36 +2060,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-20T18:59:44+00:00",
       "article_url": "https://seekingalpha.com/news/4635606-private-equity-firms-seek-to-exit-everbank-three-years-after-acquisition---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-20T18:54:18+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
-      "description": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T18:20:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "We're adding two new stocks to our Bullpen watchlist",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-20T17:59:15+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/20/were-adding-two-new-stocks-to-our-bullpen-watchlist.html",
       "asset_tags": [
         "equities"
       ]
