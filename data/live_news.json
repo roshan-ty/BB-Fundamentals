@@ -1,18 +1,61 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T20:14:20.759928+00:00",
+    "last_updated": "2026-08-24T20:52:05.132811+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 44,
-      "forex": 9,
+      "equities": 46,
+      "forex": 8,
+      "commodities": 13,
       "macro": 27,
-      "crypto": 54,
-      "general": 100,
-      "commodities": 13
+      "general": 101,
+      "crypto": 51
     }
   },
   "articles": [
+    {
+      "headline": "Real and RE/MAX Holdings Announce Completion of Business Combination",
+      "description": "MIAMI--(BUSINESS WIRE)--Real and RE/MAX Holdings complete business combination, forming Real REMAX Group. Shares begin trading Aug. 25 under Nasdaq ticker REAX.",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-24T20:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260824259117/en/Real-and-REMAX-Holdings-Announce-Completion-of-Business-Combination/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Weatherford and NCS Multistage Announce Anticipated Election Deadline and Closing Date",
+      "description": "HOUSTON, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Weatherford International plc (NASDAQ: WFRD) (“Weatherford”) and NCS Multistage Holdings, Inc. (NASDAQ: NCSM) (“NCS Multistage”) today announced that 5:00 P.M., Eastern Time on August 31, 2026, is the anticipated deadline for NCS Multistage stockholders to ",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-24T20:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350108/0/en/weatherford-and-ncs-multistage-announce-anticipated-election-deadline-and-closing-date.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "investingLive Americas market news wrap: Trump and Canada trade threats",
+      "description": "<ul><li><a href=\"https://investinglive.com/news/trump-on-canada-someone-should-get-these-clowns-to-fall-in-line\" rel=\"follow\">Trump on Canada: Someone should get these clowns to “fall in line\"</a></li><li><a href=\"https://investinglive.com/news/bessent-says-no-one-is-outside-the-reach-of-us-sanction",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T20:13:00+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-trump-and-canada-trade-threats-0/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+      "description": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity and several factors that could support further growth.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T20:00:39+00:00",
+      "article_url": "https://cointelegraph.com/news/bernstein-circle-usdc-growth-140-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Here's what the charts say about Nvidia's stock heading into earnings",
       "description": "We see a flashing yellow light into Nvidia's earnings report Wednesday night.",
@@ -24,14 +67,13 @@
       ]
     },
     {
-      "headline": "USDJPY tests the 200-hour MA as buyers probe higher",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDJPY is pressing against an important technical ceiling after rebounding from last week’s lows.</p><p class=\"PDq2pG_selectionAnchorContainer\"></p><p>On Wednesday and Thursday last week, the pair briefly traded below its 200-day moving average (lower g",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T19:31:37+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usdjpy-tests-the-200-hour-ma-as-buyers-probe-higher/",
+      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+      "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T19:35:39+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
       "asset_tags": [
-        "forex",
-        "macro"
+        "general"
       ]
     },
     {
@@ -103,17 +145,6 @@
       "publication_date": "2026-08-24T17:48:44+00:00",
       "article_url": "https://cointelegraph.com/markets/bitcoin-price-hits-80k-as-24-hour-crypto-short-liquidations-pass-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Ancora Reaffirms Offer to Acquire H.B. Fuller’s BAS Segment",
-      "description": "CLEVELAND--(BUSINESS WIRE)--Ancora Holdings Group LLC (together with its affiliates, “Ancora”), a meaningful shareholder of H.B. Fuller Company (NYSE: FUL) (“H.B. Fuller” or the “Company”), today reaffirmed its proposal to acquire the Company’s Building Adhesive Solutions (“BAS”) segment following H",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-24T17:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260824311227/en/Ancora-Reaffirms-Offer-to-Acquire-H.B.-Fuller%E2%80%99s-BAS-Segment/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities",
         "crypto"
       ]
     },
@@ -547,16 +578,6 @@
       ]
     },
     {
-      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T12:00:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "L5 Networks Joins Volaris Group",
       "description": "TORONTO, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Volaris Group today announced the acquisition of L5 Networks, a Brazilian pioneer in cloud-based corporate communications solutions and one of the country’s leading omnichannel and corporate collaboration platforms.",
       "source": "GlobalNewswire",
@@ -788,6 +809,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "For Republicans, Dallas convention is both rally and rescue mission - Reuters",
+      "description": "For Republicans, Dallas convention is both rally and rescue mission Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T10:26:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXRlYmVqYmp5SHBWaWZFTWMzVFI0VGpMdFNpZlloM3NOV3FLU0NBbm9zanp4RHFlUU1NLVd4bkI4TTE4cTRzMUl6dG1oT3RBZl85UGhpVElTbktBZGY2NWxxT20yZVdocFk2UnJvN3ZJeGE1U1JLWTNLZ3dTVWV2bi1jQ1lkM0RRaE1nZUFxNHppdUJNT1Fuc2hQZ2FHcWdTMnV2MUpn?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1300,6 +1331,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-24T04:15:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349440/0/en/questerre-wins-first-bid-round-for-nova-scotia-exploration-rights.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T04:00:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2016,48 +2057,6 @@
         "equities",
         "commodities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Onchain, in court: What happened in crypto legal news this week",
-      "description": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T19:19:27+00:00",
-      "article_url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
-      "description": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T19:10:47+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Pass the Clarity Act",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-21T19:00:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-21T18:55:05+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
