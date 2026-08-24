@@ -1,18 +1,51 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T19:20:06.770725+00:00",
+    "last_updated": "2026-08-24T19:49:58.064332+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 45,
-      "crypto": 56,
-      "general": 100,
+      "crypto": 54,
+      "macro": 27,
+      "equities": 44,
+      "general": 101,
       "forex": 8,
-      "macro": 26,
       "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "Is the US-Canada deal the classic fifth stage of Trump negotiations",
+      "description": "<p>US Vice President JD Vance said today that trade negotiations with Canada remain ongoing in something of a turnabout that's a hint that not everything is lost. Notably, Canada's counter-tariffs won't go into effect until Sept 7 and Trump is threatening Jan 1 tariffs on auto parts. The longer Cana",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T19:23:42+00:00",
+      "article_url": "https://investinglive.com/news/is-the-us-canada-deal-the-classic-fifth-stage-of-trump-negotiations/",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
+      "description": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T19:11:48+00:00",
+      "article_url": "https://cointelegraph.com/news/coinbase-taps-chainlink-for-tokenized-stock-data-on-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
+      "description": "US threatens countries doing business with Iran, but holds off on penalties for now Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T18:52:34+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "We're downgrading 2 AI stocks — plus, what we need to see to turn more positive",
       "description": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
@@ -24,23 +57,13 @@
       ]
     },
     {
-      "headline": "EURUSD is testing the rising 100 hour MA/swing area",
-      "description": "<p class=\"isSelectedEnd\">The EURUSD is testing a key short-term support area after buyers failed to sustain a break above an important retracement level last week.</p><p class=\"isSelectedEnd\"></p><p class=\"isSelectedEnd\">Last week, the EURUSD moved above the 50% retracement of the decline from the J",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T18:40:17+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/eurusd-is-testing-the-rising-100-hour-ma-swing-area/",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
-      "description": "US threatens countries doing business with Iran, but holds off on penalties for now Reuters",
+      "headline": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom - Reuters",
+      "description": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T18:10:17+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
+      "publication_date": "2026-08-24T18:27:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
       "asset_tags": [
-        "general"
+        "equities"
       ]
     },
     {
@@ -120,16 +143,6 @@
       ]
     },
     {
-      "headline": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom - Reuters",
-      "description": "Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T16:42:51+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Alterra IOS Expands Atlanta Footprint With 5 Industrial Outdoor Storage Acquisitions",
       "description": "Strategically located properties grow firm's Atlanta portfolio to 28 sites totaling 190 usable acres in a top U.S. logistics and distribution market Strategically located properties grow firm's Atlanta portfolio to 28 sites totaling 190 usable acres in a top U.S. logistics and distribution market",
       "source": "GlobalNewswire",
@@ -161,6 +174,16 @@
       ]
     },
     {
+      "headline": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports - Reuters",
+      "description": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T16:04:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVZLUTRjNDFCbG9qX21DUWdHYkNMb3hzYXREb3BhX0lXNGF6MEdxNExNZ1hqYkRxRWU3OUdGY3hKRHdnYm9YOEZkOVRhSnp4bG52bUtWSU10NjQyQTE3Z1ZFRlVRelBSMF9vTGswcTFJRDMzQnkwVGlpeThzeGRlZ3FSd1IwNlBmOVNWeERLaHQtWWZiazQ3OTJyaXJGQmpVb2FKN2RjTlNseDBoNXRrUFJrRnc2MWdoQUhwcnpiQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "What are Iran's options to escalate further in face of US economic threats? - Reuters",
       "description": "What are Iran's options to escalate further in face of US economic threats? Reuters",
       "source": "Reuters",
@@ -168,6 +191,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGFGMTVQeVJDUktZSTktQ3J4a290eEU1SWxLYk1pZEdjWENHYUtBUkt2dVA2MDBpbmwydUpoYi1xbWcxQzg3QTRDdXlvQ3hTUkZxWk11RlFzTjNncmszdWtEZTgyaS1jTXdVc0pjVF9pSDFZYkhOYXVYZndWWTd2endMTThjcVBuMjQzVDhVU3U0VFlFZ2REVmtIcS1PMUZ2ZzhKZkY1dnY2T2RyUEwxRDNvcW9ZdVZLRkE?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Yemen's Houthis say they attacked ship off Saudi Arabia's Yanbu - Reuters",
+      "description": "Yemen's Houthis say they attacked ship off Saudi Arabia's Yanbu Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T15:51:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjZIUXVnZ0tJcjFPZEJjRlZMVkRkYkcwaVRVOWQ2R0tVeGo4SWZiMHgtZEFKRU9XUkk3N3ZNUmJ2YmRIUDlodjBoRlQtVmdjMi1oVjhWYUtVQmlSalVtQWptNzhjZFZ1TlMydkZLUXFQVEVocmVyYkFYX0J4bTJLV1VNUlpmanA0RWR2ODZlTWFka1p6X2VNSk0tVEZCLXVRQzlCcHlWTmxBUmlPM2paV0h0Sm9RMFVmaWRXY01IdUs0QQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -343,6 +376,16 @@
       ]
     },
     {
+      "headline": "India's Iran exports set to fall further due to Dubai halt, U.S. sanctions - Reuters",
+      "description": "India's Iran exports set to fall further due to Dubai halt, U.S. sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T12:55:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdU1WRHdHSGRydWJKWGhVcjREZDRpTG9hSHZTaTE1SzBnR3hHb3F4dGUwOWRyaVk3SXhpa2ZJZjgtZ3V2emU5NVUzT09nNkdySVZlMm5PT19hY1NUcnR3UWxrWFI3Qy1qRnpWRS1vb1VvTXNjRFVDSXZzVlBlSGtJcFBxTDVnOElncE54OV8yNHFCbWFlNFZrWWEwejFENzFvb1Bub3BVOUM2TUM2SXc3T0tB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
       "description": "",
       "source": "CoinDesk",
@@ -452,6 +495,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "'Economic D-Day', Canada tariffs and Tesla recall - Reuters",
+      "description": "'Economic D-Day', Canada tariffs and Tesla recall Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T12:20:20+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlNSbmY2b1RYbnppS25lajE2dldaOXJHcGR5dGh4UXdoQXJ3OTZzVUVKYWh3NWZkSUIza1hmOXVHaGtUSUtaVWNFdV9vekdUNXR1X05zYXNBcVQ2ejJXVmJGVktWWGJ1VXc2UUloM1JWanN4MnpnM24zQ3NIUDlXQUpxMWd4UEhNTS12YnhpQ1Y?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -1247,7 +1300,7 @@
       "headline": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows - Reuters",
       "description": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T02:47:20+00:00",
+      "publication_date": "2026-08-24T02:42:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXNxWm1BUVFUdWZuUDJoWi1GRUk1d0RXWTRwR0tQTXd6MXQ2V2RBSkRmMURzajdURDdIQnhEQlFTVVh4TG8yOTdfdWVIdmd4U3AyWm5pSlZ2Y0tSaDNKX1NjcGd1N2dqVmtPUU9rZjMwa3cxWDRLajBjYUhYUDkyY0owcm43TXcyNkp2WlJZUW9ONDA3ZlNlbHlOS19CSTRpYzlOU0pmcVhvaDB6SUsyVU5mM1cwQ2Q5TkwtTmlB?oc=5",
       "asset_tags": [
         "general"
@@ -1506,6 +1559,16 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Norway to give over $9 billion to Ukraine in 2027 - Reuters",
+      "description": "Norway to give over $9 billion to Ukraine in 2027 Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-23T08:52:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhTa18xSnJQQ3IwQTF6LTgwY3dvY2JzNGJfUGJzVjNXdEE1SWt3b0xxQW5MSktZUUZIVHcxY092NmJ4SlRBU0JPYlZIVWFzVE42VHBMeFo4ODJITGwxZWRCc0Z5NDdfcm1aeVFzRDdiYWtMWW9GSGVfcDVRRlJGTnpZeE1MNFhUdVlOMlR2NXVDZw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1884,6 +1947,16 @@
       ]
     },
     {
+      "headline": "Trump to temporarily ease US beef tariffs, irking cattle producers - Reuters",
+      "description": "Trump to temporarily ease US beef tariffs, irking cattle producers Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T19:25:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEFodmROalY1SkRMRUp0NWdHc01wbU1Fa05Ib0NIR0VzNFVzV3R1dElCdzMweFkzLVhsS0IwQURrZUo2MGQ4OFBLZEVtak9XR1ozZG0wbmVQV2hOUmIzS1pzVlJOVFdINUhNa1lXaElyYm1YeWw2SnZpbUV5VXJIdno5SlZLMzVoZzBHejRZWE9Vc1k?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
       "description": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
       "source": "CNBC",
@@ -1985,80 +2058,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349262/0/en/vireo-growth-inc-completes-acquisition-of-c21-investments-inc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "NATO members discuss Strait of Hormuz options without alliance involvement - Reuters",
-      "description": "NATO members discuss Strait of Hormuz options without alliance involvement Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T16:51:52+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC1YSDVDa3NjOU9ndVc5Z2ZkNVp3Vjliay1ObVFfcUw3UGYtdFU0ZkpjVTkzNWVjQnN0dzNVaGMzUnFOeG04TkZFd21kN3FCRkVrNG9pdzg4VWQ4SHU1YkhBRTVJeF9xaFJTUlM1UnRBUVFYVHNjdk9uc1lkSF95OG5ZWTNWbkYtNVZCem9xWFdTTnBxc014Z0JTRktydjZ6TTY5MnBlcE40ZGhGUzQ4WngteHd4dzE0Y0JhcjNGaGhsS2c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Turkey to seek Interpol notice for Netanyahu in Gaza flotilla case - Reuters",
-      "description": "Turkey to seek Interpol notice for Netanyahu in Gaza flotilla case Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T16:33:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUoyZkFhckp4LWRTcFQ5azZpNDRPZjdVNGNnUVBocG9kRkN4Yk5aSHZTczg0cWhudS1FRk1EbGhGemliM1VqZWVQMUphTkk4VmhyTVAzU2tOSVZ2WExhS0ExQnB6UlpDTmZ0UWJiU3ZpRFp6N2RjZkdsVTlJb2QzMmdfVXd5RlMyOXhSZ1ZRMkkzNDA4WFplS1ppeFg0QmNlUnNLM1M4OHlKam5VMnJF?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
-      "description": "The RISE program would use the Canton Network to combine and distribute state-administered benefits across three US states beginning in 2027.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T16:25:29+00:00",
-      "article_url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-      "description": "Bitcoin’s rally above $79,000 lifted miners and treasury companies, with Canaan, Strive and Metaplanet posting double-digit gains as crypto stocks surged.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T16:11:07+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-rally-crypto-stocks-canaan-strive-metaplanet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-21T16:10:37+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Revolution Foods Acquires Ardella’s, 50-Year-Old Family Company Behind Student-Favorite Pizzas and Burritos",
-      "description": "Revolution Foods Acquires Ardella’s, adding additional USDA-inspected, California-based production capacity ahead of the new school year.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-21T16:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349234/0/en/revolution-foods-acquires-ardella-s-50-year-old-family-company-behind-student-favorite-pizzas-and-burritos.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-      "description": "Bitcoin rallied as Treasury bond buybacks fueled the “not-QE” trade, while Metaplanet expanded to the US and Cypherpunk made a $33 million Zcash mining bet.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T15:50:08+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
       ]
     }
   ]
