@@ -1,18 +1,58 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T20:52:05.132811+00:00",
+    "last_updated": "2026-08-24T21:26:21.624045+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 46,
-      "forex": 8,
-      "commodities": 13,
+      "crypto": 51,
+      "equities": 45,
       "macro": 27,
-      "general": 101,
-      "crypto": 51
+      "general": 100,
+      "forex": 7,
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
+      "description": "The proposed deal would make Gemini the exclusive venue for crypto event contracts offered through Apex’s FCM, expanding its prediction-market reach to brokerage clients.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T20:46:16+00:00",
+      "article_url": "https://cointelegraph.com/news/gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Orangekloud to become VeVe in major digital collectibles deal; shares up",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-24T20:43:42+00:00",
+      "article_url": "https://seekingalpha.com/news/4636413-orangekloud-to-become-veve-in-major-digital-collectibles-deal-shares-up?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
+      "description": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T20:36:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia 25 August 2026 - RBA August meeting minutes",
+      "description": "<p>I previewed the Reserve Bank of Australia August meeting minutes here:</p><ul><li><a href=\"https://investinglive.com/central-banks/rba-minutes-due-tuesday-to-detail-hike-versus-hold-debate-after-august-pause\" rel=\"follow\" target=\"_blank\">RBA minutes due Tuesday to detail hike-versus-hold debate a",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T20:31:50+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-25-august-2026-rba-august-meeting-minutes/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Real and RE/MAX Holdings Announce Completion of Business Combination",
       "description": "MIAMI--(BUSINESS WIRE)--Real and RE/MAX Holdings complete business combination, forming Real REMAX Group. Shares begin trading Aug. 25 under Nasdaq ticker REAX.",
@@ -31,19 +71,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350108/0/en/weatherford-and-ncs-multistage-announce-anticipated-election-deadline-and-closing-date.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "investingLive Americas market news wrap: Trump and Canada trade threats",
-      "description": "<ul><li><a href=\"https://investinglive.com/news/trump-on-canada-someone-should-get-these-clowns-to-fall-in-line\" rel=\"follow\">Trump on Canada: Someone should get these clowns to “fall in line\"</a></li><li><a href=\"https://investinglive.com/news/bessent-says-no-one-is-outside-the-reach-of-us-sanction",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T20:13:00+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-trump-and-canada-trade-threats-0/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -124,16 +151,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-24T18:40:56+00:00",
       "article_url": "https://www.cnbc.com/2026/08/24/were-downgrading-2-ai-stocks-plus-what-we-need-to-see-.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom - Reuters",
-      "description": "Tech drags S&P 500, Nasdaq lower as more Iran sanctions, Nvidia earnings loom Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T18:27:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
       "asset_tags": [
         "equities"
       ]
@@ -302,16 +319,6 @@
       "article_url": "https://cointelegraph.com/news/bitmine-eth-holdings-5-percent-ether-price-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Dollar edges up, loonie drops after U.S. announces tariffs - Reuters",
-      "description": "Dollar edges up, loonie drops after U.S. announces tariffs Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T15:07:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     },
     {
@@ -1407,6 +1414,16 @@
       ]
     },
     {
+      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases - Reuters",
+      "description": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T01:48:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "Shares dip on pressure from technology; yields and oil fall - Reuters",
       "description": "Shares dip on pressure from technology; yields and oil fall Reuters",
       "source": "Reuters",
@@ -1439,8 +1456,8 @@
       ]
     },
     {
-      "headline": "Oil slips ahead of US announcement of new sanctions on Iran - Reuters",
-      "description": "Oil slips ahead of US announcement of new sanctions on Iran Reuters",
+      "headline": "Oil drops more than $2 despite new US sanctions on Iran - Reuters",
+      "description": "Oil drops more than $2 despite new US sanctions on Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-23T23:18:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
@@ -2033,28 +2050,6 @@
       "publication_date": "2026-08-21T20:00:47+00:00",
       "article_url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
-        "commodities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Trump to temporarily ease US beef tariffs, irking cattle producers - Reuters",
-      "description": "Trump to temporarily ease US beef tariffs, irking cattle producers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T19:25:18+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEFodmROalY1SkRMRUp0NWdHc01wbU1Fa05Ib0NIR0VzNFVzV3R1dElCdzMweFkzLVhsS0IwQURrZUo2MGQ4OFBLZEVtak9XR1ozZG0wbmVQV2hOUmIzS1pzVlJOVFdINUhNa1lXaElyYm1YeWw2SnZpbUV5VXJIdno5SlZLMzVoZzBHejRZWE9Vc1k?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-      "description": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
-      "source": "CNBC",
-      "publication_date": "2026-08-21T19:21:21+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
-      "asset_tags": [
-        "equities",
         "commodities",
         "crypto"
       ]
