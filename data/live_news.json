@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T16:08:39.867227+00:00",
+    "last_updated": "2026-08-24T16:54:04.361333+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 23,
-      "general": 104,
-      "crypto": 53,
       "equities": 41,
+      "macro": 26,
+      "crypto": 52,
+      "general": 103,
       "commodities": 13,
-      "forex": 7
+      "forex": 8
     }
   },
   "articles": [
+    {
+      "headline": "Cramer says this stock tied to the AI data center trade may be up next for a trim",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC",
+      "publication_date": "2026-08-24T16:09:55+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/24/cramer-says-this-stock-tied-to-the-ai-data-center-trade-may-be-up-next-for-a-trim.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Crypto advocacy groups oppose Illinois digital asset tax in court",
+      "description": "Following a similar lawsuit filed by the Digital Chamber in July, two digital asset advocacy groups challenged Illinois’ 0.2% crypto tax on constitutional and due process grounds.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T16:05:48+00:00",
+      "article_url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "US set to impose a 7.5% tariff on Chinese goods - report",
       "description": "<p>Bloomberg <a href=\"https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks?srnd=homepage-canada\" rel=\"follow\">reports </a>that Trump will impose a 7.5% tariff on Chinese goods ahead of talks next month.</p><p>I'm imagine the report could ",
@@ -20,6 +41,17 @@
       "publication_date": "2026-08-24T15:50:05+00:00",
       "article_url": "https://investinglive.com/news/us-set-to-impose-a-7-5-tariff-on-chinese-goods-report/",
       "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Shares dip on pressure from technology; yields and oil fall - Reuters",
+      "description": "Shares dip on pressure from technology; yields and oil fall Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T15:49:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
+      "asset_tags": [
+        "equities",
         "macro"
       ]
     },
@@ -662,6 +694,16 @@
       ]
     },
     {
+      "headline": "IndyCar races through the nation's capital at Freedom 250 Grand Prix - Reuters",
+      "description": "IndyCar races through the nation's capital at Freedom 250 Grand Prix Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T09:12:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUhROE1ObHkweGs3T1hmcTFhQUlpM1RjUDdmbVdETmgyaEd4YUFaRHRwOThlWlJQdXVIVkp6OG5xZS0xd21NbEYybTlaX1VZc2huTEJ1NFF5NVNnUzBKeEFhN19VM1Y1WWZKaDdFRnNGWnk0Uk5QSkN0YjQ4VlFUUzA3SWVtMWdjYVpRVkFObGxRVDFycGdKcUhpQ3Q2akVfMkhxdUZTT00?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -951,6 +993,16 @@
       ]
     },
     {
+      "headline": "South Africa's MTN approves $375 million share buyback after profit rise - Reuters",
+      "description": "South Africa's MTN approves $375 million share buyback after profit rise Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T05:25:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkU3Mnd1M3RVU1YyTkh2WlJwU3UyRUlUS05RbFpuOFVXT09idEpSLVRKQ1VsZ203bmx0b01rVmdhV016SXFfMUl6ajZVM2EtR3hzeXp6X0ZjZDAzdzIzOTJzcUJ3ci1sVlc1VXRoalVoM1NXejQwNHYwSEJ1X2pZdVExUTlXRmxhV01pY1NJdUxYRk00T1dWR3cwZFE0OUJ0ekhyc1F5VEg3Ti0t?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms",
       "description": "Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan’s new regulatory framework.",
       "source": "Cointelegraph",
@@ -1049,7 +1101,7 @@
       "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
       "description": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T04:00:00+00:00",
+      "publication_date": "2026-08-24T04:04:06+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
       "asset_tags": [
         "general"
@@ -1063,6 +1115,17 @@
       "article_url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Indian central bank likely intervenes, anchoring rupee in face of global ructions, traders say - Reuters",
+      "description": "Indian central bank likely intervenes, anchoring rupee in face of global ructions, traders say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T03:53:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYktHT1AtVS13NThNNDU5M0tTdzJRYUZxUDlnUFhCdlZpckZKSkU1SC1SYXdDVGdEakJZTWVvLUt3TGtBZUcwRUNnQUF2VkJLRTJQRXVQNjQ1WGdEY2lNUlBBdXdDclpxc3VuaWlERUl4ZkFVOEV4UEwyeXoxT0xvUTlQb3BBOC1qUWptTGkyWk40dVY3X29sMkV3cWp0SklmUkV2NUR2NURFTm03ZjRkbWdqOXoyaGVHdGxyMUwwOA?oc=5",
+      "asset_tags": [
+        "forex",
+        "macro"
       ]
     },
     {
@@ -1101,16 +1164,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-24T02:22:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Shares, oil dip as US sanctions on Iran loom - Reuters",
-      "description": "Shares, oil dip as US sanctions on Iran loom Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T00:49:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
       "asset_tags": [
         "equities"
       ]
@@ -1999,57 +2052,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-21T13:10:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaWJsd1lyOUpPd216STZsV0tsMTBxR3dTUjJYdXpJXzliQmdveE1kaktUSXpjTFJINmdwTW1ZTm5XSjNPVUJsVF9QWWM0OC1qSml1dnFpbkNEM2xtellIaXVwRm5MZGNsMTZJal9zRG5oN2RWM2NUQVJBRm5mMmNUcFZXUG5FREdoaVgzNUdDSjhCYWYyMU9zUUtaMEx3b1VXMmRvRUJwNExLT2NtLUpSZWtjcFpNOGtaQ0hhV0Z3LUlBWHdoU1pvag?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
-      "description": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T13:08:12+00:00",
-      "article_url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product, Continuing Its Strategic Investment in Bitcoin-Related Assets",
-      "description": "MicroCloud Hologram Inc. Announces Acquisition of 140,268 MSTR Shares Through Structured Note Investment Product",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-21T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349085/0/en/microcloud-hologram-inc-announces-acquisition-of-140-268-mstr-shares-through-structured-note-investment-product-continuing-its-strategic-investment-in-bitcoin-related-assets.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Chesapeake Fine Food Group, LLC Acquires Harrington's of Vermont, Expanding Its Family of Heritage American Brands",
-      "description": "Owings Mills, MD, Aug. 21, 2026 (GLOBE NEWSWIRE) -- Chesapeake Fine Food Group, LLC, parent company of Mackenzie Limited and Chesapeake Bay Crab Cakes and More, announced today the acquisition of Harrington's of Vermont, the premium purveyor of gourmet smoked hams and meats whose recipes and smokeho",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-21T13:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349073/0/en/chesapeake-fine-food-group-llc-acquires-harrington-s-of-vermont-expanding-its-family-of-heritage-american-brands.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Here are the top 10 things we're watching in the stock market Friday",
-      "description": "Stocks are set for a higher open Friday following a nasty rate-driven pullback on Thursday",
-      "source": "CNBC",
-      "publication_date": "2026-08-21T12:59:36+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/21/here-are-the-top-10-things-were-watching-in-the-stock-market-friday.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Binance says employees questioned in UAE cleared and released",
-      "description": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T12:48:04+00:00",
-      "article_url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
       ]
