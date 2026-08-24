@@ -1,18 +1,59 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T22:53:54.817198+00:00",
+    "last_updated": "2026-08-24T23:21:00.577275+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 48,
       "general": 103,
-      "equities": 46,
+      "macro": 24,
       "crypto": 48,
-      "macro": 25,
       "forex": 7,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "Barinthus Bio Provides Update on Proposed Combination with Clywedog Therapeutics",
+      "description": "GERMANTOWN, Md., Aug. 24, 2026 (GLOBE NEWSWIRE) -- Barinthus Biotherapeutics plc (NASDAQ: BRNS) (“Barinthus Bio,” or the “Company”), today provided an update regarding the anticipated closing of its proposed combination with Clywedog Therapeutics, Inc. (“Clywedog”) in an all-stock transaction.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-24T22:57:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350152/0/en/barinthus-bio-provides-update-on-proposed-combination-with-clywedog-therapeutics.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Los Angeles Lakers worth 'every bit' of $12.5 billion price tag: 76ers and Commanders owner Josh Harris",
+      "description": "The Los Angeles Lakers set a new record for a professional team sale price at $12.5 billion, and sports investor Josh Harris said the team is worth \"every bit.\"",
+      "source": "CNBC",
+      "publication_date": "2026-08-24T22:51:16+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Here's what Jim Cramer says stock investors need to know about the bond market",
+      "description": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
+      "source": "CNBC",
+      "publication_date": "2026-08-24T22:40:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
+      "description": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T22:26:01+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
       "description": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
@@ -71,16 +112,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves - Reuters",
-      "description": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T20:50:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1403,21 +1434,21 @@
       ]
     },
     {
-      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
+      "description": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T04:00:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "publication_date": "2026-08-24T04:04:06+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
-      "description": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention Reuters",
+      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T04:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
+      "publication_date": "2026-08-24T04:00:38+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1640,13 +1671,13 @@
       ]
     },
     {
-      "headline": "US unveils 'economic D-Day' of sanctions to isolate Iran - Reuters",
-      "description": "US unveils 'economic D-Day' of sanctions to isolate Iran Reuters",
+      "headline": "US widens sanctions on Iran but withholds more punishing options - Reuters",
+      "description": "US widens sanctions on Iran but withholds more punishing options Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-23T15:23:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
       "asset_tags": [
-        "macro"
+        "general"
       ]
     },
     {
@@ -2020,36 +2051,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Trump says he did not direct Bessent to intervene in bond market - Reuters",
-      "description": "Trump says he did not direct Bessent to intervene in bond market Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T23:27:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkFsc1FIR29sOXp1dmJuLTJFNHR0Z04taHhTaEZkd1QyRmhxN0hKTmZHYldObW5zV1J6c2ozT04xOXp0dlFMbWgwMHVUckdCeHNPRG1QTEE4bU9fckJmd1BnekhaZ0JCOUUwbDBCdWdRM3FRWEFJUHB4LW9KaTNPRDBmQ1lLYTdOUTJWa2wtckZ1Y0FFbjJVTkFjaUVKY2Zwdm05VENB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil rises as Trump threatens sanctions on Iran partners - Reuters",
-      "description": "Oil rises as Trump threatens sanctions on Iran partners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T23:26:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Wall St rises on the day but falls for the week; bond yields and Iran in focus - Reuters",
-      "description": "Wall St rises on the day but falls for the week; bond yields and Iran in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T22:58:54+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
