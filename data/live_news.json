@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T14:56:24.463116+00:00",
+    "last_updated": "2026-08-24T15:37:03.620679+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "commodities": 14,
       "crypto": 54,
       "general": 102,
-      "equities": 41,
-      "commodities": 13,
-      "macro": 25,
-      "forex": 8
+      "equities": 42,
+      "macro": 23,
+      "forex": 7
     }
   },
   "articles": [
+    {
+      "headline": "AUDUSD corrects lower but keeps its bullish bias. What next technically?",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The AUDUSD based last week just ahead of its 100-day moving average and the 50% retracement near 0.7070. Holding that key support gave buyers the go-ahead to push higher.</p><p class=\"PDq2pG_selectionAnchorContainer\"></p><p>The first move to the upside last",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T15:25:37+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/audusd-corrects-lower-but-keeps-its-bullish-bias-what-next-technically/",
+      "asset_tags": [
+        "commodities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Ekoscan Integrity Group to Acquire Carestream’s U.S.-Based NDT Digital Business",
       "description": "With computed and digital radiography joining ultrasound and eddy current, EIG and its subsidiaries offer every major NDT technology, advising by application and bringing the right method to every inspection. With computed and digital radiography joining ultrasound and eddy current, EIG and its subs",
@@ -41,6 +52,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349884/0/en/davidson-kempner-capital-management-lp-form-8-3-easyjet-plc.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week - Reuters",
+      "description": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T14:11:42+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -91,28 +112,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-24T13:59:26+00:00",
       "article_url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "USDCHF stretches higher with USD selling but finds willing sellers against technical targets",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDCHF fell sharply last week, breaking below its 100-day moving average at 0.79753. The selling extended toward the 61.8% retracement of the move up from the May low to the July high at 0.79519. The low reached 0.7950 before buyers stepped in, pushing ",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T13:47:08+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usdchf-stretches-higher-with-usd-selling-but-finds-willing-sellers-against-technical-targets/",
-      "asset_tags": [
-        "forex",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Wall Street opens lower as high-stakes Iran, inflation tests loom - Reuters",
-      "description": "Wall Street opens lower as high-stakes Iran, inflation tests loom Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T13:35:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
       "asset_tags": [
         "macro"
       ]
@@ -535,16 +534,6 @@
       ]
     },
     {
-      "headline": "Indian shares fall as investors await details on Iran sanctions - Reuters",
-      "description": "Indian shares fall as investors await details on Iran sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T10:14:35+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Looming US sanctions on Iran put China oil buying in spotlight - Reuters",
       "description": "Looming US sanctions on Iran put China oil buying in spotlight Reuters",
       "source": "Reuters",
@@ -908,7 +897,7 @@
       "headline": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
       "description": "US cancels joint marine drills with South Korea over Iran war-related force constraints Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T05:52:00+00:00",
+      "publication_date": "2026-08-24T06:05:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3JEYi12MkZSRkRCaEIwR2FaNjhzSUZueTgwQzhWSHlhSnpWRVU3ZkdrMXdrUTMxMjVmdi1NLVBleGFDTXFRRDFVWVA5RUdVV1Y0dXlUWlJTcmJ2eHZuYTR4Nkh1T3k3cXplTmc4MVJUSGl2bGpWMllzRnBMaV9oMXR3T0RGd2dRR0NWaEkyYUpXX0tBUnBTcVAwVlVQQjBvOURvN3RpOVo1b2RRVEFZSFR2dVRlSm9GZTNBUmttWUhibWl5X2JPc1FB?oc=5",
       "asset_tags": [
         "general"
@@ -1021,7 +1010,7 @@
       "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
       "description": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T04:04:06+00:00",
+      "publication_date": "2026-08-24T04:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
       "asset_tags": [
         "general"
@@ -1068,13 +1057,13 @@
       ]
     },
     {
-      "headline": "Iran condemns US plans to announce new sanctions - Reuters",
-      "description": "Iran condemns US plans to announce new sanctions Reuters",
+      "headline": "Indian shares fall as investors await details on Iran sanctions - Reuters",
+      "description": "Indian shares fall as investors await details on Iran sanctions Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T01:13:49+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "publication_date": "2026-08-24T02:22:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
       "asset_tags": [
-        "general"
+        "equities"
       ]
     },
     {
@@ -1571,6 +1560,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-22T05:04:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran condemns US plans to announce new sanctions - Reuters",
+      "description": "Iran condemns US plans to announce new sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-22T01:05:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
       "asset_tags": [
         "general"
       ]
