@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T11:02:23.797637+00:00",
+    "last_updated": "2026-08-24T11:40:26.111681+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 94,
-      "equities": 40,
+      "forex": 10,
+      "equities": 42,
+      "general": 97,
       "macro": 27,
       "commodities": 17,
-      "crypto": 62,
-      "forex": 11
+      "crypto": 60
     }
   },
   "articles": [
+    {
+      "headline": "ECB defends digital euro privacy as CBDCs face global scrutiny",
+      "description": "Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T11:21:19+00:00",
+      "article_url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "equities"
+      ]
+    },
+    {
+      "headline": "UPS is investing $2 billion in international, healthcare and supply chain businesses",
+      "description": "UPS told CNBC exclusively that the company is investing more than $2 billion into its international, healthcare and supply chain businesses.",
+      "source": "CNBC",
+      "publication_date": "2026-08-24T11:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/24/ups-global-logistics-investment.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Man Group PLC : Form 8.3 - Rotork plc",
       "description": "FORM 8.3",
@@ -32,6 +53,16 @@
       "asset_tags": [
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
+      "description": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T10:49:47+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -107,11 +138,11 @@
       ]
     },
     {
-      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "headline": "Looming US sanctions on Iran put China oil buying in spotlight - Reuters",
+      "description": "Looming US sanctions on Iran put China oil buying in spotlight Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T10:00:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "publication_date": "2026-08-24T10:10:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1hfY2RieU1zQWlvd1p0M1ZhdzdkU2ZGYmZ4TUlUdG9IbXRZWjlTbTctdi1vMHBJTEtWTG40aW1sOHRqT25MaFNleGZIdUlyU1NnZC12Z3FZT2FSU0ZxNmNra0pCZXpOQl9DUmVOZ3l2MzZLc2pkZndoR2pVUUl6dEp1TXRHMkNBeXRXNkMyNzhXejZuSS1aZGpPWHJETTVuUWVqQUhyay1kcUhU?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -303,16 +334,6 @@
       ]
     },
     {
-      "headline": "Iran warns vessels violating Hormuz transit rules of fines, detention - Reuters",
-      "description": "Iran warns vessels violating Hormuz transit rules of fines, detention Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T08:45:06+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "UK briefs energy chiefs after Iran-linked cyber attack reports - Reuters",
       "description": "UK briefs energy chiefs after Iran-linked cyber attack reports Reuters",
       "source": "Reuters",
@@ -340,6 +361,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/24/crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Alibaba launches Wan3.0 AI video model after $10 billion share sale - Reuters",
+      "description": "Alibaba launches Wan3.0 AI video model after $10 billion share sale Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T08:23:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmdTM01hcWh5dzAtTzJPbUFQeFRaQjRsc0hUY0pvOGYzeWlQNWFFQUZDaGhoaXZvaVNuMmFSVlBrek9UZWhENW1qNEd4cFNNRHcxa0RJMDYzUzRXVXl5ZzBHTEJoYWRMUnZ3U0lvdFFMTjNxaVNNSWNuWUpJY3ZyZ2FQT0M0UFJvYUhXLTI1a2tKR1ByMzYyb053MVdTSjdjbVFPSlhBRXJhdDZnOGZXN3VULW53amRPQjRRV3lZX0Q4X3Bf?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -372,6 +403,17 @@
       "article_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVl6Z2NfVHEtWVZtei15eVVoMG1mSHJQZXdJVnJFZlc3QklQS1c3NVcwWHhaYXlDYkNDbDNhM3pCNkV6ZmJTMXFMWGxUTVZCdXJ1aGlqckJibFo5cDFxYzlKYWVmaVNGeElSdHBLbkZvOWVGbUpvSjFUUGdtUGVHYXVSUTF3T0VQdDZESVBHSE1PQlZkS2ZiZmpxcXRObWYxV2FDdA?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "European shares slip as tech drags; Iran sanctions in focus - Reuters",
+      "description": "European shares slip as tech drags; Iran sanctions in focus Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T07:30:59+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUFOcHRycnRBVzJHNi1CM1o1TWo5dHJha2xIcmFFbEQyTy1PQ2x1WWFSdkpWYjQtQ1RxcW5TYlhJbXE3TGE5S3RqazhrT0dMRjdVbW5rMEdPUk5BUWNrMkJqY0NILVpTNkhQeEJhcjBkc0NwS1ZkVDUyM1BSZkhrakNPUERDNk54LS1kd1BxLWRuVWRiQ084SHhQOG1GVW9GNm1EckhR?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities"
       ]
     },
     {
@@ -594,6 +636,16 @@
       ]
     },
     {
+      "headline": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says - Reuters",
+      "description": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T02:27:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHFDVms1QXIwRVJKUlRKMWpPY2VvX3FMaVU1UGtlZjV2TVd4OHNkNXVmQ2dQV3Y0NzBwM21IUzN1NzFOYmhlVDBKS092bXB5NmxLeVNnd0VKWkN6TXRVWXAzZjJUNl8tY3R5eEdNQkd5akoyanpjaFpWYXJXbFNOMkFmSllJLXZzN1I5S0REcExyRlRNVHQycE5SaE5NTTBSYVprYTdvR0xBNENHbFJEUzJ1aXFCMWl2UlBXdHZHSXhuOVdqZFQtbWhnUFJJbFA4eklQTnJB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Indian shares extend cautious trade on concerns over Iran sanctions - Reuters",
       "description": "Indian shares extend cautious trade on concerns over Iran sanctions Reuters",
       "source": "Reuters",
@@ -602,6 +654,16 @@
       "asset_tags": [
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T01:57:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -625,6 +687,16 @@
       ]
     },
     {
+      "headline": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports - Reuters",
+      "description": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T00:11:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUE0S1c5WWY5Tzl5dHVndnR4SDl4cGd1bjQxcGdPQ1BJbW1neFJhZEtGbk5aRnFueWtWQWVqNE5YVVZYdndrbEJwQlJ4bkpXcF9tOWtuWE9MNTAzXzFsV2Z1Z1NvbmdEbWxGUUhOcGVQQzNkS2llQURhb3phM1dpMWNDS0s5My1NVktjMk5WNUxhX0JXQk42WHpTVUcxZ1lkU05lWVQ4ZFM2UVpuMWtYZWFjVmlQaTJ2b2pBNGNRelg4dGRrSXltRQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
       "description": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.",
       "source": "Cointelegraph",
@@ -636,8 +708,8 @@
       ]
     },
     {
-      "headline": "Oil falls as US prepares to unveil new Iran sanctions - Reuters",
-      "description": "Oil falls as US prepares to unveil new Iran sanctions Reuters",
+      "headline": "Oil falls ahead of US announcement of new sanctions on Iran - Reuters",
+      "description": "Oil falls ahead of US announcement of new sanctions on Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-23T23:18:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
@@ -869,6 +941,16 @@
       ]
     },
     {
+      "headline": "Iran condemns US plans to announce new sanctions - Reuters",
+      "description": "Iran condemns US plans to announce new sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-22T16:52:50+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia",
       "description": "Allspring's Ann Miletti warns that Jackson Hole poses a greater risk to investors than Nvidia's earnings.",
       "source": "Bloomberg",
@@ -1077,16 +1159,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-22T05:04:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVpobThVRFlSUldKZkNtUFdwaTRmaFZyQl9HOExfQ2dxQkFOd2EtdWdtWUZ1ckthb3dKTVZwSmtpNk5Eb3A3dVFhWnVqZzlyMlpCQlFydGZrYTlyNzFDV21fQzZPYWxqeFBranZibzZiampxb3pyYll0LXhqZUJmN2ZNa3Q2UE55Tk1QSEx3NG9wd21zbFowNjZIcTY?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran condemns US plans to announce new sanctions - Reuters",
-      "description": "Iran condemns US plans to announce new sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-22T01:05:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdXVJYmgzQ2hHN1JlVkg0MFl5eU1hVWtYWTN2OFNvUFV3b3NoS053LTdCMDVWNTBZMEdhUDV3ZEQ3QXBBYnpNRDZST0l3amt6V0luVGtJek1aZnlPZVpwMndfY0VjemxrTWxsdUlZQkZxMU03SHA4LXJ2OVdSemltdzJfUGJseElLR3BCUjlFT1JIcXdhUW9CZU1xdVctMEFjN1B5ekl0cmplQQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1992,76 +2064,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "MANTRA token sinks 18% to record low amid blockchain halt",
-      "description": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-21T05:04:52+00:00",
-      "article_url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Ipsen finalise l'acquisition de Kartos Therapeutics, renforçant son portefeuille d'oncologie en phase avancée",
-      "description": "PARIS, FRANCE, 21 AOUT 2026 - Ipsen (Euronext: IPN; ADR: IPSEY) a annoncé aujourd’hui avoir finalisé l'acquisition de Kartos Therapeutics, une société biopharmaceutique au stade clinique, apportant le navtemadlin, un inhibiteur de MDM2 en développement clinique de phase III dans la myélofibrose.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-21T05:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348882/0/fr/ipsen-finalise-l-acquisition-de-kartos-therapeutics-renfor%C3%A7ant-son-portefeuille-d-oncologie-en-phase-avanc%C3%A9e.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Ipsen completes acquisition of Kartos Therapeutics, strengthening late-stage Oncology pipeline",
-      "description": "PARIS, FRANCE, 21 AUGUST 2026 - Ipsen (Euronext: IPN; ADR: IPSEY) announced today it has completed the acquisition of Kartos Therapeutics, a clinical-stage biopharmaceutical company adding late-stage MDM2 inhibitor navtemadlin in Phase III clinical development in myelofibrosis.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-21T05:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348882/0/en/ipsen-completes-acquisition-of-kartos-therapeutics-strengthening-late-stage-oncology-pipeline.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Anthropic expects to match or top SpaceX’s record IPO size",
-      "description": "Anthropic aims to surpass SpaceX's record IPO, fueled by strong investor demand in the booming AI industry.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-21T04:56:32+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-21T04:56:30+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Anthropic plans to change data retention policy for advanced AI",
-      "description": "Anthropic working on new safety system that allows enterprise customers to retain data on their own cloud computing infrastructure",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-21T04:39:09+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "War-hit European markets are far from down and out - Reuters",
-      "description": "War-hit European markets are far from down and out Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T04:01:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
