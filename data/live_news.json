@@ -1,27 +1,47 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T19:49:58.064332+00:00",
+    "last_updated": "2026-08-24T20:14:20.759928+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 54,
-      "macro": 27,
       "equities": 44,
-      "general": 101,
-      "forex": 8,
+      "forex": 9,
+      "macro": 27,
+      "crypto": 54,
+      "general": 100,
       "commodities": 13
     }
   },
   "articles": [
     {
-      "headline": "Is the US-Canada deal the classic fifth stage of Trump negotiations",
-      "description": "<p>US Vice President JD Vance said today that trade negotiations with Canada remain ongoing in something of a turnabout that's a hint that not everything is lost. Notably, Canada's counter-tariffs won't go into effect until Sept 7 and Trump is threatening Jan 1 tariffs on auto parts. The longer Cana",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T19:23:42+00:00",
-      "article_url": "https://investinglive.com/news/is-the-us-canada-deal-the-classic-fifth-stage-of-trump-negotiations/",
+      "headline": "Here's what the charts say about Nvidia's stock heading into earnings",
+      "description": "We see a flashing yellow light into Nvidia's earnings report Wednesday night.",
+      "source": "CNBC",
+      "publication_date": "2026-08-24T19:51:25+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/24/heres-what-the-charts-say-about-nvidias-stock-heading-into-earnings.html",
       "asset_tags": [
-        "crypto",
+        "equities"
+      ]
+    },
+    {
+      "headline": "USDJPY tests the 200-hour MA as buyers probe higher",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDJPY is pressing against an important technical ceiling after rebounding from last week’s lows.</p><p class=\"PDq2pG_selectionAnchorContainer\"></p><p>On Wednesday and Thursday last week, the pair briefly traded below its 200-day moving average (lower g",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T19:31:37+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/usdjpy-tests-the-200-hour-ma-as-buyers-probe-higher/",
+      "asset_tags": [
+        "forex",
         "macro"
+      ]
+    },
+    {
+      "headline": "Coinbase-affiliated advocacy group endorses candidates for US midterms",
+      "description": "With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to “elect the most pro-crypto Congress in history.”",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T19:18:06+00:00",
+      "article_url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -34,6 +54,16 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Israel's Netanyahu says Iran tried to kill one of his sons - Reuters",
+      "description": "Israel's Netanyahu says Iran tried to kill one of his sons Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T18:54:22+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcndkRXBGZVdHbXo5ajBPN3B4UUZPV05GWVV1UWxYVmtaX0JOeXJiN0I2ZzYxQS1TbjRWa1BITmtxa1RWQ1FFOEczbFFaYWdud3dqdkdwU1lTazd3ekZtNXIyWnEtT3pSaXJMakR6WHo5ZFFMakIyMVlBSnFYM2Q1aS1ySExGSmpQcnpDZlpZRTFwMFlyeDVvMDJveHliVDZZemVZZ3UwWlE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -106,6 +136,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris - Reuters",
+      "description": "France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T17:07:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1pSUXpFN2gtY3ZBNHRubzJEOGZOSE1lR0NfQmh6OHRaT052MUJaUUZlbTBrOFNXZWZiRXhoVnl6UjRFTlFjbVJsVXZ5TWYtS1B4eFN4UlkwUG9FMGRLdEtZZk5xNVlVOTA3RnQxSGRESWFTOTFOUTdMNFZrVVBCdnAxeVJoUzkwUnViWDZsX0ZwaVNacnlDcTEtOUk5Qk54aVllTlBjNTlITWtLYlVrNHVZLUFSSGNleVhtZGtOSm1XQjJtT29GRW9lNVR0QQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -201,17 +241,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjZIUXVnZ0tJcjFPZEJjRlZMVkRkYkcwaVRVOWQ2R0tVeGo4SWZiMHgtZEFKRU9XUkk3N3ZNUmJ2YmRIUDlodjBoRlQtVmdjMi1oVjhWYUtVQmlSalVtQWptNzhjZFZ1TlMydkZLUXFQVEVocmVyYkFYX0J4bTJLV1VNUlpmanA0RWR2ODZlTWFka1p6X2VNSk0tVEZCLXVRQzlCcHlWTmxBUmlPM2paV0h0Sm9RMFVmaWRXY01IdUs0QQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Shares dip on pressure from technology; yields and oil fall - Reuters",
-      "description": "Shares dip on pressure from technology; yields and oil fall Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T15:49:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -606,6 +635,16 @@
       "asset_tags": [
         "forex",
         "equities"
+      ]
+    },
+    {
+      "headline": "China says Middle East at critical point, calls for cooling tensions and dialogue - Reuters",
+      "description": "China says Middle East at critical point, calls for cooling tensions and dialogue Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T11:20:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHZKbGNlSkFyUnFGaFRSQWtQc1JQUElUeDVnLVZCNUR1SmhMV3I5VkYxWm93NkFLOWNYckFscUR6YXNMTFBGWTl4aHdNcjdwaE9reTdSTEpCUWlEd3hKVTMzZy1qX0ZsRVF3dnU0dVJRdVBod1J0SW8yT3JxQXpoLXlKMGlQdnRKdi1JZXNnSVc5U1hNRG52RkxaNXJ1YjhUV2RDVlRIVnhoU3Q2SzZ5MmpFekhPelVQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1327,6 +1366,17 @@
       ]
     },
     {
+      "headline": "Shares dip on pressure from technology; yields and oil fall - Reuters",
+      "description": "Shares dip on pressure from technology; yields and oil fall Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T00:49:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
       "headline": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports - Reuters",
       "description": "ExxonMobil temporarily halts operations at Guyana site after fire, Bloomberg News reports Reuters",
       "source": "Reuters",
@@ -1462,8 +1512,8 @@
       ]
     },
     {
-      "headline": "US expected to broaden secondary sanctions to isolate Iran on 'economic D-Day' - Reuters",
-      "description": "US expected to broaden secondary sanctions to isolate Iran on 'economic D-Day' Reuters",
+      "headline": "US unveils 'economic D-Day' of sanctions to isolate Iran - Reuters",
+      "description": "US unveils 'economic D-Day' of sanctions to isolate Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-23T15:23:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
@@ -2008,56 +2058,6 @@
       "article_url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "US service sector fuels acceleration in business activity, S&P Global says - Reuters",
-      "description": "US service sector fuels acceleration in business activity, S&P Global says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T18:30:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVBzVy1yLUVWTXVyYzJzOW9wZHFDZGZHU0RyNzY2Mk5UZ0FKMUR0WEoyNGM1YUlSQmdOUnZRSTJ5UUJFSkNtcHhiZmdQd3dOM0NpbUFndjhOenRzZTRRamtVQUEtQVVvbmhDZWJOV1JRcklpQ2tfX3FqdHRhRTlpdXpQM05KS1Y4ZHUyeGNuUy1GbE9GWEFQSld3eXJ0Wk5xeklPRHhJS05tVXA1Vjh2YVNVcDU?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Charter closes Cox deal, sees potential for $1 billion in annual synergies",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-21T17:57:29+00:00",
-      "article_url": "https://seekingalpha.com/news/4635961-charter-closes-cox-deal-sees-potential-for-1-billion-in-annual-synergies?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Jim Cramer looks at why our AI data center stocks are among the worst of the week",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "publication_date": "2026-08-21T17:38:13+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/21/cramer-on-why-our-ai-data-center-stocks-are-among-the-worst-of-the-week.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "This sleepy sector could offer big returns, says Mike Khouw",
-      "description": "The options market rarely gives you a gift, but it might be doing that right now.",
-      "source": "CNBC",
-      "publication_date": "2026-08-21T17:31:40+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/21/this-sleepy-sector-could-offer-big-returns-says-mike-khouw.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Vireo Growth Inc. Completes Acquisition of C21 Investments Inc.",
-      "description": "Vireo Growth Completes Acquisition of C21 - Transaction expands Vireo’s NV footprint with three leading dispensaries + 104K sf cultivation & production",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-21T16:53:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3349262/0/en/vireo-growth-inc-completes-acquisition-of-c21-investments-inc.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
