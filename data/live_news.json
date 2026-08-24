@@ -1,18 +1,40 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T04:27:02.677063+00:00",
+    "last_updated": "2026-08-24T05:12:17.057626+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 60,
-      "forex": 13,
+      "forex": 12,
       "equities": 41,
-      "commodities": 14,
       "macro": 28,
-      "general": 93
+      "general": 94,
+      "crypto": 59,
+      "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "What are the main events for today?",
+      "description": "<p>EUROPEAN SESSION</p><p>In the European session, we don't have anything on the agenda today, with markets likely consolidating or extending the trends started with the Treasury buyback. The most important event this week will be Fed Chair Warsh's speech at the Jackson Hole Symposium on Friday.</p>",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T04:18:10+00:00",
+      "article_url": "https://investinglive.com/news/what-are-the-main-events-for-today-26/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Questerre wins first bid round for Nova Scotia exploration rights",
+      "description": "THIS NEWS RELEASE IS NOT FOR DISSEMINATION OR DISTRIBUTION IN THE UNITED STATES OF AMERICA TO UNITED STATES NEWSWIRE SERVICES OR UNITED STATES PERSONS",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-24T04:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349440/0/en/questerre-wins-first-bid-round-for-nova-scotia-exploration-rights.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Term Finance loses estimated $8.5M in vault governance exploit",
       "description": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
@@ -21,20 +43,6 @@
       "article_url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "investingLive Asia-Pacific market news: Gold hit a three month high",
-      "description": "<ul><li><a href=\"https://investinglive.com/commodities/icymi-india-gold-imports-double-in-july-as-wgc-flags-demand-recovery\" rel=\"follow\">ICYMI - India gold imports double in July as WGC flags demand recovery</a></li><li><a href=\"https://investinglive.com/commodities/ing-says-fiscal-credibility-fear",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T03:29:54+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-hit-a-three-month-high/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -660,6 +668,16 @@
       "article_url": "https://www.cnbc.com/2026/08/21/an-overlooked-ai-winner-taps-new-cfo-as-street-awaits-nvidia.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "US service sector fuels acceleration in business activity, S&P Global says - Reuters",
+      "description": "US service sector fuels acceleration in business activity, S&P Global says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-21T18:30:33+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVBzVy1yLUVWTXVyYzJzOW9wZHFDZGZHU0RyNzY2Mk5UZ0FKMUR0WEoyNGM1YUlSQmdOUnZRSTJ5UUJFSkNtcHhiZmdQd3dOM0NpbUFndjhOenRzZTRRamtVQUEtQVVvbmhDZWJOV1JRcklpQ2tfX3FqdHRhRTlpdXpQM05KS1Y4ZHUyeGNuUy1GbE9GWEFQSld3eXJ0Wk5xeklPRHhJS05tVXA1Vjh2YVNVcDU?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2040,26 +2058,6 @@
       "article_url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-      "description": "The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-20T15:42:14+00:00",
-      "article_url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Lufthansa's Discover Airline says jet fuel shortage affects flights from Namibia to Europe - Reuters",
-      "description": "Lufthansa's Discover Airline says jet fuel shortage affects flights from Namibia to Europe Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-20T15:42:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSF95VlNpbHpVYW5pUXFDWG45czgtQUFscFd5aC1iUDNocHhLNmR0UHhNcENfbnk0YUc1VzhyNGFfSjRQN2M2aHlwc0pLc095QW5sOTJQemdDV2lwLUNTcTZPZTE2M01DWTd4WnFZVG83a3hueVdaYUJDdnlySURNMlV2akZfLWdMcFhUTml4TV9yMVlGRFNtLXZ3WVNLSC05VTZnSnkyUUJCZXhob3pSNjBBTGI5enUwcDF3a3RZdTc?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
