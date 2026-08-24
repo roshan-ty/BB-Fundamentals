@@ -1,18 +1,111 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-24T13:10:39.348785+00:00",
+    "last_updated": "2026-08-24T14:02:17.992693+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "commodities": 17,
+      "macro": 26,
+      "forex": 10,
+      "crypto": 54,
+      "equities": 42,
       "general": 100,
-      "equities": 44,
-      "crypto": 55,
-      "macro": 24,
-      "forex": 10
+      "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+      "description": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027",
+      "source": "CNBC",
+      "publication_date": "2026-08-24T13:59:26+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "USDCHF stretches higher with USD selling but finds willing sellers against technical targets",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDCHF fell sharply last week, breaking below its 100-day moving average at 0.79753. The selling extended toward the 61.8% retracement of the move up from the May low to the July high at 0.79519. The low reached 0.7950 before buyers stepped in, pushing ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-24T13:47:08+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/usdchf-stretches-higher-with-usd-selling-but-finds-willing-sellers-against-technical-targets/",
+      "asset_tags": [
+        "forex",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Wall Street opens lower as high-stakes Iran, inflation tests loom - Reuters",
+      "description": "Wall Street opens lower as high-stakes Iran, inflation tests loom Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T13:35:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
+      "description": "Bitget CEO Gracy Chen doesn’t believe the current Bitcoin rally is sustainable, and she aims to buy more BTC around the $50K mark later in 2026 or early next year.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-24T13:30:00+00:00",
+      "article_url": "https://cointelegraph.com/magazine/bitget-ceo-isnt-buying-the-bitcoin-rally-waiting-for-50k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T13:16:49+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Vision Marine targets AI, autonomy and defense through proposed reverse takeover",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-24T13:00:17+00:00",
+      "article_url": "https://seekingalpha.com/news/4636251-vision-marine-targets-ai-autonomy-and-defense-through-proposed-reverse-takeover?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Barings Provides $72.6 Million Financing for 140 Kendrick Street in Suburban Boston",
+      "description": "CHARLOTTE, N.C.--(BUSINESS WIRE)--Barings, one of the world's leading alternative investment managers, announced today that it has provided a $72.6 million loan to a joint venture between Cross Ocean Partners and Lincoln Property Company to support the acquisition of 140 Kendrick Street, a Class A o",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-24T13:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260824409032/en/Barings-Provides-72.6-Million-Financing-for-140-Kendrick-Street-in-Suburban-Boston/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T12:59:55+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T12:52:30+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Form 8.3 - NextEnergy Solar Fund Limited",
       "description": "8.3",
@@ -96,11 +189,11 @@
       ]
     },
     {
-      "headline": "Booz Allen Completes Acquisition of Ultra I&C Mission Solutions Business",
-      "description": "MCLEAN, Va.--(BUSINESS WIRE)---- $BAH #defensetech--Booz Allen has completed its previously announced acquisition of the Ultra I&C Mission Solutions business",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-24T12:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260824737561/en/Booz-Allen-Completes-Acquisition-of-Ultra-IC-Mission-Solutions-Business/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
+      "description": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T12:30:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -116,17 +209,13 @@
       ]
     },
     {
-      "headline": "Kickstart the FX Trading Day for August 24: Key technical levels for EURUSD, USDJPY and GBPUSD",
-      "description": "<p>The new trading week is underway with the US dollar is modestly higher with the USDCAD moving up the most with a gain of 0.57% after talks with Canada on a trade agreement fell apart. </p><p class=\"PDq2pG_selectionAnchorContainer\">As a review, the U.S.-Canada trade talks broke down late Friday, r",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T12:10:36+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/kickstart-the-fx-trading-day-for-august-24-key-technical-levels-for-eurusd-usdjpy-and-gbpusd/",
+      "headline": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T12:24:58+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
       "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
+        "general"
       ]
     },
     {
@@ -231,16 +320,6 @@
       ]
     },
     {
-      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T11:15:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Financial repression: The new buzzword for bitcoin bulls",
       "description": "",
       "source": "CoinDesk",
@@ -312,16 +391,6 @@
       ]
     },
     {
-      "headline": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation - Reuters",
-      "description": "Iran threatens 45 tankers with fines, confiscation in Hormuz escalation Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T10:49:47+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR1A3TzVlaW92SHFPcHNmUjdQZ1hIYi0xZWNCdGVpcmY4VmZBUHNneElLRnE5dDFwZXRRX1FfcHFkMDlFMm5kdGh2aldsWnllaGZSVWJ2SFhzUVRRU3FyNzJNeWJfb3lrQnhqQ2g0d1c0ZUo0dllmTkd4QzAwWTNZV05sNlc2M3c5c3d5Zi1hTF90N0ltX25sUUk4T0RURUE3akZuX2VrMEFGcXFIMV9FRFU5VWI2UE4wREV3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
       "description": "",
       "source": "CoinDesk",
@@ -384,11 +453,11 @@
       ]
     },
     {
-      "headline": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results - Reuters",
-      "description": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results Reuters",
+      "headline": "Indian shares fall as investors await details on Iran sanctions - Reuters",
+      "description": "Indian shares fall as investors await details on Iran sanctions Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T10:10:11+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
+      "publication_date": "2026-08-24T10:14:35+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
       "asset_tags": [
         "equities"
       ]
@@ -829,7 +898,7 @@
       "headline": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says - Reuters",
       "description": "Oman foreign minister to visit Tehran on Tuesday, Iranian foreign ministry says Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T04:42:00+00:00",
+      "publication_date": "2026-08-24T04:43:04+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObkJfZGxYQ3dRdFhQNi12SXNHbmhYcjV4UHlnM1RwSm1Lcmt0ejJWTUh6OUlQRnBLbWh3YlM5V2dKVkNPNXBiVGI3b2Z6WUFGeWdCa0wwc1RTX2NHX0FaSzBGOVQ4dk1SRzFvejI3SXRUZVNVWWMybXVpWEJrY0poNExaQ2lEZjBvSDM2UWNhZGxtb3RFRWxZaFlYTk5EQXVmNFNEb0MxSWhVRl9tT2RJcjd5OUo3WTN3QlVPTFdFbno3Nk0xNHc?oc=5",
       "asset_tags": [
         "general"
@@ -881,7 +950,7 @@
       "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
       "description": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T04:00:00+00:00",
+      "publication_date": "2026-08-24T04:04:06+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
       "asset_tags": [
         "general"
@@ -925,16 +994,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHFDVms1QXIwRVJKUlRKMWpPY2VvX3FMaVU1UGtlZjV2TVd4OHNkNXVmQ2dQV3Y0NzBwM21IUzN1NzFOYmhlVDBKS092bXB5NmxLeVNnd0VKWkN6TXRVWXAzZjJUNl8tY3R5eEdNQkd5akoyanpjaFpWYXJXbFNOMkFmSllJLXZzN1I5S0REcExyRlRNVHQycE5SaE5NTTBSYVprYTdvR0xBNENHbFJEUzJ1aXFCMWl2UlBXdHZHSXhuOVdqZFQtbWhnUFJJbFA4eklQTnJB?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Indian shares fall as investors await details on Iran sanctions - Reuters",
-      "description": "Indian shares fall as investors await details on Iran sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T02:22:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -1040,16 +1099,6 @@
       ]
     },
     {
-      "headline": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
-      "description": "Iran says new sanctions threatened by 'desperate' US will fail Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T18:16:16+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
       "description": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
       "source": "CNBC",
@@ -1130,6 +1179,16 @@
       "article_url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
+      "description": "Iran says new sanctions threatened by 'desperate' US will fail Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-23T12:25:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1999,68 +2058,6 @@
         "forex",
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-21T11:31:30+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-21T11:30:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-21T11:26:27+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Take Five: Six months of war - Reuters",
-      "description": "Take Five: Six months of war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T11:25:55+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump to temporarily ease US beef tariffs, irking cattle producers - Reuters",
-      "description": "Trump to temporarily ease US beef tariffs, irking cattle producers Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-21T11:19:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEFodmROalY1SkRMRUp0NWdHc01wbU1Fa05Ib0NIR0VzNFVzV3R1dElCdzMweFkzLVhsS0IwQURrZUo2MGQ4OFBLZEVtak9XR1ozZG0wbmVQV2hOUmIzS1pzVlJOVFdINUhNa1lXaElyYm1YeWw2SnZpbUV5VXJIdno5SlZLMzVoZzBHejRZWE9Vc1k?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bunker Hill and Silver47 Announce Merger to Create a ‘Made in America’ U.S. Silver & Critical Minerals Champion",
-      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, Aug. 21, 2026 (GLOBE NEWSWIRE) -- Bunker Hill Mining Corp. (“Bunker Hill”) (TSX: BNKR | OTCQB: BHLL), and Silver47 Exploration Corp. (“Silver47”) (TSXV: AGA | OTCQX: AAGAF | Frankfurt: QP2) are pleased to announce that they have entered into a definiti",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-21T11:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/21/3348997/0/en/bunker-hill-and-silver47-announce-merger-to-create-a-made-in-america-u-s-silver-critical-minerals-champion.html",
-      "asset_tags": [
-        "equities",
-        "commodities",
-        "crypto"
       ]
     }
   ]
