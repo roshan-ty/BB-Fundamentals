@@ -1,18 +1,32 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T05:05:28.509811+00:00",
+    "last_updated": "2026-08-25T05:44:18.912146+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 104,
       "forex": 10,
-      "equities": 49,
-      "macro": 23,
+      "equities": 50,
+      "commodities": 9,
       "crypto": 45,
-      "commodities": 8
+      "macro": 24,
+      "general": 104
     }
   },
   "articles": [
+    {
+      "headline": "Crypto news today: ETF inflows, Ethereum demand and US regulation lift sentiment",
+      "description": "<p>Key crypto news for traders and investors today</p><ul><li><p>US spot Bitcoin and Ethereum ETFs attracted about $2.6 billion combined during the August 17-21 week, their strongest week since October 2025.</p></li><li><p>Ethereum demand came from two directions: nearly $700 million entered spot ET",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T05:05:10+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/crypto-news-today-etf-inflows-ethereum-demand-and-us-regulation-lift-sentiment/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
       "description": "Oil steadies as investors weigh impact of latest US sanctions on Iran Reuters",
@@ -63,17 +77,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350179/0/en/navitas-to-acquire-claros-advancing-ai-infrastructure-with-vpd-ivr-technology-for-grid-to-xpu.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin jumps above US$80K for the first time in 3 months",
-      "description": "<p>BTC continues to benefit from the weak USD and poor sentiment towards bonds. </p><p>Earlier:</p><ul><li><a href=\"https://investinglive.com/cryptocurrency/is-bitcoin-at-77k-preparing-for-another-breakout-this-btcusd-analysis-shows-a-a-potential-bull-flag-pointing-to-84k-86k\" rel=\"follow\" target=\"_",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T03:01:47+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-jumps-above-us-80k-for-the-first-time-in-3-months/",
-      "asset_tags": [
-        "forex",
-        "crypto"
       ]
     },
     {
@@ -358,6 +361,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-24T19:06:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Israeli fire kills two young children in Gaza, medics say - Reuters",
+      "description": "Israeli fire kills two young children in Gaza, medics say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T19:02:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbF9zZGt2ZlE1OVRreUg3STlOdFNxVS1GNmFoU210enY4aEotOVZ6aF9UUUNEZ3pLLVViMkM1ajljOGNIS1pFRENOSmM3V2cxOVhlYjJOMmhPcUY0T3E1Nnp1MGd6dkJINjFqTkpzX1ZFd3NhNUxfdEhuRS1IaFFXWmdublNNNVdweklHY3dQM1JvMW44Rk8yUWdRQVNXZjNtOGUtNjFpeHVySDg?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1531,6 +1544,16 @@
       ]
     },
     {
+      "headline": "Avaada plans public filing for $800 million IPO in India",
+      "description": "The Brookfield Renewable Partners-backed company has appointed ICICI Securities Ltd, Axis Capital Ltd, HSBC Holdings Plc, IIFL Capital Services Ltd and Bank of America to help manage the potential share sale in India",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-24T05:26:33+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/avaada-is-said-to-plan-public-filing-for-800-million-india-ipo",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "South Africa's MTN approves $375 million share buyback after profit rise - Reuters",
       "description": "South Africa's MTN approves $375 million share buyback after profit rise Reuters",
       "source": "Reuters",
@@ -1697,6 +1720,16 @@
       ]
     },
     {
+      "headline": "Ampol profit surges nearly five-fold as Iran war boosts refining margins - Reuters",
+      "description": "Ampol profit surges nearly five-fold as Iran war boosts refining margins Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T03:13:28+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNIc3NxT3JYclN3cmRsSkVqeElsbHFRMk1fZmZqQ2xWWWJsY3oxUWpPd3BpZ3llYnA2X1hKa0dIREIxMWFPTk5TS1ZRcmVkZS1WNXN6R1pib1pUMGJDQnE0S1ZkNGV3blcydXp0d3pEa08welJreWF1TVFjY0U5a01qc2c5dGY4S3R5RjNXM0pna1dXSjRfMmdBdkhsUUhkY3Q1MFJ5RG90THFQYVdmUGg3ZUNOOFhKbHQ5bzR0YVdKYTFVdlE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows - Reuters",
       "description": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows Reuters",
       "source": "Reuters",
@@ -1784,16 +1817,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-23T22:57:03+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Ampol profit surges nearly five-fold as Iran war boosts refining margins - Reuters",
-      "description": "Ampol profit surges nearly five-fold as Iran war boosts refining margins Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T22:42:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNIc3NxT3JYclN3cmRsSkVqeElsbHFRMk1fZmZqQ2xWWWJsY3oxUWpPd3BpZ3llYnA2X1hKa0dIREIxMWFPTk5TS1ZRcmVkZS1WNXN6R1pib1pUMGJDQnE0S1ZkNGV3blcydXp0d3pEa08welJreWF1TVFjY0U5a01qc2c5dGY4S3R5RjNXM0pna1dXSjRfMmdBdkhsUUhkY3Q1MFJ5RG90THFQYVdmUGg3ZUNOOFhKbHQ5bzR0YVdKYTFVdlE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2028,26 +2051,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-22T18:51:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Allspring’s Miletti sees Jackson Hole as bigger risk than Nvidia",
-      "description": "Allspring's Ann Miletti warns that Jackson Hole poses a greater risk to investors than Nvidia's earnings.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-22T16:07:00+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/allspring-s-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran - Reuters",
-      "description": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-22T15:45:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0xHczhyd0MwdmphVllPT2pTUXNMNDBtU29maGIxbGFNdWtjbnAzS1hsMVBXUnNnalVjbXlUQkpJWnZHelR5QkJyV2lLNGRuelVrYW1OQWJ6YTMteGZBbm9vX0lfY0ZZeE93NVVfZ0lsX3hjLXdVeV9qMG5hZ1Y2dU5FbWNQd0t0U0ZJcHV4MmFHbGhnSC1YMWdKaTBCRTQzR2ZzcDNMVnpFaHBCRVl0RXprMVIwMHg3bUI2Qk9IR05MQUM2R0k4QUFnY3VZbEk?oc=5",
       "asset_tags": [
         "general"
       ]
