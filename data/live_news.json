@@ -1,18 +1,29 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T05:44:18.912146+00:00",
+    "last_updated": "2026-08-25T06:19:21.340388+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 46,
+      "macro": 25,
       "forex": 10,
       "equities": 50,
       "commodities": 9,
-      "crypto": 45,
-      "macro": 24,
-      "general": 104
+      "general": 103
     }
   },
   "articles": [
+    {
+      "headline": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
+      "description": "The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T05:29:29+00:00",
+      "article_url": "https://cointelegraph.com/news/us-targets-iran-crypto-sector-100m-oil-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Crypto news today: ETF inflows, Ethereum demand and US regulation lift sentiment",
       "description": "<p>Key crypto news for traders and investors today</p><ul><li><p>US spot Bitcoin and Ethereum ETFs attracted about $2.6 billion combined during the August 17-21 week, their strongest week since October 2025.</p></li><li><p>Ethereum demand came from two directions: nearly $700 million entered spot ET",
@@ -25,6 +36,16 @@
         "commodities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T05:05:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -331,16 +352,6 @@
       "article_url": "https://cointelegraph.com/news/coinbase-stand-crypto-advocacy-group-endorses-midterm-candidates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases - Reuters",
-      "description": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T19:16:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     },
     {
@@ -1534,6 +1545,16 @@
       ]
     },
     {
+      "headline": "China delays mission to find water on Moon until after this year",
+      "description": "The Chang’e-7 spacecraft couldn’t proceed with its blastoff within this year’s window because the launch requirements weren’t met, the China National Space Administration said",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-24T05:47:32+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/china-delays-mission-to-find-water-on-moon-till-after-this-year",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "SuperiorMed to go public via merger with Starry Sea Acquisition Corp",
       "description": "",
       "source": "SeekingAlpha",
@@ -1757,6 +1778,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases - Reuters",
+      "description": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T01:48:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
@@ -2021,36 +2052,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-23T07:44:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
-      "description": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-22T20:00:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Key deals this week: Stripe, KKR, Virtu and more",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-22T19:15:10+00:00",
-      "article_url": "https://seekingalpha.com/news/4635957-key-deals-this-week-stripe-kkr-virtu-and-more?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Israel strikes southern Syria; Damascus condemns attack - Reuters",
-      "description": "Israel strikes southern Syria; Damascus condemns attack Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-22T18:51:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
       "asset_tags": [
         "general"
       ]
