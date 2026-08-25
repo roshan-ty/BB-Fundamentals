@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T17:10:02.933701+00:00",
+    "last_updated": "2026-08-25T17:45:37.530065+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 94,
-      "forex": 13,
       "macro": 32,
+      "general": 94,
       "crypto": 53,
       "equities": 45,
+      "forex": 12,
       "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "US treasury sells $69 billion of 2-year notes at a high yield of 4.204%",
+      "description": "<p>The first coupon auction is complete with the U.S. Treasury selling $69 billion of 2 year notes. The auction results show</p><ul><li>high yield 4.204%</li><li>WI level at the time of the auction 4.208%</li><li>Tail -0.4 bps vs 6 month average of +0.2 basis points </li><li>Bid to cover 2.60X versu",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T17:06:00+00:00",
+      "article_url": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "Apollo, KKR, and IFM Investors are finalists in AB Ports' stake sale - report",
       "description": "",
@@ -24,14 +34,23 @@
       ]
     },
     {
-      "headline": "USDCHF retraces gains into support swing area",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The USDCHF moved sharply lower last week, falling from a high near 0.8130 to a low near 0.7950. That decline took the pair below its 100-hour moving average, the 50% retracement of the move up from the May low, and ultimately through its 100-day moving aver",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T16:55:18+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/usdchf-retraces-gains-into-support-swing-area/",
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T16:55:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
       "asset_tags": [
-        "forex",
-        "macro"
+        "general"
+      ]
+    },
+    {
+      "headline": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say - Reuters",
+      "description": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T16:48:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -158,31 +177,11 @@
       ]
     },
     {
-      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T15:08:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more - Reuters",
       "description": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-25T15:05:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT20tcldmTnJoUWpfYlFMcnhIamdoZG5aenFWZDlLaGJFOG9mUVZQOENaU3hTNTlJOGpEUkg1QW9qVi1qUENRRGxLU3V2QW50cEs3YlE2LU1EZHhidlhheXpBeXBiX3FrT1dFeTFmQmo2cGpIdExvUUlET1d1eHJqc09lYVlvNjFPbEtmS0FaQ0xfYWlCdVl6WXQ3UjBMUUxZbWVNS0VXVTRfbzFwekE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports - Reuters",
-      "description": "US prepares to send diplomats back to Middle East embassies after Iran war evacuations, NYT reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T14:54:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1801,6 +1800,16 @@
       ]
     },
     {
+      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T12:00:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "L5 Networks Joins Volaris Group",
       "description": "TORONTO, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Volaris Group today announced the acquisition of L5 Networks, a Brazilian pioneer in cloud-based corporate communications solutions and one of the country’s leading omnichannel and corporate collaboration platforms.",
       "source": "GlobalNewswire",
@@ -2050,16 +2059,6 @@
       "article_url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-billion-strongest-week-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Six countries want EU talks in September on taxing windfall profits of oil companies - Reuters",
-      "description": "Six countries want EU talks in September on taxing windfall profits of oil companies Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T08:49:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQThnRHE4Y3F4cThuZlR6YkNiZ0sxQU1nanBIVjl1aUR4cWNRaHpOUjhtTWhtQzZnNXFqV01jbGhkVWtDQlAxYnpjSEM2UmJ4WEZaVEZORTIxUW1fZU5IVVoySnUwblRYT0xwWTF6cGE1Sng4XzY1OXAxMkJKRWw3Ni1YcWJKakljSEV3bHN5SE5mZTZmSHpMU1RMTDlONUdoaFlYSDExYV9FVlNheGJNSkVqX2Npcms0NG00M1FjaE5lMW9keHc?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
