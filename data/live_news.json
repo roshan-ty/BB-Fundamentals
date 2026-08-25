@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T21:47:35.814711+00:00",
+    "last_updated": "2026-08-25T22:03:58.430878+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 47,
       "general": 94,
-      "equities": 46,
-      "crypto": 52,
+      "crypto": 51,
       "forex": 13,
-      "commodities": 12,
+      "commodities": 11,
       "macro": 34
     }
   },
   "articles": [
+    {
+      "headline": "Lithium Ionic Completes US$37.5 Million Sale of its Salinas Group of Lithium Properties to PLS",
+      "description": "US$30.0 million in non-dilutive cash proceeds received at closing; retained 2.0% royalty preserves shareholder exposure to the potential future development of Baixa Grande under the ownership of a premier lithium producer US$30.0 million in non-dilutive cash proceeds received at closing; retained 2.",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-25T21:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350912/0/en/lithium-ionic-completes-us-37-5-million-sale-of-its-salinas-group-of-lithium-properties-to-pls.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "World Liberty Financial launches USD1 natively on Canton Network",
       "description": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
@@ -2051,17 +2061,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-24T10:41:46+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
-      "asset_tags": [
-        "commodities",
-        "crypto"
       ]
     }
   ]
