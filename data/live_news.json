@@ -1,18 +1,41 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T02:48:24.280593+00:00",
+    "last_updated": "2026-08-25T03:36:01.239471+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 48,
-      "general": 104,
-      "equities": 46,
+      "forex": 9,
+      "crypto": 47,
+      "commodities": 9,
       "macro": 24,
-      "forex": 7,
-      "commodities": 9
+      "equities": 49,
+      "general": 101
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin jumps above US$80K for the first time in 3 months",
+      "description": "<p>BTC continues to benefit from the weak USD and poor sentiment towards bonds. </p><p>Earlier:</p><ul><li><a href=\"https://investinglive.com/cryptocurrency/is-bitcoin-at-77k-preparing-for-another-breakout-this-btcusd-analysis-shows-a-a-potential-bull-flag-pointing-to-84k-86k\" rel=\"follow\" target=\"_",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T03:01:47+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-jumps-above-us-80k-for-the-first-time-in-3-months/",
+      "asset_tags": [
+        "forex",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Japan to weigh tax incentives for retail JGB investors, Katayama says",
+      "description": "<p dir=\"ltr\">Katayama's comments on retail JGB incentives point to a policy avenue aimed at broadening the domestic investor base for government debt at a time when long and super-long yields have been under sustained upward pressure, though any tax reform would need to clear discussions with the ru",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T02:49:31+00:00",
+      "article_url": "https://investinglive.com/news/japan-to-weigh-tax-incentives-for-retail-jgb-investors-katayama-says/",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
     {
       "headline": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
       "description": "Asia’s biggest crypto hubs are locked in a tax-cut arms race, while Ripple will help Korea’s Jeonbuk Bank move money across borders.",
@@ -21,6 +44,28 @@
       "article_url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks - Reuters",
+      "description": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T01:31:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Asia shares fall on tech nerves; oil prices slip - Reuters",
+      "description": "Asia shares fall on tech nerves; oil prices slip Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T01:26:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -59,16 +104,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-24T23:47:46+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T23:12:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -195,16 +230,6 @@
       ]
     },
     {
-      "headline": "Economic and event calendar in Asia 25 August 2026 - RBA August meeting minutes",
-      "description": "<p>I previewed the Reserve Bank of Australia August meeting minutes here:</p><ul><li><a href=\"https://investinglive.com/central-banks/rba-minutes-due-tuesday-to-detail-hike-versus-hold-debate-after-august-pause\" rel=\"follow\" target=\"_blank\">RBA minutes due Tuesday to detail hike-versus-hold debate a",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T20:31:50+00:00",
-      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-25-august-2026-rba-august-meeting-minutes/",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Real and RE/MAX Holdings Announce Completion of Business Combination",
       "description": "MIAMI--(BUSINESS WIRE)--Real and RE/MAX Holdings complete business combination, forming Real REMAX Group. Shares begin trading Aug. 25 under Nasdaq ticker REAX.",
       "source": "BusinessWire",
@@ -286,6 +311,16 @@
       ]
     },
     {
+      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases - Reuters",
+      "description": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T19:16:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "Coinbase tokenized stocks go live on Base with Chainlink price feeds",
       "description": "Coinbase’s B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.",
       "source": "Cointelegraph",
@@ -295,6 +330,16 @@
         "equities",
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+      "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T19:06:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -481,6 +526,16 @@
       "article_url": "https://www.cnbc.com/2026/08/24/were-booking-a-300percent-profit-in-an-ai-winner-and-buying-more-of-a-healthcare-name.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 - Reuters",
+      "description": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T15:29:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmhLSVR1RUVwZXFYcHJIUFNac0RwMjNmLVJDaFpqWm9MdER5TnFWZnBIWHFUQkdZRlJCaXpNVHBxeUdwZUpCVjUxc3F4Y3VxVVF4eGpveG1jeDlyRjBuNDZENEk3cGFrRk84cVJHQlJ1U3J2enNVclM4eHoyMWdxcEpvVkpCQUNMV1BzVG92RFdRTC0waHV5YTU5TXU2UUoyVHdHZXhTalNFeE9fMG13a2M1Z3JFX1k4V05EZHMzUm5faHdYbEE?oc=5",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -1356,20 +1411,6 @@
       ]
     },
     {
-      "headline": "Bitcoin Bull Flag Analysis: See this video after the $79,460 surge",
-      "description": "<p>Bitcoin bull flag analysis: How a regression channel can guide BTC after the $79,460 surge</p><p>Bitcoin is consolidating after surging approximately 26% in four days to $79,460. On the hourly BTCUSD chart, the regression channel still frames this pause as a potential bull flag rather than a conf",
-      "source": "Forexlive",
-      "publication_date": "2026-08-24T06:47:13+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-bull-flag-analysis-see-this-video-after-the-79-460-surge/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Germany's Wadephul to urge Rubio to take more active role on Ukraine - Reuters",
       "description": "Germany's Wadephul to urge Rubio to take more active role on Ukraine Reuters",
       "source": "Reuters",
@@ -1576,10 +1617,20 @@
       ]
     },
     {
+      "headline": "India’s $10 billion equity rush puts August on track for record",
+      "description": "Almost $10 billion of deals have been priced in August, led by the government’s blockbuster $3.2 billion sale of shares in LIC",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-24T03:29:51+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/india-s-10-billion-equity-rush-puts-august-on-track-for-record",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows - Reuters",
       "description": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T02:42:00+00:00",
+      "publication_date": "2026-08-24T02:47:20+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXNxWm1BUVFUdWZuUDJoWi1GRUk1d0RXWTRwR0tQTXd6MXQ2V2RBSkRmMURzajdURDdIQnhEQlFTVVh4TG8yOTdfdWVIdmd4U3AyWm5pSlZ2Y0tSaDNKX1NjcGd1N2dqVmtPUU9rZjMwa3cxWDRLajBjYUhYUDkyY0owcm43TXcyNkp2WlJZUW9ONDA3ZlNlbHlOS19CSTRpYzlOU0pmcVhvaDB6SUsyVU5mM1cwQ2Q5TkwtTmlB?oc=5",
       "asset_tags": [
         "general"
@@ -1613,16 +1664,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases - Reuters",
-      "description": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T01:48:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     },
     {
@@ -2009,46 +2050,6 @@
       "article_url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-22T13:30:00+00:00",
-      "article_url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "description": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-22T13:30:00+00:00",
-      "article_url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Paramount to meet California AG in a bid to settle case over Warner deal: Variety",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-22T13:19:48+00:00",
-      "article_url": "https://seekingalpha.com/news/4636039-paramount-meet-california-ag-discuss-warner-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-      "description": "Dr. Ronald Primas, a longevity physician, offers concierge services like developing personalized health plans for clients. Here are his own wellness practices.",
-      "source": "CNBC",
-      "publication_date": "2026-08-22T13:05:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
