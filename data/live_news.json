@@ -1,18 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T19:42:46.648152+00:00",
+    "last_updated": "2026-08-25T20:04:52.708630+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 95,
+      "equities": 46,
+      "macro": 34,
+      "general": 93,
       "forex": 12,
       "commodities": 12,
-      "crypto": 52,
-      "macro": 32,
-      "equities": 45
+      "crypto": 52
     }
   },
   "articles": [
+    {
+      "headline": "Bond rout ending? Massive bets on bond rally dominate options market",
+      "description": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
+      "source": "CNBC",
+      "publication_date": "2026-08-25T19:42:17+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-25T19:40:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Faria Education Group Acquires Edu Intelligence to Advance AI-Powered Analytics for Schools",
+      "description": "HONG KONG--(BUSINESS WIRE)--Faria Education Group is pleased to announce its acquisition of Edu Intelligence, an AI-native analytics platform built specifically for schools. This strategic acquisition strengthens Faria's position as an AI-first company and brings a fully integrated data layer to its",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-25T19:31:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260825647096/en/Faria-Education-Group-Acquires-Edu-Intelligence-to-Advance-AI-Powered-Analytics-for-Schools/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
       "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -43,16 +74,6 @@
         "commodities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Resumen: SCP Standard Capital Partners AG completa su giro estratégico hacia la tecnología de defensa con la adquisición de Vanea Technologies GmbH y Nocturne Technologies GmbH. Asimismo, tiene previsto cambiar su denominación social por la de VANEA AG",
-      "description": "MÚNICH--(BUSINESS WIRE)--SCP Standard Capital Partners AG («SCP» o la «Sociedad») acaba de adquirir la totalidad de las acciones de Vanea Technologies GmbH («VANEA») y Nocturne Technologies GmbH («Nocturne»). La transacción se materializará mediante ampliaciones de capital en especie, utilizando el ",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-25T18:47:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260825557686/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -93,16 +114,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-25T17:31:26+00:00",
       "article_url": "https://seekingalpha.com/news/4636706-buyers-looking-at-warner-bros-assets-amid-paramount-legal-fight---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran vows to resist widened US sanctions, says Washington seeks talks - Reuters",
-      "description": "Iran vows to resist widened US sanctions, says Washington seeks talks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T17:25:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -527,6 +538,16 @@
       ]
     },
     {
+      "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T12:00:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
       "description": "VANCOUVER, British Columbia, Aug. 25, 2026 (GLOBE NEWSWIRE) -- ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), a technology solution provider specializing in AI (Artificial Intelligence) drones, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, announces",
       "source": "GlobalNewswire",
@@ -905,16 +926,6 @@
       ]
     },
     {
-      "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
-      "description": "United States sanctions oil trader Wellbred over Iran links Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T08:55:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
       "description": "",
       "source": "CoinDesk",
@@ -1102,13 +1113,13 @@
       ]
     },
     {
-      "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key Reuters",
+      "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
+      "description": "United States sanctions oil trader Wellbred over Iran links Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-25T03:19:48+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+      "publication_date": "2026-08-25T03:40:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
       "asset_tags": [
-        "general"
+        "macro"
       ]
     },
     {
@@ -1165,11 +1176,21 @@
       ]
     },
     {
-      "headline": "Oil falls 4% as investors shrug off US sanctions on Iran - Reuters",
-      "description": "Oil falls 4% as investors shrug off US sanctions on Iran Reuters",
+      "headline": "Oil settles down more than 3%; investors shrug off US sanctions on Iran - Reuters",
+      "description": "Oil settles down more than 3%; investors shrug off US sanctions on Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-25T01:16:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran vows to resist widened US sanctions, says Washington seeks talks - Reuters",
+      "description": "Iran vows to resist widened US sanctions, says Washington seeks talks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T00:57:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1850,16 +1871,6 @@
       ]
     },
     {
-      "headline": "Schouw & Co. share buy-back programme, week 34 2026",
-      "description": "On 2 January 2026, Schouw & Co. initiated a share buy-back programme as outlined in Company Announcement no. 59 of 18 December 2025. Under the programme, Schouw & Co. will acquire shares for up to DKK 240 million during the period 2 January to 31 December 2026. As outlined in Company Announcement no",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T12:30:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349712/0/en/schouw-co-share-buy-back-programme-week-34-2026.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
       "description": "",
       "source": "CoinDesk",
@@ -1890,31 +1901,11 @@
       ]
     },
     {
-      "headline": "TCS strikes $373M deal for Porsche’s MHP technology unit",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-24T12:03:03+00:00",
-      "article_url": "https://seekingalpha.com/news/4636204-tcs-strikes-373m-deal-for-porsches-mhp-technology-unit?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
       "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-24T12:00:27+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "L5 Networks Joins Volaris Group",
-      "description": "TORONTO, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Volaris Group today announced the acquisition of L5 Networks, a Brazilian pioneer in cloud-based corporate communications solutions and one of the country’s leading omnichannel and corporate collaboration platforms.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349682/0/en/l5-networks-joins-volaris-group.html",
       "asset_tags": [
         "general"
       ]
@@ -2059,6 +2050,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXRlYmVqYmp5SHBWaWZFTWMzVFI0VGpMdFNpZlloM3NOV3FLU0NBbm9zanp4RHFlUU1NLVd4bkI4TTE4cTRzMUl6dG1oT3RBZl85UGhpVElTbktBZGY2NWxxT20yZVdocFk2UnJvN3ZJeGE1U1JLWTNLZ3dTVWV2bi1jQ1lkM0RRaE1nZUFxNHppdUJNT1Fuc2hQZ2FHcWdTMnV2MUpn?oc=5",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Looming US sanctions on Iran put China oil buying in spotlight - Reuters",
+      "description": "Looming US sanctions on Iran put China oil buying in spotlight Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T10:10:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT1hfY2RieU1zQWlvd1p0M1ZhdzdkU2ZGYmZ4TUlUdG9IbXRZWjlTbTctdi1vMHBJTEtWTG40aW1sOHRqT25MaFNleGZIdUlyU1NnZC12Z3FZT2FSU0ZxNmNra0pCZXpOQl9DUmVOZ3l2MzZLc2pkZndoR2pVUUl6dEp1TXRHMkNBeXRXNkMyNzhXejZuSS1aZGpPWHJETTVuUWVqQUhyay1kcUhU?oc=5",
+      "asset_tags": [
+        "general"
       ]
     }
   ]
