@@ -1,18 +1,61 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T18:16:52.241964+00:00",
+    "last_updated": "2026-08-25T19:02:07.224656+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 45,
+      "commodities": 12,
+      "crypto": 53,
       "macro": 32,
       "general": 95,
-      "crypto": 51,
-      "forex": 11,
-      "commodities": 11
+      "equities": 45,
+      "forex": 11
     }
   },
   "articles": [
+    {
+      "headline": "Crude oil futures sell at $82.36",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">Crude oil futures are settling at $82.36, down $2.65, or 3.12%, on the day.</p><p class=\"PDq2pG_selectionAnchorContainer\">Fundamentally, the decline reflects an easing of the geopolitical risk premium as traders see the latest U.S. sanctions against Iran as",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T18:54:33+00:00",
+      "article_url": "https://investinglive.com/technical-analysis/crude-oil-futures-sell-at-82-36/",
+      "asset_tags": [
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Resumen: SCP Standard Capital Partners AG completa su giro estratégico hacia la tecnología de defensa con la adquisición de Vanea Technologies GmbH y Nocturne Technologies GmbH. Asimismo, tiene previsto cambiar su denominación social por la de VANEA AG",
+      "description": "MÚNICH--(BUSINESS WIRE)--SCP Standard Capital Partners AG («SCP» o la «Sociedad») acaba de adquirir la totalidad de las acciones de Vanea Technologies GmbH («VANEA») y Nocturne Technologies GmbH («Nocturne»). La transacción se materializará mediante ampliaciones de capital en especie, utilizando el ",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-25T18:47:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260825557686/es/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "description": "CryptoQuant says Bitcoin’s 24% rally has flipped key market indicators bullish, though rising profit-taking could bring near-term turbulence.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T18:13:11+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "description": "Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T18:08:58+00:00",
+      "article_url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "SCRYPT Integrates Franklin Templeton’s BENJI to Tokenise its Treasury Operations on Swiss-Licensed Infrastructure",
       "description": "Swiss digital asset infrastructure provider becomes one of the first licensed firms to manage internal liquidity via Franklin Templeton’s tokenised money market fund. ZURICH, June 25, 2026 /PRNewswire/ — SCRYPT, the Swiss-licensed institutional digital asset infrastructure provider, has integrated F",
@@ -32,26 +75,6 @@
       "article_url": "https://seekingalpha.com/news/4636706-buyers-looking-at-warner-bros-assets-amid-paramount-legal-fight---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T17:25:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US treasury sells $69 billion of 2-year notes at a high yield of 4.204%",
-      "description": "<p>The first coupon auction is complete with the U.S. Treasury selling $69 billion of 2 year notes. The auction results show</p><ul><li>high yield 4.204%</li><li>WI level at the time of the auction 4.208%</li><li>Tail -0.4 bps vs 6 month average of +0.2 basis points </li><li>Bid to cover 2.60X versu",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T17:06:00+00:00",
-      "article_url": "https://investinglive.com/news/us-treasury-sells-69-billion-of-2-year-notes-at-a-high-yield-of/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -112,16 +135,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "AstroNova Shareholders Approve Acquisition by Arcline Investment Management",
-      "description": "WEST WARWICK, R.I.--(BUSINESS WIRE)--AstroNova, Inc. (Nasdaq: ALOT) Shareholders Approve Acquisition by Arcline Investment Management",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-25T16:22:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260825029956/en/AstroNova-Shareholders-Approve-Acquisition-by-Arcline-Investment-Management/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -277,6 +290,16 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-25T13:30:00+00:00",
       "article_url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Kenya Airways first-half pretax loss 15.92 billion shillings - Reuters",
+      "description": "Kenya Airways first-half pretax loss 15.92 billion shillings Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T13:05:50+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1ZSMklueS1HV1psREVXanQ3SGhFa29LQzNfcE1iZGFVVXhqZGVnNXBWWjYtekNBZG5OYUdRc3VTenFSQlNyOW1URGxiand3MzM5T3hOemZRbnotekN0dU5rY0JSMHhOREl1VVVlQ0xrdjc5X1h6U0NiUE55d0I0b1dPV2lhdXBMTVE3ckVXcF94U3hMcUVKNnhmbUZnRi1wNHl4N1ZkU2ZEQzQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -531,6 +554,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-25T11:38:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350345/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach - Reuters",
+      "description": "Breakingviews - US ‘D-Day’ on Iran barely makes it off the beach Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T11:30:35+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDlqaS1qLS1XdUdyYmdEcy1XMEJRMlM5M3NSV3JqSldMSW5VbGVWOEIwZHcycVl3b0xNWGVsa1ZaRmpBU0d0UC1UQ25iTHo1LU9vc2QxWXJfZDVnZ2w3ZlV2Nmp6LU5aT0dRdmhxLVV1M3ZYWXZwalA2VDMyNHRUaWtSWHBBb1B5WHBlQk5aVFZOdnc5UEQ2MjEwUnNxU24xaEE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1059,6 +1092,16 @@
         "forex",
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T01:28:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1827,26 +1870,6 @@
       ]
     },
     {
-      "headline": "Lexis+ with Protégé Accelerates Frictionless Agentic Productivity from First Idea to Review-Ready Legal Work Product",
-      "description": "Expanded capabilities bring together LexisNexis authoritative intelligence, agents, skills, workflows, and AI models in one intuitive experience so legal professionals can accomplish more with AI Expanded capabilities bring together LexisNexis authoritative intelligence, agents, skills, workflows, a",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349672/0/en/lexis-with-prot%C3%A9g%C3%A9-accelerates-frictionless-agentic-productivity-from-first-idea-to-review-ready-legal-work-product.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "ATIS Acquires AuditMate to Advance a Next-Generation Approach to Elevator Management",
-      "description": "ST. LOUIS, Aug. 24, 2026 (GLOBE NEWSWIRE) -- ATIS, a leading provider of elevator and escalator inspections, consulting, and managed services, today announced the acquisition of AuditMate, the leading elevator auditing and management technology platform.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T12:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349665/0/en/atis-acquires-auditmate-to-advance-a-next-generation-approach-to-elevator-management.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Trump Media CEO defends selling faster access to president's Truth Social posts, says more have signed up",
       "description": "Trump Media interim CEO Kevin McGurn defended his company offering faster access to President Donald Trump's Truth Social posts.",
       "source": "CNBC",
@@ -2034,26 +2057,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-24T09:51:31+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1RncmU0SGgtRkJJQ3ZoOE45U3p6SzJ1dE1Kbm5SOFZtTXFWeWh2aEM0YlcyVmVwUDQwalVEMV83S1ZXd0JaZUktWlp2Z1pNT3M2ZWxmZGQyNWFmcU1UR3BucEt2ZGVJVk00c3lVTlB0Y2F1b3V0ZW1FdVd4T2l6WGlkQVJKRXh4MmVhdnh6blB0UnM2dnhCQk9UV1JNZEU5bUIyanRkZjJoOVpuQnNOaTlaU1pBRXdHZllJ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say - Reuters",
-      "description": "Pakistan's Munir spoke to Trump ahead of Tehran visit, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T09:14:28+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOEZ5bXpNWkVOd1I2LXFQZHl2ZldvaHo2ZnBnVTMtUjlicmxnRlBCVk5sMjlsM2RjTkk0TkY3SlYzSnVUOTRKYXc0aW9odE5GX2NUVVBLdS1NMkdEQlNCMVdKakRDbURxVDVpX0tra3lUVWtNT3pMaEtnMkc1a3BXdm1IRWtGWnFBUWZucWZiNUJsYzFBVGFaQ2xNQUdRRncxbHhGT1ROZEk3cTl3MnhmQi1rWQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "IndyCar races through the nation's capital at Freedom 250 Grand Prix - Reuters",
-      "description": "IndyCar races through the nation's capital at Freedom 250 Grand Prix Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T09:12:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUhROE1ObHkweGs3T1hmcTFhQUlpM1RjUDdmbVdETmgyaEd4YUFaRHRwOThlWlJQdXVIVkp6OG5xZS0xd21NbEYybTlaX1VZc2huTEJ1NFF5NVNnUzBKeEFhN19VM1Y1WWZKaDdFRnNGWnk0Uk5QSkN0YjQ4VlFUUzA3SWVtMWdjYVpRVkFObGxRVDFycGdKcUhpQ3Q2akVfMkhxdUZTT00?oc=5",
       "asset_tags": [
         "general"
       ]
