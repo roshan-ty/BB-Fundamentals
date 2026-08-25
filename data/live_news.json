@@ -1,14 +1,14 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T22:03:58.430878+00:00",
+    "last_updated": "2026-08-25T22:41:29.567145+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "equities": 47,
-      "general": 94,
-      "crypto": 51,
+      "general": 93,
+      "crypto": 52,
       "forex": 13,
-      "commodities": 11,
+      "commodities": 12,
       "macro": 34
     }
   },
@@ -1504,16 +1504,6 @@
       ]
     },
     {
-      "headline": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
-      "description": "US cancels joint marine drills with South Korea over Iran war-related force constraints Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T18:32:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd3JEYi12MkZSRkRCaEIwR2FaNjhzSUZueTgwQzhWSHlhSnpWRVU3ZkdrMXdrUTMxMjVmdi1NLVBleGFDTXFRRDFVWVA5RUdVV1Y0dXlUWlJTcmJ2eHZuYTR4Nkh1T3k3cXplTmc4MVJUSGl2bGpWMllzRnBMaV9oMXR3T0RGd2dRR0NWaEkyYUpXX0tBUnBTcVAwVlVQQjBvOURvN3RpOVo1b2RRVEFZSFR2dVRlSm9GZTNBUmttWUhibWl5X2JPc1FB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M",
       "description": "As BTC tops $80,000 for the first time since May, price analysis warns that the market still needs to sustain higher levels to challenge the bear-market thesis.",
       "source": "Cointelegraph",
@@ -2061,6 +2051,17 @@
       "article_url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T10:41:46+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+      "asset_tags": [
+        "commodities",
+        "crypto"
       ]
     }
   ]
