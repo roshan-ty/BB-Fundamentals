@@ -1,18 +1,58 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T01:49:53.467887+00:00",
+    "last_updated": "2026-08-25T02:48:24.280593+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 103,
-      "equities": 47,
-      "macro": 24,
       "crypto": 48,
+      "general": 104,
+      "equities": 46,
+      "macro": 24,
       "forex": 7,
-      "commodities": 10
+      "commodities": 9
     }
   },
   "articles": [
+    {
+      "headline": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+      "description": "Asia’s biggest crypto hubs are locked in a tax-cut arms race, while Ripple will help Korea’s Jeonbuk Bank move money across borders.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T02:03:55+00:00",
+      "article_url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran - Reuters",
+      "description": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T01:16:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran vows to retaliate after US widens sanctions - Reuters",
+      "description": "Iran vows to retaliate after US widens sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T00:57:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T00:33:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
       "description": "US threatens countries doing business with Iran, but holds off on penalties for now Reuters",
@@ -717,21 +757,21 @@
       ]
     },
     {
-      "headline": "TCS strikes $373M deal for Porsche’s MHP technology unit",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-24T12:03:03+00:00",
-      "article_url": "https://seekingalpha.com/news/4636204-tcs-strikes-373m-deal-for-porsches-mhp-technology-unit?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "headline": "Breakingviews - Oil’s elevated price could yet become a floor - Reuters",
+      "description": "Breakingviews - Oil’s elevated price could yet become a floor Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T12:11:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUN5dWd3dmRIQWFDRE9nMjRfOWZOVkh4RWNKa1dmZEF6b2hUY0VOdnA4TUtuMGF6NGpTSkp6Y1ZoRHVJZEY2cDY4Yi1DLUdSQUpzX2d5Uy0yZkhlUHVYaHpZQ2M3ZTVYU2N3UERjUU9mbFdOWFRhX0xGTDBOTjU3STFQOWlsOWhqU2lwTDl1dVc3Qkp3RHNVMnc0YzF1NEJ0dW9yYkd3?oc=5",
       "asset_tags": [
         "general"
       ]
     },
     {
-      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T12:00:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "headline": "TCS strikes $373M deal for Porsche’s MHP technology unit",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-24T12:03:03+00:00",
+      "article_url": "https://seekingalpha.com/news/4636204-tcs-strikes-373m-deal-for-porsches-mhp-technology-unit?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -1360,6 +1400,16 @@
       ]
     },
     {
+      "headline": "US refiners face historic stress test as global crisis looms - Reuters",
+      "description": "US refiners face historic stress test as global crisis looms Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T06:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGRpenYteU9WelNPejdMZzN5d1BEcHZSdHdNSExlX1V3UlRsWXR6N2NKRVc3V05xQXRQSVFSSnFvbW5pd05lZ3VGUW81U1NuNHFVREt3dWs3eDRwWUJ1dmdPeXFQWmNHYkpLWE9qVXNZbFU1NFdMQVJaZXlUOERHdENwS2Z6eDJQOEdnQUN5MHJ6T2dPMHNDcjhFX24tVlRWQkdrNlNzREdBZXhjalVfNDNTUGxMUmE0OUs3bjFYT3dtVkpQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "US cancels joint marine drills with South Korea over Iran war-related force constraints - Reuters",
       "description": "US cancels joint marine drills with South Korea over Iran war-related force constraints Reuters",
       "source": "Reuters",
@@ -1498,7 +1548,7 @@
       "headline": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention - Reuters",
       "description": "Father of sailor aboard USS Abraham Lincoln taken into US immigration detention Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T04:04:06+00:00",
+      "publication_date": "2026-08-24T04:00:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHpyNnV2YVZvT29oWXgzZlZpalBjRnhaSHNWN1hxNVRXZ2tzenZqUmhFYUtJcW51MjR6VExsMWtwenlWOXFRTHFUcVJJZEJNRnVZSjNxZ1VNWk55ODNNTGRLcUp6RDhXcXlYX2tHakNSVEZLYTFEc2ZoeFVyRVhEMWJ4djVxMUJuTnUyeFZ4WGFudVFKZVM4Q1VtVnBobmJuNmIxenVaUHJlMmFGQzJFTXVnWHI1UlA5dlB0QkdfVVlJSVNnUDlKQw?oc=5",
       "asset_tags": [
         "general"
@@ -1999,57 +2049,6 @@
       "article_url": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz - Reuters",
-      "description": "Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-22T12:21:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEVXQTRoYlc4andBREZoNFdRM3NHMVRtbmdqRU9PQ1k0LWZWdEo5TFBIN0NHakJnc3lJVmlTZzJZM2d5djl4bHFMUEdXUWU4TXkzb2ppOWdnLUpWV1UxN29HN2dMZFJDY2M4eU9iMm40aTllUVBacnU0bGFtZ054YVRFeGFpSXo0bF80VWpsSDVNQlhPR2NkVEMySG9ucnZ3VEIxNmt1SE9UZzdrLW1DR0ZlZjMzaklxZEg0?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer",
-      "description": "Schools and increasingly teen employers are drawing a hard line against phone use. The benefits for teens can be profound.",
-      "source": "CNBC",
-      "publication_date": "2026-08-22T12:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/22/is-workplace-new-phoneless-frontier-for-teens.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-22T12:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "EAM Jaishankar to visit Russia amid Trump’s tariff threat",
-      "description": "Jaishankar’s Russia trip comes at a time when US President Donald Trump has threatened to impose a secondary 100% tariff on countries that buy oil, gas and uranium from Russia",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-22T11:35:31+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Nuclear power: Domestic companies to opt for locally-designed reactors to avoid delays",
-      "description": "Indian companies are adopting locally-designed nuclear reactors to expedite approvals and enhance supply chain efficiency in energy projects.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-22T08:40:34+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
-      "asset_tags": [
-        "commodities"
       ]
     }
   ]
