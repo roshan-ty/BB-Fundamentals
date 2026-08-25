@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T00:02:31.575200+00:00",
+    "last_updated": "2026-08-25T01:49:53.467887+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 103,
       "equities": 47,
-      "general": 102,
       "macro": 24,
-      "crypto": 49,
+      "crypto": 48,
       "forex": 7,
       "commodities": 10
     }
   },
   "articles": [
+    {
+      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
+      "description": "US threatens countries doing business with Iran, but holds off on penalties for now Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T23:47:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+      "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T23:12:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Barinthus Bio Provides Update on Proposed Combination with Clywedog Therapeutics",
       "description": "GERMANTOWN, Md., Aug. 24, 2026 (GLOBE NEWSWIRE) -- Barinthus Biotherapeutics plc (NASDAQ: BRNS) (“Barinthus Bio,” or the “Company”), today provided an update regarding the anticipated closing of its proposed combination with Clywedog Therapeutics, Inc. (“Clywedog”) in an all-stock transaction.",
@@ -29,16 +49,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-24T22:51:16+00:00",
       "article_url": "https://www.cnbc.com/2026/08/24/los-angeles-lakers-worth-every-bit-of-12point5-billion-price-tag-76ers-and-commanders-owner-josh-harris.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
-      "description": "US threatens countries doing business with Iran, but holds off on penalties for now Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T22:42:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -120,16 +130,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-24T21:00:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350128/0/en/canyon-creek-acquires-one-eleven-congress-securing-landmark-class-a-office-tower-in-downtown-austin.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T20:56:55+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -471,6 +471,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349918/0/en/ekoscan-integrity-group-to-acquire-carestream-s-u-s-based-ndt-digital-business.html",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "TSX flat as investors weigh US tariffs, await Iran sanctions details - Reuters",
+      "description": "TSX flat as investors weigh US tariffs, await Iran sanctions details Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T14:31:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSWhnSG1vc1o4c1hYdlRqSWhaRDVHZ09CbHlWTlg1V0FZd1Y4WEFDdGtMY1F3dDliS2IwVGc2anlzdXFUNjVUZXdDczNZYmNVV3B5V3lQaUZIaWRyLTJMWjk3QXBKVmNTbXo5WmhlRl8tLV9hREJSYkFCYlhqX0JwRTdLYXYtSTVZXzYzeUpNSC1JM2ptTVU5dFNtYXNhWXMwcWpIdE9RVnJkQXBXWS1VeG1DX2RKQW9DSEE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2040,16 +2050,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-21/top-india-utilities-bank-on-local-reactors-for-nuclear-expansion",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-22T05:37:43+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
