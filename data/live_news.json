@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T21:12:11.887141+00:00",
+    "last_updated": "2026-08-25T21:47:35.814711+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "general": 94,
-      "equities": 47,
-      "crypto": 51,
+      "equities": 46,
+      "crypto": 52,
       "forex": 13,
-      "commodities": 11,
-      "macro": 35
+      "commodities": 12,
+      "macro": 34
     }
   },
   "articles": [
@@ -1310,17 +1310,6 @@
       ]
     },
     {
-      "headline": "Shares dip with pressure from technology, yields and oil fall - Reuters",
-      "description": "Shares dip with pressure from technology, yields and oil fall Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T21:49:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
       "headline": "CFTC, US soldier accused of illegal Polymarket bet spar over interpretation of prediction markets",
       "description": "A judge stayed the CFTC’s civil case against a soldier who allegedly used nonpublic information for a Polymarket bet, but the regulator is trying to weigh in on the criminal case.",
       "source": "Cointelegraph",
@@ -2062,6 +2051,17 @@
       "article_url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin steadies near $78,000 as gold rallies, altcoins consolidate after best week in 3 years",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-24T10:41:46+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-steadies-near-usd78-000-as-gold-rallies-altcoins-consolidate-after-best-week-in-3-years",
+      "asset_tags": [
+        "commodities",
+        "crypto"
       ]
     }
   ]
