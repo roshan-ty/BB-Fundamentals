@@ -1,18 +1,60 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T04:21:37.052728+00:00",
+    "last_updated": "2026-08-25T05:05:28.509811+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 101,
+      "general": 104,
       "forex": 10,
-      "equities": 50,
-      "commodities": 9,
-      "crypto": 48,
-      "macro": 23
+      "equities": 49,
+      "macro": 23,
+      "crypto": 45,
+      "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
+      "description": "Oil steadies as investors weigh impact of latest US sanctions on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T04:22:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "What are the main events for today?",
+      "description": "<p>EUROPEAN SESSION</p><p>In the European session, we have the German IFO survey which is expected to improve to 87.2 vs 86.6 in the prior month. The IFO is correlated with the German <a href=\"https://investinglive.com/news/germany-august-flash-manufacturing-pmi-xx-vs-52-0-expected/\" rel=\"follow\">Co",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T04:15:59+00:00",
+      "article_url": "https://investinglive.com/news/what-are-the-main-events-for-today-27/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "KKR Acquires Leading Japanese Beauty Platform Ci FLAVORS",
+      "description": "TOKYO--(BUSINESS WIRE)--KKR Acquires Leading Japanese Beauty Platform Ci FLAVORS",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-25T04:03:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260824338897/en/KKR-Acquires-Leading-Japanese-Beauty-Platform-Ci-FLAVORS/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+      "description": "BNB Chain activates the Pasteur hard fork on BSC, closing bridge and validator security gaps while targeting greater transaction capacity.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T03:56:29+00:00",
+      "article_url": "https://cointelegraph.com/news/bnb-chain-pasteur-hard-fork-bridge-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Navitas To Acquire Claros, Advancing AI Infrastructure with VPD & IVR Technology for Grid-to-xPU",
       "description": "The proposed acquisition is expected to provide the last step in power delivery to the core to complete Navitas’ grid-to-xPU high-power portfolio, accelerating its AI infrastructure strategy under Navitas 2.0 transformation",
@@ -21,20 +63,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350179/0/en/navitas-to-acquire-claros-advancing-ai-infrastructure-with-vpd-ivr-technology-for-grid-to-xpu.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "investingLive Asia-Pacific market news: Gold down, Bitcoin up",
-      "description": "<ul><li><a href=\"https://investinglive.com/cryptocurrency/bitcoin-jumps-above-us-80k-for-the-first-time-in-3-months\" rel=\"follow\">Bitcoin jumps above US$80K for the first time in 3 months</a></li><li><a href=\"https://investinglive.com/news/japan-to-weigh-tax-incentives-for-retail-jgb-investors-katay",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T03:34:44+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-down-bitcoin-up/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -78,16 +106,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran - Reuters",
-      "description": "Oil prices steady as investors weigh impact of expanded US sanctions against Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T01:16:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -252,16 +270,6 @@
       ]
     },
     {
-      "headline": "Real and RE/MAX Holdings Announce Completion of Business Combination",
-      "description": "MIAMI--(BUSINESS WIRE)--Real and RE/MAX Holdings complete business combination, forming Real REMAX Group. Shares begin trading Aug. 25 under Nasdaq ticker REAX.",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-24T20:30:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260824259117/en/Real-and-REMAX-Holdings-Announce-Completion-of-Business-Combination/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Weatherford and NCS Multistage Announce Anticipated Election Deadline and Closing Date",
       "description": "HOUSTON, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Weatherford International plc (NASDAQ: WFRD) (“Weatherford”) and NCS Multistage Holdings, Inc. (NASDAQ: NCSM) (“NCS Multistage”) today announced that 5:00 P.M., Eastern Time on August 31, 2026, is the anticipated deadline for NCS Multistage stockholders to ",
       "source": "GlobalNewswire",
@@ -310,16 +318,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-nears-usd80-000-but-analysts-say-the-next-pullback-will-be-key",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
-      "description": "US removes Syria from terrorism sponsor list, lifting major investment obstacle Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T19:35:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -405,6 +403,16 @@
       ]
     },
     {
+      "headline": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
+      "description": "US removes Syria from terrorism sponsor list, lifting major investment obstacle Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T17:28:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Personalis falls amid a downgrade as a competitive bid appears unlikely",
       "description": "",
       "source": "SeekingAlpha",
@@ -475,6 +483,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-24T16:17:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350020/0/en/alterra-ios-expands-atlanta-footprint-with-5-industrial-outdoor-storage-acquisitions.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Miners support FTSE 100 as investors eye key events - Reuters",
+      "description": "Miners support FTSE 100 as investors eye key events Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T16:10:28+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmFRSzdpUDVPMG05aVJCZWFGYVQ3R3BUWExjYXlxV041eUpYd09hdDFhR2lBeFRnTzhtbnRRZEhWYU1PTG9fc210bG5fOXBTQzZ3Q2UtcXI4Yi16bjN4UzNEbmczVVFlNzRMcEJrWTFMLTdFTzc3d1Q1NkxBZzRsMjVkOHYyaER3X0dKQURpZU41M19vbFdwb2lR?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1118,6 +1136,16 @@
       ]
     },
     {
+      "headline": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran - Reuters",
+      "description": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T10:07:35+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTRWMGpMTzlmX3RQR0Y5dzctZjZ5LVFqeEMxT1FydzQybE84MjB0aUlqdkZXLTRESXJzZnZwbDR0QndhN3VnaVRIVVIwLVBOVENWNXZ6MlNmTm5qd1dINmY0TlVjdjJSQm8yOVhYelVUb054c0wwWjMxWW1XQUttQ2N0VXU4Y2hqc1dudkdnSGJKVFdaclRUSThRZ1AwTHlpLWtPRmcyRV9XZGUyd2I2RXB3dE5KMGYz?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "Fed experiment shows how bitcoin rallies attract new crypto buyers",
       "description": "",
       "source": "CoinDesk",
@@ -1679,16 +1707,6 @@
       ]
     },
     {
-      "headline": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran - Reuters",
-      "description": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T02:37:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTRWMGpMTzlmX3RQR0Y5dzctZjZ5LVFqeEMxT1FydzQybE84MjB0aUlqdkZXLTRESXJzZnZwbDR0QndhN3VnaVRIVVIwLVBOVENWNXZ6MlNmTm5qd1dINmY0TlVjdjJSQm8yOVhYelVUb054c0wwWjMxWW1XQUttQ2N0VXU4Y2hqc1dudkdnSGJKVFdaclRUSThRZ1AwTHlpLWtPRmcyRV9XZGUyd2I2RXB3dE5KMGYz?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says - Reuters",
       "description": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says Reuters",
       "source": "Reuters",
@@ -2032,26 +2050,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0xHczhyd0MwdmphVllPT2pTUXNMNDBtU29maGIxbGFNdWtjbnAzS1hsMVBXUnNnalVjbXlUQkpJWnZHelR5QkJyV2lLNGRuelVrYW1OQWJ6YTMteGZBbm9vX0lfY0ZZeE93NVVfZ0lsX3hjLXdVeV9qMG5hZ1Y2dU5FbWNQd0t0U0ZJcHV4MmFHbGhnSC1YMWdKaTBCRTQzR2ZzcDNMVnpFaHBCRVl0RXprMVIwMHg3bUI2Qk9IR05MQUM2R0k4QUFnY3VZbEk?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-22T15:16:41+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-22T14:10:17+00:00",
-      "article_url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
