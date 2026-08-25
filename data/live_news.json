@@ -1,18 +1,58 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T08:56:33.434369+00:00",
+    "last_updated": "2026-08-25T09:33:37.948924+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 100,
-      "macro": 27,
+      "general": 99,
+      "forex": 10,
       "crypto": 48,
+      "macro": 27,
       "equities": 51,
-      "forex": 9,
       "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+      "description": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+      "source": "CNBC",
+      "publication_date": "2026-08-25T09:26:05+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says - Reuters",
+      "description": "Iran war makes multibillion-dollar Tanzania LNG more attractive, Equinor says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T09:08:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVRRRXpGLTQzSUFSbHE2c1c0RGxGTGRhOWpneHlwRTI5WlBDQWY1UWJBOWFITHFyZkxGQ2xGYzkxT1ZZLWtCM0ZRbVhncEUyeTM3aG05Y0gtekpwNE1vdjdkNjNUc1BiOUw1cDljM1gtX0p3Yi16elh6UTNYeGJlNXRiVlZRU0diWnlnVkVOVnVuY2JITnNKVHgzRnJGVzRsTW5jRXNB?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+      "description": "Galaxy Research’s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T08:46:47+00:00",
+      "article_url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Pakistani Army Chief Munir is carrying an offer to Iran to halt blockade and lift sanctions under MoU",
+      "description": "<p class=\"isSelectedEnd\">Pakistan's Chief of Army, Asim Munir, is reportedly carrying a proposal to Iranian leaders aimed at reducing tensions between US and Iran, according to Al Arabiya. The proposal is said to include an offer to halt the economic siege on Iran and gradually lift sanctions under ",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T08:36:49+00:00",
+      "article_url": "https://investinglive.com/news/pakistani-army-chief-munir-is-carrying-an-offer-to-iran-to-halt-blockade-and-lift-sanctions-under-mou/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "KKR to acquire Japanese beauty platform Ci FLAVORS from L Catterton and Founders",
       "description": "",
@@ -21,16 +61,6 @@
       "article_url": "https://seekingalpha.com/news/4636468-kkr-to-acquire-japanese-beauty-platform-ci-flavors-from-l-catterton-and-founders?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
-      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior was 86.6</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Current conditions 88.5 vs 87.0 expected</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T08:00:37+00:00",
-      "article_url": "https://investinglive.com/news/germany-august-ifo-business-climate-index-xx-vs-87-2-expected/",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -124,6 +154,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Iran vows to retaliate after US widens sanctions - Reuters",
+      "description": "Iran vows to retaliate after US widens sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T06:16:47+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -256,31 +296,11 @@
       ]
     },
     {
-      "headline": "Oil extends fall as investors shrug off latest US sanctions on Iran - Reuters",
-      "description": "Oil extends fall as investors shrug off latest US sanctions on Iran Reuters",
+      "headline": "Oil hits one-week low as investors shrug off latest US sanctions on Iran - Reuters",
+      "description": "Oil hits one-week low as investors shrug off latest US sanctions on Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-25T01:16:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T01:06:16+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran vows to retaliate after US widens sanctions - Reuters",
-      "description": "Iran vows to retaliate after US widens sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T00:57:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -306,11 +326,11 @@
       ]
     },
     {
-      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-25T00:33:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "publication_date": "2026-08-25T00:21:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1944,6 +1964,16 @@
       ]
     },
     {
+      "headline": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
+      "description": "The Hormuz crude volume debate masks the real shortage of refined fuels Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T01:17:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Shares dip with pressure from technology, yields and oil fall - Reuters",
       "description": "Shares dip with pressure from technology, yields and oil fall Reuters",
       "source": "Reuters",
@@ -2024,36 +2054,6 @@
       "asset_tags": [
         "forex",
         "equities"
-      ]
-    },
-    {
-      "headline": "Regulation Crypto is here: State of Crypto",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-23T18:30:00+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Health of Norway's king deteriorates while in hospital, palace says - Reuters",
-      "description": "Health of Norway's king deteriorates while in hospital, palace says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T18:07:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1lUMXhic3JyYmx3WmZRdjlFXzYyR29tN0lxb2dFR2lzNW5aSDdraG1fSzBQdHR1OVY3azRQQkN3MURpbmM0SFhYRC1WdVJRMk44bkRWMms0MEplT3ZVWi1UZXFyS1pLVGVWQ2Uwc2V0WWE4YWJyMUg2enlsbEdzczgwS1c5N0JGb3dzWmlXbjQtdFg5WW9SLVJlU0NfUTdZZnJn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-      "description": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
-      "source": "CNBC",
-      "publication_date": "2026-08-23T17:58:06+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
