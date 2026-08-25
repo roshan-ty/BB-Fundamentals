@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T07:14:27.234089+00:00",
+    "last_updated": "2026-08-25T08:02:47.884411+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 50,
-      "macro": 26,
+      "macro": 27,
+      "crypto": 51,
+      "general": 99,
       "equities": 51,
       "forex": 9,
-      "commodities": 9,
-      "general": 100
+      "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "Treasury yields steady as traders await more economic data",
+      "description": "Treasury yields steadied on Tuesday as investors await more data releases for insights into the U.S. economic picture.",
+      "source": "CNBC",
+      "publication_date": "2026-08-25T07:48:57+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
+      "description": "Bitcoin ETFs have drawn $2.26 billion over six trading days, while year-to-date net outflows have narrowed to about $2.57 billion.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T07:38:29+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Navitas to buy Claros in $232.8M deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-25T07:08:31+00:00",
+      "article_url": "https://seekingalpha.com/news/4636451-navitas-to-buy-claros-in-2328m-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "France August consumer confidence 86 vs 87 expected",
       "description": "<ul><li>Prior was 86</li><li>Full report <a href=\"https://www.insee.fr/en/statistiques/9038311\" rel=\"follow\">here</a></li></ul><p class=\"isSelectedEnd\">French consumer confidence remained unchanged in August, with the headline indicator holding at 86. Confidence remains significantly below its long-",
@@ -143,8 +173,8 @@
       ]
     },
     {
-      "headline": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks - Reuters",
-      "description": "Dollar struggles for traction as markets weigh Iran sanctions, Treasury buybacks Reuters",
+      "headline": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks - Reuters",
+      "description": "Dollar inches up as markets weigh Iran sanctions, Treasury buybacks Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-25T01:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
@@ -165,8 +195,8 @@
       ]
     },
     {
-      "headline": "Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters",
-      "description": "Oil steadies as investors weigh impact of latest US sanctions on Iran Reuters",
+      "headline": "Oil extends fall as investors shrug off latest US sanctions on Iran - Reuters",
+      "description": "Oil extends fall as investors shrug off latest US sanctions on Iran Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-25T01:16:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
@@ -200,16 +230,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-25T00:33:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
-      "description": "US threatens countries doing business with Iran, but holds off on penalties for now Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T23:47:46+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -854,6 +874,16 @@
       "asset_tags": [
         "equities",
         "crypto"
+      ]
+    },
+    {
+      "headline": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
+      "description": "US threatens countries doing business with Iran, but holds off on penalties for now Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T12:40:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1506,6 +1536,16 @@
       ]
     },
     {
+      "headline": "JPMorgan’s Copthall Mauritius to argue SEBI violation was technical, not manipulative",
+      "description": "A JPMorgan Chase & Co unit facing allegations of non-compliance from market regulator SEBI is likely to contend that the issue was technical in nature rather than manipulative, people familiar with the matter said.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-24T07:35:30+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/jpmorgan-unit-to-argue-any-india-regulatory-breach-was-technical",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "GSK scores regulatory wins for chronic hepatitis B drug, cancer therapy - Reuters",
       "description": "GSK scores regulatory wins for chronic hepatitis B drug, cancer therapy Reuters",
       "source": "Reuters",
@@ -1783,16 +1823,6 @@
       ]
     },
     {
-      "headline": "Ampol profit surges nearly five-fold as Iran war boosts refining margins - Reuters",
-      "description": "Ampol profit surges nearly five-fold as Iran war boosts refining margins Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T03:13:28+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNIc3NxT3JYclN3cmRsSkVqeElsbHFRMk1fZmZqQ2xWWWJsY3oxUWpPd3BpZ3llYnA2X1hKa0dIREIxMWFPTk5TS1ZRcmVkZS1WNXN6R1pib1pUMGJDQnE0S1ZkNGV3blcydXp0d3pEa08welJreWF1TVFjY0U5a01qc2c5dGY4S3R5RjNXM0pna1dXSjRfMmdBdkhsUUhkY3Q1MFJ5RG90THFQYVdmUGg3ZUNOOFhKbHQ5bzR0YVdKYTFVdlE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows - Reuters",
       "description": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows Reuters",
       "source": "Reuters",
@@ -1890,6 +1920,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-23T22:57:03+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUpvdEk0SVFqbENrNjRzRkFFODFJb2ZkczFRWVU1OFBTWG5Sd3JDbHRnajBMYzZHNlhGR0lVNFdTQlZIMFJVOTZadXBGWDdianhfWXBjcUVTZ0ppbllKZnBfU05zeU5ONS10M2dFOHRpbWZEeFItR2hSNk8xblFlaHRWVTdpUzRPUWt4eTI2UzBTNHpZbHVpemlmTEdMbzY5aTFqWUNCclJ6aVpSeklsa2xDc19jb0dzOGh6ZTNRUVRZT25xNjVZMA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ampol profit surges nearly five-fold as Iran war boosts refining margins - Reuters",
+      "description": "Ampol profit surges nearly five-fold as Iran war boosts refining margins Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-23T22:42:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjNIc3NxT3JYclN3cmRsSkVqeElsbHFRMk1fZmZqQ2xWWWJsY3oxUWpPd3BpZ3llYnA2X1hKa0dIREIxMWFPTk5TS1ZRcmVkZS1WNXN6R1pib1pUMGJDQnE0S1ZkNGV3blcydXp0d3pEa08welJreWF1TVFjY0U5a01qc2c5dGY4S3R5RjNXM0pna1dXSjRfMmdBdkhsUUhkY3Q1MFJ5RG90THFQYVdmUGg3ZUNOOFhKbHQ5bzR0YVdKYTFVdlE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -2016,46 +2056,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-      "description": "United Airlines CEO Scott Kirby talked to CNBC in a wide-ranging interview about his proposed airline megadeals, AI and the future of the carrier.",
-      "source": "CNBC",
-      "publication_date": "2026-08-23T12:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago",
-      "description": "United Airlines wanted to put lie-flat premium seats on its Max 10 planes once they were certified, but that has been delayed by years.",
-      "source": "CNBC",
-      "publication_date": "2026-08-23T12:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/23/united-airlines-boeing-737-max-10-seats.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump caps summer of US 250th birthday at IndyCar race through Washington - Reuters",
-      "description": "Trump caps summer of US 250th birthday at IndyCar race through Washington Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T10:09:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSGxpQXR6TFM3a211MXJac09OMXk5cEVWb2ZjZlYtWHZTWG1pQkhMM2V3Qlh3bzJsMW42aTRXaDEwMUNMLUlVb2JQWkVZZUkxbXFVRkprQUxBQTNSbmdTbnlMdk16UnN2NEJVSnRSclFFUzBIbGg2V3h2SzRiYXFMY2Q0aXYyVE1id0tXRFhlaGJrTkFUMkQyYmJwQU9Lc24teHRmY1Q4Yi00T3A2VkNyMnZWTEw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand - Reuters",
-      "description": "Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T10:07:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV0hPR1JrMFBOb05wQlVBbnlyNmkwQnZHQnpXdWNaRllmT2dpNzFCcDI0allOU1NkOEtjVHBOZVVpb2NOd1VFcXJ6bzN4U0tJUXBXTDJOMEc3ZF82Rm80T3FnWHE1dGxqOHpfZDlIbzloVFg1LTlMTDhrb3ZpYTZpUHV4dklUeEFMaVNxMTZReXJQZExXYjB3UlFaRVdVVk8wOV80ZGV0alljTVc2Q3hRSzhJTWZsb1h5S1lUY2c0Nno?oc=5",
-      "asset_tags": [
-        "commodities"
       ]
     }
   ]
