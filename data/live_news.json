@@ -1,18 +1,58 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T08:02:47.884411+00:00",
+    "last_updated": "2026-08-25T08:56:33.434369+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 100,
       "macro": 27,
-      "crypto": 51,
-      "general": 99,
+      "crypto": 48,
       "equities": 51,
       "forex": 9,
       "commodities": 8
     }
   },
   "articles": [
+    {
+      "headline": "KKR to acquire Japanese beauty platform Ci FLAVORS from L Catterton and Founders",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-25T08:23:22+00:00",
+      "article_url": "https://seekingalpha.com/news/4636468-kkr-to-acquire-japanese-beauty-platform-ci-flavors-from-l-catterton-and-founders?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
+      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior was 86.6</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Current conditions 88.5 vs 87.0 expected</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T08:00:37+00:00",
+      "article_url": "https://investinglive.com/news/germany-august-ifo-business-climate-index-xx-vs-87-2-expected/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Business owner faces up to 280 years over $24M crypto Ponzi scheme",
+      "description": "A federal jury convicted Brent Kovar of wire fraud, mail fraud and money laundering after he took $24 million from at least 400 investors.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-25T07:58:10+00:00",
+      "article_url": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-25T07:55:18+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Treasury yields steady as traders await more economic data",
       "description": "Treasury yields steadied on Tuesday as investors await more data releases for insights into the U.S. economic picture.",
@@ -21,6 +61,17 @@
       "article_url": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Live updates: Bitcoin ETFs draw a seventh straight day of inflows as the rally holds above $80,000",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-25T07:40:11+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/25/live-updates-bitcoin-etfs-draw-a-seventh-straight-day-of-inflows-as-the-rally-holds-above-usd80-000",
+      "asset_tags": [
+        "equities",
+        "crypto"
       ]
     },
     {
@@ -34,6 +85,17 @@
       ]
     },
     {
+      "headline": "Treasury’s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-25T07:32:32+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
       "headline": "Navitas to buy Claros in $232.8M deal",
       "description": "",
       "source": "SeekingAlpha",
@@ -44,14 +106,13 @@
       ]
     },
     {
-      "headline": "France August consumer confidence 86 vs 87 expected",
-      "description": "<ul><li>Prior was 86</li><li>Full report <a href=\"https://www.insee.fr/en/statistiques/9038311\" rel=\"follow\">here</a></li></ul><p class=\"isSelectedEnd\">French consumer confidence remained unchanged in August, with the headline indicator holding at 86. Confidence remains significantly below its long-",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T06:45:07+00:00",
-      "article_url": "https://investinglive.com/news/france-august-consumer-confidence-xx-vs-87-expected/",
+      "headline": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-25T07:01:49+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
       "asset_tags": [
-        "crypto",
-        "macro"
+        "general"
       ]
     },
     {
@@ -123,16 +184,6 @@
       ]
     },
     {
-      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T05:05:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
       "description": "BNB Chain activates the Pasteur hard fork on BSC, closing bridge and validator security gaps while targeting greater transaction capacity.",
       "source": "Cointelegraph",
@@ -150,6 +201,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350179/0/en/navitas-to-acquire-claros-advancing-ai-infrastructure-with-vpd-ivr-technology-for-grid-to-xpu.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
+      "description": "United States sanctions oil trader Wellbred over Iran links Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T03:40:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -205,6 +266,16 @@
       ]
     },
     {
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T01:06:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Iran vows to retaliate after US widens sanctions - Reuters",
       "description": "Iran vows to retaliate after US widens sanctions Reuters",
       "source": "Reuters",
@@ -222,6 +293,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T00:43:14+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1971,89 +2052,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-23T17:58:06+00:00",
       "article_url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Here are the 2 big things we're watching in the stock market this week",
-      "description": "Nvidia reports earnings, and Fed Chairman Kevin Warsh is set to deliver his first Jackson Hole speech.",
-      "source": "CNBC",
-      "publication_date": "2026-08-23T16:56:02+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/23/here-are-the-2-big-things-were-watching-in-the-stock-market-this-week.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-23T15:52:21+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
-      "asset_tags": [
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
-      "description": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-23T15:30:53+00:00",
-      "article_url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "US widens sanctions on Iran but withholds more punishing options - Reuters",
-      "description": "US widens sanctions on Iran but withholds more punishing options Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T15:23:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-23T15:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Gulf markets rise as oil gains lift sentiment - Reuters",
-      "description": "Gulf markets rise as oil gains lift sentiment Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T13:13:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUctUXh6RjdKQkdiR0xZYTBaX0QwbXNLMUJ0NjNLX21UczhJUFozTDFWMzdkQlJaSnRuVTBFWDdLOG5nUTdHa2JXV3JLVW1oVld0MG9nUWFpRWlEUHJBWXpJLWVGQkx6YkgteHZMVVp0VHlJM0ZEU0xmcUE3dUVBMEJfc3VyMWJ4ekxwZF9XdUx3LUJ5YV9MTTN6NE0?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-23T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
-      "description": "Iran says new sanctions threatened by 'desperate' US will fail Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-23T12:25:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
       "asset_tags": [
         "general"
       ]
