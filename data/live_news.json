@@ -1,18 +1,42 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T03:36:01.239471+00:00",
+    "last_updated": "2026-08-25T04:21:37.052728+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 9,
-      "crypto": 47,
+      "general": 101,
+      "forex": 10,
+      "equities": 50,
       "commodities": 9,
-      "macro": 24,
-      "equities": 49,
-      "general": 101
+      "crypto": 48,
+      "macro": 23
     }
   },
   "articles": [
+    {
+      "headline": "Navitas To Acquire Claros, Advancing AI Infrastructure with VPD & IVR Technology for Grid-to-xPU",
+      "description": "The proposed acquisition is expected to provide the last step in power delivery to the core to complete Navitas’ grid-to-xPU high-power portfolio, accelerating its AI infrastructure strategy under Navitas 2.0 transformation",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-25T03:42:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350179/0/en/navitas-to-acquire-claros-advancing-ai-infrastructure-with-vpd-ivr-technology-for-grid-to-xpu.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "investingLive Asia-Pacific market news: Gold down, Bitcoin up",
+      "description": "<ul><li><a href=\"https://investinglive.com/cryptocurrency/bitcoin-jumps-above-us-80k-for-the-first-time-in-3-months\" rel=\"follow\">Bitcoin jumps above US$80K for the first time in 3 months</a></li><li><a href=\"https://investinglive.com/news/japan-to-weigh-tax-incentives-for-retail-jgb-investors-katay",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T03:34:44+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-down-bitcoin-up/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
     {
       "headline": "Bitcoin jumps above US$80K for the first time in 3 months",
       "description": "<p>BTC continues to benefit from the weak USD and poor sentiment towards bonds. </p><p>Earlier:</p><ul><li><a href=\"https://investinglive.com/cryptocurrency/is-bitcoin-at-77k-preparing-for-another-breakout-this-btcusd-analysis-shows-a-a-potential-bull-flag-pointing-to-84k-86k\" rel=\"follow\" target=\"_",
@@ -22,18 +46,6 @@
       "asset_tags": [
         "forex",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Japan to weigh tax incentives for retail JGB investors, Katayama says",
-      "description": "<p dir=\"ltr\">Katayama's comments on retail JGB incentives point to a policy avenue aimed at broadening the domestic investor base for government debt at a time when long and super-long yields have been under sustained upward pressure, though any tax reform would need to clear discussions with the ru",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T02:49:31+00:00",
-      "article_url": "https://investinglive.com/news/japan-to-weigh-tax-incentives-for-retail-jgb-investors-katayama-says/",
-      "asset_tags": [
-        "forex",
-        "commodities",
-        "macro"
       ]
     },
     {
@@ -86,6 +98,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin hits $80,000 for the first time since May as crypto recovery accelerates",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-25T00:55:32+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -1617,6 +1639,26 @@
       ]
     },
     {
+      "headline": "SEBI rejects settlement bids by Adani-linked funds",
+      "description": "13 overseas portfolio investors sought to resolve a 2020 investigation into their status as genuine public shareholders or agents for Adani Group founders",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-24T03:51:15+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/india-rejects-settlement-bids-by-adani-linked-funds-et-reports",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Citi, Axis Bank team up on leveraged India dollar deposit boom",
+      "description": "Citigroup and Axis Bank partner to leverage NRI dollar deposits, enhancing cross-border financing amidst RBI's push for foreign inflows.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-24T03:43:16+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/citi-axis-bank-team-up-on-leveraged-india-dollar-deposit-boom",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "India’s $10 billion equity rush puts August on track for record",
       "description": "Almost $10 billion of deals have been priced in August, led by the government’s blockbuster $3.2 billion sale of shares in LIC",
       "source": "Bloomberg",
@@ -1630,7 +1672,7 @@
       "headline": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows - Reuters",
       "description": "Fewer than 20 ships transit key Strait of Hormuz over weekend, data shows Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-24T02:47:20+00:00",
+      "publication_date": "2026-08-24T02:42:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTXNxWm1BUVFUdWZuUDJoWi1GRUk1d0RXWTRwR0tQTXd6MXQ2V2RBSkRmMURzajdURDdIQnhEQlFTVVh4TG8yOTdfdWVIdmd4U3AyWm5pSlZ2Y0tSaDNKX1NjcGd1N2dqVmtPUU9rZjMwa3cxWDRLajBjYUhYUDkyY0owcm43TXcyNkp2WlJZUW9ONDA3ZlNlbHlOS19CSTRpYzlOU0pmcVhvaDB6SUsyVU5mM1cwQ2Q5TkwtTmlB?oc=5",
       "asset_tags": [
         "general"
@@ -2010,46 +2052,6 @@
       "article_url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Airbnb's new fee change frustrates hosts—what to know before renting out your home",
-      "description": "A new Airbnb fee change is one of many costs and considerations that can affect whether running a short-term rental makes money.",
-      "source": "CNBC",
-      "publication_date": "2026-08-22T14:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/22/airbnb-fee-change-frustrates-hosts-what-to-know-before-listing.html",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
-      "description": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
-      "source": "CNBC",
-      "publication_date": "2026-08-22T14:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-22T14:00:00+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "U.S.-Canada trade talks collapse, ushering in wave of new tariffs",
-      "description": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-      "source": "CNBC",
-      "publication_date": "2026-08-22T13:57:48+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-      "asset_tags": [
-        "macro"
       ]
     }
   ]
