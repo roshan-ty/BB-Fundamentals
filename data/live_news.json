@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-26T01:55:54.758068+00:00",
+    "last_updated": "2026-08-26T03:02:34.338895+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 97,
-      "forex": 12,
-      "equities": 46,
-      "commodities": 12,
-      "crypto": 51,
-      "macro": 34
+      "macro": 34,
+      "general": 98,
+      "crypto": 49,
+      "equities": 45,
+      "forex": 11,
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "Australian monthly CPI (July 2026) 3.5 % y/y (vs. 3.2% expected)",
+      "description": "<p>July 2026 inflation data from Australia. B<a href=\"https://investinglive.com/central-banks/preview-australia-s-july-cpi-set-to-ease-to-3-2-3-3pct-as-trimmed-mean-holds-near-3-5pct/\" rel=\"follow\">ackground this here, preview</a>. </p><p> Consumer Price Index (YoY) 3.5%</p><ul><li>expected 3.2%, pr",
+      "source": "Forexlive",
+      "publication_date": "2026-08-26T01:30:12+00:00",
+      "article_url": "https://investinglive.com/news/australian-monthly-cpi-july-2026-y-y-vs-3-2-expected/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
     {
       "headline": "FORTÉ Acquires Vega Global, APAC's Largest Systems Integrator, Expanding Global Reach",
       "description": "MINNEAPOLIS & HONG KONG--(BUSINESS WIRE)--FORTÉ announces acquisition of Vega Global, APAC's largest systems integrator, creating a global footprint for all customers",
@@ -21,20 +31,6 @@
       "article_url": "http://www.businesswire.com/news/home/20260825202399/en/FORT%C3%89-Acquires-Vega-Global-APACs-Largest-Systems-Integrator-Expanding-Global-Reach/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Preview, today: Fed's favoured inflation gauge lands two days before Warsh's Jackson Hole speech",
-      "description": "<p dir=\"ltr\">Today's PCE print carries added weight given its timing, landing just two days ahead of<a href=\"https://investinglive.com/central-banks/jackson-hole-hype-outruns-warsh-playbook-of-saying-as-little-as-possible/\" rel=\"follow\"> Fed Chair Warsh's first Jackson Hole keynote</a> and <a href=\"",
-      "source": "Forexlive",
-      "publication_date": "2026-08-26T00:55:09+00:00",
-      "article_url": "https://investinglive.com/news/preview-today-fed-s-favoured-inflation-gauge-lands-two-days-before-warsh-s-jackson-hole-speech/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -48,11 +44,31 @@
       ]
     },
     {
-      "headline": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz - Reuters",
-      "description": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz Reuters",
+      "headline": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel - Reuters",
+      "description": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-25T23:06:18+00:00",
+      "publication_date": "2026-08-25T23:24:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - Reuters",
+      "description": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T23:03:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T23:00:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -65,6 +81,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "Explainer: Why the bond market may be resetting expectations about the US - Reuters",
+      "description": "Explainer: Why the bond market may be resetting expectations about the US Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T22:50:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -98,16 +124,6 @@
       ]
     },
     {
-      "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T21:57:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
       "description": "",
       "source": "CoinDesk",
@@ -123,16 +139,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-25T21:38:28+00:00",
       "article_url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Why the bond market may be resetting expectations about the US - Reuters",
-      "description": "Why the bond market may be resetting expectations about the US Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T21:29:02+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1433,6 +1439,16 @@
       ]
     },
     {
+      "headline": "US widens sanctions on Iran but withholds more punishing options - Reuters",
+      "description": "US widens sanctions on Iran but withholds more punishing options Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T21:08:24+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVR6WDVGa1pXVWw0aFNTbHNTcjZjeEZpS2dUYjZKdjlCcHB2VElmTFU2Vl90RTNPbWg2akxvdF8xcUV2S01JR1N3M0c2T1ZmeHM5V3BrUExMbE16dWRHSWw0QlBoYmFMVUxXUlNzT2lMYXJYNVZ0a1JHUW0xRjc3c1JOVWJlTGxSMGFiLXFVTUgtbWstY1ZHTm02a2N4UklmX0pyaG9uVlFDMVU?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Gold lifts TSX as trade tensions escalate - Reuters",
       "description": "Gold lifts TSX as trade tensions escalate Reuters",
       "source": "Reuters",
@@ -2043,26 +2059,6 @@
       "article_url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
       "asset_tags": [
         "forex"
-      ]
-    },
-    {
-      "headline": "Japan’s SBI leads $68M Fasset round at $1B valuation",
-      "description": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-24T11:25:26+00:00",
-      "article_url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week",
-      "description": "Bitcoin closed a weekly candle above its 50-week EMA for the first time since late 2025 as markets prepared for the Jackson Hole symposium.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-24T11:23:58+00:00",
-      "article_url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
