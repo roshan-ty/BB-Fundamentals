@@ -1,18 +1,69 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-26T09:12:02.402360+00:00",
+    "last_updated": "2026-08-26T10:01:00.335021+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 16,
-      "crypto": 51,
+      "commodities": 13,
       "macro": 36,
-      "equities": 46,
-      "general": 95,
-      "commodities": 12
+      "general": 93,
+      "forex": 17,
+      "crypto": 51,
+      "equities": 46
     }
   },
   "articles": [
+    {
+      "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
+      "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:27:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351133/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - Kore Potash Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:23:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351131/0/en/form-8-5-ept-ri-kore-potash-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:21:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351129/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:20:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351128/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 25 08 2026 - (CGWL)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:14:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351126/0/en/form-8-3-advanced-medical-solutions-group-plc-25-08-2026-cgwl.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Revolut rolls out euro stablecoin in three European markets",
       "description": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
@@ -22,6 +73,16 @@
       "asset_tags": [
         "forex",
         "crypto"
+      ]
+    },
+    {
+      "headline": "US-Iran war spurs Europe, Asia to boost renewables - Reuters",
+      "description": "US-Iran war spurs Europe, Asia to boost renewables Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T08:37:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTVNd3JBNVpOVlFWcUlabjhLbU52TmV4WXNjbUwyVzVlWXFHMFBvenNoUVItMnhFbkh6VWM0dXBrVVpmbmhDTEROdlVlNG43OElCeVY3Uy1jQVNIRnljcUt6b1h2Uy1RZzN3c1lHbkhXeGlLTnhfc2g3WlRlTERCb2VON3NTQU1uTUtGTVpad2gyY3pnYUo1cU9pNlNRRVU?oc=5",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
@@ -104,6 +165,16 @@
       "article_url": "http://www.businesswire.com/news/home/20260826420393/en/Basware-Signs-Agreement-to-Acquire-Trustpair/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "US-Iran war sinks into energy trench warfare six months on - Reuters",
+      "description": "US-Iran war sinks into energy trench warfare six months on Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T06:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -1163,27 +1234,6 @@
       ]
     },
     {
-      "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
-      "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-25T09:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350254/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
-      "asset_tags": [
-        "commodities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - Kore Potash Plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-25T09:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350253/0/en/form-8-5-ept-ri-kore-potash-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - GAMMA COMMUNICATIONS PLC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1202,26 +1252,6 @@
       "asset_tags": [
         "equities",
         "commodities"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-25T09:12:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350250/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.5 (EPT/RI)- Alternative Income REIT Plc",
-      "description": "FORM 8.5 (EPT/RI)",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-25T09:11:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350249/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1935,16 +1965,6 @@
       ]
     },
     {
-      "headline": "National Advertising Division Finds Hims & Hers Has Support for Combination Efficacy Message; Recommends Modification or Discontinuance of Other Claims",
-      "description": "In a challenge brought by Kenvue Inc., BBB National Programs’ National Advertising Division determined that Hims & Hers Health, Inc. provided a reasonable basis for its comparative efficacy claim. However, the National Advertising Division (NAD) recommended that it modify or discontinue other claims",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T17:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350043/0/en/national-advertising-division-finds-hims-hers-has-support-for-combination-efficacy-message-recommends-modification-or-discontinuance-of-other-claims.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "European stocks flat as markets weigh Iran tensions, await economic data - Reuters",
       "description": "European stocks flat as markets weigh Iran tensions, await economic data Reuters",
       "source": "Reuters",
@@ -1966,16 +1986,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Alterra IOS Expands Atlanta Footprint With 5 Industrial Outdoor Storage Acquisitions",
-      "description": "Strategically located properties grow firm's Atlanta portfolio to 28 sites totaling 190 usable acres in a top U.S. logistics and distribution market Strategically located properties grow firm's Atlanta portfolio to 28 sites totaling 190 usable acres in a top U.S. logistics and distribution market",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T16:17:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350020/0/en/alterra-ios-expands-atlanta-footprint-with-5-industrial-outdoor-storage-acquisitions.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -2055,16 +2065,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-24T15:30:38+00:00",
       "article_url": "https://www.cnbc.com/2026/08/24/ex-google-recruiter-this-common-mistake-makes-your-resume-invisible.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "We're booking a 300% profit in an AI winner and buying more of a healthcare name",
-      "description": "The trim puts the portfolio in a better position to withstand backlash against data centers.",
-      "source": "CNBC",
-      "publication_date": "2026-08-24T15:30:19+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/24/were-booking-a-300percent-profit-in-an-ai-winner-and-buying-more-of-a-healthcare-name.html",
       "asset_tags": [
         "general"
       ]
