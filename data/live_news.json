@@ -1,18 +1,99 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-26T10:01:00.335021+00:00",
+    "last_updated": "2026-08-26T10:43:15.309776+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 51,
+      "macro": 34,
+      "forex": 16,
       "commodities": 13,
-      "macro": 36,
-      "general": 93,
-      "forex": 17,
-      "crypto": 51,
-      "equities": 46
+      "general": 90,
+      "crypto": 51
     }
   },
   "articles": [
+    {
+      "headline": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
+      "description": "The Form D lists 71 investors and says Kalshi is relying on an exemption that allows certain private offerings without SEC registration.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-26T10:15:44+00:00",
+      "article_url": "https://cointelegraph.com/news/kalshi-1-5-billion-equity-offering-1-12-billion-sold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "UK retail sector remains under pressure as CBI survey shows sharp sales decline",
+      "description": "<ul><li>Full report <a href=\"https://www.cbi.org.uk/media-centre/articles/hot-weather-cool-sales-retail-activity-slumps-in-august-cbi-distributive-trades-survey/\" rel=\"follow\">here</a></li></ul><p class=\"isSelectedEnd\">The UK retail sector faced worsening trading conditions in August, according to t",
+      "source": "Forexlive",
+      "publication_date": "2026-08-26T10:10:20+00:00",
+      "article_url": "https://investinglive.com/news/uk-retail-sector-remains-under-pressure-as-cbi-survey-shows-sharp-sales-decline/",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T10:03:43+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SPIRE HEALTHCARE GROUP PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:55:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351139/0/en/dimensional-fund-advisors-ltd-form-8-3-spire-healthcare-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:54:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351138/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:52:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351137/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:50:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351135/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T09:48:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351134/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
     {
       "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
       "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
@@ -65,6 +146,27 @@
       ]
     },
     {
+      "headline": "Japan targets early 2030s launch for blockchain-based stock and bond settlement system",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T09:06:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T08:51:18+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Revolut rolls out euro stablecoin in three European markets",
       "description": "The Bridge-issued EURR token will support multiple blockchains and external wallets, with wider EEA availability expected this year.",
       "source": "Cointelegraph",
@@ -93,17 +195,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Switzerland August UBS investor sentiment +12.1 vs +10.0 prior",
-      "description": "<ul><li>Prior was +10.0</li></ul><p class=\"isSelectedEnd\">Swiss investor confidence strengthened again in August, with the UBS Investor Sentiment Index rising to +12.1 from +10.0 in July, signalling growing optimism about the outlook for the Swiss economy and financial markets. This marks the second",
-      "source": "Forexlive",
-      "publication_date": "2026-08-26T08:00:17+00:00",
-      "article_url": "https://investinglive.com/news/switzerland-august-ubs-investor-sentiment-xx-vs-10-0-prior/",
-      "asset_tags": [
-        "forex",
-        "macro"
       ]
     },
     {
@@ -153,6 +244,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-26T07:23:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351101/0/da/pressemeddelelse.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel - Reuters",
+      "description": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T07:13:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEsycFlDR0QyX3p6R2YwTHVfUTMwaUo3Xy1XMU14Q2xjNU9hZERvYzhkQTQ1ZF95RF8waXhVdnlHX21XblJPWHRqMjVRcU5MMkM4VllGNjVmMnVPeWh5Nm1MZnVKQ0Y4eGJvb3NyMWlCRFJUbW5Sd1Z5UXZlZE1jWkJCVVdWV1ZzcG1qWXVJVk5ZWFN4WFdXSVU3ZzBfNDZQM01Kcnp5cG9tQktIdHJxaFhjdUFKQUw3QXZObTlrVU9wc1NUeWxCVWxB?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1244,17 +1345,6 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-25T09:13:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350251/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
       "headline": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
       "description": "",
       "source": "CoinDesk",
@@ -1791,16 +1881,6 @@
       ]
     },
     {
-      "headline": "Weatherford and NCS Multistage Announce Anticipated Election Deadline and Closing Date",
-      "description": "HOUSTON, Aug. 24, 2026 (GLOBE NEWSWIRE) -- Weatherford International plc (NASDAQ: WFRD) (“Weatherford”) and NCS Multistage Holdings, Inc. (NASDAQ: NCSM) (“NCS Multistage”) today announced that 5:00 P.M., Eastern Time on August 31, 2026, is the anticipated deadline for NCS Multistage stockholders to ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T20:15:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350108/0/en/weatherford-and-ncs-multistage-announce-anticipated-election-deadline-and-closing-date.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
       "description": "USDC supply increased by roughly $2 billion in seven days, with Bernstein citing higher transaction activity and several factors that could support further growth.",
       "source": "Cointelegraph",
@@ -1934,16 +2014,6 @@
       ]
     },
     {
-      "headline": "Personalis falls amid a downgrade as a competitive bid appears unlikely",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-24T17:14:51+00:00",
-      "article_url": "https://seekingalpha.com/news/4636329-personalis-falls-amid-a-downgrade-as-competive-bid-appears-unlikely?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
       "description": "",
       "source": "CoinDesk",
@@ -1994,77 +2064,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-24T16:10:28+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQmFRSzdpUDVPMG05aVJCZWFGYVQ3R3BUWExjYXlxV041eUpYd09hdDFhR2lBeFRnTzhtbnRRZEhWYU1PTG9fc210bG5fOXBTQzZ3Q2UtcXI4Yi16bjN4UzNEbmczVVFlNzRMcEJrWTFMLTdFTzc3d1Q1NkxBZzRsMjVkOHYyaER3X0dKQURpZU41M19vbFdwb2lR?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Cramer says this stock tied to the AI data center trade may be up next for a trim",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "publication_date": "2026-08-24T16:09:55+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/24/cramer-says-this-stock-tied-to-the-ai-data-center-trade-may-be-up-next-for-a-trim.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Crypto advocacy groups oppose Illinois digital asset tax in court",
-      "description": "Following a similar lawsuit filed by the Digital Chamber in July, two digital asset advocacy groups challenged Illinois’ 0.2% crypto tax on constitutional and due process grounds.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-24T16:05:48+00:00",
-      "article_url": "https://cointelegraph.com/news/cryptocurrency-organizations-oppose-illinois-digital-asset-tax-court?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports - Reuters",
-      "description": "US eyes China overcapacity tariffs of 7.5% before Xi-Trump talks, Bloomberg News reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T16:04:15+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVZLUTRjNDFCbG9qX21DUWdHYkNMb3hzYXREb3BhX0lXNGF6MEdxNExNZ1hqYkRxRWU3OUdGY3hKRHdnYm9YOEZkOVRhSnp4bG52bUtWSU10NjQyQTE3Z1ZFRlVRelBSMF9vTGswcTFJRDMzQnkwVGlpeThzeGRlZ3FSd1IwNlBmOVNWeERLaHQtWWZiazQ3OTJyaXJGQmpVb2FKN2RjTlNseDBoNXRrUFJrRnc2MWdoQUhwcnpiQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "What are Iran's options to escalate further in face of US economic threats? - Reuters",
-      "description": "What are Iran's options to escalate further in face of US economic threats? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T15:56:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUGFGMTVQeVJDUktZSTktQ3J4a290eEU1SWxLYk1pZEdjWENHYUtBUkt2dVA2MDBpbmwydUpoYi1xbWcxQzg3QTRDdXlvQ3hTUkZxWk11RlFzTjNncmszdWtEZTgyaS1jTXdVc0pjVF9pSDFZYkhOYXVYZndWWTd2endMTThjcVBuMjQzVDhVU3U0VFlFZ2REVmtIcS1PMUZ2ZzhKZkY1dnY2T2RyUEwxRDNvcW9ZdVZLRkE?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Yemen's Houthis say they attacked ship off Saudi Arabia's Yanbu - Reuters",
-      "description": "Yemen's Houthis say they attacked ship off Saudi Arabia's Yanbu Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T15:51:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjZIUXVnZ0tJcjFPZEJjRlZMVkRkYkcwaVRVOWQ2R0tVeGo4SWZiMHgtZEFKRU9XUkk3N3ZNUmJ2YmRIUDlodjBoRlQtVmdjMi1oVjhWYUtVQmlSalVtQWptNzhjZFZ1TlMydkZLUXFQVEVocmVyYkFYX0J4bTJLV1VNUlpmanA0RWR2ODZlTWFka1p6X2VNSk0tVEZCLXVRQzlCcHlWTmxBUmlPM2paV0h0Sm9RMFVmaWRXY01IdUs0QQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases - Reuters",
-      "description": "Dollar higher after Iran sanctions, loonie drops after US announces tariff increases Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T15:44:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWdQcUNEMGg5ZXdrRnBJRl9PLXZtbk9NYzdiZnEydGZBT21TOWRFaV9EQVBpYU9mcktFSV84c0JwcVBDdHVDSkkwUUpIWVM3ZVhYTWFrNFNWRlc3MUhMWVZ5V29JTXh5U01Ja0l3MzdGTTUweFo0Y0VVZjlfYXp5YjVfSU11NW5zdUtqM1l4cEtCV1JmU24xVmlBc1NtVkRHcnpxUFlxNkRZSUU?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Ex-Google recruiter: This common mistake makes your resume 'invisible'—you have 'six seconds to prove you can do the work'",
-      "description": "Ex-Google recruiter Farah Sharghi says that to succeed in this job market, emphasize proof you can do the job, rather than your potential on your resume.",
-      "source": "CNBC",
-      "publication_date": "2026-08-24T15:30:38+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/24/ex-google-recruiter-this-common-mistake-makes-your-resume-invisible.html",
       "asset_tags": [
         "general"
       ]
