@@ -1,26 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-26T00:02:46.787409+00:00",
+    "last_updated": "2026-08-26T01:55:54.758068+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 13,
-      "crypto": 52,
-      "macro": 35,
-      "general": 93,
-      "equities": 47,
-      "commodities": 11
+      "general": 97,
+      "forex": 12,
+      "equities": 46,
+      "commodities": 12,
+      "crypto": 51,
+      "macro": 34
     }
   },
   "articles": [
     {
-      "headline": "US weighs further trade escalation after Canada sets retaliatory tariffs",
-      "description": "<p dir=\"ltr\">An escalation of the US Canada trade dispute adds a fresh source of policy uncertainty at a moment when markets are already digesting a volatile Fed rate outlook and unresolved Middle East risk. Canada remains one of the largest US trading partners, so further tariff action carries mean",
+      "headline": "FORTÉ Acquires Vega Global, APAC's Largest Systems Integrator, Expanding Global Reach",
+      "description": "MINNEAPOLIS & HONG KONG--(BUSINESS WIRE)--FORTÉ announces acquisition of Vega Global, APAC's largest systems integrator, creating a global footprint for all customers",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-26T01:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260825202399/en/FORT%C3%89-Acquires-Vega-Global-APACs-Largest-Systems-Integrator-Expanding-Global-Reach/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Preview, today: Fed's favoured inflation gauge lands two days before Warsh's Jackson Hole speech",
+      "description": "<p dir=\"ltr\">Today's PCE print carries added weight given its timing, landing just two days ahead of<a href=\"https://investinglive.com/central-banks/jackson-hole-hype-outruns-warsh-playbook-of-saying-as-little-as-possible/\" rel=\"follow\"> Fed Chair Warsh's first Jackson Hole keynote</a> and <a href=\"",
       "source": "Forexlive",
-      "publication_date": "2026-08-25T23:57:47+00:00",
-      "article_url": "https://investinglive.com/news/us-weighs-further-trade-escalation-after-canada-sets-retaliatory-tariffs/",
+      "publication_date": "2026-08-26T00:55:09+00:00",
+      "article_url": "https://investinglive.com/news/preview-today-fed-s-favoured-inflation-gauge-lands-two-days-before-warsh-s-jackson-hole-speech/",
       "asset_tags": [
         "forex",
+        "equities",
+        "commodities",
         "crypto",
         "macro"
       ]
@@ -36,11 +48,51 @@
       ]
     },
     {
-      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "headline": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz - Reuters",
+      "description": "US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-25T23:15:55+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "publication_date": "2026-08-25T23:06:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iraq may show how U.S. can squeeze Iran's trade partners - Reuters",
+      "description": "Iraq may show how U.S. can squeeze Iran's trade partners Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T22:55:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "ECB set for September rate hike with no appetite to signal more, sources say - Reuters",
+      "description": "ECB set for September rate hike with no appetite to signal more, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T22:47:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1YSEQ1R25MRlpTOGV2WjhEVjJMc1N3MjhGMnhCcUF0WGpMSTh1UTVUTGxIam1MNjh0dURNUWQtdGd5MGZpRTBIcUVuS0dobGhhNlY2UDN5OTYxZzJPTnp4Y0FVWUlzMUN2bGxQQWtnTUVMNENlbXI0bkdFSnFjaDZOdG12VGZLcFdUZUJHWElaVElqMmF0dmpCNTdNejM1UTdISUdGaVYwWW9kSUN4TVUzbw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US starts returning staff to Middle East missions after Iran war evacuations, sources say - Reuters",
+      "description": "US starts returning staff to Middle East missions after Iran war evacuations, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T22:41:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on - Reuters",
+      "description": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T22:21:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -159,16 +211,6 @@
       ]
     },
     {
-      "headline": "Faria Education Group Acquires Edu Intelligence to Advance AI-Powered Analytics for Schools",
-      "description": "HONG KONG--(BUSINESS WIRE)--Faria Education Group is pleased to announce its acquisition of Edu Intelligence, an AI-native analytics platform built specifically for schools. This strategic acquisition strengthens Faria's position as an AI-first company and brings a fully integrated data layer to its",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-25T19:31:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260825647096/en/Faria-Education-Group-Acquires-Edu-Intelligence-to-Advance-AI-Powered-Analytics-for-Schools/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus - Reuters",
       "description": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus Reuters",
       "source": "Reuters",
@@ -251,16 +293,6 @@
       ]
     },
     {
-      "headline": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say - Reuters",
-      "description": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T16:48:57+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
       "description": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
       "source": "Cointelegraph",
@@ -268,6 +300,17 @@
       "article_url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "European shares gain on softer US Iran sanctions, falling oil prices - Reuters",
+      "description": "European shares gain on softer US Iran sanctions, falling oil prices Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T16:41:59+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYV9RU3NQS3FlMnJsNy1fRTVxZVJOX0htaElRYmMyRE5jazNycV9lbU9DN0dWaEZ4eUZQcW5sbll6YUlpaDk2ZE9wc1dRTERkM1JhYjFOWW1XcENBVXhTeXNvWjZZZ1hpTUlnbDF4VkJmUXRYNXNBTWM1a0NweVJUVXZfV3pxeS1IbUhVZVNaaU5hZEg2TjRDeXZwNUhudjVFVjBlVWxDcVBEX052?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities"
       ]
     },
     {
@@ -332,6 +375,16 @@
       ]
     },
     {
+      "headline": "Rare tornado leaves trail of destruction through village in southern France - Reuters",
+      "description": "Rare tornado leaves trail of destruction through village in southern France Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T15:32:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDY4Z3EyT2dqZGJQb2R3Qmdtdll5MUYzTnFNVVpMY21yRlFhS0ZraDFTM192TlJyTUxsV3BPc1VNT0djY1lUOGdKTnhuOTI1S2dyOS1oMHdVV3BVWHFyUnZ0ZlBJNGVTYUcybEdQTzBOV3lzTmRTSFNLMlR4LXZNaDh5UzZFdFFJMnlCR1lpN2EwbHZrdmpqVXAtdHFNUGdvQVlBeEEyampqdTRDaFlhVUJBa2w?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "We're trimming our position in an AI stock to protect our profits",
       "description": "This is our second sale in as many days to reduce our exposure to the theme.",
       "source": "CNBC",
@@ -349,16 +402,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350718/0/en/form-8-3-ramsdens-holdings-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Iraq may show how U.S. can squeeze Iran's trade partners - Reuters",
-      "description": "Iraq may show how U.S. can squeeze Iran's trade partners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T15:21:14+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -935,17 +978,6 @@
       ]
     },
     {
-      "headline": "European shares climb on softer-than-feared Iran sanctions, defence gains - Reuters",
-      "description": "European shares climb on softer-than-feared Iran sanctions, defence gains Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T09:24:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYV9RU3NQS3FlMnJsNy1fRTVxZVJOX0htaElRYmMyRE5jazNycV9lbU9DN0dWaEZ4eUZQcW5sbll6YUlpaDk2ZE9wc1dRTERkM1JhYjFOWW1XcENBVXhTeXNvWjZZZ1hpTUlnbDF4VkJmUXRYNXNBTWM1a0NweVJUVXZfV3pxeS1IbUhVZVNaaU5hZEg2TjRDeXZwNUhudjVFVjBlVWxDcVBEX052?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities"
-      ]
-    },
-    {
       "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
       "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
       "source": "GlobalNewswire",
@@ -1236,8 +1268,8 @@
       ]
     },
     {
-      "headline": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks - Reuters",
-      "description": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks Reuters",
+      "headline": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed - Reuters",
+      "description": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-25T01:31:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
@@ -1285,6 +1317,16 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/24/bitcoin-hits-usd80-000-for-the-first-time-since-may-as-crypto-recovery-accelerates",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T00:26:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1954,16 +1996,6 @@
       ]
     },
     {
-      "headline": "'Economic D-Day', Canada tariffs and Tesla recall - Reuters",
-      "description": "'Economic D-Day', Canada tariffs and Tesla recall Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T12:20:20+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZlNSbmY2b1RYbnppS25lajE2dldaOXJHcGR5dGh4UXdoQXJ3OTZzVUVKYWh3NWZkSUIza1hmOXVHaGtUSUtaVWNFdV9vekdUNXR1X05zYXNBcVQ2ejJXVmJGVktWWGJ1VXc2UUloM1JWanN4MnpnM24zQ3NIUDlXQUpxMWd4UEhNTS12YnhpQ1Y?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "Breakingviews - Oil’s elevated price could yet become a floor - Reuters",
       "description": "Breakingviews - Oil’s elevated price could yet become a floor Reuters",
       "source": "Reuters",
@@ -2029,37 +2061,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-08-24T11:23:58+00:00",
       "article_url": "https://cointelegraph.com/markets/first-bear-market-trend-line-reclaim-since-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "ECB defends digital euro privacy as CBDCs face global scrutiny",
-      "description": "Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-24T11:21:19+00:00",
-      "article_url": "https://cointelegraph.com/news/ecb-digital-euro-privacy-cbdcs-global-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "equities"
-      ]
-    },
-    {
-      "headline": "China says Middle East at critical point, calls for cooling tensions and dialogue - Reuters",
-      "description": "China says Middle East at critical point, calls for cooling tensions and dialogue Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T11:20:29+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHZKbGNlSkFyUnFGaFRSQWtQc1JQUElUeDVnLVZCNUR1SmhMV3I5VkYxWm93NkFLOWNYckFscUR6YXNMTFBGWTl4aHdNcjdwaE9reTdSTEpCUWlEd3hKVTMzZy1qX0ZsRVF3dnU0dVJRdVBod1J0SW8yT3JxQXpoLXlKMGlQdnRKdi1JZXNnSVc5U1hNRG52RkxaNXJ1YjhUV2RDVlRIVnhoU3Q2SzZ5MmpFekhPelVQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-24T11:19:16+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
       "asset_tags": [
         "crypto"
       ]
