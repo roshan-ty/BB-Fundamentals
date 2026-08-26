@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-26T04:50:11.224542+00:00",
+    "last_updated": "2026-08-26T05:20:25.585402+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 53,
       "forex": 12,
       "equities": 46,
       "macro": 36,
-      "general": 97,
-      "crypto": 50,
+      "general": 95,
       "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T04:51:49+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "What are the main events for today?",
       "description": "<p>EUROPEAN SESSION</p><p>In the European session, we don't have much on the agenda other than a couple of low-tier releases like the Swiss economic sentiment index and UK CBI distributive trades. The data won't change anything for the respective central banks, so the market reaction will be muted.<",
@@ -22,6 +32,28 @@
       "asset_tags": [
         "forex",
         "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US banking groups plan nationwide blockchain network for 2027",
+      "description": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-26T04:17:39+00:00",
+      "article_url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T04:13:10+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+      "asset_tags": [
+        "crypto",
         "macro"
       ]
     },
@@ -61,16 +93,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-25T23:00:37+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Explainer: Why the bond market may be resetting expectations about the US - Reuters",
-      "description": "Explainer: Why the bond market may be resetting expectations about the US Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T22:50:37+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -933,6 +955,16 @@
       "article_url": "https://cointelegraph.com/news/thailand-bitcoin-ether-etfs-draft-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Why the bond market may be resetting expectations about the US - Reuters",
+      "description": "Why the bond market may be resetting expectations about the US Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T10:05:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2030,37 +2062,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-24T12:40:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "description": "Nvidia reports earnings this week, but it's not the only thing that matters to the AI trade.",
-      "source": "CNBC",
-      "publication_date": "2026-08-24T12:39:03+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T12:37:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349732/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-24T12:24:58+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
       "asset_tags": [
         "general"
       ]
