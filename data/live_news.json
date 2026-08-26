@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-26T05:55:43.686414+00:00",
+    "last_updated": "2026-08-26T06:43:24.321242+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 53,
+      "equities": 46,
       "forex": 13,
       "macro": 37,
-      "general": 95,
-      "crypto": 52,
-      "equities": 45,
+      "general": 94,
       "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T05:52:53+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/26/E",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T05:16:32+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Attindas Hygiene Partners Announces Plans to Acquire Activ Médical Disposable",
       "description": "Attindas Hygiene Partners plans to acquire Activ Médical Disposable, expanding its European manufacturing, products and customer reach.",
@@ -109,8 +130,8 @@
       ]
     },
     {
-      "headline": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - Reuters",
-      "description": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz Reuters",
+      "headline": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz - Reuters",
+      "description": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-25T23:03:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
@@ -204,7 +225,7 @@
       "headline": "U.S. Secret Service aware of Iranian video threat against Barron Trump - Reuters",
       "description": "U.S. Secret Service aware of Iranian video threat against Barron Trump Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-25T19:50:24+00:00",
+      "publication_date": "2026-08-25T19:45:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5",
       "asset_tags": [
         "general"
@@ -1443,6 +1464,16 @@
       ]
     },
     {
+      "headline": "Oil drops more than $2 despite new US sanctions on Iran - Reuters",
+      "description": "Oil drops more than $2 despite new US sanctions on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T23:33:31+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Barinthus Bio Provides Update on Proposed Combination with Clywedog Therapeutics",
       "description": "GERMANTOWN, Md., Aug. 24, 2026 (GLOBE NEWSWIRE) -- Barinthus Biotherapeutics plc (NASDAQ: BRNS) (“Barinthus Bio,” or the “Company”), today provided an update regarding the anticipated closing of its proposed combination with Clywedog Therapeutics, Inc. (“Clywedog”) in an all-stock transaction.",
       "source": "GlobalNewswire",
@@ -2032,36 +2063,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-24T12:56:50+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlpTanlXRFd4X0JwM2o1eG05R0JFQTcwVG5CZHBlMzBLU0JCcWtsaFJLUnl0ZzRhVW9BZkNnN1ppQ25rVmZzV3pZYS1mSFRybThxcDlWcnRnRW9nUjNPT2VWcWh3X0VCUGdFWkNwdFU2eUFqZTBELUdKbWZYU2NFWkQzRDZyRXd5M0k0SG1LM1lmNHF5VnctdUhfdHBsY3ZRT3J0UWVfdzBLZHdsa3VSdmRQN3ZKZWxjMlI1OUVQZGJGQ29USU9Da1pPRk4?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "India's Iran exports set to fall further due to Dubai halt, U.S. sanctions - Reuters",
-      "description": "India's Iran exports set to fall further due to Dubai halt, U.S. sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-24T12:55:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdU1WRHdHSGRydWJKWGhVcjREZDRpTG9hSHZTaTE1SzBnR3hHb3F4dGUwOWRyaVk3SXhpa2ZJZjgtZ3V2emU5NVUzT09nNkdySVZlMm5PT19hY1NUcnR3UWxrWFI3Qy1qRnpWRS1vb1VvTXNjRFVDSXZzVlBlSGtJcFBxTDVnOElncE54OV8yNHFCbWFlNFZrWWEwejFENzFvb1Bub3BVOUM2TUM2SXc3T0tB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-24T12:52:30+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "GreetEat Details the Strategic Opportunity Presented by ChefKart’s Technology-Enabled Service Platform",
-      "description": "GEAT outlines how ChefKart’s reported operating profile, recurring household use case and organized chef network align with GreetEat’s broader technology.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-24T12:49:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3349739/0/en/greeteat-details-the-strategic-opportunity-presented-by-chefkart-s-technology-enabled-service-platform.html",
       "asset_tags": [
         "general"
       ]
