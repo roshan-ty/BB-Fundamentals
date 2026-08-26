@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "Federal Reserve Economic Data (FRED) API",
-    "last_updated": "2026-08-26T12:33:33.331259Z",
+    "last_updated": "2026-08-26T13:45:29.518032Z",
     "historical_years": 40,
     "total_series": 7
   },
@@ -8638,30 +8638,36 @@
         },
         {
           "date": "2026-04-01",
-          "value": 130.932,
-          "rolling_12_month_moving_average": 128.29141666666666,
+          "value": 130.946,
+          "rolling_12_month_moving_average": 128.29258333333334,
           "historical_percentile": 1.0
         },
         {
           "date": "2026-05-01",
-          "value": 131.535,
-          "rolling_12_month_moving_average": 128.721,
+          "value": 131.576,
+          "rolling_12_month_moving_average": 128.72558333333333,
           "historical_percentile": 1.0
         },
         {
           "date": "2026-06-01",
-          "value": 131.392,
-          "rolling_12_month_moving_average": 129.10841666666667,
+          "value": 131.454,
+          "rolling_12_month_moving_average": 129.11816666666667,
           "historical_percentile": 0.9979
+        },
+        {
+          "date": "2026-07-01",
+          "value": 131.659,
+          "rolling_12_month_moving_average": 129.50975,
+          "historical_percentile": 1.0
         }
       ],
       "summary_statistics": {
-        "current_value": 131.392,
+        "current_value": 131.659,
         "minimum_value": 51.396,
-        "maximum_value": 131.535,
-        "mean_value": 85.3839,
-        "standard_deviation": 20.1283,
-        "current_percentile": 0.9979
+        "maximum_value": 131.659,
+        "mean_value": 85.4808,
+        "standard_deviation": 20.2184,
+        "current_percentile": 1.0
       }
     },
     {
@@ -9626,17 +9632,17 @@
         },
         {
           "date": "2026-04-01",
-          "value": 24270.599,
-          "rolling_12_month_moving_average": 23596.774583333332,
+          "value": 24269.613,
+          "rolling_12_month_moving_average": 23596.69241666667,
           "historical_percentile": 1.0
         }
       ],
       "summary_statistics": {
-        "current_value": 24270.599,
+        "current_value": 24269.613,
         "minimum_value": 8872.601,
-        "maximum_value": 24270.599,
-        "mean_value": 15864.1703,
-        "standard_deviation": 4328.5164,
+        "maximum_value": 24269.613,
+        "mean_value": 15864.1641,
+        "standard_deviation": 4328.5044,
         "current_percentile": 1.0
       }
     },
