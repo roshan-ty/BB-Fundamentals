@@ -1,18 +1,60 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-25T23:42:38.663472+00:00",
+    "last_updated": "2026-08-26T00:02:46.787409+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 13,
       "crypto": 52,
+      "macro": 35,
       "general": 93,
       "equities": 47,
-      "forex": 13,
-      "commodities": 11,
-      "macro": 34
+      "commodities": 11
     }
   },
   "articles": [
+    {
+      "headline": "US weighs further trade escalation after Canada sets retaliatory tariffs",
+      "description": "<p dir=\"ltr\">An escalation of the US Canada trade dispute adds a fresh source of policy uncertainty at a moment when markets are already digesting a volatile Fed rate outlook and unresolved Middle East risk. Canada remains one of the largest US trading partners, so further tariff action carries mean",
+      "source": "Forexlive",
+      "publication_date": "2026-08-25T23:57:47+00:00",
+      "article_url": "https://investinglive.com/news/us-weighs-further-trade-escalation-after-canada-sets-retaliatory-tariffs/",
+      "asset_tags": [
+        "forex",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US spy chief visits Russia for meetings, media reports - Reuters",
+      "description": "US spy chief visits Russia for meetings, media reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T23:26:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T23:15:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
+      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T21:57:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
       "description": "",
@@ -75,19 +117,6 @@
       ]
     },
     {
-      "headline": "investingLive Americas market news wrap: Some late talk of Iran peace",
-      "description": "<ul><li><a href=\"https://investinglive.com/commodities/there-are-rumors-of-a-russian-media-saying-there-is-an-iran-us-deal\" rel=\"follow\">There are rumors of a Russian media saying there is an Iran-US deal</a></li><li><a href=\"https://investinglive.com/central-banks/ecb-sources-report-policymakers-ar",
-      "source": "Forexlive",
-      "publication_date": "2026-08-25T20:22:48+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-market-news-wrap-some-late-talk-of-iran-peace/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "macro"
-      ]
-    },
-    {
       "headline": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
       "description": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
       "source": "CNBC",
@@ -145,16 +174,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-25T19:19:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDhnT2QxNFlGZ3MzTE56cmZZNzQ0XzhxUmZRVURPb3h6Z3BDNW5LdlhLLW5SeGVCZ0tFS054U0UyV0I2UTl6VDJEeXFCQ0Q5d253RkN6dlNDbHFZUDBBdGxpczJTYkEyenVTWHNYSEZWZ2d2OGRQTTNraXhQenlnVGFyVjhDUFFsR2Y5d1IzUEZ2UmFkSVF0YUZ1LUtMLUlsU2RDeERJSTRtbnRLanJPQlF0b3o0aTZi?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US spy chief visits Russia for meetings, media reports - Reuters",
-      "description": "US spy chief visits Russia for meetings, media reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T19:16:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -618,16 +637,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-      "description": "Bessent's D-Day sanctions are more Anzio, but Iran response is key Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T12:00:40+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1279,16 +1288,6 @@
       ]
     },
     {
-      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
-      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T00:30:10+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Barinthus Bio Provides Update on Proposed Combination with Clywedog Therapeutics",
       "description": "GERMANTOWN, Md., Aug. 24, 2026 (GLOBE NEWSWIRE) -- Barinthus Biotherapeutics plc (NASDAQ: BRNS) (“Barinthus Bio,” or the “Company”), today provided an update regarding the anticipated closing of its proposed combination with Clywedog Therapeutics, Inc. (“Clywedog”) in an all-stock transaction.",
       "source": "GlobalNewswire",
@@ -1327,6 +1326,18 @@
       "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event - Reuters",
+      "description": "Gold rally gains momentum ahead of US inflation data, Jackson Hole event Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-24T22:12:35+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkZtQVBPdjlyb21JaVBxeFRicDFEeHVNQ21pZzdGQnlSMUpFYV80MEl3RjJUbF9tYWxmdkZqY2NpaXh5S0NPd1lhbFZxUHZMVVFkTHNyNktCX2hrUU5KN3hjcWRUVTlaQ0hwcmVoMV9VZjBmUkFjMGtTUUY5MXBwRDRFWXBwQnhZTzU1dV81LThOaTNZR1BLVDRGU1JtbDczRjVweFByWkVQbWhhX3VwYTlJZ0VYblU?oc=5",
+      "asset_tags": [
+        "equities",
+        "commodities",
+        "macro"
       ]
     },
     {
@@ -2049,16 +2060,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-24T11:19:16+00:00",
       "article_url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Financial repression: The new buzzword for bitcoin bulls",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-24T11:15:00+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/08/24/financial-repression-the-new-buzzword-for-bitcoin-bulls",
       "asset_tags": [
         "crypto"
       ]
