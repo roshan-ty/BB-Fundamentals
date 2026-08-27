@@ -1,26 +1,47 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-26T21:41:17.034193+00:00",
+    "last_updated": "2026-08-27T01:05:15.504077+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 94,
-      "forex": 16,
-      "equities": 42,
-      "commodities": 13,
-      "crypto": 55,
-      "macro": 28
+      "crypto": 57,
+      "equities": 44,
+      "forex": 15,
+      "commodities": 12,
+      "macro": 28,
+      "general": 91
     }
   },
   "articles": [
     {
-      "headline": "FlightSafety International conclut un accord pour acquérir les solutions de formation commerciale d'Acron Technologies",
-      "description": "COLUMBUS, Ohio--(BUSINESS WIRE)--FlightSafety International Inc. (FSI), l'un des principaux fournisseurs mondiaux de technologies de formation et de simulation aéronautiques, a annoncé aujourd'hui la signature d'un accord définitif avec Acron Technologies, une société du portefeuille de TJC LP, port",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-26T20:53:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260826452908/fr/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "headline": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T23:01:44+00:00",
+      "article_url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
       "asset_tags": [
-        "general"
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Lomiko Metals Announces Receipt of Interim Court Order and Mailing of Management Information Circular Relating to Arrangement With Global Battery Materials",
+      "description": "VANCOUVER, British Columbia--(BUSINESS WIRE)--Lomiko Metals Inc. (TSX-V: LMR, OTC: LMRMF, FSE: DH8C) (“Lomiko” or the “Company”) is pleased to announce that it has filed and is in the process of mailing its management information circular (the “Circular”) and related meeting materials in connection ",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-26T22:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260826716367/en/Lomiko-Metals-Announces-Receipt-of-Interim-Court-Order-and-Mailing-of-Management-Information-Circular-Relating-to-Arrangement-With-Global-Battery-Materials/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Globus Medical Announces Acquisition of Higgs Boson Health to Transform Healthcare Experience Through AI-Driven Digital Solutions",
+      "description": "AUDUBON, Pa., Aug. 26, 2026 (GLOBE NEWSWIRE) -- Globus Medical, Inc. (NYSE: GMED), a leading musculoskeletal technology company, today announced the acquisition of Higgs Boson Health, a digital healthcare experience company based in Durham, NC and incubated out of Duke University. With a mission to ",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-26T21:57:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351730/0/en/globus-medical-announces-acquisition-of-higgs-boson-health-to-transform-healthcare-experience-through-ai-driven-digital-solutions.html",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -45,6 +66,16 @@
       "article_url": "https://seekingalpha.com/news/4637208-grainger-buys-awm-technology-assets-for-210m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Nvidia tops earnings estimates, guides to $108 billion in revenue next quarter",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-26T20:24:31+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -75,6 +106,16 @@
       "article_url": "https://seekingalpha.com/news/4637157-kimberly-clark-files-with-european-antitrust-regulator-for-review-of-kenvue-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "forex"
+      ]
+    },
+    {
+      "headline": "NEWSLETTER: Can US pressure stem cash flows to Iran? - Reuters",
+      "description": "NEWSLETTER: Can US pressure stem cash flows to Iran? Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T19:27:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTU4bDAweWpxVjVSanl3VWdoMTQzQkRoRDdBam45NzdTbFRRU0hKZ3k1V2xYODZMZnNHdkdSaGpSNHFSSTJ5R3hoY0I5N3RydTFZdTZ0RmU2SWlwcFJ0bDduSFVtakQ0aUpJU0R2UGswejY4Vll6ZlM3d0VEZmFZVld4Y3p2SElPLV9IQ1d0ZHhLXzhj?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1119,16 +1160,6 @@
       ]
     },
     {
-      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T22:07:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
       "description": "",
       "source": "CoinDesk",
@@ -1314,16 +1345,6 @@
       ]
     },
     {
-      "headline": "Iran vows to resist widened US sanctions, says Washington seeks talks - Reuters",
-      "description": "Iran vows to resist widened US sanctions, says Washington seeks talks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T16:54:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
       "description": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
       "source": "Cointelegraph",
@@ -1493,28 +1514,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-25T14:33:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Update - ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers",
-      "description": "VANCOUVER, British Columbia, Aug. 25, 2026 (GLOBE NEWSWIRE) -- ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), a technology solution provider specializing in AI (Artificial Intelligence) drones, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, announces",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-25T14:14:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350625/0/en/update-zenatech-completes-acquisition-of-esm-software-adding-strategy-execution-and-compliance-software-to-its-enterprise-saas-division-with-revenue-from-government-healthcare-and-.html",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 -DCC plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-25T14:07:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350614/0/en/form-8-3-dcc-plc.html",
       "asset_tags": [
         "general"
       ]
@@ -1959,6 +1958,16 @@
       ]
     },
     {
+      "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
+      "description": "United States sanctions oil trader Wellbred over Iran links Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-25T05:50:39+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "US targets Iran’s crypto sector, cites over $100M in oil-linked payments",
       "description": "The US Treasury expanded sanctions to Iran’s digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales.",
       "source": "Cointelegraph",
@@ -2029,16 +2038,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-24/iran-fuel-shortages-spark-lines-at-pumps-as-us-pressure-bites",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "United States sanctions oil trader Wellbred over Iran links - Reuters",
-      "description": "United States sanctions oil trader Wellbred over Iran links Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T03:40:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkRVSUpZLWl2T2ZNc1FtamVfUzBiRm5lZW43SHdvMHZFbVc0blFJMnFVaDVUM29rcTRURFF2X3R4NE5GYnlxWnNNYS1hS3hGS2RzZUY3MDVqVFFiSkJrRHVkNkpvWjkzOWlRbjllQ2JzYXFabDdYVUtfUURHbHBYb3NPcjFtWUhxMS16ZFppTUN3Q3J3VUdQU1ZoSHhZSk11cmJiV3VULVk3VVBWTzQxdw?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
