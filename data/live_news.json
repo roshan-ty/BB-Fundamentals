@@ -1,24 +1,565 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-27T11:12:55.112716+00:00",
+    "last_updated": "2026-08-27T21:02:22.409910+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 50,
-      "commodities": 13,
-      "macro": 25,
-      "general": 98,
-      "equities": 40,
-      "forex": 11
+      "macro": 22,
+      "forex": 12,
+      "commodities": 11,
+      "equities": 37,
+      "general": 95,
+      "crypto": 60
     }
   },
   "articles": [
+    {
+      "headline": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
+      "description": "The transaction used the Marshall Islands-issued USDM1 bond as collateral and completed the full repo cycle on the Canton Network in under 10 minutes.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T20:39:40+00:00",
+      "article_url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Economic and event calendar in Asia 28 August 2026 - Japan inflation data (Tokyo)",
+      "description": "<p dir=\"ltr\">Tokyo area inflation the focus today. Meanwhile, expectations of a Bank of Japan September rate hike are firming up:</p><ul><li><a class=\"article-link\" href=\"https://investinglive.com/central-banks/boj-s-himino-signals-more-hikes-flags-growing-upside-inflation-risk/\" rel=\"follow\" style=",
+      "source": "Forexlive",
+      "publication_date": "2026-08-27T20:25:17+00:00",
+      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-28-august-2026-japan-inflation-data-tokyo/",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Diodes Completes Acquisition of ElevATE Semiconductor, Expanding Presence in High-Growth ATE Market",
+      "description": "PLANO, Texas--(BUSINESS WIRE)--Diodes Incorporated (Diodes) (Nasdaq: DIOD) today announced the successful completion of its acquisition of ElevATE Semiconductor, Inc. (\"ElevATE\"), a leading provider of high-performance integrated circuits for the Automated Test Equipment (ATE) market, in an all-cash",
+      "source": "BusinessWire",
+      "publication_date": "2026-08-27T20:05:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260827112587/en/Diodes-Completes-Acquisition-of-ElevATE-Semiconductor-Expanding-Presence-in-High-Growth-ATE-Market/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Pasqal and Bleichroeder Acquisition Corp. II Complete Business Combination",
+      "description": "Pasqal Holding SA expects its ordinary shares to begin trading on Nasdaq under the ticker symbol “PSQL” on August 28th",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T20:05:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3352390/0/en/pasqal-and-bleichroeder-acquisition-corp-ii-complete-business-combination.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Iran's security chief denies report about a potential plot against Trump's son - Reuters",
+      "description": "Iran's security chief denies report about a potential plot against Trump's son Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T19:55:44+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMmxfUzFLX1V3NWtDWmZFZ3dsUGIzWV9VZmNZVUo1NjV6dUxQM1VpRTNPS3UtQzg3TWtPaHBuUDJ5STJNSGFnZlMwT2w4UHlpWjMtejRnbUllbWtFeVpXWUJSVkMyeGZjU1hwc1ZSU0xTdHN2eFlMNXd2SEFIWG9EeFlxNkh4TjBOM0J0dUFFV1FrYmp4NVJXZXZjbWM2UGtrRWYyMFlJeEJOb3lBSXdoRm03bmZucjhUN05yejhTRWV6cUpsV1lHVHBDZWJWdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "News Corp., Fox considering recombining - Reuters",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-27T19:52:34+00:00",
+      "article_url": "https://seekingalpha.com/news/4637627-news-corp-fox-considering-recombining-reuters?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
+      "description": "While investors in World Liberty Financial‘s USD1 stablecoin “haven’t suffered major losses,” many lost billions of dollars in other Trump ventures, according to Public Citizen.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T19:22:14+00:00",
+      "article_url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
+      "description": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T19:00:00+00:00",
+      "article_url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say - Reuters",
+      "description": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T18:53:21+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVfLVZrNnM2eTJJcmZaVjN5Ym83a094ZUYxR3RqenVKVUxyWGpIaldFZTJpZUVaRFJ4TkpJUkctd0VIc1Nzb05qamt6cnZVU3lqSkw3NUdUYmE3WXpXNTUyTjNnLUFUZERfYXp6SjMzV2hrOV9nN1FDWTI4QUxSWGpIMnhwUURoeWRoOUNsYVRMOGx3d1BwdFF1LVNYejhVSjJpT201YWxKTWNBeEdJNm5nZjEyNE1zMWg4TTN4QXNORzN1akNuVEgyWQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Grayscale says Zcash can challenge Bitcoin’s network effects as privacy demand grows",
+      "description": "ZEC has climbed roughly 19-fold in a year, yet Grayscale says its sub-1% share of Bitcoin’s market cap leaves room for further upside.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T18:51:02+00:00",
+      "article_url": "https://cointelegraph.com/markets/zcash-bitcoin-network-effects-grayscale-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "What's expected at Apple's September event — plus, an uneven rally in AI stocks",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T18:48:33+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/what-to-expect-from-apples-september-event-and-whats-driving-rally.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T18:28:53+00:00",
+      "article_url": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "What Warsh will say and how the market will react, according to prediction markets",
+      "description": "Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention \"bond market\" or \"rate cut\" at the annual Jackson Hole Symposium.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T18:14:57+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Donald Trump Jr. told Republican state attorneys not to fight prediction markets, NY Times reports",
+      "description": "The president's son, who is an advisor to two prediction market platforms, told Republican attorneys general to back off on the industry, the Times reported.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T18:09:54+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/trump-jr-told-gop-state-attorneys-general-dont-fight-prediction-markets-nyt-reports.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
+      "description": "After six months, the Iran war has reached its endgame — a costly stalemate Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T18:03:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T17:32:20+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/27/ethena-surges-as-buyback-vote-vc-unlock-overhaul-boost-token-outlook",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin eyes $81K as Nvidia earnings beat boosts risk assets",
+      "description": "Bitcoin and crypto joined US stock markets in fresh gains after Nvidia Q2 earnings beat expectations by around $4 billion.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T17:15:43+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-eyes-81k-as-nvidia-earnings-beat-boosts-risk-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Jim Cramer says the 'worst is over' at Salesforce, sees another 20% upside from here",
+      "description": "Jim Cramer believes the comeback rally in Salesforce is far from over.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T16:59:00+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/jim-cramer-says-the-worst-is-over-at-salesforce-sees-another-20percent-upside-from-here.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T16:32:38+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Charles Schwab adda Solana, Avalanche and Chainlink to nascent crypto platform",
+      "description": "The financial services giant plans to expand Schwab Crypto beyond Bitcoin and Ether just months after rolling out direct crypto trading to retail clients.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T16:13:10+00:00",
+      "article_url": "https://cointelegraph.com/news/charles-schwab-to-add-solana-avalanche-and-chainlink-to-crypto-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T16:12:10+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/27/polish-olympic-chief-arrested-as-prosecutors-probe-suspected-crypto-linked-bribe",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin’s 23% rally sends beaten-down miners soaring past AI stocks",
+      "description": "Canaan, American Bitcoin and Cango jumped as much as 67% as renewed crypto demand showed BTC exposure can still drive mining equities despite the industry’s AI push.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T16:04:15+00:00",
+      "article_url": "https://cointelegraph.com/markets/bitcoin-miner-stocks-rally-crypto-demand-ai-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "UK government reports 240 crypto millionaires in 2025",
+      "description": "About 17,600 people in the UK reported a combined $1.9 billion in gains tied to crypto in the 2024 to 2025 tax year, with 240 each declaring more than $1.4 million.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T15:56:00+00:00",
+      "article_url": "https://cointelegraph.com/news/uk-government-crypto-millionaires-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "MoonPay’s newest integration lets AI agents handle crypto lending on Solana",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T15:52:21+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/27/moonpay-s-newest-integration-lets-ai-agents-handle-crypto-lending-on-solana",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T15:36:25+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/27/240-uk-taxpayers-made-more-than-usd1-3-million-each-from-crypto-holdings-in-fiscal-2025",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "We went 3 for 3 — what we learned from wins at Nvidia, Salesforce, and CrowdStrike",
+      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T15:17:18+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/we-went-3-for-3-what-we-learned-from-wins-at-nvidia-salesforce-and-crowdstrike.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T15:10:56+00:00",
+      "article_url": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T14:32:41+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Pernod Ricard CEO says not in renewed takeover talks with Brown-Forman - report",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-27T14:22:05+00:00",
+      "article_url": "https://seekingalpha.com/news/4637484-pernod-ricard-ceo-says-not-in-renewed-takeover-talks-with-brown-forman---report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle PLC",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T14:20:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3352170/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
+      "description": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T14:10:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 -DCC plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T14:03:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3352154/0/en/form-8-3-dcc-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto traders brace for Fed Chair Kevin Warsh’s Jackson Hole speech",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T14:01:05+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Ripple Prime expands into US equity derivatives with Delta One business",
+      "description": "Institutional clients can access total return swaps across linked to US-listed equities, indexes and digital assets and cross-margin exposures.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T13:54:22+00:00",
+      "article_url": "https://cointelegraph.com/news/ripple-prime-us-equities-delta-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
+      "description": "The data includes the portfolios of hundreds of family offices, representing a total of $1.4 trillion in assets.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T13:40:29+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "This is ‘one of the worst’ credit card habits, experts say—41% of cardholders do it",
+      "description": "Missing a credit card payment can damage your credit for years, while paying only the minimum can leave you in debt for decades.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T13:00:02+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/this-is-one-of-the-worst-credit-card-habits-41percent-of-cardholders-do-it.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bank of England set for new innovation mandate covering stablecoins",
+      "description": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-27T12:51:59+00:00",
+      "article_url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bosnian Serb general Ratko Mladic, convicted of genocide, has died, Serbian TV reports - Reuters",
+      "description": "Bosnian Serb general Ratko Mladic, convicted of genocide, has died, Serbian TV reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T12:49:21+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVkp0T1VGVEpXeG5sVDFpSjhkQlUxQlp5Nmk4aUE5dU9NcXFuTERSVVhlcHJFRGRzNFZFWmthamFIaHRsMzFidTJRU3p4WUJXM2pYYjlJaWhobURXd25CM0hNMV96NThFaU5zLUNfa1VRX1dmOWdCd24tekpNbms3QzVzX2RkaVUyRUc5SzhrY2h1X3kyXzdGdklRUTVTNldUb21CNks3ejhtOGFVcEtfODVCazhXS2Fhblo0d3laTQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The Clarity Act will put Main Street banks at a disadvantage",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T12:30:00+00:00",
+      "article_url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "First Financial Corporation and First Illinois Corporation Sign Merger Agreement",
+      "description": "Transaction Strengthens First Financial’s Illinois Franchise Through Addition of Hickory Point Bank and Trust Transaction Strengthens First Financial’s Illinois Franchise Through Addition of Hickory Point Bank and Trust",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T12:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3352012/0/en/first-financial-corporation-and-first-illinois-corporation-sign-merger-agreement.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
+      "description": "The policymaker stopped just short of calling for an interest rate hike.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T12:20:30+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.3 Picton Property Income Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T12:09:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351985/0/en/form-8-3-picton-property-income-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T12:08:33+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Form 8.3 LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T12:07:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351984/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "American Airlines adds batch of new international routes on its XLR planes",
+      "description": "American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Philadelphia hub or from New York City.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T12:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T12:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351975/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-08-27T11:59:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351929/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T11:37:10+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "What the Buss family Lakers dispute can teach the wealthy about trusts",
+      "description": "Jeanie Buss, governor of the Lakers, is contesting her siblings' decision to sell the family's remaining stake in the NBA team.",
+      "source": "CNBC",
+      "publication_date": "2026-08-27T11:34:54+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T11:11:08+00:00",
+      "article_url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin tests its largest supply wall at $80,000, near ETF holders’ average price",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T10:54:24+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-tests-its-largest-supply-wall-at-usd80-000-near-etf-holders-average-price",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T10:51:02+00:00",
+      "article_url": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
       "description": "Bitcoin price analysis reveals convergence of multiple trend lines and liquidity structures around spot price, keeping upside in check.",
       "source": "Cointelegraph",
       "publication_date": "2026-08-27T10:34:12+00:00",
       "article_url": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin steadies above $79,000 as ETF inflows hit longest streak since April",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-27T10:31:21+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-steadies-above-usd79-000-as-etf-inflows-hit-longest-streak-since-april",
       "asset_tags": [
         "crypto"
       ]
@@ -135,17 +676,6 @@
       ]
     },
     {
-      "headline": "US administration reportedly mulling over fresh round of tariffs on semiconductors",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">The report says that the Trump administration is weighing up a new round of \"sweeping tariffs on semiconductors\". Adding that up for consideration is an approach to expand the number of tech products that will be subject to duties, thus hitt",
-      "source": "Forexlive",
-      "publication_date": "2026-08-27T09:29:57+00:00",
-      "article_url": "https://investinglive.com/news/us-administration-reportedly-mulling-over-fresh-round-of-tariffs-on-semiconductors/",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
       "headline": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
       "description": "Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.",
       "source": "Cointelegraph",
@@ -187,16 +717,6 @@
       ]
     },
     {
-      "headline": "Uber Publishes Offer Document for its Takeover Offer for Delivery Hero",
-      "description": "SAN FRANCISCO--(BUSINESS WIRE)--Uber International Technologies II Corporation (the “Bidder”), an indirect wholly-owned subsidiary of Uber Technologies, Inc. (NYSE: UBER) today published the Offer Document for its voluntary public takeover offer for all outstanding no-par value registered shares in ",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-27T09:15:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260826007432/en/Uber-Publishes-Offer-Document-for-its-Takeover-Offer-for-Delivery-Hero/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Britain plans new Bank of England objective for stablecoins",
       "description": "",
       "source": "CoinDesk",
@@ -217,6 +737,16 @@
       ]
     },
     {
+      "headline": "Canada excludes US seafood from retaliatory tariffs - Reuters",
+      "description": "Canada excludes US seafood from retaliatory tariffs Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T08:24:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0p0OFRPcVc3Q084cGZoNWw1ZHJ6NGRZb0JWMFdzUW9VU09rQnM2LTRKbVQtV1hPVDJ6V2s1em9YaElyNjJkellVQm9EUV9CanVIR0Y1SWRDLVBCaVByZVVTcXNGcUw4NmpIOEh2aC1zWkpyTG00MlhYYmNQNlBTYnFULUlWVDEzdEprUEtJVG1lQkloanc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -224,6 +754,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351807/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Russia expels Romanian diplomat - Reuters",
+      "description": "Russia expels Romanian diplomat Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T08:07:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81c1plRE1hVUoxOU81VmFvanVyT3lJaElDZGJtY1Bzbk0yb0VOU3dwSjlYTkk5WFZFR2VtRUI0c0xoNG45MzktSEpFOFg5TDU2WFRWdkNBMjBZMmZEZDllTkNCclN1WUJld214VjhTNTRDRUM5bndfNVFmdUhUUQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -282,16 +822,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-27T07:57:53+00:00",
       "article_url": "https://seekingalpha.com/news/4637296-boliden-to-acquire-647-majority-stake-in-nexa-resources-for-131b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Shipping traffic through Strait of Hormuz rises slightly, data shows - Reuters",
-      "description": "Shipping traffic through Strait of Hormuz rises slightly, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T07:53:35+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC0zcXlqQ0pPcmt1dVA0OGJwY3NmTTdYaGVLY3RrX2JnVHdxSDVFVjNxRTQwTXM1OGlNTEFtZE52M2VMQzRhOUFfMUxEVFB6bW5OQkc3bzF4bzhibEt0WUdyNERfYUVBTERCX0Q4bVFKX0NPMWN1NkJhZGdqZVVSeWt5MTVSNHNCXzJ5cC1lWm1kQlNuRHZYT3pIdVo2WUxoblVKTE9QN2NSdFZUQkhSM2FCVWpEUmV4VGc?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -407,13 +937,23 @@
       ]
     },
     {
-      "headline": "Six consequences of six months of war in Iran - Reuters",
-      "description": "Six consequences of six months of war in Iran Reuters",
+      "headline": "Bessent, Warsh diverge on who should set the price of money - Reuters",
+      "description": "Bessent, Warsh diverge on who should set the price of money Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-27T05:06:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEV1S2tFLUNEVG9hdmJ3dEF5YlBmWk8xT0wwWXN3MzZGOVYzX0xITXRLbGNuTUtscXl1Sy10NHlaelVXUHMzZVNYMm42TUVmNVN6UW1pLXV3MDF4YXpaLV82VE5QdXI3R19HemNya2U5LTg1RGFTZXdvdjZ6blJwUWllYVEyaE02cmoyVmdSU3o3SzNZ?oc=5",
+      "publication_date": "2026-08-27T05:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFNYemtDLVI0aVJranpORkVlX0ppenZITDhaMnRYU2xVV0VIajlPb1g0a1FXMXJENnByeEFYODExUUVZUWluUUZKU2FvRy1ZcFNTMm91azBEWmFvTU5fbUd4UnFjOTFPSC1GQjVVdG9NbnAySkstMkdtcXpZNWZXVThlX2FzQWN4ZmxZazZCNVd5NTF3MnkxNXlEV1hSWTQ2RkFn?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6 - Reuters",
+      "description": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6 Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T05:01:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWRFTVVLeWNzcWswcTRJV0xyVkRqUkhkY0M4M01xck5KRDlyakVkaVU2Rk1FX2NBM1ZiRFVHUUczS19BbmpjVXBXeWNtOENJbFMyVjNDbGlnZEpHdVl3NEc1aEhJd3Nvem5ybFlacDlCWWQybkhDUVhqOTVHWXhaMjNleFVUZWxJVktnaHRMS2pRWUd1OXctZXRVa08wbTJCTGxSVEFjdDB6eFhfNEE?oc=5",
+      "asset_tags": [
+        "crypto"
       ]
     },
     {
@@ -448,6 +988,16 @@
       ]
     },
     {
+      "headline": "Shipping traffic through Strait of Hormuz rises slightly, data shows - Reuters",
+      "description": "Shipping traffic through Strait of Hormuz rises slightly, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T03:39:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC0zcXlqQ0pPcmt1dVA0OGJwY3NmTTdYaGVLY3RrX2JnVHdxSDVFVjNxRTQwTXM1OGlNTEFtZE52M2VMQzRhOUFfMUxEVFB6bW5OQkc3bzF4bzhibEt0WUdyNERfYUVBTERCX0Q4bVFKX0NPMWN1NkJhZGdqZVVSeWt5MTVSNHNCXzJ5cC1lWm1kQlNuRHZYT3pIdVo2WUxoblVKTE9QN2NSdFZUQkhSM2FCVWpEUmV4VGc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "KuCoin Pay Connects Digital Assets With Local Banking and Transfer Rails Across High-Growth Markets",
       "description": "New transfer-based access connects digital assets with local payment systems, including bKash and Nagad in Bangladesh, SPEI-compatible bank transfers in Mexico, and MTN and Airtel mobile money networks in Zambia. PROVIDENCIALES, Turks and Caicos Islands, June 24, 2026 /PRNewswire/ — Across many high",
       "source": "Cryptocurrency News",
@@ -468,23 +1018,33 @@
       ]
     },
     {
-      "headline": "Oil gains as traders weigh prospects of Hormuz reopening - Reuters",
-      "description": "Oil gains as traders weigh prospects of Hormuz reopening Reuters",
+      "headline": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms - Reuters",
+      "description": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-27T01:20:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5",
       "asset_tags": [
-        "macro"
+        "general"
       ]
     },
     {
-      "headline": "Qatar PM to visit Tehran to pursue mediation efforts - Reuters",
-      "description": "Qatar PM to visit Tehran to pursue mediation efforts Reuters",
+      "headline": "Six consequences after six months of war in Iran - Reuters",
+      "description": "Six consequences after six months of war in Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T00:34:23+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEV1S2tFLUNEVG9hdmJ3dEF5YlBmWk8xT0wwWXN3MzZGOVYzX0xITXRLbGNuTUtscXl1Sy10NHlaelVXUHMzZVNYMm42TUVmNVN6UW1pLXV3MDF4YXpaLV82VE5QdXI3R19HemNya2U5LTg1RGFTZXdvdjZ6blJwUWllYVEyaE02cmoyVmdSU3o3SzNZ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Qatar PM pursues mediation in Tehran as US ramps up 'economic war' - Reuters",
+      "description": "Qatar PM pursues mediation in Tehran as US ramps up 'economic war' Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-26T23:15:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
       "asset_tags": [
-        "general"
+        "macro"
       ]
     },
     {
@@ -555,6 +1115,26 @@
       "article_url": "https://seekingalpha.com/news/4637157-kimberly-clark-files-with-european-antitrust-regulator-for-review-of-kenvue-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "forex"
+      ]
+    },
+    {
+      "headline": "U.S. Secret Service aware of Iranian video threat against Barron Trump - Reuters",
+      "description": "U.S. Secret Service aware of Iranian video threat against Barron Trump Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T19:48:54+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Mourning Dolly: Photos of fan tributes around the world - Reuters",
+      "description": "Mourning Dolly: Photos of fan tributes around the world Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T19:36:53+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWdLNnd1eTRDM1dSQXFGcjN0WFV4dk1LWk9Id083RWQwVDd5endwaHFQTDk1TEZzSDlCVjhncWlhMC1FUUs5TjZQdFd2OFNBSTRFZHlGR1FYSDVSTDRFSHZQVk9XUjQ0Y2JLUXhvMzBYRzJPa0M1SUI3Yzc5d0tKRzVzOWEydXRVMWx6OURpRE1xakdIUENuSVQtX0hfUQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -786,16 +1366,6 @@
       ]
     },
     {
-      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T14:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351527/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "MERGE Acquires Brado's Digital and Insight Practices to Deepen Behavioral Research and Accelerate AI-Driven Discoverability",
       "description": "MERGE, a marketing and technology agency built for the health & wellness sectors, acquired St. Louis-based Brado’s Insight & Digital practices.",
       "source": "GlobalNewswire",
@@ -811,26 +1381,6 @@
       "source": "SeekingAlpha",
       "publication_date": "2026-08-26T13:44:46+00:00",
       "article_url": "https://seekingalpha.com/news/4636996-palo-alto-ceo-considered-deals-to-buy-datadog-okta---the-information?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T13:36:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351479/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T13:32:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351477/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
       "asset_tags": [
         "general"
       ]
@@ -987,16 +1537,6 @@
       ]
     },
     {
-      "headline": "Form 8.3 Picton Property Income Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T11:58:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351253/0/en/form-8-3-picton-property-income-limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
       "description": "The attack has disrupted the company's ability to ship products, and it's not clear when services will be restored.",
       "source": "CNBC",
@@ -1014,16 +1554,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351251/0/en/form-8-3-nextenergy-solar-fund-limited.html",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 LondonMetric Property Plc & Schroder Real Estate Investment Trust Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T11:54:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351249/0/en/form-8-3-londonmetric-property-plc-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1147,6 +1677,16 @@
       ]
     },
     {
+      "headline": "Kremlin says US spy chief met with Russian counterparts during Moscow visit - Reuters",
+      "description": "Kremlin says US spy chief met with Russian counterparts during Moscow visit Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T10:19:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Kalshi’s $1.5B equity offering is three-quarters sold at $1.12B",
       "description": "The Form D lists 71 investors and says Kalshi is relying on an exemption that allows certain private offerings without SEC registration.",
       "source": "Cointelegraph",
@@ -1177,33 +1717,12 @@
       ]
     },
     {
-      "headline": "12 Goranson Bain Ausley Attorneys Named to 2027 Best Lawyers: Ones to Watch® in America for Family Law",
-      "description": "Recognition reflects the strength of GBA’s next generation of family law attorneys across Austin, Dallas, Fort Worth and Plano. Recognition reflects the strength of GBA’s next generation of family law attorneys across Austin, Dallas, Fort Worth and Plano.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T10:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351142/0/en/12-goranson-bain-ausley-attorneys-named-to-2027-best-lawyers-ones-to-watch-in-america-for-family-law.html",
+      "headline": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on - Reuters",
+      "description": "COMMENTARY: US-Iran war sinks into energy trench warfare six months on Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-26T10:02:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
       "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - SPIRE HEALTHCARE GROUP PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T09:55:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351139/0/en/dimensional-fund-advisors-ltd-form-8-3-spire-healthcare-group-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T09:48:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351134/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities",
         "commodities"
       ]
     },
@@ -1215,16 +1734,6 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 25 08 2026 - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T09:14:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351126/0/en/form-8-3-advanced-medical-solutions-group-plc-25-08-2026-cgwl.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1290,17 +1799,6 @@
       ]
     },
     {
-      "headline": "Sportradar Scores with Euroleague Basketball Official Data and AV Betting Rights Deal",
-      "description": "Sportradar Group AG (NASDAQ: SRAD) and Euroleague Basketball today announced a multi-year extension of their data and audiovisual betting rights agreement",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T08:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351104/0/en/sportradar-scores-with-euroleague-basketball-official-data-and-av-betting-rights-deal.html",
-      "asset_tags": [
-        "forex",
-        "equities"
-      ]
-    },
-    {
       "headline": "Sugar falls as weaker India prices curb import expectations",
       "description": "Under the new measures, the government allowed 1 million tons of duty-free imports and also permitted refiners to divert some sugar to the domestic market after refining, instead of exporting it.",
       "source": "Bloomberg",
@@ -1341,26 +1839,6 @@
       ]
     },
     {
-      "headline": "Press Release",
-      "description": "26.08.2026",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T07:23:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351101/0/en/press-release.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Pressemeddelelse",
-      "description": "26.08.2026",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T07:23:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351101/0/da/pressemeddelelse.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel - Reuters",
       "description": "Dubai's DXB first-half passenger traffic falls more than 30% as Iran war disrupts travel Reuters",
       "source": "Reuters",
@@ -1398,16 +1876,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-26T06:09:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlZZZUthczBuQ2FsOEZnMEhWQ0ZhMUh1ajdxc1R0c1ZzUWhtWjlDckRqUFNLRXBscjV0RDltV0RMSEJjbWpyWk4ySlV2TEhFdTFPUTgyY1d1aV8taTdtS21rUHpWanJvSDc5V1UtZ2J4TmZIdG5HMVhVZWpQUnlCeTlLQ0M5WFhjU1BkTDBNUkJKQlRJckxzRTdSN1B2bjRSNVFMMktvQkMyeF9IT1kya2FnZXd6a1N3REpv?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "US-Iran war sinks into energy trench warfare six months on - Reuters",
-      "description": "US-Iran war sinks into energy trench warfare six months on Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-26T06:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUMxd0dzb1VHdVAxRERXaTE2RFhfaEE1M1pQY084QWJIU2ZLWEZ3VUpVbi1ORkpXMEJNRjUyS1dwUUdvYnROb1kwNXFpQm40V3VjellLTWdRYWQ1ZWxKY1dvc3ZLWXVzSVhJSmJqSXNGWmRieDJMQ2RlSktPeS1zSVFFTndmQ0NXaFcwTDFiUGRZU1VHdzlUdFdDWW04MEtMZ0dwT0JQamhjWU1RRkYxQlBWcUJFTlQzWnFZdGs2U0NIZw?oc=5",
       "asset_tags": [
         "commodities"
       ]
@@ -1571,482 +2039,14 @@
       ]
     },
     {
-      "headline": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel - Reuters",
-      "description": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel Reuters",
+      "headline": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed - Reuters",
+      "description": "Dollar edges lower as Iran sanctions, Treasury buybacks weighed Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-25T23:24:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Equities rise with tech boost and yields fall with oil prices - Reuters",
-      "description": "Equities rise with tech boost and yields fall with oil prices Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T23:11:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPREVmalQ3MXdwbVJUT3l4bktkT2xBLTVycVpRVkdzSUxPZ3lYdGZjTXpVWU5OckdENlF0R05kSm1CMUdPUDJwcXVxLWJaZ2VESzE1QTloUzdhTzZtMF9NM0FERmp3NWRJR3JudVN5UUttekdhTnV0UUExUFR2U0ZaS0J5TQ?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles down after choppy session as investors weigh Hormuz talks - Reuters",
-      "description": "Oil settles down after choppy session as investors weigh Hormuz talks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T23:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus - Reuters",
-      "description": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T22:58:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDhnT2QxNFlGZ3MzTE56cmZZNzQ0XzhxUmZRVURPb3h6Z3BDNW5LdlhLLW5SeGVCZ0tFS054U0UyV0I2UTl6VDJEeXFCQ0Q5d253RkN6dlNDbHFZUDBBdGxpczJTYkEyenVTWHNYSEZWZ2d2OGRQTTNraXhQenlnVGFyVjhDUFFsR2Y5d1IzUEZ2UmFkSVF0YUZ1LUtMLUlsU2RDeERJSTRtbnRLanJPQlF0b3o0aTZi?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil settles down more than 3%; investors shrug off US sanctions on Iran - Reuters",
-      "description": "Oil settles down more than 3%; investors shrug off US sanctions on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T22:49:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWVpMEdoenRuUHdzUlpxOG1xdVdSMTItdmhxNk5MUGc3YmdGLXl0S2EwYkNYVDV6LUJtaE96QkVuUFhqQzdORlVFdmRJTDRFaTVtSlNTZlh6OE9rQ0ZqdzJOWmQzbjVtWHJxZjFZNmo0VVlzRDRnYzJ1UklrQ0lNOHNCZWdZRVgtdXFZVnZGNXdlQVd2TlN0UjFhS2NNYjByTHBnZTY1NVpXNExJeGdObFllQ2lSYjNzRGw3aGh1ZFBuNmFnaUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US starts returning staff to Middle East missions after Iran war evacuations, sources say - Reuters",
-      "description": "US starts returning staff to Middle East missions after Iran war evacuations, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T22:41:45+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source - Reuters",
-      "description": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T22:21:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T22:07:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T21:56:57+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Zerohash back for second effort at OCC trust bank charter",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T21:38:28+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "World Liberty Financial launches USD1 natively on Canton Network",
-      "description": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T20:35:10+00:00",
-      "article_url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "2 of our software stocks face major tests of whether their rallies are for real",
-      "description": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T20:27:12+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Kalshi traders see low likelihood of major crypto bill becoming law this year",
-      "description": "The White House has pushed for Congress to pass the Clarity Act, a bill on crypto regulation. Kalshi traders see little chance the bill becomes law this year.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T19:52:43+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/kalshi-traders-see-low-likelihood-of-major-crypto-bill-becoming-law-this-year.html",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "U.S. Secret Service aware of Iranian video threat against Barron Trump - Reuters",
-      "description": "U.S. Secret Service aware of Iranian video threat against Barron Trump Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T19:45:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bond rout ending? Massive bets on bond rally dominate options market",
-      "description": "There's an old Wall Street adage: Stocks float on a sea of bonds. Options traders are betting the tide is going out.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T19:42:17+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T19:40:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "ECB set for September rate hike with no appetite to signal more, sources say - Reuters",
-      "description": "ECB set for September rate hike with no appetite to signal more, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T19:22:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1YSEQ1R25MRlpTOGV2WjhEVjJMc1N3MjhGMnhCcUF0WGpMSTh1UTVUTGxIam1MNjh0dURNUWQtdGd5MGZpRTBIcUVuS0dobGhhNlY2UDN5OTYxZzJPTnp4Y0FVWUlzMUN2bGxQQWtnTUVMNENlbXI0bkdFSnFjaDZOdG12VGZLcFdUZUJHWElaVElqMmF0dmpCNTdNejM1UTdISUdGaVYwWW9kSUN4TVUzbw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T19:01:55+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Are you richer than you think? How to find out—and what experts say to do if you are",
-      "description": "States are holding billions of dollars in unclaimed property, and some of it may be yours.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T19:00:02+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
-      "description": "CryptoQuant says Bitcoin’s 24% rally has flipped key market indicators bullish, though rising profit-taking could bring near-term turbulence.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T18:13:11+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Solana transactions hit record 4.2B as SOL rallies 40%",
-      "description": "Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T18:08:58+00:00",
-      "article_url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Rare tornado leaves trail of destruction through village in southern France - Reuters",
-      "description": "Rare tornado leaves trail of destruction through village in southern France Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T17:48:38+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDY4Z3EyT2dqZGJQb2R3Qmdtdll5MUYzTnFNVVpMY21yRlFhS0ZraDFTM192TlJyTUxsV3BPc1VNT0djY1lUOGdKTnhuOTI1S2dyOS1oMHdVV3BVWHFyUnZ0ZlBJNGVTYUcybEdQTzBOV3lzTmRTSFNLMlR4LXZNaDh5UzZFdFFJMnlCR1lpN2EwbHZrdmpqVXAtdHFNUGdvQVlBeEEyampqdTRDaFlhVUJBa2w?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran vows to resist widened US sanctions, says Washington seeks talks - Reuters",
-      "description": "Iran vows to resist widened US sanctions, says Washington seeks talks Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T16:54:01+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2NneVkxY2I3clNhUzloallHZTVKV2h5N2wxbGNwWVZlNEZMRzBwRnJXRGdmYjdHOVl0ZFZHYk1fR08xQmY4VnhEZjAxRURrUHRrLWV2NmlsMndTQ3UzN1VyR3luekZMUmUtUE9ON0FnMGxiektWdG9RUlBJOXVFQjVoa3JnUFp2MGlmamJuTDJEZF81Rkp3NA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
-      "description": "Strategy’s biggest risk may not be a Bitcoin crash, but losing access to the capital markets that help it service $1.76 billion in annual obligations.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T16:47:40+00:00",
-      "article_url": "https://cointelegraph.com/news/strategy-financing-risk-not-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "European shares gain on softer US Iran sanctions, falling oil prices - Reuters",
-      "description": "European shares gain on softer US Iran sanctions, falling oil prices Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T16:41:59+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYV9RU3NQS3FlMnJsNy1fRTVxZVJOX0htaElRYmMyRE5jazNycV9lbU9DN0dWaEZ4eUZQcW5sbll6YUlpaDk2ZE9wc1dRTERkM1JhYjFOWW1XcENBVXhTeXNvWjZZZ1hpTUlnbDF4VkJmUXRYNXNBTWM1a0NweVJUVXZfV3pxeS1IbUhVZVNaaU5hZEg2TjRDeXZwNUhudjVFVjBlVWxDcVBEX052?oc=5",
+      "publication_date": "2026-08-25T23:45:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORld4THVaUUFJWlFtRmRFeTI5SlliZ2ladnZNa2htLS1yeXBwcGY2UjFSVE5heHlycC11ay1KR0pLRTJKVGk4bUp2cVVwcXZsUE5kR0JCM0hTRGlRZk5WT1pDWnhfd0JKcjFkbUhlNHVRd3lpWkV4bmtDUG9CSGJCWFhuTFFfY04yb2FIOGtNYkxhS1N0SlJVaXhFTVN1ak51Z1lvaDVSaEVsb2J0UEFjM2w4THk1SzdY?oc=5",
       "asset_tags": [
         "forex",
-        "equities"
-      ]
-    },
-    {
-      "headline": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
-      "description": "Bitwise’s new portfolios automatically rebalance Coinbase tokenized stocks while allowing eligible non-US investors to keep the assets in their own wallets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T16:32:00+00:00",
-      "article_url": "https://cointelegraph.com/news/bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T16:22:47+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
-      "description": "DGAI nearly doubled in its first day of trading as DGrid expands its distributed AI inference network and rolls out hardware for its personal AI agent.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T15:53:05+00:00",
-      "article_url": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "We're trimming our position in an AI stock to protect our profits",
-      "description": "This is our second sale in as many days to reduce our exposure to the theme.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T15:27:43+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/were-trimming-our-position-in-an-ai-stock-to-protect-our-profits-.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Bitcoin slips from $80K as gold cools with falling US bond yields",
-      "description": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T15:15:35+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "commodities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Apple unveils new Mac mini, Mac studio with major chip upgrades",
-      "description": "In May, Apple eliminated the original $599 base configuration, effectively hiking the machine’s starting price to $799 before the latest increase.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-25T15:14:05+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-25/apple-unveils-new-mac-mini-mac-studio-with-major-chip-upgrades",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iraq may show how U.S. can squeeze Iran's trade partners - Reuters",
-      "description": "Iraq may show how U.S. can squeeze Iran's trade partners Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T15:08:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more - Reuters",
-      "description": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T15:05:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT20tcldmTnJoUWpfYlFMcnhIamdoZG5aenFWZDlLaGJFOG9mUVZQOENaU3hTNTlJOGpEUkg1QW9qVi1qUENRRGxLU3V2QW50cEs3YlE2LU1EZHhidlhheXpBeXBiX3FrT1dFeTFmQmo2cGpIdExvUUlET1d1eHJqc09lYVlvNjFPbEtmS0FaQ0xfYWlCdVl6WXQ3UjBMUUxZbWVNS0VXVTRfbzFwekE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T14:50:22+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "US spy chief visits Russia for meetings, media reports - Reuters",
-      "description": "US spy chief visits Russia for meetings, media reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T14:33:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Arcus launches tokenized perp positions on Robinhood Chain",
-      "description": "Arcus introduced transferable ERC-20 tokens for perpetual positions and lets tokenized stocks back leveraged trades without requiring users to sell their holdings.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T14:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
         "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T13:48:50+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
-      "asset_tags": [
-        "commodities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
-      "description": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T13:30:00+00:00",
-      "article_url": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Kenya Airways first-half pretax loss 15.92 billion shillings - Reuters",
-      "description": "Kenya Airways first-half pretax loss 15.92 billion shillings Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T13:05:50+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1ZSMklueS1HV1psREVXanQ3SGhFa29LQzNfcE1iZGFVVXhqZGVnNXBWWjYtekNBZG5OYUdRc3VTenFSQlNyOW1URGxiand3MzM5T3hOemZRbnotekN0dU5rY0JSMHhOREl1VVVlQ0xrdjc5X1h6U0NiUE55d0I0b1dPV2lhdXBMTVE3ckVXcF94U3hMcUVKNnhmbUZnRi1wNHl4N1ZkU2ZEQzQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers",
-      "description": "Workers are \"time traveling\" on LinkedIn to add AI skills to roles they left years ago, likely to get a leg up in a tough job market, researchers say.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T13:00:17+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-25T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
-      "asset_tags": [
-        "forex",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Chainalysis-led operation flags 7,700 accounts in child abuse probe",
-      "description": "Operation Lighthouse generated 14,300 investigative leads across 11 crypto exchanges and payment services and flagged over 7,700 suspect accounts.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-25T13:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/chainalysis-operation-lighthouse-flags-7700-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-      "description": "Chip stocks are bouncing back, one day before Nvidia's earnings report Wednesday night.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T12:59:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "USS Abraham Lincoln to dock in Thailand next week, Thai official says - Reuters",
-      "description": "USS Abraham Lincoln to dock in Thailand next week, Thai official says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T12:56:03+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGtrT0phc3JXREFkRmdXMHpxSVRUODRBZ0R0ZmhEa2c4VjlSWE5EaHltaUZDRmtkVUxYM0F6TlJ2eTdSMEQ4N0tYNXRCc0prekVIb1N5cVg5SlZRTDVZczVtV09saWFXazJNQlowSVZFWVBFTGk3UjJaeUJMSVdYVDdmSXF0M1A1TzFTOUNtYmR5SFpyUUluTkpETUU1Y2t1dFg5c2lsM3hDdmFWNjVTZ203MENmT2RI?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
-      "description": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-      "source": "CNBC",
-      "publication_date": "2026-08-25T12:55:49+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "What are the new US economic sanctions on Iran and its trade partners? - Reuters",
-      "description": "What are the new US economic sanctions on Iran and its trade partners? Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-25T12:20:58+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZm9YU2tWOHlXZ2tpVEl0VHFJcHVZVnVYNHp4UkFEWTJqVnRmTG04ZzJoc09jT0U5VTdlaXlLX1pGLVMxdnI3a1ZLTHVmckhOVDRvU0Vld3N3Q0ozbllqWUR2TTJJUFdNTWVXS2dGT3BnVDk1YUVORzlUTXFGRXZ2cWt3SmtoTGZnMzlDWVBtUGxaNEVEY3VaVGxabEdmbkd1c0JKZ3QzT2xDOVRyQlZZUHBwMVAxbjFt?oc=5",
-      "asset_tags": [
         "macro"
       ]
     }
