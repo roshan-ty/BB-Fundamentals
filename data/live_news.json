@@ -1,18 +1,68 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-29T17:03:14.056750+00:00",
+    "last_updated": "2026-08-29T19:46:30.576418+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "general": 97,
+      "forex": 13,
       "equities": 35,
-      "forex": 12,
-      "crypto": 58,
-      "commodities": 11,
-      "general": 96,
-      "macro": 24
+      "crypto": 56,
+      "commodities": 10,
+      "macro": 25
     }
   },
   "articles": [
+    {
+      "headline": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "description": "Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-29T19:12:42+00:00",
+      "article_url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump administration weighs Yosemite land swap for private developer’s access road",
+      "description": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access.",
+      "source": "CNBC",
+      "publication_date": "2026-08-29T18:21:49+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
+      "description": "The park service is backing the arch, despite finding that it would adversely affect historic sightlines and other visual relationships among nearby landmarks.",
+      "source": "CNBC",
+      "publication_date": "2026-08-29T18:13:43+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say - Reuters",
+      "description": "Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T17:58:32+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDJ3eXpHdUxRbndBaEJmblBpeC13Vk5sMF9lSGJOb3EwSzhDYXBWZnBjYWxqRWgyaGpKNDNsZWxacjRMWF8tQjNvQmNORXNEeVI0TG9nOVBSa2hhY2FFdklhVmVSNGxTalM0bWdtczdPWnd0d0FEeGNTRXdhN0I0eXBVRUFFRHpTX21wQUtJU1FqVmYyRTN2ZmZiNHEzV19OOWVmN3NPcE9SVjZzT29CY2U2bjRXdTAwVXIwcHU3Qjg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bessent says disorderly yen moves can destabilize global markets - Reuters",
+      "description": "Bessent says disorderly yen moves can destabilize global markets Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T16:47:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBpa0Q1ZFFoeUswNkhnRWtLZEdNVmpSNU5Qd19FY2ZseVEtLTJNQ0J4SVNLUU83RDRWa0VyWWlhQlNUdXoxMldCa0VTXzlhZllsbnh6LXVPbDNSYW1rVmFyY0VNRHljVUlPZGR2MTFZTWotZ0drc2hoNHJJTDZzVEpUZW9ieEt2Ny15QmktV0l0MWx1Rnd4Y00xc2pIQ0FLZkxtdzlkUTZXMDYxOVBXX3lrMUtpN0d6?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
     {
       "headline": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
       "description": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
@@ -145,6 +195,16 @@
       ]
     },
     {
+      "headline": "Six consequences after six months of war in Iran - Reuters",
+      "description": "Six consequences after six months of war in Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T04:26:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEV1S2tFLUNEVG9hdmJ3dEF5YlBmWk8xT0wwWXN3MzZGOVYzX0xITXRLbGNuTUtscXl1Sy10NHlaelVXUHMzZVNYMm42TUVmNVN6UW1pLXV3MDF4YXpaLV82VE5QdXI3R19HemNya2U5LTg1RGFTZXdvdjZ6blJwUWllYVEyaE02cmoyVmdSU3o3SzNZ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
       "description": "",
       "source": "CoinDesk",
@@ -269,6 +329,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlZhNVQwZ2dBSUdMTmN3b2ZuR1VlSlBOanV6NTVkNTBsdHdfZk1OYW95SVFnU0dIdDNlS0NGSkxwOWFCd05JQ28za2N3azJRM2p0UXlISHl3aERWa3VubVRlVGdSdjF3UFFyUlc3VW5yVmI5b3ItU3ZsY1l6TFYtVWxJUG50X2RiNHZ3bGNPMnVRemphRGd2dlJtYUEycGQwUFdxaWdZd056a2d4QldPVEZULVFFUGJQLW05bVFwSWlMLWF0YzVZWmRn?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Fed Chair Kevin Warsh says inflation isn’t slowing, vows to reach 2% target",
+      "description": "Fed Chair Kevin Warsh says underlying inflation has not meaningfully improved, keeping a September rate hike possible as policymakers assess price pressures.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-28T17:53:58+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-says-inflation-isn-t-slowing-vows-to-hit-to-2-target",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -925,16 +995,6 @@
       ]
     },
     {
-      "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
-      "description": "Iran's disfigured supreme leader remains invisible six months into an existential war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T08:02:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Tokio Marine HCC International Acquires Direct Commercial Limited, a Leading UK Commercial Motor MGA",
       "description": "LONDON, Aug. 28, 2026 (GLOBE NEWSWIRE) -- Tokio Marine HCC International (TMHCCI), a member of the Tokio Marine HCC (TMHCC) group of companies based in Houston, Texas, today announced it has signed a definitive agreement to acquire Direct Commercial Limited (DCL), a specialist UK commercial motor ma",
       "source": "GlobalNewswire",
@@ -1138,6 +1198,16 @@
       ]
     },
     {
+      "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
+      "description": "Iran's disfigured supreme leader remains invisible six months into an existential war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T05:01:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Closing auction scrutiny deepens as wild Sensex swing worries traders",
       "description": "A sudden 3% plunge in the BSE Sensex during a closing auction raises concerns over liquidity and potential market manipulation.",
       "source": "Bloomberg",
@@ -1297,16 +1367,6 @@
       "article_url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
-      "description": "After six months, the Iran war has reached its endgame — a costly stalemate Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T20:34:16+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1586,6 +1646,16 @@
       ]
     },
     {
+      "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
+      "description": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T14:29:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Pernod Ricard CEO says not in renewed takeover talks with Brown-Forman - report",
       "description": "",
       "source": "SeekingAlpha",
@@ -1633,16 +1703,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-27T13:00:02+00:00",
       "article_url": "https://www.cnbc.com/2026/08/27/this-is-one-of-the-worst-credit-card-habits-41percent-of-cardholders-do-it.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
-      "description": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T12:59:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1869,6 +1929,16 @@
       ]
     },
     {
+      "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
+      "description": "After six months, the Iran war has reached its endgame — a costly stalemate Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T09:57:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Centre plans ₹13,000-crore incentive scheme for battery cell components",
       "description": "Proposal aims to cut dependence on Chinese parts and close cost gap for local manufacturers",
       "source": "Bloomberg",
@@ -1950,6 +2020,16 @@
       ]
     },
     {
+      "headline": "Greek-operated air defence system shoots down drones over Saudi - Reuters",
+      "description": "Greek-operated air defence system shoots down drones over Saudi Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T08:30:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXprWkxJaFVNdjR0TWwtajNWMzliVndoTGJiRTZEM1JiWXJMV3NCbmNWVnJ6WGFROUZoejdUaFFDaGJsNHAxZXNHSk5UbDNEZjBQWTVtMm42UklJWGo4ak1JMWhadFNiU2NPb0ZPMEtrd0JxWi1rSFdlWXdpTFlYaXl0RnNqSkxGVUxDa3ZxeEpGQ3lJNm1ZZXFiX2lOQlR1NTRCSnVnbXhodUlVSlBsX2U3SVdYUk90YU45Skp5RDJBeWd6?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Canada excludes US seafood from retaliatory tariffs - Reuters",
       "description": "Canada excludes US seafood from retaliatory tariffs Reuters",
       "source": "Reuters",
@@ -1965,86 +2045,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-27T08:07:37+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81c1plRE1hVUoxOU81VmFvanVyT3lJaElDZGJtY1Bzbk0yb0VOU3dwSjlYTkk5WFZFR2VtRUI0c0xoNG45MzktSEpFOFg5TDU2WFRWdkNBMjBZMmZEZDllTkNCclN1WUJld214VjhTNTRDRUM5bndfNVFmdUhUUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Core Lightning confirms multiple vulnerabilities, prepares security update",
-      "description": "Core Lightning advised operators to use offline mode if they do not install the forthcoming update, keeping their nodes active but disconnected.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-27T08:05:44+00:00",
-      "article_url": "https://cointelegraph.com/news/core-lightning-vulnerabilities-node-security-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - Consortium comprising LondonMetric Property plc and Schroder Real Estate Investment Trust Limited",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T08:01:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351803/0/en/dimensional-fund-advisors-ltd-form-8-3-consortium-comprising-londonmetric-property-plc-and-schroder-real-estate-investment-trust-limited.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Boliden to acquire 64.7% majority stake in Nexa Resources for $1.31B",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-27T07:57:53+00:00",
-      "article_url": "https://seekingalpha.com/news/4637296-boliden-to-acquire-647-majority-stake-in-nexa-resources-for-131b?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin researchers propose quantum fix that would not crowd out transactions",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T07:15:57+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/27/bitcoin-researchers-propose-quantum-fix-that-would-not-crowd-out-transactions",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "OPEC+ loses oil market sway in Iran war as China gains influence - Reuters",
-      "description": "OPEC+ loses oil market sway in Iran war as China gains influence Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T07:14:25+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzQ5cjA0LVhLZTN3aEpkcDBvMXNmV3BnTHVtMFBzZnFfN05PSXFjZFAyUTZ3OEtBTnVCRDhIQXkwbGMwUFZSSTBLek9IbmNqTG16bGdlVlVjOHZ1ZER2c3Z5aXJuaV95ZFFObV9XZlYwNHNqdXcxN2FzeVRkSDF1OURPRThrUHhjOThzTEFyY1NBSG10Zlh4VXRTQWhzMXg3TGJINkRyWGhHLTd1NHc?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Bitcoin ETF inflows slow to $232M as BTC holds under $80K",
-      "description": "US spot Bitcoin ETF inflows slowed to $232.1 million as an eight-day streak reached $2.8 billion, while XRP funds posted their biggest inflow since Jan. 5.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-27T07:01:19+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-slow-232-million-btc-under-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Tokenized deposits could raise US credit costs: Dallas Fed economists",
-      "description": "Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-27T06:39:02+00:00",
-      "article_url": "https://cointelegraph.com/news/tokenized-deposits-us-credit-costs-dallas-fed-economists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Accenture to acquire Japan’s COMWARE; terms not disclosed",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-27T06:36:35+00:00",
-      "article_url": "https://seekingalpha.com/news/4637291-accenture-to-acquire-japans-comware-terms-not-disclosed?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
