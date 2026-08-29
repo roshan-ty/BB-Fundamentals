@@ -1,18 +1,108 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-29T12:49:15.223868+00:00",
+    "last_updated": "2026-08-29T17:03:14.056750+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "commodities": 10,
-      "general": 99,
-      "equities": 34,
-      "crypto": 59,
-      "forex": 10,
-      "macro": 25
+      "equities": 35,
+      "forex": 12,
+      "crypto": 58,
+      "commodities": 11,
+      "general": 96,
+      "macro": 24
     }
   },
   "articles": [
+    {
+      "headline": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "description": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-29T16:27:28+00:00",
+      "article_url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-29T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Swift’s $1.5 quadrillion network faces a blockchain test",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-29T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-29T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
+      "headline": "We're in the midst of an 'Imax awakening,' CEO says. How the company makes millions",
+      "description": "Christopher Nolan's \"The Odyssey\" has movie and history buffs flocking to theaters this summer. That's been great news for Imax.",
+      "source": "CNBC",
+      "publication_date": "2026-08-29T14:07:51+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/29/imax-revenue-odyssey-box-office.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
+      "description": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
+      "source": "CNBC",
+      "publication_date": "2026-08-29T13:25:55+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "US military families ride 'roller coaster of emotions' over six months of Iran war - Reuters",
+      "description": "US military families ride 'roller coaster of emotions' over six months of Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T13:09:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1PUndmMHEtR2czS0pLUHRwMXhjcG5mZzNjWDdQQ3I3cTlpaW5EdTFVc3BJUjBldmlZR0RJM09CZFhycFFlSmExRC05SEFvR0N1cHdaNWt4LUMxRmFpY2cyVjRfalFlT09EQXZ1XzlqaWt0SEphZFVVNGxDMmtKNUJmN090SFgwY2pfMFRBSXZ2TFpNTGJzRFlmS2ZwZlo4TThGQjhPLWJLa0ZJdmVXUm1OZldxY1hWNFoxYlJXUzF4NTJVMWZv?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million",
+      "description": "Good Girl Snacks founders Leah Marcus and Yasaman Bakhitar built their startup's multimillion-dollar valuation with pickle jars and Gen Z branding strategies.",
+      "source": "CNBC",
+      "publication_date": "2026-08-29T13:05:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/29/how-two-gen-z-founders-made-hot-girl-pickles-stand-out.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Tokenized assets are busier than the data shows",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-29T13:00:00+00:00",
+      "article_url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Trump-promoted brand touts GOLD before token collapse",
       "description": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.",
@@ -653,16 +743,6 @@
       ]
     },
     {
-      "headline": "Iran war drives US transport fuel surcharges, but also industry profits - Reuters",
-      "description": "Iran war drives US transport fuel surcharges, but also industry profits Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T10:32:30+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
       "description": "",
       "source": "CoinDesk",
@@ -680,6 +760,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/08/28/3352601/0/en/teva-announces-proposed-acquisition-of-a-novel-neuroscience-product-reinforcing-disciplined-business-development-approach-under-pivot-to-growth-strategy.html",
       "asset_tags": [
         "forex"
+      ]
+    },
+    {
+      "headline": "Iran war drives US transport fuel surcharges, but also industry profits - Reuters",
+      "description": "Iran war drives US transport fuel surcharges, but also industry profits Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T10:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -935,6 +1025,16 @@
       ]
     },
     {
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T07:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Amazon agrees deals to buy power from four Swedish wind farms",
       "description": "Amazon secures long-term power agreements for 200 megawatts from four Swedish wind farms to support its expanding data center operations.",
       "source": "Bloomberg",
@@ -1080,6 +1180,16 @@
       ]
     },
     {
+      "headline": "Shipping traffic via Strait of Hormuz slips below 10-day average, data shows - Reuters",
+      "description": "Shipping traffic via Strait of Hormuz slips below 10-day average, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T03:56:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkIyNkNoek04XzdWM0U0Vm9vNjlPeWcteDJiSmFuMGUtQ2h3Ukl3aUdMSnVtUXRQZlVmYmFTdl9vUXNkWDUyWG5sLU1Eb2FLWDJ1ZTlZQjEtNlotUTRxOXZ0ZFpOcDBWUDJNVWhJN0NuTW9XY3ByRnRWOW1XOHhsSW93Q2hSNl85RXE0ZVBtUHVUQVd4WF8ySE5COE15QlNKVjc1dS1IdTBqUWFNVU1acDVPNF9FbUxFT3MzR3AxblhVdw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Iran lashes out at US sanctions amid economic toll at home - Reuters",
       "description": "Iran lashes out at US sanctions amid economic toll at home Reuters",
       "source": "Reuters",
@@ -1113,7 +1223,7 @@
       "headline": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says - Reuters",
       "description": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-28T00:37:43+00:00",
+      "publication_date": "2026-08-28T00:29:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNW43Vk95endNOWY5dnh3SUs0amx5SDJXVEFuWTRoX0F0Vnl6azdkM3NYWmRMZXZPZ0pIRkpZTmZrcExyVG9GWVYyaHlXeFR6aVR1dS15RWcyNmxWZVNDNTBmRXRQSU9ESG1BcHE2YWU0d0M5MW1fcDgtUFFQYnZRTDYxMEp6S2l1c1ZaS3hodWRnSnlPR3hBLVFSLWlCUXR4SlFrb0Z6dnpCVFZneS1CZzVPR2JoRUJ5am0zdw?oc=5",
       "asset_tags": [
         "macro"
@@ -1125,6 +1235,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-28T00:08:48+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms - Reuters",
+      "description": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T22:54:03+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1177,6 +1297,16 @@
       "article_url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
+      "description": "After six months, the Iran war has reached its endgame — a costly stalemate Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T20:34:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1739,16 +1869,6 @@
       ]
     },
     {
-      "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
-      "description": "After six months, the Iran war has reached its endgame — a costly stalemate Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T09:57:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Centre plans ₹13,000-crore incentive scheme for battery cell components",
       "description": "Proposal aims to cut dependence on Chinese parts and close cost gap for local manufacturers",
       "source": "Bloomberg",
@@ -1927,127 +2047,6 @@
       "article_url": "https://seekingalpha.com/news/4637291-accenture-to-acquire-japans-comware-terms-not-disclosed?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Globus Medical expands digital health portfolio via acquisition of Higgs Boson Health",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-27T06:27:44+00:00",
-      "article_url": "https://seekingalpha.com/news/4637275-globus-medical-expands-digital-health-portfolio-via-acquisition-of-higgs-boson-health?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Six months of war: How the Middle East conflict has shaped financial markets - Reuters",
-      "description": "Six months of war: How the Middle East conflict has shaped financial markets Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T06:06:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZPbXZOMTI2d1doSndZUnZ4VTVxV2hlUzFvRmJyUHpXRnlTNUV2bk13WS1rVTNnYmRLbzE4VkN0RlpiUG1MakRKUUpRNkNkYVg3d2s4aXhBaWpUb3ZYd0poN1BlRndYTVk5enNRckZmWS1lQklIRWtTMFBUdW5raDJUWTRzeUdCQTBCRDBpTkhVcDBnMlo4dTFPVXJqT3ExcTQ0aFUzV1pjak1YSzNYdkJDZ0h1UjhKRG91Qw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "S-Bank Plc has received required merger control clearance for its voluntary public cash tender offer for all the shares in Oma Savings Bank Plc",
-      "description": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO AUSTRALIA, CANADA, HONG KONG, JAPAN, NEW ZEALAND OR SOUTH AFRICA OR IN ANY OTHER JURISDICTION IN WHICH THE TENDER OFFER WOULD BE PROHIBITED BY APPLICABLE LAW. FOR FURTHER INFORMATION, PLEASE SEE SEC",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T06:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351783/0/en/s-bank-plc-has-received-required-merger-control-clearance-for-its-voluntary-public-cash-tender-offer-for-all-the-shares-in-oma-savings-bank-plc.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "S-Pankki Oyj on saanut tarvittavan kilpailuviranomaisen hyväksynnän kaikista Oma Säästöpankki Oyj:n osakkeista tehdylle vapaaehtoiselle julkiselle käteisostotarjoukselle",
-      "description": "EI JULKISTETTAVAKSI TAI LEVITETTÄVÄKSI, KOKONAAN TAI OSITTAIN, SUORAAN TAI VÄLILLISESTI, AUSTRALIASSA, KANADASSA, HONGKONGISSA, JAPANISSA, UUDESSA-SEELANNISSA TAI ETELÄ-AFRIKASSA TAI NÄIHIN MAIHIN TAI MILLÄÄN MUULLA ALUEELLA TAI MILLEKÄÄN MUULLE ALUEELLE, JOSSA OSTOTARJOUS OLISI SOVELTUVAN LAIN VAST",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T06:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351783/0/fi/s-pankki-oyj-on-saanut-tarvittavan-kilpailuviranomaisen-hyv%C3%A4ksynn%C3%A4n-kaikista-oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-osakkeista-tehdylle-vapaaehtoiselle-julkiselle-k%C3%A4teisostotarjoukselle.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Japan to diversify crude supplies, back pipelines that bypass Hormuz - Reuters",
-      "description": "Japan to diversify crude supplies, back pipelines that bypass Hormuz Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T05:35:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ3huYVRnT2ZwempZZV9JS3Vad2p6NW5lM3c4MnJDdllzM2JkdEdDcWVzZDFScGpUc1M4UmJnZnBIZGJIdnRHYWZRTERFU3pOYjRSRU1NaDdYUFVSTjJKYldxaFhiY3lZSjEwaFdxU3laN2lpSDRMQUVEdGh1cWV2aTVUN3dpWWk0Q3dIenZCVm9jNmdBUHliOVFndXVybzM3UUxzcExlQXhuZGtvWldyb3pLSzhzSzhBbjdQUWd2RFFHRUFQSXFsRQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Pernod warns weak US, China will weigh in years to come - Reuters",
-      "description": "Pernod warns weak US, China will weigh in years to come Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T05:35:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ25ZQWhhZ0E1SWliYi1GZ3RSQTNwUFZtZkN2Qmw4R2RBUXVfSGhhZ09Oc0ZXMWk0enNhYmxkR0F6WWJYU0NkVDFDUHZmb2NpbkFIZzhhM1dWMkEwRGtmT3UwTG9vVXpaY0d1Vkc0Q1I4VXMzckEtSlIzbVEwbTNWVDlZamRlWUVYdWdCcFVFakxKbEJYbU85c2FNRm9CWG1hcjhmdXpWb0VqOVRFMmNmbnVDSE5vY2xINWhLVWNoTE91bnBDTHJZVnpTQUU?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T05:25:28+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Six consequences after six months of war in Iran - Reuters",
-      "description": "Six consequences after six months of war in Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T05:06:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEV1S2tFLUNEVG9hdmJ3dEF5YlBmWk8xT0wwWXN3MzZGOVYzX0xITXRLbGNuTUtscXl1Sy10NHlaelVXUHMzZVNYMm42TUVmNVN6UW1pLXV3MDF4YXpaLV82VE5QdXI3R19HemNya2U5LTg1RGFTZXdvdjZ6blJwUWllYVEyaE02cmoyVmdSU3o3SzNZ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bessent, Warsh diverge on who should set the price of money - Reuters",
-      "description": "Bessent, Warsh diverge on who should set the price of money Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T05:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFNYemtDLVI0aVJranpORkVlX0ppenZITDhaMnRYU2xVV0VIajlPb1g0a1FXMXJENnByeEFYODExUUVZUWluUUZKU2FvRy1ZcFNTMm91azBEWmFvTU5fbUd4UnFjOTFPSC1GQjVVdG9NbnAySkstMkdtcXpZNWZXVThlX2FzQWN4ZmxZazZCNVd5NTF3MnkxNXlEV1hSWTQ2RkFn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6 - Reuters",
-      "description": "EXCLUSIVE: Pentagon's NATO review preparing troop options for Hegseth by November 6 Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T05:01:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWRFTVVLeWNzcWswcTRJV0xyVkRqUkhkY0M4M01xck5KRDlyakVkaVU2Rk1FX2NBM1ZiRFVHUUczS19BbmpjVXBXeWNtOENJbFMyVjNDbGlnZEpHdVl3NEc1aEhJd3Nvem5ybFlacDlCWWQybkhDUVhqOTVHWXhaMjNleFVUZWxJVktnaHRMS2pRWUd1OXctZXRVa08wbTJCTGxSVEFjdDB6eFhfNEE?oc=5",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Nvidia in talks to buy AI startup Hugging Face, reports say",
-      "description": "Nvidia is reportedly close to acquiring AI startup Hugging Face for approximately $13 billion, enhancing its AI portfolio.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-27T04:38:51+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-discussed-buying-ai-startup-hugging-face-insider-says",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T04:35:18+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
-      "asset_tags": [
-        "crypto",
-        "macro"
       ]
     }
   ]
