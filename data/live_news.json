@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-29T01:09:33.464242+00:00",
+    "last_updated": "2026-08-29T06:27:00.813658+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 100,
+      "crypto": 60,
+      "general": 98,
       "forex": 10,
       "equities": 34,
       "commodities": 9,
-      "crypto": 59,
-      "macro": 23
+      "macro": 24
     }
   },
   "articles": [
+    {
+      "headline": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-29T04:30:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-29T02:30:00+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T02:04:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
       "description": "",
@@ -45,16 +75,6 @@
         "commodities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
-      "description": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T20:19:51+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -876,6 +896,26 @@
       ]
     },
     {
+      "headline": "4,000% options surge in 15 minutes shows wild side of new CAS system",
+      "description": "During the first monthly expiry at BSE, a ₹64,000-put option tied to a bank index was trading at just ₹1.70 at the start of the auction. Within minutes, it shot up to ₹68.55, before crashing back to zero, all in just 15 minutes.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-28T05:26:33+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/4-000-options-surge-in-15-minutes-shows-wild-india-auction",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Noel Tata, Shapoorji discuss share swap for Tata Sons stake sale",
+      "description": "Representatives of Noel Tata are exploring a deal where SP Group could receive shares in Tata Power Co. in exchange for part or all of its 18.4% stake in Tata Sons Pvt",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-28T05:18:53+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/noel-tata-shapoorji-discuss-share-swap-for-tata-sons-stake-sale",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means",
       "description": "",
       "source": "CoinDesk",
@@ -893,6 +933,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Closing auction scrutiny deepens as wild Sensex swing worries traders",
+      "description": "A sudden 3% plunge in the BSE Sensex during a closing auction raises concerns over liquidity and potential market manipulation.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-28T04:48:26+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/india-s-sensex-hit-by-flash-crash-during-unpopular-closing-auction",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -943,6 +993,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-28T01:18:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRktXN2YycnhZcGwzVkYxc0lVNzI0SU5ONUhEYzNEaUt6akFhdEJwS0ZKdWxQU2NWbThlUG1WZklhcDNaNGVGdUR6X3JwN1ZHcTQ4Wnp4M0dRRjFtTV9wN0c4aWl3QnVwQzlvcm5kVF9Nc1hRWW90eURDOTQ4UkFmVlZDZHBJRW81OHBnNkhTbVpRT2ZNOG1zMmpsaDRvU0lXWHk0TWFONjhXZ2hDWi1ud1VTVmRscWNBejgwNk53ZHNYZUxKVklzTlN3?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
+      "description": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T01:16:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1986,66 +2046,6 @@
       "article_url": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms - Reuters",
-      "description": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T01:20:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3BzVVdsbG9iUHJoaGxwVFYzR256VFBDQnlQRlh1YVZfVnZmUE1jeXQzRXFHRDhuSnpyanlNZ1NHR0RHUy1TSm8teHRiVHJ1cTZSMDRJaW1MMFJXQ2ZpTmZrN081Y3V4OUM0Qk9lRXJMY2ZONzVZN0J4eWtZT1d4TTR1Uzg1bjR5NU9TRGFQdmpZb2RPQUpYbWI4NzdyVVhsczZkOWVjTzV1ZTRKbHV3RDMwcUJ5U2xTT1M2VFhrMlVpQQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Qatar steps in to mediate as Trump says US not talking to Iran - Reuters",
-      "description": "Qatar steps in to mediate as Trump says US not talking to Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-26T23:15:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWtVN3R2dUFBREVJWjhxV1pXUEs4WUx1Ry1ReVRLQzZhS0ZBaEl1NlZ3T2cxcTdEU1Q1RnZqTC1aNWlUVjRpc3VpdTRtaTdub2RiQW5BamhkMGM2VUZjWlV4YnpkM0Q1ZS1YcVBwR2cxNlVXWjlCcUhHRDQ3VWtMWEt3Q0N5U2hQTlJETmRSeXFWUWltWktCYVNKLVo1enNRTGc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-26T23:01:44+00:00",
-      "article_url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Globus Medical Announces Acquisition of Higgs Boson Health to Transform Healthcare Experience Through AI-Driven Digital Solutions",
-      "description": "AUDUBON, Pa., Aug. 26, 2026 (GLOBE NEWSWIRE) -- Globus Medical, Inc. (NYSE: GMED), a leading musculoskeletal technology company, today announced the acquisition of Higgs Boson Health, a digital healthcare experience company based in Durham, NC and incubated out of Duke University. With a mission to ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-26T21:57:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351730/0/en/globus-medical-announces-acquisition-of-higgs-boson-health-to-transform-healthcare-experience-through-ai-driven-digital-solutions.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source - Reuters",
-      "description": "Iran and Oman still working on Strait of Hormuz accord, says senior Iranian source Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-26T21:36:32+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Grainger buys AWM technology assets for $210M",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-26T20:25:50+00:00",
-      "article_url": "https://seekingalpha.com/news/4637208-grainger-buys-awm-technology-assets-for-210m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
