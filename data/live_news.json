@@ -1,24 +1,94 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-30T15:29:52.337482+00:00",
+    "last_updated": "2026-08-30T18:47:33.582785+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "equities": 37,
-      "crypto": 53,
-      "general": 92,
-      "macro": 30,
+      "crypto": 51,
+      "general": 93,
+      "macro": 31,
+      "equities": 38,
       "commodities": 10,
-      "forex": 15
+      "forex": 14
     }
   },
   "articles": [
+    {
+      "headline": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+      "description": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-30T17:59:00+00:00",
+      "article_url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
+      "description": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T17:39:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
+      "description": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T17:16:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
+      "description": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
+      "source": "CNBC",
+      "publication_date": "2026-08-30T16:55:14+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-30T15:39:55+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-30T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Here are the 3 big things we're watching in the stock market in the week ahead",
       "description": "Broadcom and Palo Alto Networks report. Plus, it's jobs week.",
       "source": "CNBC",
       "publication_date": "2026-08-30T14:54:49+00:00",
       "article_url": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks - Reuters",
+      "description": "Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T13:15:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUp0Y2RpUlUyc1ZQakFhRXB4TjZwTlIzb1FUTVFCdEVMNHp6LWdkdXc2ZkdCUVo0TmZyb25XWUYzS0dkLTJuVzAzcldNWnhRZTJLREotVi1pQUlOeS1QMmM3ZWhVeTZIOTg2UGMtNzhZQ1EzM3BydUVGMC0xdzdOMzNBZ2VxOTNncUJOT2ZQa0FGU2FrR1YxYUNNcU9va2VRTXJ6ZGFscUdSRmc3V3JtRDJHaXE?oc=5",
       "asset_tags": [
         "equities"
       ]
@@ -32,26 +102,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
-      "description": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-30T10:40:22+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
-      "description": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-30T10:32:20+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
@@ -225,6 +275,16 @@
       ]
     },
     {
+      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T14:01:05+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "The big lesson from this week's earnings: The AI buildout is not a zero-sum game",
       "description": "Salesforce, CrowdStrike, and Nvidia all faced major tests with investors and crushed expectations.",
       "source": "CNBC",
@@ -367,16 +427,6 @@
       ]
     },
     {
-      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
-      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-29T02:04:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
       "description": "",
       "source": "CoinDesk",
@@ -430,6 +480,16 @@
       "asset_tags": [
         "equities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Trump signs order to create a US Space Academy - Reuters",
+      "description": "Trump signs order to create a US Space Academy Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T19:26:19+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWklmRzYtdUxEaWNGamhqcHNQSnI1NEVYOTNVVHdQaFlTYzBNbFZ0M01xUlkwU1lCTzJObU1aa3dfZVdkMEpLZGhyQUFCVTQ3UVptVngtNWl6UXBzS0xhUTM3bi1xZEg3SjdyckZ3M0k5c0FSQy0zTnpMMWEzVmhjVW5ENXoyWjMzeUlFSmZjX3p4SGE3eUVVT05SQ0I1elF5OW9KT0pGX1NLaHlO?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1353,7 +1413,7 @@
       "headline": "September risks are stacking up hard and fast for world markets - Reuters",
       "description": "September risks are stacking up hard and fast for world markets Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-28T05:39:44+00:00",
+      "publication_date": "2026-08-28T05:38:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5",
       "asset_tags": [
         "general"
@@ -1475,7 +1535,7 @@
       "headline": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says - Reuters",
       "description": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-28T00:37:43+00:00",
+      "publication_date": "2026-08-28T00:29:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNW43Vk95endNOWY5dnh3SUs0amx5SDJXVEFuWTRoX0F0Vnl6azdkM3NYWmRMZXZPZ0pIRkpZTmZrcExyVG9GWVYyaHlXeFR6aVR1dS15RWcyNmxWZVNDNTBmRXRQSU9ESG1BcHE2YWU0d0M5MW1fcDgtUFFQYnZRTDYxMEp6S2l1c1ZaS3hodWRnSnlPR3hBLVFSLWlCUXR4SlFrb0Z6dnpCVFZneS1CZzVPR2JoRUJ5am0zdw?oc=5",
       "asset_tags": [
         "macro"
@@ -1986,66 +2046,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-27T12:08:33+00:00",
       "article_url": "https://www.coindesk.com/tech/2026/08/27/ai-bug-reports-trigger-emergency-warning-for-bitcoin-lightning-node-operators",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "American Airlines adds batch of new international routes on its XLR planes",
-      "description": "American is adding seven routes to its 2027 schedule, with the majority heading to smaller European cities from its Philadelphia hub or from New York City.",
-      "source": "CNBC",
-      "publication_date": "2026-08-27T12:00:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/27/american-airlines-routes-xlr.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T11:37:10+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "What the Buss family Lakers dispute can teach the wealthy about trusts",
-      "description": "Jeanie Buss, governor of the Lakers, is contesting her siblings' decision to sell the family's remaining stake in the NBA team.",
-      "source": "CNBC",
-      "publication_date": "2026-08-27T11:34:54+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/27/buss-family-lakers-trust-dispute.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin experts prefer this defined-risk strategy for the next leg higher in prices",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T11:11:08+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/08/27/bitcoin-experts-prefer-this-defined-risk-strategy-for-the-next-leg-higher-in-prices",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin tests its largest supply wall at $80,000, near ETF holders’ average price",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T10:54:24+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-tests-its-largest-supply-wall-at-usd80-000-near-etf-holders-average-price",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Unstoppable Domains drops $2 million plan to bring .crypto and .bitcoin to standard internet",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T10:51:02+00:00",
-      "article_url": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
       "asset_tags": [
         "crypto"
       ]
