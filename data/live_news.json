@@ -1,18 +1,28 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-29T22:31:13.788140+00:00",
+    "last_updated": "2026-08-30T00:39:28.319018+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "crypto": 56,
       "general": 96,
       "forex": 13,
       "equities": 35,
-      "crypto": 56,
       "commodities": 10,
       "macro": 26
     }
   },
   "articles": [
+    {
+      "headline": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-29T23:49:17+00:00",
+      "article_url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Polygon discloses security flaws fixed in recent hard forks",
       "description": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
@@ -81,6 +91,16 @@
       "article_url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T15:08:07+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -205,6 +225,16 @@
       ]
     },
     {
+      "headline": "Six consequences after six months of war in Iran - Reuters",
+      "description": "Six consequences after six months of war in Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T04:26:40+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEV1S2tFLUNEVG9hdmJ3dEF5YlBmWk8xT0wwWXN3MzZGOVYzX0xITXRLbGNuTUtscXl1Sy10NHlaelVXUHMzZVNYMm42TUVmNVN6UW1pLXV3MDF4YXpaLV82VE5QdXI3R19HemNya2U5LTg1RGFTZXdvdjZ6blJwUWllYVEyaE02cmoyVmdSU3o3SzNZ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
       "description": "",
       "source": "CoinDesk",
@@ -212,16 +242,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
-      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-29T02:04:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -471,6 +491,16 @@
       "asset_tags": [
         "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
+      "description": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T15:29:37+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -954,6 +984,16 @@
       ]
     },
     {
+      "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
+      "description": "Iran's disfigured supreme leader remains invisible six months into an existential war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T08:48:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
       "description": "OneKey said it reproduced an exploit against an older version of the Ledger app in its lab environment, which Ledger fixed in its Ethereum app 1.22.2, with no user funds lost.",
       "source": "Cointelegraph",
@@ -1000,16 +1040,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-28T08:10:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/28/3352540/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
-      "description": "Iran's disfigured supreme leader remains invisible six months into an existential war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T08:02:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1290,16 +1320,6 @@
       ]
     },
     {
-      "headline": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal - Reuters",
-      "description": "Oil settles lower on clues about Fed policy, rumors of Hormuz deal Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T01:16:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDRjQUkzbzJPY3ZkSGVLX1NmU05FVWxRUXZod3V6MkU5TTUxTjl0cm5yMzB2R0UyMy1mUUZsZVZ5TkVGMkdXNWR1X0FqUk5OaFRsZjg4NVhreGM5bUFHQ1BiT1E0SFB1ZzJKNlVLdGFRZ2ZEd1BEV0s5ZFBEOVdtWHMtZzh3b0lBaHhHSkdSYTZWNWUzSjhNX1RLcEg0My1x?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says - Reuters",
       "description": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says Reuters",
       "source": "Reuters",
@@ -1377,6 +1397,16 @@
       "article_url": "https://cointelegraph.com/news/virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "macro"
+      ]
+    },
+    {
+      "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
+      "description": "After six months, the Iran war has reached its endgame — a costly stalemate Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T20:34:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1949,16 +1979,6 @@
       ]
     },
     {
-      "headline": "After six months, the Iran war has reached its endgame — a costly stalemate - Reuters",
-      "description": "After six months, the Iran war has reached its endgame — a costly stalemate Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T09:57:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlhWGJGcHdKencyMnlRUHBUejVOZlByMTJjWm8wSVVOdWRZV3FBQUlFNFI1WXVqTUdQaEtFeEJkeHl4aTEwaXJmd0MwTFY4VmJOMS02cWJ6ZGZzVEczaGFNelFqdmJoeFNhMGlzNzVzQ3hQOVFtejNvRXZqcVBQek5zY2l2VERfVlk4aHd3WXQ4YTc0MVhIdXF6ZHA4bFVBRlNNWXlKS0ZnbU1JdFo3MWFzMDg?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Centre plans ₹13,000-crore incentive scheme for battery cell components",
       "description": "Proposal aims to cut dependence on Chinese parts and close cost gap for local manufacturers",
       "source": "Bloomberg",
@@ -2025,26 +2045,6 @@
       "source": "CoinDesk",
       "publication_date": "2026-08-27T09:03:23+00:00",
       "article_url": "https://www.coindesk.com/policy/2026/08/27/britain-plans-new-bank-of-england-objective-for-stablecoins",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Live updates: Bitcoin climbs above $80,000 as ETF inflows hit eight straight days",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T08:51:37+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/27/live-updates-bitcoin-etf-inflows-hit-eight-straight-days-as-august-tops-usd3-billion",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Greek-operated air defence system shoots down drones over Saudi - Reuters",
-      "description": "Greek-operated air defence system shoots down drones over Saudi Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T08:30:02+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXprWkxJaFVNdjR0TWwtajNWMzliVndoTGJiRTZEM1JiWXJMV3NCbmNWVnJ6WGFROUZoejdUaFFDaGJsNHAxZXNHSk5UbDNEZjBQWTVtMm42UklJWGo4ak1JMWhadFNiU2NPb0ZPMEtrd0JxWi1rSFdlWXdpTFlYaXl0RnNqSkxGVUxDa3ZxeEpGQ3lJNm1ZZXFiX2lOQlR1NTRCSnVnbXhodUlVSlBsX2U3SVdYUk90YU45Skp5RDJBeWd6?oc=5",
       "asset_tags": [
         "general"
       ]
