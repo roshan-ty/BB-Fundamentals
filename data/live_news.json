@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-30T11:35:50.620500+00:00",
+    "last_updated": "2026-08-30T15:29:52.337482+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 93,
-      "macro": 29,
-      "crypto": 54,
+      "equities": 37,
+      "crypto": 53,
+      "general": 92,
+      "macro": 30,
       "commodities": 10,
-      "forex": 15,
-      "equities": 35
+      "forex": 15
     }
   },
   "articles": [
+    {
+      "headline": "Here are the 3 big things we're watching in the stock market in the week ahead",
+      "description": "Broadcom and Palo Alto Networks report. Plus, it's jobs week.",
+      "source": "CNBC",
+      "publication_date": "2026-08-30T14:54:49+00:00",
+      "article_url": "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-08-30T12:00:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
     {
       "headline": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
       "description": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' Reuters",
@@ -154,16 +175,6 @@
       ]
     },
     {
-      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
-      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-29T15:08:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
       "description": "",
       "source": "CoinDesk",
@@ -191,6 +202,16 @@
       "article_url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
       "asset_tags": [
         "commodities"
+      ]
+    },
+    {
+      "headline": "Warsh’s inflation warning sets up September showdown for the Fed",
+      "description": "Warsh didn’t signal that such a move is a done deal, and some Fed officials continue to say they are willing to wait and assess new data before making any decision",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-29T14:17:40+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-s-inflation-warning-sets-up-september-showdown-for-the-fed",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -346,6 +367,16 @@
       ]
     },
     {
+      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T02:04:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
       "description": "",
       "source": "CoinDesk",
@@ -376,16 +407,6 @@
         "equities",
         "commodities",
         "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Iran lashes out at US sanctions amid economic toll at home - Reuters",
-      "description": "Iran lashes out at US sanctions amid economic toll at home Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T20:26:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
-      "asset_tags": [
         "macro"
       ]
     },
@@ -1332,7 +1353,7 @@
       "headline": "September risks are stacking up hard and fast for world markets - Reuters",
       "description": "September risks are stacking up hard and fast for world markets Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-28T05:38:00+00:00",
+      "publication_date": "2026-08-28T05:39:44+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUzFqNTRaNFlnMk1nN1JYVnNTUklVVU1JcTEtZW5OeVFwUC1OczhMY3NJcGpWQWJzMmoxQ3oxN0l0TW5wSEMtdEk4a3otcHJTSzVxdk94a3lLV0FNbXNBQTROVXltSk42ME02ZGVSb0NxNWFBTjlEU2YzX05YZXBOaXNpdEJhMnlWYWF1T1BVRFlmMkU?oc=5",
       "asset_tags": [
         "general"
@@ -1428,6 +1449,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkIyNkNoek04XzdWM0U0Vm9vNjlPeWcteDJiSmFuMGUtQ2h3Ukl3aUdMSnVtUXRQZlVmYmFTdl9vUXNkWDUyWG5sLU1Eb2FLWDJ1ZTlZQjEtNlotUTRxOXZ0ZFpOcDBWUDJNVWhJN0NuTW9XY3ByRnRWOW1XOHhsSW93Q2hSNl85RXE0ZVBtUHVUQVd4WF8ySE5COE15QlNKVjc1dS1IdTBqUWFNVU1acDVPNF9FbUxFT3MzR3AxblhVdw?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Iran lashes out at US sanctions amid economic toll at home - Reuters",
+      "description": "Iran lashes out at US sanctions amid economic toll at home Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T01:34:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -2017,36 +2048,6 @@
       "article_url": "https://www.coindesk.com/web3/2026/08/27/unstoppable-domains-drops-usd2-million-plan-to-bring-crypto-and-bitcoin-to-standard-internet",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode",
-      "description": "Bitcoin price analysis reveals convergence of multiple trend lines and liquidity structures around spot price, keeping upside in check.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-27T10:34:12+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-faces-true-demand-test-above-83k-as-liquidity-thickens-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin steadies above $79,000 as ETF inflows hit longest streak since April",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T10:31:21+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-steadies-above-usd79-000-as-etf-inflows-hit-longest-streak-since-april",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Shipping traffic through Strait of Hormuz rises slightly, data shows - Reuters",
-      "description": "Shipping traffic through Strait of Hormuz rises slightly, data shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T10:24:05+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC0zcXlqQ0pPcmt1dVA0OGJwY3NmTTdYaGVLY3RrX2JnVHdxSDVFVjNxRTQwTXM1OGlNTEFtZE52M2VMQzRhOUFfMUxEVFB6bW5OQkc3bzF4bzhibEt0WUdyNERfYUVBTERCX0Q4bVFKX0NPMWN1NkJhZGdqZVVSeWt5MTVSNHNCXzJ5cC1lWm1kQlNuRHZYT3pIdVo2WUxoblVKTE9QN2NSdFZUQkhSM2FCVWpEUmV4VGc?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
