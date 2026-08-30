@@ -1,18 +1,68 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-30T05:53:39.981449+00:00",
+    "last_updated": "2026-08-30T11:35:50.620500+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 53,
-      "general": 97,
+      "general": 93,
+      "macro": 29,
+      "crypto": 54,
+      "commodities": 10,
       "forex": 15,
-      "equities": 35,
-      "commodities": 9,
-      "macro": 27
+      "equities": 35
     }
   },
   "articles": [
+    {
+      "headline": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
+      "description": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T10:40:22+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
+      "description": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T10:32:20+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says - Reuters",
+      "description": "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T10:05:06+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGEtTUQ0dGF3WlJacDh2Y2tEZ1BsR3hrRG9BY2ZPQjRFVkloRzJPN1o0UWtRVFRnUjgtVHJvVGFwY3FNVy1mbW1DMTdXek9mdDJZSjUxRy1UQm5kVlRBTzZpcFNrVjFWd1YwOU11TUtDRVk0VHVvbFJWVWRKdDN5TlIyeDhyY3VtdXNSQ2dXLUxhRmt1X2I3QzdpbUhEQV9NMjNxNmZNVkxQbEdaU1dKV0x2Y3E3M2U3VktPNDBiM1h1ZlpVYWc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "description": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-30T09:45:01+00:00",
+      "article_url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+      "description": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-08-30T08:04:56+00:00",
+      "article_url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
     {
       "headline": "A $1.1 million crypto card hack crashed a neobank's token 49%",
       "description": "",
@@ -104,6 +154,16 @@
       ]
     },
     {
+      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T15:08:07+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "The next trillion-dollar currency may not be a stablecoin — it might not even have a name yet",
       "description": "",
       "source": "CoinDesk",
@@ -154,16 +214,6 @@
       ]
     },
     {
-      "headline": "US military families ride 'roller coaster of emotions' over six months of Iran war - Reuters",
-      "description": "US military families ride 'roller coaster of emotions' over six months of Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-29T13:09:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1PUndmMHEtR2czS0pLUHRwMXhjcG5mZzNjWDdQQ3I3cTlpaW5EdTFVc3BJUjBldmlZR0RJM09CZFhycFFlSmExRC05SEFvR0N1cHdaNWt4LUMxRmFpY2cyVjRfalFlT09EQXZ1XzlqaWt0SEphZFVVNGxDMmtKNUJmN090SFgwY2pfMFRBSXZ2TFpNTGJzRFlmS2ZwZlo4TThGQjhPLWJLa0ZJdmVXUm1OZldxY1hWNFoxYlJXUzF4NTJVMWZv?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Gen Zers quit their jobs to start a pickle company—now it’s valued at $8.5 million",
       "description": "Good Girl Snacks founders Leah Marcus and Yasaman Bakhitar built their startup's multimillion-dollar valuation with pickle jars and Gen Z branding strategies.",
       "source": "CNBC",
@@ -194,6 +244,16 @@
       ]
     },
     {
+      "headline": "US military families ride 'roller coaster of emotions' over six months of Iran war - Reuters",
+      "description": "US military families ride 'roller coaster of emotions' over six months of Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T10:02:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1PUndmMHEtR2czS0pLUHRwMXhjcG5mZzNjWDdQQ3I3cTlpaW5EdTFVc3BJUjBldmlZR0RJM09CZFhycFFlSmExRC05SEFvR0N1cHdaNWt4LUMxRmFpY2cyVjRfalFlT09EQXZ1XzlqaWt0SEphZFVVNGxDMmtKNUJmN090SFgwY2pfMFRBSXZ2TFpNTGJzRFlmS2ZwZlo4TThGQjhPLWJLa0ZJdmVXUm1OZldxY1hWNFoxYlJXUzF4NTJVMWZv?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Stablecoins not credible for payments at scale, BIS chief says",
       "description": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
       "source": "Cointelegraph",
@@ -201,6 +261,16 @@
       "article_url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Vietnam restates readiness for ‘constructive’ US trade talks",
+      "description": "US Trade Representative Greer informed Vietnam’s Deputy Prime Minister Thang that the US aims to quickly conclude negotiations on the reciprocal trade agreement",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-29T07:26:46+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-29/vietnam-restates-readiness-for-constructive-us-trade-talks",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -276,16 +346,6 @@
       ]
     },
     {
-      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
-      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-29T02:04:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
       "description": "",
       "source": "CoinDesk",
@@ -316,6 +376,16 @@
         "equities",
         "commodities",
         "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Iran lashes out at US sanctions amid economic toll at home - Reuters",
+      "description": "Iran lashes out at US sanctions amid economic toll at home Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T20:26:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
+      "asset_tags": [
         "macro"
       ]
     },
@@ -1176,6 +1246,26 @@
       ]
     },
     {
+      "headline": "Reactions to the death of Norway's King Harald - Reuters",
+      "description": "Reactions to the death of Norway's King Harald Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T07:07:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU13TVp4cnBCVDQ4NUpqZG1hQnNPX1YyTmVONExPbjVDTDBUWHlNR241OUpzaXBXeENiZHdpYWZvVVoxLWJSOEdKZW9xelV0QU5ldHM4Ty1IRXd0d3ZjZk9wWVN1S19zWDlISXNYcWtBWDR3aG91NHY2cVdEVS1tV3FDX1ROOXhiYjJKNg?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "description": "Six months into Iran war, almost half of global oil flows from war zones Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T07:00:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Amazon agrees deals to buy power from four Swedish wind farms",
       "description": "Amazon secures long-term power agreements for 200 megawatts from four Swedish wind farms to support its expanding data center operations.",
       "source": "Bloomberg",
@@ -1341,16 +1431,6 @@
       ]
     },
     {
-      "headline": "Iran lashes out at US sanctions amid economic toll at home - Reuters",
-      "description": "Iran lashes out at US sanctions amid economic toll at home Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T01:34:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "US military uses laser to down three Mexican cartel drones near border - Reuters",
       "description": "US military uses laser to down three Mexican cartel drones near border Reuters",
       "source": "Reuters",
@@ -1364,7 +1444,7 @@
       "headline": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says - Reuters",
       "description": "US-hosted G20 finance meeting to target growth, imbalances, Iran sanctions, Treasury official says Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-28T00:29:00+00:00",
+      "publication_date": "2026-08-28T00:37:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNW43Vk95endNOWY5dnh3SUs0amx5SDJXVEFuWTRoX0F0Vnl6azdkM3NYWmRMZXZPZ0pIRkpZTmZrcExyVG9GWVYyaHlXeFR6aVR1dS15RWcyNmxWZVNDNTBmRXRQSU9ESG1BcHE2YWU0d0M5MW1fcDgtUFFQYnZRTDYxMEp6S2l1c1ZaS3hodWRnSnlPR3hBLVFSLWlCUXR4SlFrb0Z6dnpCVFZneS1CZzVPR2JoRUJ5am0zdw?oc=5",
       "asset_tags": [
         "macro"
@@ -1386,6 +1466,16 @@
       "source": "Reuters",
       "publication_date": "2026-08-27T23:45:43+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk9aaDNITHZ1ajlMOHZmVUdIcFYtMHZoN3gzY05oenBQSlIxOEFYdmNpT0RSSTlEMjREQmxyWnptU2wwTWV6ZWNzSnR2UlFEVjZpRG9kNDlMUHp4V2lTakRYcU5IbXhnM1NrWkZoZXNFeGN5NkhVbWJZbkZRbFQzSERSVU9MNjJydENueldxaVJodksxWWdZeDY1VjdOS1JFRkJXN0NfYmEzbUZYYUd2eWlnZ3VDZXc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say - Reuters",
+      "description": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T22:55:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVfLVZrNnM2eTJJcmZaVjN5Ym83a094ZUYxR3RqenVKVUxyWGpIaldFZTJpZUVaRFJ4TkpJUkctd0VIc1Nzb05qamt6cnZVU3lqSkw3NUdUYmE3WXpXNTUyTjNnLUFUZERfYXp6SjMzV2hrOV9nN1FDWTI4QUxSWGpIMnhwUURoeWRoOUNsYVRMOGx3d1BwdFF1LVNYejhVSjJpT201YWxKTWNBeEdJNm5nZjEyNE1zMWg4TTN4QXNORzN1akNuVEgyWQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1573,16 +1663,6 @@
       ]
     },
     {
-      "headline": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say - Reuters",
-      "description": "Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T18:16:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUTVfLVZrNnM2eTJJcmZaVjN5Ym83a094ZUYxR3RqenVKVUxyWGpIaldFZTJpZUVaRFJ4TkpJUkctd0VIc1Nzb05qamt6cnZVU3lqSkw3NUdUYmE3WXpXNTUyTjNnLUFUZERfYXp6SjMzV2hrOV9nN1FDWTI4QUxSWGpIMnhwUURoeWRoOUNsYVRMOGx3d1BwdFF1LVNYejhVSjJpT201YWxKTWNBeEdJNm5nZjEyNE1zMWg4TTN4QXNORzN1akNuVEgyWQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "What Warsh will say and how the market will react, according to prediction markets",
       "description": "Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention \"bond market\" or \"rate cut\" at the annual Jackson Hole Symposium.",
       "source": "CNBC",
@@ -1747,6 +1827,16 @@
       ]
     },
     {
+      "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
+      "description": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T14:29:09+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Pernod Ricard CEO says not in renewed takeover talks with Brown-Forman - report",
       "description": "",
       "source": "SeekingAlpha",
@@ -1794,16 +1884,6 @@
       "source": "CNBC",
       "publication_date": "2026-08-27T13:00:02+00:00",
       "article_url": "https://www.cnbc.com/2026/08/27/this-is-one-of-the-worst-credit-card-habits-41percent-of-cardholders-do-it.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
-      "description": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T12:59:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1965,86 +2045,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-27T10:24:05+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbC0zcXlqQ0pPcmt1dVA0OGJwY3NmTTdYaGVLY3RrX2JnVHdxSDVFVjNxRTQwTXM1OGlNTEFtZE52M2VMQzRhOUFfMUxEVFB6bW5OQkc3bzF4bzhibEt0WUdyNERfYUVBTERCX0Q4bVFKX0NPMWN1NkJhZGdqZVVSeWt5MTVSNHNCXzJ5cC1lWm1kQlNuRHZYT3pIdVo2WUxoblVKTE9QN2NSdFZUQkhSM2FCVWpEUmV4VGc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Pernod warns weak US, China will weigh in years to come - Reuters",
-      "description": "Pernod warns weak US, China will weigh in years to come Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T10:14:40+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ25ZQWhhZ0E1SWliYi1GZ3RSQTNwUFZtZkN2Qmw4R2RBUXVfSGhhZ09Oc0ZXMWk0enNhYmxkR0F6WWJYU0NkVDFDUHZmb2NpbkFIZzhhM1dWMkEwRGtmT3UwTG9vVXpaY0d1Vkc0Q1I4VXMzckEtSlIzbVEwbTNWVDlZamRlWUVYdWdCcFVFakxKbEJYbU85c2FNRm9CWG1hcjhmdXpWb0VqOVRFMmNmbnVDSE5vY2xINWhLVWNoTE91bnBDTHJZVnpTQUU?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form-8.3 APTITUDE SOFTWARE GROUP PLC - 26 08 2026 - (CGAML)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T10:09:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351845/0/en/form-8-3-aptitude-software-group-plc-26-08-2026-cgaml.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form-8.3 GOOCH & HOUSEGO PLC - 26 08 2026 - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T10:06:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351843/0/en/form-8-3-gooch-housego-plc-26-08-2026-cgwl.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 26 08 2026 - (CGWL)",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T10:04:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351842/0/en/form-8-3-advanced-medical-solutions-group-plc-26-08-2026-cgwl.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitfinex Securities completes record $50M tokenized capital raise",
-      "description": "Bitfinex Securities completed a record $50 million raise for Alkemya, whose token represents interests in a partnership that holds nickel assets.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-27T10:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/bitfinex-securities-record-50-million-tokenized-nickel-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitfinex Securities raises $50 million in push to offer tokenized nickel trading",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T10:00:00+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/27/bitfinex-securities-raises-usd50-million-in-push-to-offer-tokenized-nickel-trading",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Four Goranson Bain Ausley Attorneys Named 2027 Best Lawyers® “Lawyer of the Year”",
-      "description": "Goranson Bain Ausley (GBA) announced that four of its attorneys have been named 2027 Best Lawyers® “Lawyer of the Year,” with recognition spanning Family Law, Collaborative Law: Family Law and Family Law Mediation in Austin and Dallas/Fort Worth. Goranson Bain Ausley (GBA) announced that four of its",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T10:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351830/0/en/four-goranson-bain-ausley-attorneys-named-2027-best-lawyers-lawyer-of-the-year.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Centre plans ₹13,000-crore incentive scheme for battery cell components",
-      "description": "Proposal aims to cut dependence on Chinese parts and close cost gap for local manufacturers",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-27T09:56:45+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/india-plans-1-4-billion-in-aid-to-spur-battery-parts-output",
       "asset_tags": [
         "general"
       ]
