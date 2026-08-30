@@ -1,15 +1,15 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-30T00:39:28.319018+00:00",
+    "last_updated": "2026-08-30T05:53:39.981449+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 56,
-      "general": 96,
-      "forex": 13,
+      "crypto": 53,
+      "general": 97,
+      "forex": 15,
       "equities": 35,
-      "commodities": 10,
-      "macro": 26
+      "commodities": 9,
+      "macro": 27
     }
   },
   "articles": [
@@ -54,6 +54,16 @@
       ]
     },
     {
+      "headline": "Egypt's Banque Misr reviews US Iran sanctions notice, UAE central bank launches urgent examination - Reuters",
+      "description": "Egypt's Banque Misr reviews US Iran sanctions notice, UAE central bank launches urgent examination Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T18:21:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUNtSl8wSUhVN25USUY5OVJtUC1KdHd0UGUyUmMtb0VPNFFxaTY0Ymd0UUZGRU5xNngyYTRXNU5yQVdhbzRZSXpZNkNjTG5LQTgtMThuR01PN2xzcVBvUzBucXpNMl9rTlRyS2tQQ1JjOEFaWldtUFhTS0JjV0VqZFdtc0dfUmFkRjVtbVBMTjJXaVRhQzRWMVRpa21oLXBwUUtvVzlOdHZuOGhsT3BTa2ZwWUhZbWZQTTB0QkUwdWFFZXVOcVZ2RWVaVQ?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
       "headline": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites",
       "description": "The park service is backing the arch, despite finding that it would adversely affect historic sightlines and other visual relationships among nearby landmarks.",
       "source": "CNBC",
@@ -91,16 +101,6 @@
       "article_url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
-      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-29T15:08:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -235,6 +235,16 @@
       ]
     },
     {
+      "headline": "OpenAI to end partnership with Cursor after SpaceX acquisition",
+      "description": "OpenAI said it has informed Cursor that it will wind down their contract with a proposed shutoff date of Nov 12",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-29T03:58:49+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
       "description": "",
       "source": "CoinDesk",
@@ -242,6 +252,37 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Reliance Industries firm buys Lutyens Delhi bungalow for ₹350 crore",
+      "description": "A Reliance Industries firm has bought a Prithviraj Road bungalow in Lutyens Delhi for ₹3.5 billion, excluding taxes, as demand for luxury homes rises.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-29T02:28:51+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/reliance-owned-firm-buys-lutyens-bungalow-for-37-million",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Indian bank stocks see sharp NSE-BSE closing price gaps under new auction system",
+      "description": "The divergence has intensified scrutiny of a mechanism introduced on August 3, with traders warning that unusual volatility could erode market confidence.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-29T02:13:12+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "War weighs on Iran's economy as US intensifies sanctions - Reuters",
+      "description": "War weighs on Iran's economy as US intensifies sanctions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-29T02:04:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmtVbEg3UlB1QzhqQTZJLTRJY1ZfZWJTZjVrVjVPWDFDT3dGd0RxTEQ3M19hVEFHcldMaEpxcncwNGxlQ1ZDMzA3T09ScHFKdjFEYVQ4Yi1BdFNHdmNuVlpmN3MtWUVOSlVVTEZoRjlxRDZQQ3VpejdGRGg4bEh1NzRyMjJuYU15c2t1V0V3ckJxeDBLdUs4WFNkeEhnSWl3dW9keE5YMA?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -984,16 +1025,6 @@
       ]
     },
     {
-      "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
-      "description": "Iran's disfigured supreme leader remains invisible six months into an existential war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T08:48:51+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
       "description": "OneKey said it reproduced an exploit against an older version of the Ledger app in its lab environment, which Ledger fixed in its Ethereum app 1.22.2, with no user funds lost.",
       "source": "Cointelegraph",
@@ -1040,6 +1071,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-08-28T08:10:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/08/28/3352540/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran's disfigured supreme leader remains invisible six months into an existential war - Reuters",
+      "description": "Iran's disfigured supreme leader remains invisible six months into an existential war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T08:02:27+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQW14UEoyWExDbUdTdVpKekV0R2F3VGJnZV9hTnpSTW1FeUNWQ1pxV0c4WmFzX0cxbWhyNFJmekItWkVHSmlHQ1ZBTFRvRFlYbVZMQVdiVUw2RlNlZTlXZVBUMXJydUp3RlM0RVBCR056c0IzYUZlQmM2dVV0bVdkMVdXejFkSjhKZ2FWbzZDNDRVSzg1cEhjU3dSUTgwNWdPUnkxelhmWkpLNkhLb2Fibkp0OUZUa25BNVJzRGQxREFnMWFrcmE5ZDIwSnRKR2c?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1340,6 +1381,16 @@
       ]
     },
     {
+      "headline": "US officials weigh plan to shield farmers from expansion of refinery biofuel waivers, sources say - Reuters",
+      "description": "US officials weigh plan to shield farmers from expansion of refinery biofuel waivers, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T23:45:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTk9aaDNITHZ1ajlMOHZmVUdIcFYtMHZoN3gzY05oenBQSlIxOEFYdmNpT0RSSTlEMjREQmxyWnptU2wwTWV6ZWNzSnR2UlFEVjZpRG9kNDlMUHp4V2lTakRYcU5IbXhnM1NrWkZoZXNFeGN5NkhVbWJZbkZRbFQzSERSVU9MNjJydENueldxaVJodksxWWdZeDY1VjdOS1JFRkJXN0NfYmEzbUZYYUd2eWlnZ3VDZXc?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms - Reuters",
       "description": "Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms Reuters",
       "source": "Reuters",
@@ -1448,6 +1499,16 @@
       "asset_tags": [
         "forex",
         "crypto"
+      ]
+    },
+    {
+      "headline": "Six months of war: How the Middle East conflict has shaped financial markets - Reuters",
+      "description": "Six months of war: How the Middle East conflict has shaped financial markets Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T19:16:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzZPbXZOMTI2d1doSndZUnZ4VTVxV2hlUzFvRmJyUHpXRnlTNUV2bk13WS1rVTNnYmRLbzE4VkN0RlpiUG1MakRKUUpRNkNkYVg3d2s4aXhBaWpUb3ZYd0poN1BlRndYTVk5enNRckZmWS1lQklIRWtTMFBUdW5raDJUWTRzeUdCQTBCRDBpTkhVcDBnMlo4dTFPVXJqT3ExcTQ0aFUzV1pjak1YSzNYdkJDZ0h1UjhKRG91Qw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1686,16 +1747,6 @@
       ]
     },
     {
-      "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
-      "description": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T14:29:09+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Pernod Ricard CEO says not in renewed takeover talks with Brown-Forman - report",
       "description": "",
       "source": "SeekingAlpha",
@@ -1743,6 +1794,16 @@
       "source": "CNBC",
       "publication_date": "2026-08-27T13:00:02+00:00",
       "article_url": "https://www.cnbc.com/2026/08/27/this-is-one-of-the-worst-credit-card-habits-41percent-of-cardholders-do-it.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation - Reuters",
+      "description": "Visa, Mastercard launch international card payments in Syria after US lifts terrorism designation Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-27T12:59:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZi1lT1VCQkw2VXZWdVpNN2QtRzh3RllkOG9zcC1qUWpzRW1lenhSbm5fVU5nQVFVNFRyZ1VnYkstZTNhYUVlNDVWVFpzMnVlZUN1MFdPOTc4UWpjVXRkakg0dHlMelZYWGpJaDF3dE11SU50OVBqc2pPVER2THMwRkQxeDBhZHRnNjFmWHY1V0JRcnhDcjZYSDg0NFZvQjJVR3d2U1Y0NEYzRnR4dlZjSGNjTTduNkRueXhhWDNrenhDbHM?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1984,67 +2045,6 @@
       "source": "Bloomberg",
       "publication_date": "2026-08-27T09:56:45+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-08-27/india-plans-1-4-billion-in-aid-to-spur-battery-parts-output",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bithumb wins 2 suits over mistaken Bitcoin credits: Report",
-      "description": "Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-27T09:26:17+00:00",
-      "article_url": "https://cointelegraph.com/news/bithumb-wins-suits-mistakenly-credited-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Rotork plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-27T09:26:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351823/0/en/form-8-3-rotork-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "BlackRock's Mitchnick says macro case for bitcoin is strengthening after record trading in positive week",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T09:19:39+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/27/blackrock-s-mitchnick-says-macro-case-for-bitcoin-is-strengthening-after-record-trading-in-positive-week",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Nvidia shares surge 8% on earnings beat, lifting technology stocks and bitcoin",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T09:19:26+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/27/nvidia-shares-surge-8-on-earnings-beat-lifting-technology-stocks-and-bitcoin",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims - Reuters",
-      "description": "COMMENTARY: Asia's crude oil imports stay soft in August, challenging US Hormuz claims Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T09:17:55+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdkpUQUN3ODRuTTJNOC1nTEFMT0lPdTNEOFloWThuRGU4MkRLMmZkWXhxM3hVZUotVXgxRzZmUTZVUFhQWFJ1UEhleHpNYm1JNjk4ak96RmVjamFYcFV3V2hkQUM1MW1hX1lkZ0k2cGZ0SkdUakt5azdvRy1lMUpReW1iR0VoU0lYbnBlcXdZc2FLV3hwc2N4bXdLeGJFTU1zQlhFQ3dYX09GNDFfOWlOZDUwZUI1MXNJaHZKN3pvRTFhY0FESk1fRThLQUtTQ29QcjR1aA?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Britain plans new Bank of England objective for stablecoins",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-27T09:03:23+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/08/27/britain-plans-new-bank-of-england-objective-for-stablecoins",
       "asset_tags": [
         "general"
       ]
