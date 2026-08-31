@@ -1,18 +1,51 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-08-31T00:18:52.008189+00:00",
+    "last_updated": "2026-08-31T03:30:26.038789+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "commodities": 10,
       "crypto": 43,
-      "macro": 29,
-      "forex": 15,
-      "general": 102,
+      "macro": 28,
       "equities": 33,
-      "commodities": 9
+      "general": 104,
+      "forex": 14
     }
   },
   "articles": [
+    {
+      "headline": "China factory activity beats forecasts but stays in contraction in August",
+      "description": "<p dir=\"ltr\">The better-than-expected manufacturing PMI print offers some relief after July's steep fall, and the beat against consensus should support a modest improvement in risk sentiment toward Chinese assets and commodity-linked currencies, even though the index remains below the 50 line separa",
+      "source": "Forexlive",
+      "publication_date": "2026-08-31T01:56:51+00:00",
+      "article_url": "https://investinglive.com/news/china-factory-activity-beats-forecasts-but-stays-in-contraction-in-august/",
+      "asset_tags": [
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Shares skid in Asia as oil, yields stay high - Reuters",
+      "description": "Shares skid in Asia as oil, yields stay high Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-31T00:38:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran - Reuters",
+      "description": "Bessent expects new US secondary sanctions weekly, aiming to increase pressure on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T23:52:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWJLRHJBSlpLeHYxNEtndmNRX19YTG9GWENmSEdTZXRTbnZnUFJITUtYcV83YnlPWmlpbC00WnZic3FMYVowRlA4Zzk5V2NKc2ZSSkxtUXl6N1A2MmdQbTI3cWhqbWxfMXVNekZQWFYwY2hPcENiOXR1N1JjRU4ydTRGTWZoV0U2Ul9KdmVZZ1pBQzVFTnR1MUl5YXRpTV9DWXE1bEtOc0FkVTRpNkFHOV9XZ2JOUGJ2eUQ0WFFqRDdLdlZlWWdQdlpjSHY?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
       "description": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle.",
@@ -25,33 +58,21 @@
       ]
     },
     {
-      "headline": "More from Bessent, presses G20 to confront China's $1.2 trillion trade surplus",
-      "description": "<p dir=\"ltr\">Bessent framing China's trade surplus as unacceptable at a G20 gathering he is personally trying to reshape signals Washington intends to use the forum to build multilateral pressure on Beijing rather than relying solely on bilateral tariffs, which could unsettle currencies and equities",
-      "source": "Forexlive",
-      "publication_date": "2026-08-30T23:11:42+00:00",
-      "article_url": "https://investinglive.com/news/more-from-bessent-presses-g20-to-confront-china-s-1-2-trillion-trade-surplus/",
-      "asset_tags": [
-        "forex",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "US forces strike two Iranian launchers on Iran's Larak island, US official says - Reuters",
-      "description": "US forces strike two Iranian launchers on Iran's Larak island, US official says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-30T23:09:36+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Iran's IRGC says it launched attack on two US bases in Jordan - Reuters",
       "description": "Iran's IRGC says it launched attack on two US bases in Jordan Reuters",
       "source": "Reuters",
       "publication_date": "2026-08-30T23:07:20+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclJRRzlZV2lpOFlsSGdGcE1fUXVlel9CRndnX1NoM3lHcXkya2JMMWdrTEhUcnJyTHY0WDBqeFVoRzJmdEw5TlFXSGY1SVd1NXJERFdHS0IzQkhtRTdNTlJOMlp3RjgwYVVFYjY3NnV6d1c5cEt0UlVmaDJOdFBlT1ZRc0RpTVRVSkliRkU0SWZGYXZFa1JJdzNaOGxqVEFkX0FuV0l5WUNoaEFO?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Missile attack kills two, injures 16 in Russia's Belgorod, authorities say - Reuters",
+      "description": "Missile attack kills two, injures 16 in Russia's Belgorod, authorities say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T22:48:16+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeks4T2dMSFZWUk9JVDN0RWhtYzhsSllIU0R5OXp5MzBlbHdHdEJudkNCQW1vVkNPMHdkbHFjZDFka0RabXp1b0h3TENLalJSZGpmaHBpLThfMTgtRVFnUjlBUWZxWWlNZFJodGlrUVZraWNZa2lUQTdQOXl1bmFEODIxX0gzQkhvb3ZiVEZ3aXVRb21DVlVKZGZUX01Fa0MwR3RMaVFYNklKQWhXbnBN?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -67,11 +88,31 @@
       ]
     },
     {
-      "headline": "Oil jumps more than 2% after US attack on Iran's Larak island - Reuters",
-      "description": "Oil jumps more than 2% after US attack on Iran's Larak island Reuters",
+      "headline": "Iran is attacking US forces in Jordan, Fox News reports, citing a US source - Reuters",
+      "description": "Iran is attacking US forces in Jordan, Fox News reports, citing a US source Reuters",
       "source": "Reuters",
-      "publication_date": "2026-08-30T22:12:20+00:00",
+      "publication_date": "2026-08-30T22:36:02+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3Q5VzJ4c1pXc3pPc1VrUmdQOC1PQmxJaXhsTV9KS1hvVnJGTmt3NUZNUlp3UHRJeEg2QlA3aFRIdHE3VjRCODNSV0NvV2xQbFNyZ1hBYXdYSnNDcDc4TE1fYnYtQ3RxdnNrQXlJVWJCZHdDbm0yWlM4emozcDY0SDFjZGMyeVBGNlFibzhZNUpKQWg2M0ZwTTNCb2I1Um9WbmRhQUo1ajBhWm9tVTcyaDFYYUhMeDdoWVZLSnQtMA?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil jumps more than 1% after US attack on Iran's Larak island - Reuters",
+      "description": "Oil jumps more than 1% after US attack on Iran's Larak island Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T22:12:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGRJUGVDenVxZzdzdXZ4aTJudWV6LS1adkVVMmVUNnc1QnMyNVNsLThHcG44U2p6SWoxYm9LbjJnUGdkZDAzTENhSDR2OW90cWV2aDJNZWpKRllRNUhselE2djRhQlI3ejVmUUl6cFNnVDN1UmU4QXVadDNmQloya3daeWVHSmtGNDh4QWktSk1fenV3czlkbnhwNjJ3VzNXWEhZelFCRTIzaWpR?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US forces strike two Iranian launchers on Iran's Larak island, US official says - Reuters",
+      "description": "US forces strike two Iranian launchers on Iran's Larak island, US official says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-30T20:38:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -647,6 +688,16 @@
       "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUk9PdkZXSEIwWkpEUkZvbkxaTXgxaHNzMGFNVVlRWFhDdU9FQXJ6d1ZiNzNGZllJZGItdTBSVll0RGx1aDRHdmQ4WlhQZ3c2Q0dQSlQ0UkxQdks1eURQN2xzR3hLZWR0dFlHNGJuNEdWNkRDZkVZMXdpZWRHSzdTVXZacDl5Ym1LTXEyYlVVVmxGQ2NUUTlzd2pQZ2p0QlE1d00wTU5lSUdBd016UXpscnVpNVJ5R2RfR1o3MA?oc=5",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Iran lashes out at US sanctions amid economic toll at home - Reuters",
+      "description": "Iran lashes out at US sanctions amid economic toll at home Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-08-28T20:26:36+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
+      "asset_tags": [
+        "macro"
       ]
     },
     {
@@ -1751,16 +1802,6 @@
       ]
     },
     {
-      "headline": "Iran lashes out at US sanctions amid economic toll at home - Reuters",
-      "description": "Iran lashes out at US sanctions amid economic toll at home Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T01:34:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
       "headline": "US military uses laser to down three Mexican cartel drones near border - Reuters",
       "description": "US military uses laser to down three Mexican cartel drones near border Reuters",
       "source": "Reuters",
@@ -1963,26 +2004,6 @@
       ]
     },
     {
-      "headline": "What's expected at Apple's September event — plus, an uneven rally in AI stocks",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-27T18:48:33+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/27/what-to-expect-from-apples-september-event-and-whats-driving-rally.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "NEWSLETTER: Trump's brief Iran strike morphs into an open-ended conflict - Reuters",
-      "description": "NEWSLETTER: Trump's brief Iran strike morphs into an open-ended conflict Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T18:35:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVd2VnhxYXdDSUhoQ1oxd08yUHAyOVlDQi1vYkhhVVRvZVVER2NkZURLSkJtNEpNLU9JSE4yNW90REFqWFQ2XzVNUjJWMW9SeU5LazNqbTRLTHpGOWtRQ244OEw0TkRvcnZmcFFWek9ROFAtem5RS19SQTZ2aTNoZ0xpcF9mSS1yRVRYSUFMQlhTenZDVWg4OXNqaTU0cGpKaE9ZQXlsOA?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Connecticut's new lawsuit against Kalshi piles on to prediction market legal fight",
       "description": "",
       "source": "CoinDesk",
@@ -1990,26 +2011,6 @@
       "article_url": "https://www.coindesk.com/news-analysis/2026/08/27/connecticut-s-new-lawsuit-against-kalshi-piles-on-to-prediction-market-legal-fight",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Trump says the U.S. is not talking with Iran as economic war in focus - Reuters",
-      "description": "Trump says the U.S. is not talking with Iran as economic war in focus Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-27T18:17:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3V4QnUxMjhRcWJmZGRDdmJSWWZuWjdnMkQ0bEZxX05lME5tNEx0dHpTUGt1UHZDbmd3WXJMS0hjWDlxRlhYblh2VUNLLXIxSkZIclZxTmd4M2VpdUdRU2NGSTgxd3VqSzZ2S2dlSUEwdnZ2aVhEWGdxQmhwOWZIYWNTMVV3bk5pS3FqMXJZYU9GbDlPRWJKR0d3YkR1QU5rUi1tR3M0Q3UzTzVsQmsyXw?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "What Warsh will say and how the market will react, according to prediction markets",
-      "description": "Kalshi sees a low chance that Federal Reserve Chairman Kevin Warsh will mention \"bond market\" or \"rate cut\" at the annual Jackson Hole Symposium.",
-      "source": "CNBC",
-      "publication_date": "2026-08-27T18:14:57+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/27/what-warsh-will-say-and-how-the-market-will-react-according-to-prediction-markets.html",
-      "asset_tags": [
-        "macro"
       ]
     },
     {
