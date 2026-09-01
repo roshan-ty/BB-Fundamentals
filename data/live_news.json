@@ -1,26 +1,83 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-01T01:16:32.862906+00:00",
+    "last_updated": "2026-09-01T06:17:10.650657+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "forex": 14,
-      "crypto": 46,
+      "equities": 38,
+      "commodities": 10,
+      "crypto": 47,
       "macro": 28,
-      "equities": 35,
-      "general": 101,
-      "commodities": 10
+      "general": 100
     }
   },
   "articles": [
     {
-      "headline": "Japan manufacturing PMI hits 54.9 as new orders surge most since 2018",
-      "description": "<p dir=\"ltr\">The strength of this reading, particularly the sharpest new orders growth in over eight and a half years, reinforces the case that Japan's export-oriented, semiconductor and AI-linked manufacturing base is running considerably hotter than the broader economy, a distinction worth keeping",
+      "headline": "ETHUSD Analysis Today: ETH Bulls Lead Above $2,477.70",
+      "description": "<p>Ethereum futures analysis today show that right now, bulls are still better than bears (... and see where that might change)</p><p>Ethereum futures are trading near $2,495.50, with buyers holding the short-term advantage above today's developing VWAP near $2,477.70. The outlook is mildly bullish,",
       "source": "Forexlive",
-      "publication_date": "2026-09-01T00:40:51+00:00",
-      "article_url": "https://investinglive.com/news/japan-manufacturing-pmi-hits-54-9-as-new-orders-surge-most-since-2018/",
+      "publication_date": "2026-09-01T05:41:53+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/ethusd-analysis-today-eth-bulls-lead-above-2-477-70/",
       "asset_tags": [
         "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Heads up: Eurozone inflation figures for August due later today",
+      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">Let's get right into it. Headline annual inflation is expected to move up to 3.3% (previously 2.9%) while core annual inflation is expected at 2.5% (previouly 2.5%). As always, the read on core prices is still the most important here. And wh",
+      "source": "Forexlive",
+      "publication_date": "2026-09-01T04:57:01+00:00",
+      "article_url": "https://investinglive.com/news/heads-up-eurozone-inflation-figures-for-august-due-later-today/",
+      "asset_tags": [
+        "forex",
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
+      "description": "Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and Solana funds each logged a 10th consecutive positive session.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-01T04:48:47+00:00",
+      "article_url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T04:19:54+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "CME’s share of XRP futures jumps as token rallies 40% in a week",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T03:49:39+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+      "description": "Thailand’s SEC seeks comments on rules requiring retail-accessible overseas crypto derivatives to trade on qualifying, centrally cleared exchanges.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-01T03:49:00+00:00",
+      "article_url": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
         "crypto",
         "macro"
       ]
@@ -125,6 +182,16 @@
       "article_url": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "Helix shareholders OK merger deal with Hornbeck Offshore Services",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-08-31T17:53:53+00:00",
+      "article_url": "https://seekingalpha.com/news/4638527-helix-shareholders-ok-merger-deal-with-hornbeck-offshore-services?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -780,19 +847,6 @@
       ]
     },
     {
-      "headline": "Bitcoin Price Analysis September 2026: Key BTC Reversal Levels",
-      "description": "<p id=\"bitcoin-price-analysis-for-september-2026-bulls-need-78340-to-confirm-the-reversal\">Bitcoin Price Analysis for September 2026: Bulls Need 78,340 to Confirm the Reversal</p><p>Bitcoin is attempting an early bullish reversal from 77,165, but the wider structure remains bearish. The recovery bec",
-      "source": "Forexlive",
-      "publication_date": "2026-08-31T08:22:13+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-price-analysis-september-2026-key-btc-reversal-levels/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
-        "macro"
-      ]
-    },
-    {
       "headline": "Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar",
       "description": "",
       "source": "CoinDesk",
@@ -861,6 +915,26 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "PV Krishna Reddy, MD of Megha Engineering, taps $700-million private credit for Megha buyout",
+      "description": "A consortium of lenders including Davidson Kempner Capital Management, Elham Credit Partners and Varde Partners has begun preliminary work on the structure of the financing",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-31T05:23:05+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/indian-billionaire-taps-700-million-private-credit-for-megha-buyout",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Share sales in focus: Firms rush to raise funds amid improving market sentiment",
+      "description": "Indian companies are rapidly increasing share sales, aiming to raise over $20 billion amid strong investor demand and favorable market conditions.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-31T05:08:19+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/india-share-sale-pipeline-swells-as-firms-rush-to-raise-funds",
+      "asset_tags": [
+        "equities"
       ]
     },
     {
@@ -940,6 +1014,26 @@
       "source": "Reuters",
       "publication_date": "2026-08-31T02:54:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZXdPS1l4N3NDN29UV3B4Zlhickk3SGkyTXZmSmxuaEEyUnhSWjFhdW1oZTIxaEVaMHV5empoZUNkenAyTDVlMENDcnVSR18wYTVrSTJ5R2p2ZWhTTlZiWWpaa0xlY0JIMDlEWm1rMWYzV2o2WFZVOHItTGpiQ3J5ajFtY1dpMkFhNW51dVozZEp4MmJweUNwMWdrSnE5WHJZdFcwQWlDdl9HRnkwMjd5eEVQOThuaWhLdFVsT0otblR6OUx0ZWZCbjZxTVNOQ2lwNHhVYw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "India boosts efforts to drain surplus cash as dollar flows swell",
+      "description": "The latest move marks a shift towards larger and longer-tenor operations as the RBI seeks to absorb liquidity generated by its measures to attract foreign inflows to shore up the rupee",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-31T02:53:10+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/india-boosts-efforts-to-drain-surplus-cash-as-dollar-flows-swell",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "MSCI rebalance to test India’s new closing auction as $4 billion in flows hit CAS",
+      "description": "Expected passive-fund turnover is nearly 30 times typical auction volumes, raising liquidity and volatility concerns",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-31T02:31:51+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/msci-rebalancing-threatens-to-turn-messy-in-new-indian-auction",
       "asset_tags": [
         "general"
       ]
@@ -1854,26 +1948,6 @@
       ]
     },
     {
-      "headline": "Iran war drives US transport fuel surcharges, but also industry profits - Reuters",
-      "description": "Iran war drives US transport fuel surcharges, but also industry profits Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T16:51:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNEl5QXd2UEpMZlNEOGszSng5WEotaDlSVG1qMXIxXzFNdDZiMFMxTnUxM0tIX2hYeXVkWVhYUUJMZF9PY3lSNXFVOC03TnF6dmstYzFVdFlwdWZZdVFqQ0tqS2VtSm5UU2p5bnhtQ2xPdnFhcWVmbTFpLU0zR0g5c0l4LTVMWHZFaXI2ME85a255SjdQMjRXSzloU2w1UFd5YWFPam5OOVRFanNqSEhvWVQ0cmFlUDFhWFE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "QatarEnergy cancels gas deliveries to Italy's Edison until early November over Iran war - Reuters",
-      "description": "QatarEnergy cancels gas deliveries to Italy's Edison until early November over Iran war Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T16:47:22+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGdXSEJxeEtGbnA4SWdCRkkyMFM4VFhkS0hHT1F5cGw3TGg1LXZneGR4Z2JBRzNjdldsUlZNMlp5T1I4RDBRLWJoUlptMms4MXVzVmhLOXJndHI3U2E0OTcwTXprQmFRSkRYMzFxRzMzZExybFVWcTBlZGduN18zZmVJcWxnR3QzcU9iclR3b3g5OUdBZ0twWlJnUnZkbGVyN2hvNFVHRWZjYW9jMmtxbUtIVlotOC10UjVfWkln?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
       "headline": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
       "description": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
       "source": "Cointelegraph",
@@ -1891,26 +1965,6 @@
       "article_url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
       "asset_tags": [
         "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "52% of Gen Z investors have redirected investing money to sports bets",
-      "description": "Some Gen Z investors are choosing gambling on sports over investing for their future.",
-      "source": "CNBC",
-      "publication_date": "2026-08-28T16:10:01+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/28/sports-betting-gen-z-investors.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bank of England's Bailey sees 'subdued' second-round inflation effects for now - Reuters",
-      "description": "Bank of England's Bailey sees 'subdued' second-round inflation effects for now Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T16:09:50+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb2QydWdoanp1clRlWTVBQW9mRFZhcVBPWEJkcHB5M0RjSWRLTXJjcjNHbUU3cFJ4dHpNbFhXcjN0elBrWnVFSHYtZFJ2cEUxQ2FMWm1YRVFQZlJONE9LQ1pHTnRJNXVfcHNqc1ZhakxiVkdvdFhSNWo2ZEFJMXdPZWVhcy0teHNkRVJiNVk2LTdpX2piWFpIZzdhU0xnYk0yWVZqdkh5VV9weUpfS1VxZE9pYw?oc=5",
-      "asset_tags": [
         "macro"
       ]
     },
@@ -1994,57 +2048,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
       "asset_tags": [
         "macro"
-      ]
-    },
-    {
-      "headline": "Who is legally liable when an AI agent goes rogue?",
-      "description": "If your personal AI agent goes rogue and causes harm or financial damage in the real world, can you be held liable?",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-28T13:30:00+00:00",
-      "article_url": "https://cointelegraph.com/magazine/who-is-legally-liable-when-an-ai-agent-goes-rogue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Polish Olympic chief charged in Zondacrypto probe, justice minister says",
-      "description": "Polish Olympic Committee president Radosław Piesiewicz faces charges as prosecutors investigate his ties to collapsed cryptocurrency exchange Zondacrypto.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-28T13:16:37+00:00",
-      "article_url": "https://cointelegraph.com/news/polish-olympic-chief-charged-zondacrypto-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "forex",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "The Clarity Act slipped to September. Banks are building anyway",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-28T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Valterra Platinum exploring potential deal with rival Northam - Bloomberg",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-28T12:38:16+00:00",
-      "article_url": "https://seekingalpha.com/news/4637843-valterra-platinum-exploring-potential-deal-with-rival-northam-bloomberg?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Check-Cap Completes MBody AI Merger, Closes $10 Million Underwritten Offering",
-      "description": "The Nasdaq-listed AI company closes its MBody AI merger; adds $10 million to scale robot deployments with Fortune 500 enterprise customers The Nasdaq-listed AI company closes its MBody AI merger; adds $10 million to scale robot deployments with Fortune 500 enterprise customers",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-28T12:35:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/28/3352688/0/en/check-cap-completes-mbody-ai-merger-closes-10-million-underwritten-offering.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
