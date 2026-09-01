@@ -1,26 +1,50 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-01T21:26:59.139419+00:00",
+    "last_updated": "2026-09-01T23:29:07.185781+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 88,
-      "equities": 49,
+      "equities": 50,
+      "crypto": 60,
+      "forex": 12,
+      "commodities": 14,
       "macro": 24,
-      "crypto": 58,
-      "forex": 11,
-      "commodities": 13
+      "general": 86
     }
   },
   "articles": [
     {
-      "headline": "Dhruvaتمنح علامتها التجارية اسمًا جديدًا، Ryan، في جميع أنحاء الشرق الأوسط، من أجل علامة تجارية عالمية موحدة",
-      "description": "دبي، الإمارات العربية المتحدة، والرياض، المملكة العربية السعودية--(BUSINESS WIRE)--أعلنت اليوم Dhruva، وهي شركة استشارات ضريبية رائدة في الشرق الأوسط، وRyan، وهي مزود عالمي رائد للخدمات والبرمجيات الضريبية، عن انتقال Dhruva إلى العلامة التجارية لشركة Ryan في جميع أنحاء الإمارات العربية المتحدة والمم",
+      "headline": "Everus Completes Acquisition of Epsilon Industries",
+      "description": "BISMARCK, N.D.--(BUSINESS WIRE)--Everus Construction Group (NYSE: ECG) announced today that it has completed its acquisition of Epsilon Industries, a premier designer and manufacturer of complex, modular mechanical and electrical building infrastructure systems, for $295 million in cash, subject to ",
       "source": "BusinessWire",
-      "publication_date": "2026-09-01T20:49:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260831711194/ar/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "publication_date": "2026-09-01T22:20:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260901715567/en/Everus-Completes-Acquisition-of-Epsilon-Industries/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
       "asset_tags": [
-        "general"
+        "equities"
+      ]
+    },
+    {
+      "headline": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
+      "description": "The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake’s latest attempt to influence the 2026 elections with funds from the crypto industry.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-01T21:25:27+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "investingLive Americas FX news wrap 1 Sept: It's a wrap but not for the Iran War. Fighting resumes.",
+      "description": "<ul><li><a href=\"https://investinglive.com/commodities/oil-private-survey-of-inventory-shows-a-headline-crude-oil-vs-expected\" rel=\"follow\">Oil: Private survey of inventory shows a headline crude oil draw greater than expected</a></li><li><a href=\"https://investinglive.com/stocks/nasdaq-indices-clos",
+      "source": "Forexlive",
+      "publication_date": "2026-09-01T21:12:30+00:00",
+      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-1-sept-it-s-a-wrap-but-not-for-the-iran-war-fighting-resumes/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "commodities",
+        "crypto",
+        "macro"
       ]
     },
     {
@@ -61,17 +85,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3354627/34434/en/united-community-banks-inc-announces-completion-of-sale-of-navitas-equipment-finance-business-to-funds-managed-by-wafra-inc.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Economic and event calendar in Asia Wednesday, September 2, 2026 - RBZN rate hike expected",
-      "description": "<p>Australian GDP data is due, for the months of April, May and June. </p><p>But, the focus today is on the RBNZ decision. A rate hike is expected, but that is not unanimous. </p><p>Earlier:</p><ul><li><a href=\"https://investinglive.com/central-banks/preview-westpac-sees-rbnz-hiking-ocr-to-2-75-tomo",
-      "source": "Forexlive",
-      "publication_date": "2026-09-01T20:18:18+00:00",
-      "article_url": "https://investinglive.com/news/economic-and-event-calendar-in-asia-wednesday-september-2-2026-rbzn-rate-hike-expected/",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     },
     {
@@ -2044,16 +2057,6 @@
       "asset_tags": [
         "equities",
         "crypto"
-      ]
-    },
-    {
-      "headline": "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says - Reuters",
-      "description": "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-30T10:05:06+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGEtTUQ0dGF3WlJacDh2Y2tEZ1BsR3hrRG9BY2ZPQjRFVkloRzJPN1o0UWtRVFRnUjgtVHJvVGFwY3FNVy1mbW1DMTdXek9mdDJZSjUxRy1UQm5kVlRBTzZpcFNrVjFWd1YwOU11TUtDRVk0VHVvbFJWVWRKdDN5TlIyeDhyY3VtdXNSQ2dXLUxhRmt1X2I3QzdpbUhEQV9NMjNxNmZNVkxQbEdaU1dKV0x2Y3E3M2U3VktPNDBiM1h1ZlpVYWc?oc=5",
-      "asset_tags": [
-        "general"
       ]
     }
   ]
