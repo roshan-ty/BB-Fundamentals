@@ -1,24 +1,74 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-01T06:17:10.650657+00:00",
+    "last_updated": "2026-09-01T11:46:53.526060+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "forex": 14,
-      "equities": 38,
-      "commodities": 10,
+      "equities": 41,
+      "macro": 24,
       "crypto": 47,
-      "macro": 28,
-      "general": 100
+      "forex": 15,
+      "commodities": 12,
+      "general": 97
     }
   },
   "articles": [
     {
-      "headline": "ETHUSD Analysis Today: ETH Bulls Lead Above $2,477.70",
-      "description": "<p>Ethereum futures analysis today show that right now, bulls are still better than bears (... and see where that might change)</p><p>Ethereum futures are trading near $2,495.50, with buyers holding the short-term advantage above today's developing VWAP near $2,477.70. The outlook is mildly bullish,",
+      "headline": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
+      "description": "The London bourse operator is seeking to offer 24/5 exposure to UK-based tokenized equities, as more TradFi institutions explore tokenized equities offerings.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-01T10:56:41+00:00",
+      "article_url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "10-year yield hits highest since January 2025 as Middle East tensions return to focus",
+      "description": "Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.",
+      "source": "CNBC",
+      "publication_date": "2026-09-01T10:47:52+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T10:35:21+00:00",
+      "article_url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Enovis Invests in Innovation with Binding Offer to Acquire eCential Robotics, a Leading Developer of Enabling Technologies and Surgical Robotics",
+      "description": "Dallas, TX, Sept. 01, 2026 (GLOBE NEWSWIRE) -- – Enovis™ Corporation (NYSE: ENOV), an innovation-driven medical technology company, announced today that it has entered into a binding offer to acquire eCential Robotics, a leading developer of enabling technologies and surgical robotics. The acquisiti",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T10:30:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353906/0/en/enovis-invests-in-innovation-with-binding-offer-to-acquire-ecential-robotics-a-leading-developer-of-enabling-technologies-and-surgical-robotics.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T10:29:00+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin at crossroads after hawkish Warsh: traders waiting for 77K-80K range break",
+      "description": "<p class=\"MsoNormal\" style=\"margin: 0 0 11px; line-height: 106%; font-family: Aptos, sans-serif; font-size: 15px;\">FUNDAMENTAL ANALYSIS</p><p class=\"MsoNormal\" style=\"margin: 0 0 11px; line-height: 106%; font-family: Aptos, sans-serif; font-size: 15px;\"> </p><p class=\"MsoNormal\" style=\"margin: 0 0 1",
       "source": "Forexlive",
-      "publication_date": "2026-09-01T05:41:53+00:00",
-      "article_url": "https://investinglive.com/cryptocurrency/ethusd-analysis-today-eth-bulls-lead-above-2-477-70/",
+      "publication_date": "2026-09-01T10:07:07+00:00",
+      "article_url": "https://investinglive.com/cryptocurrency/bitcoin-at-crossroads-after-hawkish-warsh-traders-waiting-for-77k-80k-range-break/",
       "asset_tags": [
         "forex",
         "equities",
@@ -28,15 +78,180 @@
       ]
     },
     {
-      "headline": "Heads up: Eurozone inflation figures for August due later today",
-      "description": "<p class=\"text-align-justify\" style=\"text-align: justify;\">Let's get right into it. Headline annual inflation is expected to move up to 3.3% (previously 2.9%) while core annual inflation is expected at 2.5% (previouly 2.5%). As always, the read on core prices is still the most important here. And wh",
+      "headline": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+      "description": "Five equity-backed notes issued through Luxembourg’s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-01T10:00:00+00:00",
+      "article_url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "ACI Worldwide to Add Microservices Card Switching to ACI Connetic for Cards via Acquisition of Cranium Ventures",
+      "description": "OMAHA, Neb.--(BUSINESS WIRE)--ACI Worldwide (NASDAQ: ACIW), an original innovator in global payments technology, today announced it has entered into a definitive agreement to acquire Cranium Ventures, a privately held developer of cloud-native card payment switching technology. The technology will b",
+      "source": "BusinessWire",
+      "publication_date": "2026-09-01T10:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260901440353/en/ACI-Worldwide-to-Add-Microservices-Card-Switching-to-ACI-Connetic-for-Cards-via-Acquisition-of-Cranium-Ventures/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Form-8.3 APTITUDE SOFTWARE GROUP PLC - 28 08 2026 - (CGAML)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T09:57:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353890/0/en/form-8-3-aptitude-software-group-plc-28-08-2026-cgaml.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Singapore weighs recognizing some foreign-issued stablecoins",
+      "description": "Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiting its earlier decision to restrict the framework to domestic issuance.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-01T09:55:11+00:00",
+      "article_url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form-8.3 ADVANCED MEDICAL SOLUTIONS GROUP PLC - 28 08 2026 - (CGWL)",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T09:55:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353889/0/en/form-8-3-advanced-medical-solutions-group-plc-28-08-2026-cgwl.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Man Group PLC : Form 8.3 - Rotork plc",
+      "description": "#FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T09:35:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353885/0/en/man-group-plc-form-8-3-rotork-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T09:33:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353884/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T09:29:33+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "GetInsured and Change and Innovation Agency Unite Under the Vimo® Name",
+      "description": "Vimo Brings Together Technology, Transformation Services, and Operational Expertise for Public Agencies Vimo Brings Together Technology, Transformation Services, and Operational Expertise for Public Agencies",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T09:04:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353877/0/en/getinsured-and-change-and-innovation-agency-unite-under-the-vimo-name.html",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Italy August preliminary CPI +3.3% vs +3.3% y/y expected",
+      "description": "<ul><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior +2.9%</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">HICP +3.2% vs +3.4% y/y expected</li><li style=\"vertical-align: baseline; border: 0; margin: 0 0 4px; padding: 0;\">Prior +2.",
       "source": "Forexlive",
-      "publication_date": "2026-09-01T04:57:01+00:00",
-      "article_url": "https://investinglive.com/news/heads-up-eurozone-inflation-figures-for-august-due-later-today/",
+      "publication_date": "2026-09-01T09:01:06+00:00",
+      "article_url": "https://investinglive.com/news/italy-august-preliminary-cpi-xx-vs-3-3-y-y-expected/",
       "asset_tags": [
         "forex",
         "commodities",
         "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - Pharos Energy Plc",
+      "description": "PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T08:41:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353870/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
+      "asset_tags": [
+        "commodities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - CAB Payments Holdings Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T08:39:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353869/0/en/form-8-5-ept-ri-cab-payments-holdings-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.5 (EPT/RI) - Alternative Income REIT Plc",
+      "description": "FORM 8.5 (EPT/RI)",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-01T08:37:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353868/0/en/form-8-5-ept-ri-alternative-income-reit-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T08:35:57+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/01/live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T07:49:16+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
+      "description": "Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below Kalshi’s $22 billion valuation.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-01T07:47:13+00:00",
+      "article_url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T06:52:10+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -45,6 +260,16 @@
       "source": "Cointelegraph",
       "publication_date": "2026-09-01T04:48:47+00:00",
       "article_url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-01T04:30:28+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
       "asset_tags": [
         "crypto"
       ]
@@ -80,16 +305,6 @@
         "equities",
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "SLB收購Kelvion，擴大該公司對資料中心基礎設施領域的影響力",
-      "description": "休士頓--(BUSINESS WIRE)--(美國商業資訊)-- SLB (NYSE: SLB) 今天宣布該公司已簽訂協議收購專事熱管理與熱交換技術的全球供應商Kelvion。本次收購將為該公司引入關鍵性熱管理技術，既可強化SLB的資料中心解決方案 (Data Center Solution) 業務，還能夠擴大該公司對資料中心基礎設施領域的影響力——這個領域是目前全球成長最速的產業與技術市場之一。 「人工智慧正在推動我們這一生中規模最大的一輪基礎設施投資。」SLB執行長Olivier Le Peuch說，「這場交易加速實現我們成為資料中心產業之工業技術合作夥伴的雄心，協助客戶應對擴大應用人工智",
-      "source": "BusinessWire",
-      "publication_date": "2026-08-31T23:42:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260830115788/zh-HK/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities"
       ]
     },
     {
@@ -806,6 +1021,26 @@
       ]
     },
     {
+      "headline": "NIIF eyes Japan, Europe to reach $3.2 billion goal",
+      "description": "NIIF targets $3.2 billion by attracting investors from Japan and Europe, having secured $2 billion in its latest infrastructure fund.",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-31T09:52:53+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/india-s-niif-eyes-japan-europe-capital-for-3-2-billion-fund",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "HDFC Bank CEO search: Lender looks to hire headhunter",
+      "description": "New CEO is likely to be tasked with shoring up investor confidence at HDFC Bank, whose shares have fallen 28% this year",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-31T09:51:42+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/hdfc-bank-to-hire-headhunter-after-ceo-s-surprise-exit",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "UAE says forces dealt with drone coming from Iran, condemns attack as dangerous escalation - Reuters",
       "description": "UAE says forces dealt with drone coming from Iran, condemns attack as dangerous escalation Reuters",
       "source": "Reuters",
@@ -865,6 +1100,16 @@
       "article_url": "https://www.coindesk.com/business/2026/08/31/luke-dashjr-exits-mining-pool-ocean-after-split-over-bitcoin-mining-s-future",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Lithium miners post big profits as battery storage demand surges",
+      "description": "China’s globally-watched spot price for lithium surged 22% over the first half as energy storage emerged as a meaningful demand source due to the growth of data centers and renewable power",
+      "source": "Bloomberg",
+      "publication_date": "2026-08-31T07:32:04+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-08-31/lithium-miners-post-big-profits-as-battery-storage-demand-surges",
+      "asset_tags": [
+        "commodities"
       ]
     },
     {
@@ -1800,252 +2045,6 @@
       "source": "Reuters",
       "publication_date": "2026-08-28T20:26:36+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFhWQ0dIN3p1bUEzcUdpNlN2VFhmaWRhUk5zbkhfWE45U2swM1ViQ0RvRHhxZjJfT2xaUEhnWU9jZ3MzRXl3bXdabG1mM0xpTmdoRzZEQ3dRNDJOVEpTUnJfX3lCV0s4b2RPSzhPbXlZSllrb1l6SjA0NVRVRzNRR0pBYWFwTWdPU0xtOTduNnUyd3hpZjFUUDZUb1NnMkRoanl1Z2V5SjIwYWpubGc?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Solana validators approve proposal to accelerate SOL disinflation",
-      "description": "The approved proposal doubles Solana’s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-28T19:53:12+00:00",
-      "article_url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Stock traders warm up to Warsh as volatility index touches year-to-date low",
-      "description": "The Cboe Volatility Index (VIX), which measures the price of 30-day options on the S&P 500 Index, fell to as low as 14.1.",
-      "source": "CNBC",
-      "publication_date": "2026-08-28T19:35:09+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/28/stock-traders-warm-up-to-warsh-as-volatility-index-touches-year-to-date-low.html",
-      "asset_tags": [
-        "equities",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Trump signs order to create a US Space Academy - Reuters",
-      "description": "Trump signs order to create a US Space Academy Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T19:26:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWklmRzYtdUxEaWNGamhqcHNQSnI1NEVYOTNVVHdQaFlTYzBNbFZ0M01xUlkwU1lCTzJObU1aa3dfZVdkMEpLZGhyQUFCVTQ3UVptVngtNWl6UXBzS0xhUTM3bi1xZEg3SjdyckZ3M0k5c0FSQy0zTnpMMWEzVmhjVW5ENXoyWjMzeUlFSmZjX3p4SGE3eUVVT05SQ0I1elF5OW9KT0pGX1NLaHlO?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bessent attacks Warren over yen intervention query, offers ‘Foreign Exchange for Dummies’ lesson",
-      "description": "Treasury has not disclosed how much yen it bought, the execution rate or the current value of the position, despite Warren’s requests for details.",
-      "source": "CNBC",
-      "publication_date": "2026-08-28T19:23:18+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
-      "asset_tags": [
-        "forex",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Meta's $17 billion settlement mandates new safeguards for kids—many are promising, says safety expert",
-      "description": "Following a major legal settlement, Instagram and Facebook users under age 18 will soon have a daily two-hour limit and won't be able to see reactions on posts.",
-      "source": "CNBC",
-      "publication_date": "2026-08-28T19:07:05+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "GFL Environmental gains on report sales process advanced; Secure Waste set to close Sept. 1",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-28T18:46:55+00:00",
-      "article_url": "https://seekingalpha.com/news/4637977-gfl-environmental-gains-on-report-sales-process-advanced-secure-waste-to-close-sept-1?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire",
-      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source": "CNBC",
-      "publication_date": "2026-08-28T18:03:05+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Israel kills Hamas operative in rare West Bank air strike, military says - Reuters",
-      "description": "Israel kills Hamas operative in rare West Bank air strike, military says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T18:02:44+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZlZhNVQwZ2dBSUdMTmN3b2ZuR1VlSlBOanV6NTVkNTBsdHdfZk1OYW95SVFnU0dIdDNlS0NGSkxwOWFCd05JQ28za2N3azJRM2p0UXlISHl3aERWa3VubVRlVGdSdjF3UFFyUlc3VW5yVmI5b3ItU3ZsY1l6TFYtVWxJUG50X2RiNHZ3bGNPMnVRemphRGd2dlJtYUEycGQwUFdxaWdZd056a2d4QldPVEZULVFFUGJQLW05bVFwSWlMLWF0YzVZWmRn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Fed Chair Kevin Warsh says inflation isn’t slowing, vows to reach 2% target",
-      "description": "Fed Chair Kevin Warsh says underlying inflation has not meaningfully improved, keeping a September rate hike possible as policymakers assess price pressures.",
-      "source": "Bloomberg",
-      "publication_date": "2026-08-28T17:53:58+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-08-28/warsh-says-inflation-isn-t-slowing-vows-to-hit-to-2-target",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Canada's budget deficit over first three months of 2026/27 shrinks to C$370 million - Reuters",
-      "description": "Canada's budget deficit over first three months of 2026/27 shrinks to C$370 million Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T17:46:58+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjZMTklOV0VfMVVNdXJBdEl6Q2RRbE9ieTVFRFA4WmM3LVY1elFPOFBUX1RCZFJoLU1nS2RsMXZMTmlsbVJlXzdCckt4ZExVTDNxYVdESlZITkpzVXdhQmhwRHZ6RmltUkpZR2NQdnhoVkFVRk01aDVkR3l2Yi1vNUZXQ1ZsVUhsWVh0V1dSd2V6Q2FSMGJvUmNCb0g5dkFsRmQ0MTBnY3I0T2xLcWkxY2pNZmV5djNvUE9HOXJiTDNzbUE?oc=5",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-      "description": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-28T17:46:12+00:00",
-      "article_url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US hits Egyptian bank branches with Iran sanctions as war marks six months - Reuters",
-      "description": "US hits Egyptian bank branches with Iran sanctions as war marks six months Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-08-28T17:37:19+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnRmTktBaHNUcXJSeXVoMEhUSDg0QlpTRkFGcllGUW5zcW84bE81NjQxTWZ0VjBSNHpxZjBnRkNmVHAyZkFaNkYtYXZ4R1VaRlpIVHF0YVIwZ3BfY1ByZVdKM0RPOXBNMnJzTDkyVnF6b0FnNlRFQ0ozTk02cWY0dHZPYm40TUY2TVlSUklxWUJWVkdZdXNYX21TM05QV1R4dnBxU3pWekdVelEwWXZObHNn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
-      "description": "Apple raised prices for Apple Music by $1 per month in July, citing licensing costs.",
-      "source": "CNBC",
-      "publication_date": "2026-08-28T16:57:16+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Cramer says he's warming back up to the AI trade, but not ready to act yet",
-      "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source": "CNBC",
-      "publication_date": "2026-08-28T16:53:53+00:00",
-      "article_url": "https://www.cnbc.com/2026/08/28/cramer-says-hes-warming-back-up-to-the-ai-trade-but-not-ready-to-act-yet.html",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-      "description": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-28T16:17:09+00:00",
-      "article_url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Solana vote to double disinflation passes by a hair in dramatic finish",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-28T16:12:45+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Hapag-Lloyd CEO still confident on securing approval for Zim takeover - report",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-28T16:06:08+00:00",
-      "article_url": "https://seekingalpha.com/news/4637938-hapag-lloyd-ceo-still-confident-on-securing-approval-for-zim-takeover-report?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-      "description": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh’s Jackson Hole keynote speech, which remained wary of US inflation trends.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-28T15:31:25+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Arvind Krishnamurthy Joins SEDA as a Private Credit, Specialty Finance and Alternative Investments Expert",
-      "description": "SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced today that Arvind Krishnamurthy joined the firm as Managing Director. SEDA Experts LLC, a leading expert witness firm providing world-class financial expert witness services, announced ",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-28T15:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/28/3352760/0/en/arvind-krishnamurthy-joins-seda-as-a-private-credit-specialty-finance-and-alternative-investments-expert.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-      "description": "Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablecoins and onchain growth are driving crypto’s recovery.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-08-28T14:53:40+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-28T14:37:14+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "AES Corp. receives CFIUS approval for sale to consortium",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-08-28T14:27:34+00:00",
-      "article_url": "https://seekingalpha.com/news/4637903-aes-corp-receives-cfius-approval-for-sale-to-consortium?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Davidson Kempner Capital Management LP : Form 8.3 - Tate & Lyle plc",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-08-28T14:20:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/08/28/3352744/0/en/davidson-kempner-capital-management-lp-form-8-3-tate-lyle-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-08-28T14:05:12+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
       "asset_tags": [
         "macro"
       ]
