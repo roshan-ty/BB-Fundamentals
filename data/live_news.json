@@ -1,29 +1,241 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-03T14:31:40.820053+00:00",
+    "last_updated": "2026-09-03T18:02:17.971654+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
       "forex": 12,
-      "equities": 37,
+      "equities": 39,
+      "macro": 18,
       "crypto": 47,
-      "macro": 16,
       "general": 106,
-      "commodities": 15
+      "commodities": 13
     }
   },
   "articles": [
     {
-      "headline": "ISM non manufacturing PMI for August 55.4 versus 54.2 estimate. Stronger than expectations",
-      "description": "<ul><li>Nonmanufacturing PMI prior month 54.1</li><li>Nonmanufacturing PMI for August 55.4 versus 54.2 estimate</li><li>nonmanufacturing business activity 61.7 versus 59.1 last month</li><li>Employment index 47.8 versus 47.4 last month</li><li>New orders index 60.9 versus 57 42 last month</li><li>Pr",
+      "headline": "Preview: August non-farm payrolls by the numbers",
+      "description": "<p>What's expected:</p><ul><li>Consensus estimate +56K (range -25K to +121K)</li><li>July -23K</li><li>June +63K</li><li>Private consensus estimate +45K</li><li>Unemployment rate consensus estimate: 4.1% vs 4.1% prior</li><li>Participation rate consensus 61.4% prior</li><li>Prior underemployment U6 ",
       "source": "Forexlive",
-      "publication_date": "2026-09-03T14:00:12+00:00",
-      "article_url": "https://investinglive.com/news/ism-non-manufacturing-pmi-for-august-55-4-versus-54-2-estimate-stronger-than-expectations/",
+      "publication_date": "2026-09-03T17:52:49+00:00",
+      "article_url": "https://investinglive.com/news/preview-august-non-farm-payrolls-by-the-numbers/",
       "asset_tags": [
         "forex",
         "equities",
-        "crypto",
         "macro"
+      ]
+    },
+    {
+      "headline": "Bond yields ease, stocks rally following Fed governor Waller comments - Reuters",
+      "description": "Bond yields ease, stocks rally following Fed governor Waller comments Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T17:24:32+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bybit Pay integrates with Mesh to expand crypto payments",
+      "description": "The integration lets Bybit users spend digital assets directly from their exchange balances across Mesh-powered platforms.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-03T17:13:04+00:00",
+      "article_url": "https://cointelegraph.com/news/bybit-pay-integrates-with-mesh-to-expand-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "BitMEX co-founder contributed 75% of Reform UK’s donations in Q2 2026",
+      "description": "The UK political party and its leader, Nigel Farage, have accepted contributions from figures tied to the crypto industry, raising questions about potential influence on policies.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-03T17:06:28+00:00",
+      "article_url": "https://cointelegraph.com/news/bitmex-cofounder-ben-delo-reform-uk-donations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "FG Communities Completes Acquisition in Easley, SC",
+      "description": "Acquisition expands FGC's footprint in the Upstate South Carolina market Acquisition expands FGC's footprint in the Upstate South Carolina market",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-03T17:02:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356186/0/en/fg-communities-completes-acquisition-in-easley-sc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "ITC Federal Acquires Apriva ISS, Adding FBI Prime Position and Two Decades of Classified Communications Engineering",
+      "description": "FAIRFAX, Va.--(BUSINESS WIRE)--ITC Federal (ITC) today announced it has acquired Apriva ISS, a division of Phoenix, Arizona-based Apriva, LLC.",
+      "source": "BusinessWire",
+      "publication_date": "2026-09-03T17:00:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260903527623/en/ITC-Federal-Acquires-Apriva-ISS-Adding-FBI-Prime-Position-and-Two-Decades-of-Classified-Communications-Engineering/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+      "description": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
+      "source": "CNBC",
+      "publication_date": "2026-09-03T16:51:13+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
+      "description": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-03T16:04:11+00:00",
+      "article_url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "US to seek back payment from Europe for Ukraine aid, Trump says - Reuters",
+      "description": "US to seek back payment from Europe for Ukraine aid, Trump says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T15:59:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVJMTlRnNjZsN3VYWVl3N2NQYl9EMjBhcHR6Qzl0WDk4QTBSRnFPZFFBWnFMOW0zRE9uX1BJVmhGbnlPLUZkRG5UOXZ1LWhOdXctWFFGbmF2ZVVMcEZ4SVVtYnoweU0wa3lNMWI2Sm1iME9YcnpOYVlvSmh3OUUzYUZDUUpHN0NFVWNrNXVRVkNiS0E1amRfeXI0SXoxTEw3eWtTTXM2ZTJqMVdnaXVHelNtRQ?oc=5",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Standard Chartered brings spot crypto trading to Dubai FX platform",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-03T15:58:02+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Big lessons from 12 stock exits, including Cramer's biggest-ever disappointment",
+      "description": "For stock investors, 2026 has meant constantly adjusting to geopolitical and economic pressures — and most importantly, protecting profits.",
+      "source": "CNBC",
+      "publication_date": "2026-09-03T15:53:06+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/03/big-lessons-from-12-stock-exits-including-cramers-biggest-ever-disappointment-.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "US pressure on Iran starting to tell, as sanctions and blockade bite - Reuters",
+      "description": "US pressure on Iran starting to tell, as sanctions and blockade bite Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T15:04:15+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFdWSEQ0NWhzbDhXcnU0Qkg3M2tkUTFVd3FORVkycWhEWWN4M0ZvM3gzaHRUb1c5dkw0Vm1iZXNfM1FiVUFFLURwUUhGektkY01rd0VYT1N2dXJTTks4OEhKN09lRExxZ1dCTDcwZ082XzRmMEMwNkpENlF1c1BnVFlBMmdmd1pRUC14cVZfMmpTdzVpTmpaVWtjdUszR1pxWExxX05Zb0hxSDQy?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto for Advisors: Why crypto earnings reports can be misleading",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-03T15:00:00+00:00",
+      "article_url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Following National Advertising Division Challenge, DREO Voluntarily Discontinues Pedestal and Tower Fan Claims",
+      "description": "Following a BBB National Programs’ National Advertising Division challenge brought by VeSync US Corporation, d/b/a Levoit, DREO Incorporated voluntarily discontinued the challenged claims for its pedestal and tower fan products. Following a BBB National Programs’ National Advertising Division challe",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-03T15:00:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356103/0/en/following-national-advertising-division-challenge-dreo-voluntarily-discontinues-pedestal-and-tower-fan-claims.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Equivu Capital Announces Sale of S2 to LEFORT",
+      "description": "BOCA RATON, Fla. and GOSSELIES, Belgium, Sept. 03, 2026 (GLOBE NEWSWIRE) -- Equivu Capital, a South Florida-based private investment firm, today announced the sale of S2 Manufacturing (“S2”), a leading manufacturer of Aljon landfill compactors, car crushers and metal baling equipment, to LEFORT. Bas",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-03T14:57:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356097/0/en/equivu-capital-announces-sale-of-s2-to-lefort.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "PayPal edges higher amid renewed takeover speculation",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-09-03T14:56:12+00:00",
+      "article_url": "https://seekingalpha.com/news/4640027-paypal-edges-higher-amid-takeover-speculation?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "A memecoin making app becomes crypto’s top fee generators as Robinhood Chain activity explodes",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-03T14:51:39+00:00",
+      "article_url": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "PlusAI to go public in $800M SPAC deal",
+      "description": "",
+      "source": "SeekingAlpha",
+      "publication_date": "2026-09-03T14:43:05+00:00",
+      "article_url": "https://seekingalpha.com/news/4640010-plusai-to-go-public-in-800m-spac-deal?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-03T14:41:25+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil prices rise on escalation in Middle East - Reuters",
+      "description": "Oil prices rise on escalation in Middle East Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T14:09:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUpNcGxHMWt3cDdxdFVCZUNrdTBGRlZSUEpJOEg1ZENWVkRPN2lWbTZxMUU3WG56bkZScmlMM3hpOWtzOEtFcWJUaXNqUklwZU9KVlFxd2FxUEtVV2pwYnh3cXo2Y3dhZkJNUDBoSHcxN1dRM3ZCU25QdG02N1JCOHk2SjFzN2Z3UnhKc3hWbDNnWWFp?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Stocks gain as bonds recover; rising Gulf tensions boost oil - Reuters",
+      "description": "Stocks gain as bonds recover; rising Gulf tensions boost oil Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T14:08:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say - Reuters",
+      "description": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T13:41:45+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXNYTGpEYldjZ00zSFctdU5VT1A3blcyNnhmalVSNEMwNVBEa09RWFF1Zk9ibGY2cmdmRVdid2dDbUJwaHhzcFVpVHVxUUQ1NFZRb3F2MkRHREtLZHNoSF9tZUdseGdQZ0hFdFk5eDNTT0VyQzRXLUVZYi1OanRIc3g3SE1RQUlRNGQ3TXBCbi1JZHNycUhXcHJSMXFMb21YZVNtb2cwZGVYWGQ1bGlmQTJtNHZPSi1HZU96S1QwTldxV2NLYllz?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -32,6 +244,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-09-03T13:41:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356026/0/en/form-8-3-dcc-plc.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Lutnick apologizes for saying no Americans have died in Iran war - Reuters",
+      "description": "Lutnick apologizes for saying no Americans have died in Iran war Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T13:36:18+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ09ZRVoyOU1lODczTEgwTVl4dmdIeWFTQXctWDFUM2d1WHNWcmRCQm5sWFhsZk5qUW16eEtHampoQ3hDVnlxWk5hd3pLdjRjQXYwTExSWGJ2dllJenJsYnhKNUJmNFIyQkFFSnZCM19HMjJBa2hvZy13ZXhIMndBWkVFWldwaFhTaUJ0aWlMcDJtTHBzajU3VkQ5NjNxSlFDNjZOcEljQk5YTUdj?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -82,6 +304,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-09-03T13:05:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355989/0/en/opti9-technologies-acquires-hut-8-s-canadian-managed-cloud-business-further-expanding-its-canadian-cloud-platform.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Israel to release five Lebanese detainees amid talks with Lebanon - Reuters",
+      "description": "Israel to release five Lebanese detainees amid talks with Lebanon Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T13:00:11+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWFsZ2JmZ1BxV0F0NHZub3Jwa0NPbWswdTFURDlIcDNVWng1eGtaWTNjWTA3QXV5ek5mRzJSZGNpXzJLNGtoMGF3M1ZibnlCRXNwb0ZSZHdKd2VkMVM1Qm0wMG9ranVXOU1VN2Y2WW9OM2c5Mk1wOERSOXRWTi1FUzJoZVMyb3VEQTFxY1NwUm9NcnR3YzJVcVZ5T012RGRrdl9FTkwwelFkQml2eF9pWkp1dDFQZnM?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -187,26 +419,6 @@
       ]
     },
     {
-      "headline": "Oil prices hit fresh 6-week highs on renewed Middle East tensions - Reuters",
-      "description": "Oil prices hit fresh 6-week highs on renewed Middle East tensions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T12:11:28+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5vakhhby03N0RCUHNMTU1jY1F4OGdsMmt2cThTLW5hU0VNM181YUVwYW1wSlJsbGoweDQtd3ROSTFfMDhUSGpWMHI5WG9qeTByTGJpVTRZaER0dGlwZ1BULXVRUzlPemRSOC1ranltaDQ0QjJ4OWMwWTRrNjJ6eDdkaExIMjFiVDJlbUxZcTU2Sk1DRE1uNTR5SkdPM0VJanktVUI1RkNpcXoxRkxBN1lkUDRnUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Stocks gain as bonds recover; rising Gulf tensions boost oil - Reuters",
-      "description": "Stocks gain as bonds recover; rising Gulf tensions boost oil Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T12:04:07+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "How much money Americans in their 30s and 40s have in their 401(k)s—see how you stack up",
       "description": "Here's how financial pros say you can tell if you're on track to retire, and how to catch up if you've fallen behind.",
       "source": "CNBC",
@@ -234,16 +446,6 @@
       "article_url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "Cyera Completes Acquisition of Oasis Security",
-      "description": "NEW YORK--(BUSINESS WIRE)--Cyera today announced the completion of its acquisition of Oasis Security, the leading access management platform for the agentic enterprise. The acquisition, valued at $1 billion, unites Cyera's AI and Data Security Platform with Oasis's non-human identity (NHI) managemen",
-      "source": "BusinessWire",
-      "publication_date": "2026-09-03T12:00:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260903933820/en/Cyera-Completes-Acquisition-of-Oasis-Security/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -307,6 +509,16 @@
       "asset_tags": [
         "forex",
         "crypto"
+      ]
+    },
+    {
+      "headline": "ECB to raise rates a second time in September, but then done, say economists: Reuters poll - Reuters",
+      "description": "ECB to raise rates a second time in September, but then done, say economists: Reuters poll Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T11:07:52+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT185b0pjNmp2TVlHNnRrRW9GMDh5YmVmU2VfelMzQ0Z5VXVyTGNCZHlsM252N0pGOEF1bWtqaWh3bE5yTUp3eEQ1U0JHR001Q3FEZ2RrLXhKaTVHZUd4Q054V1VhSVJYV2h1X3ZFZVJtWUUxUHdGSW9QOUcyUGZDV0RpUEhUOHRpb1l0MG15Sl9RSmM4cTdFY1lnZHpSRFRSd3ZGOGdDOA?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -574,16 +786,6 @@
       ]
     },
     {
-      "headline": "Iran war escalation raises concern over civilian death toll - Reuters",
-      "description": "Iran war escalation raises concern over civilian death toll Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T08:24:48+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Form 8.5 (EPT/RI) - Kore Potash Plc",
       "description": "FORM 8.5 (EPT/RI)",
       "source": "GlobalNewswire",
@@ -754,16 +956,6 @@
       ]
     },
     {
-      "headline": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say - Reuters",
-      "description": "Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T07:17:33+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTXNYTGpEYldjZ00zSFctdU5VT1A3blcyNnhmalVSNEMwNVBEa09RWFF1Zk9ibGY2cmdmRVdid2dDbUJwaHhzcFVpVHVxUUQ1NFZRb3F2MkRHREtLZHNoSF9tZUdseGdQZ0hFdFk5eDNTT0VyQzRXLUVZYi1OanRIc3g3SE1RQUlRNGQ3TXBCbi1JZHNycUhXcHJSMXFMb21YZVNtb2cwZGVYWGQ1bGlmQTJtNHZPSi1HZU96S1QwTldxV2NLYllz?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Bitcoin’s fabled golden cross is coming. And USDT may be the real signal this time",
       "description": "",
       "source": "CoinDesk",
@@ -855,6 +1047,36 @@
       ]
     },
     {
+      "headline": "COMMENTARY: A remote shale gas basin in Australia answers Hormuz security fears - Reuters",
+      "description": "COMMENTARY: A remote shale gas basin in Australia answers Hormuz security fears Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T02:06:08+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN0txaTVkd3g4N1JRTUtEdWkwdUJOS3Y0cVZLMG1oRTlHT3ppQ0lsTExaNmgtcTA2dUE0d0U1MExpSWhMR2xBVFFqbHFRNzZaRi15TFVHZ0h1cDhVejd1SDJGUDJsVlRuMHB6VlFCSWJTaG5pOVZnNjQ4V2EzMV9BNEpYVjlLMG5HajF2VUpwNUU3SHdzOUE3M0l2UzBTUFpsUVVmZUVaZUZMUmJLNHVjSXZoaGg1Mnd4UWVqY01rRkxaLVlBNTNERVNKcw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran war escalation raises concern over civilian death toll - Reuters",
+      "description": "Iran war escalation raises concern over civilian death toll Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T02:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Iran buries victims of reported US wedding attack, fires on Kuwait - Reuters",
+      "description": "Iran buries victims of reported US wedding attack, fires on Kuwait Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T02:03:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin and Ethereum slide as US Iran war simmers & rate hike odds rise",
       "description": "<p dir=\"ltr\">The pullback in BTC and ETH looks like a straightforward risk-off move rather than anything crypto specific, tracking closely with weakness in equities and the jump in Treasury yields this week. Both assets remain up sharply for the quarter despite the drawdown, so this reads as a pullb",
       "source": "Forexlive",
@@ -868,8 +1090,18 @@
       ]
     },
     {
-      "headline": "Ali al-Taher ridge emerges as flashpoint in Israel-Hezbollah war - Reuters",
-      "description": "Ali al-Taher ridge emerges as flashpoint in Israel-Hezbollah war Reuters",
+      "headline": "Oil prices hit fresh 6-week highs on renewed Middle East tensions - Reuters",
+      "description": "Oil prices hit fresh 6-week highs on renewed Middle East tensions Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T00:46:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5vakhhby03N0RCUHNMTU1jY1F4OGdsMmt2cThTLW5hU0VNM181YUVwYW1wSlJsbGoweDQtd3ROSTFfMDhUSGpWMHI5WG9qeTByTGJpVTRZaER0dGlwZ1BULXVRUzlPemRSOC1ranltaDQ0QjJ4OWMwWTRrNjJ6eDdkaExIMjFiVDJlbUxZcTU2Sk1DRE1uNTR5SkdPM0VJanktVUI1RkNpcXoxRkxBN1lkUDRnUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Explainer: Ali al-Taher ridge emerges as flashpoint in Israel-Hezbollah war - Reuters",
+      "description": "Explainer: Ali al-Taher ridge emerges as flashpoint in Israel-Hezbollah war Reuters",
       "source": "Reuters",
       "publication_date": "2026-09-03T00:03:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakRyMlpkYi00X1dGcXhwdmgzYklaeTFicENLWDJVQ2FJUW1JYURrMThUeFM5RUlzcUtJQmV6c0xuNjl0SG9UYUJUZXpGVWYyNmJpNThfTnAzX0pxeGFyczNYMHFVVEhyN0hQR25ERUhHamVxZHBZVHptdXo2c1pHT2E3NUlacEo2LTlIX3BYMVVJWTRKU3J2RHNYU3NTdnN3dWtSRW4zNmhJaFVRSmkxTWZR?oc=5",
@@ -947,16 +1179,6 @@
       "article_url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
-      "description": "US-Iran strikes raise fears of renewed war across the Middle East Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T21:06:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1425,16 +1647,6 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Brave Bison Group Plc",
-      "description": "Downing LLPLEI: 213800G3X76VBG9SB50402 September 2026Form 8.3 re. Brave Bison Group Plc",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-02T13:28:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355268/0/en/form-8-3-brave-bison-group-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "US eyes airlines, digital assets as Iran-related targets, Bessent says - Reuters",
       "description": "US eyes airlines, digital assets as Iran-related targets, Bessent says Reuters",
       "source": "Reuters",
@@ -1442,16 +1654,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUlHdHVEMktlRk5WZDlIT0FGWU9sa056b1M4SEFCeXgwTUxWUWNKOUhMdXBKbV92cEc4UHJCMVhxZFB5Zi1pQlRwTDNBbVc1OXU4X3RIUWs1YVlxUXNjQTdZdDBEWFdpaTd3VG04X09OM0pNYXZ5c0VWdGljZGMwcU9yOXVXRnlrMzFrRDlmTTlVX19ielVvZ0lteXZlOE10b3hlckZvSTEwWXlpbWhn?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - NextEnergy Solar Fund Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-02T13:16:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355257/0/en/form-8-3-nextenergy-solar-fund-limited.html",
-      "asset_tags": [
-        "commodities"
       ]
     },
     {
@@ -1472,16 +1674,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdW5sTXJ3VXZwZE1vZ2RUZ19pNnFoX3ZHc2EyYUI0Y3V0Z09Wc21IMkNNVHlrTXR5eTdOZkNYeGJ3VHhBWlhxeVBjemxGQWZzS0EwN2MxWC1GOWMySnFEM2hkY0V4VVRIcjgxbEdQSHpLcVhIa3Y4QU1Jd3dSWWt3RlE4RnBWRlR6S0c1RWkwVHJ4UlcxWE5oX3hRSVJ3U1RtaHdDeUZaTHBfXzN5OGdfX3dlZGtTYXFySjZ4M1NqRQ?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Definitive Healthcare rises on buyout offer from Advent International",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-09-02T13:11:34+00:00",
-      "article_url": "https://seekingalpha.com/news/4639437-definitive-healthcare-stock-rises-advent-bid?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "crypto"
       ]
     },
     {
@@ -1516,18 +1708,8 @@
       ]
     },
     {
-      "headline": "The Grote Company Family of Brands Expands European Presence with Its Acquisition of Turatti Group",
-      "description": "The Grote Company Family of Brands acquires Turatti Group, expanding its global food processing solutions and European footprint.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-02T13:05:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355240/0/en/the-grote-company-family-of-brands-expands-european-presence-with-its-acquisition-of-turatti-group.html",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "description": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence Reuters",
+      "headline": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - reuters.com",
+      "description": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence reuters.com",
       "source": "Reuters",
       "publication_date": "2026-09-02T13:02:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
@@ -1660,6 +1842,16 @@
       ]
     },
     {
+      "headline": "Indian shares join global slide as Mideast woes mount - Reuters",
+      "description": "Indian shares join global slide as Mideast woes mount Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-02T10:13:32+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
       "headline": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
       "description": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections Reuters",
       "source": "Reuters",
@@ -1756,7 +1948,7 @@
       "headline": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
       "description": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz Reuters",
       "source": "Reuters",
-      "publication_date": "2026-09-02T06:22:02+00:00",
+      "publication_date": "2026-09-02T06:10:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeTJNc29sNUR2YW04azAyMUFLZG45NlFSQThLR2JsSW5CeXRJWmxyTlBXSFpjSVZLaDgxU3VNSjNQS0ViLTNZTjJyeVM1UjNnSHo1NDdGdjI0WjJkNC1xeUR0WW84TnU1VHdka2c1QVdXcVFoMTlodVpuZWZfRXBSdVVUSmVuR2lxNTgtb3E1aUJ3Sm42VFhoQ3dTdlU0ZHlvNEhSdVhfUGdvNC1LdjlEaHFhRi1PNFBKYTNHVERINDVGRjA?oc=5",
       "asset_tags": [
         "general"
@@ -1847,201 +2039,11 @@
       ]
     },
     {
-      "headline": "Core DAO plans emergency hard fork after validators drew excess rewards",
-      "description": "Core says the incident is contained and its planned forward upgrade will not roll back the network or reverse previously confirmed transactions.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-02T04:15:34+00:00",
-      "article_url": "https://cointelegraph.com/news/core-dao-emergency-hard-fork-excess-validator-rewards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US-Iran tensions high after strikes on two tankers in Hormuz",
-      "description": "Tensions between the US and Iran escalate after military strikes on two tankers in the critical Strait of Hormuz.",
-      "source": "Bloomberg",
-      "publication_date": "2026-09-02T03:43:25+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-01/two-oil-supertankers-hit-by-projectiles-in-hormuz-marisks-says",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters",
-      "description": "Bond selloff deepens as oil prices and public debt fears jolt markets Reuters",
+      "headline": "Morning Bid: Who will police the bond vigilantes? - Reuters",
+      "description": "Morning Bid: Who will police the bond vigilantes? Reuters",
       "source": "Reuters",
-      "publication_date": "2026-09-02T03:11:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Indian shares join global slide as Mideast woes mount - Reuters",
-      "description": "Indian shares join global slide as Mideast woes mount Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T02:23:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "US military says it completed latest wave of strikes on Iran - Reuters",
-      "description": "US military says it completed latest wave of strikes on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T01:56:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "After 286 days at sea, US aircraft carrier visits Thailand for 'well-deserved' R&R - Reuters",
-      "description": "After 286 days at sea, US aircraft carrier visits Thailand for 'well-deserved' R&R Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T01:11:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkhRUy16MlQ0NVBUYU4tZFlXU2U0dlVFQ1dlLTZyVnowTGprbFdzMmlMWWtKdWdwdmxlRXptSXZQMFNUQzE0VzNBRkpDZ2xFVUNVRTRxLWZhVGhuOHRYV1VMRTRPbVEybW5aMlFITDBkUVllS2V5a3RxbnpGUUFXQkRFdFJzbWZIUUxpZzBlbUlHbXQtbGl1NFBjNVRGUzNpd2ZGQkVlQl9Pbk44YUtIRV9ZNHBJUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Yen gains sharply, dollar eases from two-week high - Reuters",
-      "description": "Yen gains sharply, dollar eases from two-week high Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T01:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHBBNVNPZnJHaVhnTDlrMDVERUdjS2dCWXl2NmplVWJtYTFiLXk3amhnNkFoeEdFVzBuczBNZmdNWEc3bEFTaFBxb1RWazVjTW0tQ2NNM1RjUlljdnB6a3VaQXdGeDNUUE9WbGJxOVJzZk1Wb056eEJqcUp4allyS0FSZmpLbXQ2MmZWYWdmVUNxczFmdU5helZNQ3pQT3c?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters",
-      "description": "Oil settles 1% higher, as US-Iran strikes threaten supplies Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T00:55:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday - Reuters",
-      "description": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T00:47:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFltYnJHT0FhRU01WHEzZXFFdGp4TUdid0tFLVRaTmlqLUFaenRWWXZJNzBfb054NFRnUGs3N01lVXc1WGFwWjF1dUV5QS1QVHZjSVhtVjZNRDhPSGpJNDVkcVZaRWU4ZG1rQThOQzc4TnJZTGVCLS1lNk9wQXNfUk43eUZ5akEydndGTGJpS01OUmtyR0hYM05nMkxORklXTXpHanpqSDJ0QXItSVEzUDZKWEZhMGM0SE1sYUpHdEpZdHFtZ0NpdWhB?oc=5",
-      "asset_tags": [
-        "commodities"
-      ]
-    },
-    {
-      "headline": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-01T23:55:46+00:00",
-      "article_url": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UN faces contentious Iran nuclear vote ahead of General Assembly - Reuters",
-      "description": "UN faces contentious Iran nuclear vote ahead of General Assembly Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-01T23:06:50+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd0dNZ2g0a1VQV3N1NV9oT2RWZE0zR1NzeklYOEItMHFRTFJMNS1jTVhFbUdHMjNaT0ZrM21WMmlJWjdsWVhSQVNtOUd3MWhzWjBhN3lucmZ3T1BnanVnSG1ZMUJITkZ4Q1EydEdYYVB0VXVfSjcwdm84S0RvYUNSUFdVeFBVR01xRWRVb0YtSFFIc0RjVWNsOEZqM0xrT0RxTWVmcTRrdkl4WTdDSXc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Wall Street ends lower as higher yields, rising oil prices mark shaky start to September - Reuters",
-      "description": "Wall Street ends lower as higher yields, rising oil prices mark shaky start to September Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-01T22:26:55+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjZiWGhvamxJTzU5Ync5V2xObHhDRk1PRlZFRkZnZVNqQzM0dHhuUnBMeGJDYW9YWmgxc29fRTNUaTVRT2xLWFZUOGJMWDU4MTlhQVVXRmFOQ3VGQnlNME9tQ09nUW0yMGNUR1c2amZkSVBQbHcwWDNQY0tfZHZoREF4SzVqZ2pNYzlCQVFmSkJMNFFwMEptQi03WlZlZG82bDVNZWhnUm9KMnFDS1pqVWlHZDZ2MmE1?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
-      "description": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-01T22:22:20+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - Reuters",
-      "description": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-01T22:08:56+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNXzNva1pxcDRaVGJ0WkYwOFJ2Zm8wNFBiMmkxLUVIZVJZaUV4WlRGNVRZbk1JZHdpMUpXbXJ6VHZsVUtzS2haZ0M2bDd4d3RTa19vTHZTOWc3MFlGaW1jU3gwMG13cFhFY0hOR2tWSjM1cWQzd2pfUEZFRlpSRWdEcmJ3NHdlM3BydlNkQUgxY3lMYjBybFMwZ1Vxcjk2clc3cHZKdWxtMHlFWHBMNDREaEJoZlBIc2U5TGMyWF9GaEZhX0JlMlA4THpn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "UK economic outlook improves but firms wary of investment, BCC says - Reuters",
-      "description": "UK economic outlook improves but firms wary of investment, BCC says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-01T21:35:43+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTRJRGVrLXRSZld6bWh0Qk92M2ZtdlpXVWpzVGtMLWpEdGRDOEYzc2dXN19oY0x4NEt3VzNmUGpMOWZlLUROTzFiN1Z4eVdsREF4RGpCdmJzODdsU3NDYUxuejVmblk1VG9iNmV0M0ZyV2dxRjAwNVRpOXRBeTZaWlBKVE04MVN1dGFFbGRhbmlLUVZocHQxUWsyN2NzeC1ORTdpZndWOA?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
-      "description": "The $189,000 in media spending to support Representative Jake Auchincloss marked Fairshake’s latest attempt to influence the 2026 elections with funds from the crypto industry.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-01T21:25:27+00:00",
-      "article_url": "https://cointelegraph.com/news/crypto-pac-protect-progress-spending-massachusetts-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-      "description": "Thailand adopted a crypto Travel Rule requiring digital asset operators to verify control of self-custodial wallets and retain transaction data for five years.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-01T21:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
-      "description": "The launch gives eligible non-US users access to physically settled options on more than 1,000 US stocks and ETFs through a single Binance account.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-01T20:42:29+00:00",
-      "article_url": "https://cointelegraph.com/news/binance-adds-options-on-1000-us-stocks-and-etfs-in-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "UK crime agency froze $13.5M amid probe into Premier League crypto sponsor",
-      "description": "UK authorities froze $13.5 million in cash following a January 2025 order from the Westminster Magistrates’ Court as part of an investigation into Sorare.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-01T20:14:12+00:00",
-      "article_url": "https://cointelegraph.com/news/uk-crime-agency-froze-premier-league-crypto-partner-sorare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
-      "description": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
-      "source": "CNBC",
-      "publication_date": "2026-09-01T20:12:35+00:00",
-      "article_url": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+      "publication_date": "2026-09-02T04:36:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XVFFXcFFuc2l0MlU5N01IWDdVcFhIa21hRkRfNlY5ejNQWjVwRkpLOHVnczFYQ3AzazFIblZib2NVYzRZekUzWEt0TXZvUzNSYUtBNHJrQXhwOHl2V25QVzRKc3FIdTY0aGFWeDk2M2J6UEpEeXhrb3I0Q29TdFE?oc=5",
       "asset_tags": [
         "general"
       ]
