@@ -1,18 +1,49 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-02T23:15:03.430158+00:00",
+    "last_updated": "2026-09-03T01:10:20.010152+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "forex": 11,
+      "macro": 19,
       "general": 100,
       "equities": 46,
-      "crypto": 47,
-      "forex": 12,
-      "commodities": 16,
-      "macro": 19
+      "crypto": 46,
+      "commodities": 15
     }
   },
   "articles": [
+    {
+      "headline": "Yen support: Japan services PMI hits five-month high as inflation strengthens BOJ hike case",
+      "description": "<p dir=\"ltr\">The combination of stronger growth and near record cost pass through is the key signal here for BOJ policy watchers, and Fiddes explicitly linked the data to a strengthening case for another rate hike. This is a yen supportive data point on its face, since it reinforces the narrative of",
+      "source": "Forexlive",
+      "publication_date": "2026-09-03T00:45:45+00:00",
+      "article_url": "https://investinglive.com/news/yen-support-japan-services-pmi-hits-five-month-high-as-inflation-strengthens-boj-hike-case/",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Diversified Announces Accretive Acquisition of Birch",
+      "description": "Diversified Announces Accretive Acquisition of Birch",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-02T23:26:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355589/0/en/diversified-announces-accretive-acquisition-of-birch.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
+      "description": "CNBC's Jim Cramer said investors aren’t abandoning AI or technology stocks — they’re rotating out of high-multiple names and into cheaper stocks.",
+      "source": "CNBC",
+      "publication_date": "2026-09-02T23:09:09+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/02/cramer-says-investors-arent-ditching-tech-they-want-cheaper-stocks.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
     {
       "headline": "This is HUGE. GOODLES Finds Its Perfect Match With Barilla Group for a New Chapter of Growth.",
       "description": "SANTA CRUZ, Calif.--(BUSINESS WIRE)--GOODLES, the brand that reimagined boxed mac and cheese, today announced it has entered into an agreement to be acquired by the Barilla Group. Founded in October 2020 as Gooder Foods, Inc. and based in Santa Cruz, California, GOODLES was born out of the idea that",
@@ -31,6 +62,28 @@
       "article_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmZ3SUhHbXJYY2d1bWZHdjZ4MHIzLWdpTzFRWGdWU0pfZDhpV3ZoWVJnY194WF9PR0UxQjRES2NjOHBIbkpTcW9iY1l0Y05uYS1kd1Fha2lnYXNVS1VyZ0xlWGVPaF9Qamh6R2lLZDF5bDBLUFdaTU1RNmtoMVhhcEFCdWJvZWlxNUpYc2FuSG0zb2hFRW1IUW9OZWVOUFNwbWF3V1ZWS2xoaFQ5ZV9CdFpGVEo?oc=5",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Stocks climb and US yields ease; yen jumps against dollar - Reuters",
+      "description": "Stocks climb and US yields ease; yen jumps against dollar Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-02T22:01:50+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters",
+      "description": "Bond selloff deepens as oil prices and public debt fears jolt markets Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-02T21:33:47+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -114,20 +167,6 @@
       "article_url": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "investingLive Americas FX news wrap 2 Sept: USD mixed, stocks rise as Iran tensions simmer",
-      "description": "<ul><li><a href=\"https://investinglive.com/stocks/us-stocks-rise-as-small-caps-lead-the-gains-0\" rel=\"follow\">US stocks rise as small caps lead the gains</a></li><li><a href=\"https://investinglive.com/education/eurusd-technicals-traders-have-done-their-abcs-in-trading-the-eurusd-today-what-do-i-mean",
-      "source": "Forexlive",
-      "publication_date": "2026-09-02T20:33:10+00:00",
-      "article_url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-sept-usd-mixed-stocks-rise-as-iran-tensions-simmer/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities",
-        "crypto",
-        "macro"
       ]
     },
     {
@@ -237,6 +276,16 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-09-02T19:45:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355466/0/fi/oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-hallituksen-p%C3%A4%C3%A4t%C3%B6kset-osakeperusteisten-kannustinj%C3%A4rjestelmien-kohtelusta-s-pankki-oyj-n-julkisen-ostotarjouksen-yhteydess%C3%A4.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters",
+      "description": "Oil settles 1% higher, as US-Iran strikes threaten supplies Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-02T19:30:46+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -492,6 +541,16 @@
       "article_url": "https://seekingalpha.com/news/4639504-adobe-buys-marketing-intelligence-startup-rilo-techcrunch?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
+      ]
+    },
+    {
+      "headline": "South African rand firms on softer dollar, US jobs data - Reuters",
+      "description": "South African rand firms on softer dollar, US jobs data Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-02T14:37:06+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlNvbUsyaFlLdVQ4ZktHZzJ6a3BuM2hzX294VTVLYUVpOWdlOF9KT2NtMEYzS3V1ajE4UE9fUWNEVXNHeUExR1hKNTZlamZKa21UQm03SDVaOVlycDJQdTdkSjVtR1BLSjhZS1Q5WXFXeWZ4ZVhyeWlnRW5ISDJaR1QyOC1keElUaUh6QllfNmlPVnZwaG1WcVEzS1ZVdTViTGR3WUwtcGhTcVZVcTBoR0tB?oc=5",
+      "asset_tags": [
+        "forex"
       ]
     },
     {
@@ -1155,16 +1214,6 @@
       ]
     },
     {
-      "headline": "South African rand firms on softer dollar, US jobs data - Reuters",
-      "description": "South African rand firms on softer dollar, US jobs data Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T06:24:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlNvbUsyaFlLdVQ4ZktHZzJ6a3BuM2hzX294VTVLYUVpOWdlOF9KT2NtMEYzS3V1ajE4UE9fUWNEVXNHeUExR1hKNTZlamZKa21UQm03SDVaOVlycDJQdTdkSjVtR1BLSjhZS1Q5WXFXeWZ4ZVhyeWlnRW5ISDJaR1QyOC1keElUaUh6QllfNmlPVnZwaG1WcVEzS1ZVdTViTGR3WUwtcGhTcVZVcTBoR0tB?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
       "headline": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz - Reuters",
       "description": "Qatari, UAE LNG cargoes transferred via ship-to-ship outside Strait of Hormuz Reuters",
       "source": "Reuters",
@@ -1279,11 +1328,11 @@
       ]
     },
     {
-      "headline": "Bond selloff deepens as oil prices and public debt fears jolt markets - Reuters",
-      "description": "Bond selloff deepens as oil prices and public debt fears jolt markets Reuters",
+      "headline": "US military says it completed latest wave of strikes on Iran - Reuters",
+      "description": "US military says it completed latest wave of strikes on Iran Reuters",
       "source": "Reuters",
-      "publication_date": "2026-09-02T03:11:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
+      "publication_date": "2026-09-02T04:13:29+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1296,16 +1345,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "US military says it completed latest wave of strikes on Iran - Reuters",
-      "description": "US military says it completed latest wave of strikes on Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T01:56:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekNsWEt4cEh2RVhBNk5nQXJSczQ2QjJlU2hONHpGLXRBSVg1bi1wdWljNXZOd0lvS0toX0ZiZmpaNUVpaG9QbmMtTHBkdzRBUXZMVjU0al9iQUFVQWRvZzFTek5MOGhyME9Ea3Y4a0ZiUVNOUXR1VDRZQi1Td09pT1ZpanoxQ1BKVVp2NWc5WlZPT3hVSDJ2aWZZMExHU1J4aUhKSjFEZ3JWdmo3?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1329,16 +1368,6 @@
       ]
     },
     {
-      "headline": "Oil settles 1% higher, as US-Iran strikes threaten supplies - Reuters",
-      "description": "Oil settles 1% higher, as US-Iran strikes threaten supplies Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T00:55:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday - Reuters",
       "description": "US energy secretary says 17 million barrels of oil transited Strait of Hormuz on Monday Reuters",
       "source": "Reuters",
@@ -1346,18 +1375,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaFltYnJHT0FhRU01WHEzZXFFdGp4TUdid0tFLVRaTmlqLUFaenRWWXZJNzBfb054NFRnUGs3N01lVXc1WGFwWjF1dUV5QS1QVHZjSVhtVjZNRDhPSGpJNDVkcVZaRWU4ZG1rQThOQzc4TnJZTGVCLS1lNk9wQXNfUk43eUZ5akEydndGTGJpS01OUmtyR0hYM05nMkxORklXTXpHanpqSDJ0QXItSVEzUDZKWEZhMGM0SE1sYUpHdEpZdHFtZ0NpdWhB?oc=5",
       "asset_tags": [
         "commodities"
-      ]
-    },
-    {
-      "headline": "Stocks climb and US yields ease; yen jumps against dollar - Reuters",
-      "description": "Stocks climb and US yields ease; yen jumps against dollar Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T00:43:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0WUhpSzJRLUpQRnRFZFhzQTlMckJ1alJaa1RQaGo0RjdoZ0h3Y0VQd1I0NkxvS3AzWElTTTJFSF9KMEQ1U1lWVlNDZ2lud19wMW85LWpyQWJoNzltaFctdkdtRzMyWVZDam5yZWtxRHlzcUJBR3R4VHNHWQ?oc=5",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "macro"
       ]
     },
     {
@@ -1378,6 +1395,16 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3354759/0/en/quantumsphere-acquisition-corporation-announces-termination-of-the-agreement-and-plan-of-merger-with-sach-pte-ltd.html",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - Reuters",
+      "description": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-01T23:36:26+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -2021,36 +2048,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
-      "description": "Donald Trump Jr.-linked 1789 Capital will reportedly lead a $1 billion investment round into Polymarket, which would value the platform at $21 billion, just below Kalshi’s $22 billion valuation.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-01T07:47:13+00:00",
-      "article_url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-01T06:52:10+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/09/01/time-is-putting-openai-s-founders-on-its-cover-paul-montgomery-s-contrary-indicator-says-hello",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Iran says it has enough foreign currency despite US sanctions - Reuters",
-      "description": "Iran says it has enough foreign currency despite US sanctions Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-01T06:41:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmpRVW0wSlR3WnJacEhxTk9ldXVERXk3QXVFc1ZZV2oyNVM5TEVId1RYU0JsOWN5Y0R5bXZKcklUaTNHWmN1X3JPUDh1N2VmS3U4by1QM1NDZksxNm1kdHA4elBUWFNteFB3UlpKcEtJbjE1S19sNDBVcXRUZ3MxM0xGOEV3Q2hFQmVvU1p0clY4R3c1M2o3TDUwVVcwU3FiWkJoN01NQ2J5QmRkUTdyQUkzSXNwUQ?oc=5",
-      "asset_tags": [
-        "forex"
       ]
     }
   ]
