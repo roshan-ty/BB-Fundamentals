@@ -1,18 +1,80 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-04T17:33:03.962344+00:00",
+    "last_updated": "2026-09-04T19:51:10.202316+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
+      "equities": 39,
       "crypto": 45,
-      "general": 105,
-      "macro": 17,
-      "forex": 13,
-      "equities": 40,
-      "commodities": 13
+      "macro": 18,
+      "general": 104,
+      "commodities": 13,
+      "forex": 12
     }
   },
   "articles": [
+    {
+      "headline": "Trump: Going to help cattle ranchers by allowing them to process their own beef.",
+      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">President Trump is trying to solve a difficult economic problem in the beef market and in the process is creating another problem (nothing new honestly). </p><p>US ranchers have been slaughtering cattle faster than they are rebuilding their herds. That has ",
+      "source": "Forexlive",
+      "publication_date": "2026-09-04T19:25:11+00:00",
+      "article_url": "https://investinglive.com/news/trump-going-to-help-cattle-ranchers-by-allowing-them-to-process-their-own-beef/",
+      "asset_tags": [
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "What strong jobs data means for rates — plus, an out-of-favor trade shines this week",
+      "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source": "CNBC",
+      "publication_date": "2026-09-04T18:51:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/04/what-strong-jobs-data-means-for-rates-plus-an-out-of-favor-trade-shines-this-week.html",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
+      "headline": "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran - Reuters",
+      "description": "US sanctions Turkish bank, two subsidiaries in latest pressure on Iran Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-04T18:22:57+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge - Reuters",
+      "description": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-04T18:12:50+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDdsZzhvakd2emFpVk5wYkczLURIaUJBZUhKNDlsRjdRcGoxMWdqbWpsdXFNTWZDVk5FUS1nMXNxc0RwMktpbGNTb1RXSHRrYS1oU3BVZGNVMG13dThUQ0E0Ym9KVzVHc1VXRzZTc1RmeHhqR1c2WDBVTXptQXJfQjF2NnZuMjRQZ1JXRzU1dUl6WVQwQlpkYWpsSFZsdjY2SVFPWVJMRC1qVjNuUU0yUjVpRWFXV1NqZllXY19ianRINkpYT0VGN0U3dw?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Generational Group Advises RMH Solutions in its Sale to a Private Investor Group",
+      "description": "DALLAS--(BUSINESS WIRE)--Generational Group facilitates the successful sale of Cambridge, Ontario-based material handling equipment provider to a Private Investor Group.",
+      "source": "BusinessWire",
+      "publication_date": "2026-09-04T17:36:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260904344822/en/Generational-Group-Advises-RMH-Solutions-in-its-Sale-to-a-Private-Investor-Group/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
+      "description": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-04T17:22:58+00:00",
+      "article_url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "QuFi launches post-quantum verification platform with Bitcoin testnet proof",
       "description": "QuFi’s new platform uses post-quantum cryptography to verify digital asset transactions without requiring changes to existing blockchain settlement networks.",
@@ -40,19 +102,6 @@
       "publication_date": "2026-09-04T16:56:28+00:00",
       "article_url": "https://www.cnbc.com/2026/09/04/cybercabs-are-a-game-changer-says-mike-khouw-heres-how-hes-trading-tesla.html",
       "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "Nvidia Technicals: Buyers are making a play and testing the all-time highs.",
-      "description": "<p class=\"PDq2pG_selectionAnchorContainer\">The price of Nvidia is stretching toward its all-time high despite a down day for the broader US stock indices. Shares are currently up $2.70, or 1.12%, at $231.00. The intraday high reached $234.76, putting the stock less than $2 from its record high of $2",
-      "source": "Forexlive",
-      "publication_date": "2026-09-04T16:36:08+00:00",
-      "article_url": "https://investinglive.com/technical-analysis/nvidia-technicals-buyers-are-making-a-play-and-testing-the-all-time-highs/",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "crypto",
         "macro"
       ]
     },
@@ -87,16 +136,6 @@
       ]
     },
     {
-      "headline": "US sanctions Turkish bank, two subsidiaries to pressure Iran - Reuters",
-      "description": "US sanctions Turkish bank, two subsidiaries to pressure Iran Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-04T15:38:23+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml5Y093OWVORkhPb29wMzl1QlYxcWtjWGYwUTNFSUh3bkNTU3NJZ0d3eG9UbUNxeXM4eGE3U2V5ejVqaThPemU1WDBoMndmY0NxOUhKamRhUExmMjBnMDY2RXQ1b2FBMFI4X1NOcjJZNDlaSDR1dGZSclJoM3FOOElibjhITXVjS1ZiVTBpeFNUVXZuaWlORUNENUw1YVJNcFRYUXNwRERJZTgxb1E?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "US and allies push IAEA board to report Iran to UN Security Council, diplomats say - Reuters",
       "description": "US and allies push IAEA board to report Iran to UN Security Council, diplomats say Reuters",
       "source": "Reuters",
@@ -117,6 +156,16 @@
       ]
     },
     {
+      "headline": "Only a quarter of Americans think Iran war is worthwhile, Reuters/Ipsos poll shows - Reuters",
+      "description": "Only a quarter of Americans think Iran war is worthwhile, Reuters/Ipsos poll shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-04T14:56:55+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDktVk9zLXloNkRZVGMzYVRQWUVwOFZwYmdWVEVVeXAwcWNBWnNHYTBXdU44UUlOdkVKV0xwWEZfSUFDWkNHenVHemlDM1dWWWI3c3FiYmhhOE5HT1JhbHpRNUFOSVc3MFRjVTJwQTRrNjlteWE2MG50a2V0WnRVdnkwYjVxUFpFbWtZem44Y0M2bjVpTGRIUlNvcjY3V21jUTBGTVNoR2M1a1lRNXhPMVRMSk9VVVJE?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
       "description": "",
       "source": "CoinDesk",
@@ -124,16 +173,6 @@
       "article_url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Generational Capital Markets Advises MAK Steel Services, LLC and Trinity Steel Services, LLC in its Sale to Crosstown Capital Partners",
-      "description": "DALLAS--(BUSINESS WIRE)--Generational Capital Markets announces the sale of a structural steel fabricator and a steel erection company, to Crosstown Capital Partners.",
-      "source": "BusinessWire",
-      "publication_date": "2026-09-04T14:51:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260903758405/en/Generational-Capital-Markets-Advises-MAK-Steel-Services-LLC-and-Trinity-Steel-Services-LLC-in-its-Sale-to-Crosstown-Capital-Partners/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -152,16 +191,6 @@
       "source": "GlobalNewswire",
       "publication_date": "2026-09-04T14:33:00+00:00",
       "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356647/0/en/form-8-3-dcc-plc.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge - Reuters",
-      "description": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-04T14:31:42+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUDdsZzhvakd2emFpVk5wYkczLURIaUJBZUhKNDlsRjdRcGoxMWdqbWpsdXFNTWZDVk5FUS1nMXNxc0RwMktpbGNTb1RXSHRrYS1oU3BVZGNVMG13dThUQ0E0Ym9KVzVHc1VXRzZTc1RmeHhqR1c2WDBVTXptQXJfQjF2NnZuMjRQZ1JXRzU1dUl6WVQwQlpkYWpsSFZsdjY2SVFPWVJMRC1qVjNuUU0yUjVpRWFXV1NqZllXY19ianRINkpYT0VGN0U3dw?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1659,16 +1688,6 @@
       ]
     },
     {
-      "headline": "Fortrea Akan Mengakuisisi Unit Farmakologi Klinis dan Operasional Laboratorium Bionalitik dari Worldwide Clinical Trials",
-      "description": "Menambahkan kemampuan bioanalitik khusus dan kapasitas yang diperluas untuk jaringan pengembangan klinis awal Fortrea selagi Worldwide mengembangkan strateginya untuk menskalakan pengembangan klinis, kepemimpinan terapeutik, dan pasar dengan pertumbuhan tinggi Menambahkan kemampuan bioanalitik khusu",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-03T07:52:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355675/0/id/fortrea-akan-mengakuisisi-unit-farmakologi-klinis-dan-operasional-laboratorium-bionalitik-dari-worldwide-clinical-trials.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Australia warns unlicensed crypto firms of fines up to 10% of annual turnover",
       "description": "ASIC has recorded more than 45 digital asset-related license applications as its temporary enforcement relief approaches Sept. 30 expiration.",
       "source": "Cointelegraph",
@@ -1894,16 +1913,6 @@
       ]
     },
     {
-      "headline": "US-Iran strikes raise fears of renewed war across the Middle East - Reuters",
-      "description": "US-Iran strikes raise fears of renewed war across the Middle East Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T21:06:12+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
       "description": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
       "source": "CNBC",
@@ -2033,17 +2042,6 @@
       "article_url": "https://cointelegraph.com/news/ondo-urges-sec-cftc-bring-us-stock-perpetuals-onshore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Bitcoin’s apparent demand turns negative as price struggles with $77K",
-      "description": "One of Bitcoin’s onchain demand indicators turns negative again after a brief August rebound, as BTC price slipped below $77,000 amid a broader bond and equities sell-off.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-02T16:35:56+00:00",
-      "article_url": "https://cointelegraph.com/markets/bitcoins-apparent-demand-turns-negative-price-struggles-with-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "equities",
-        "crypto"
       ]
     }
   ]
