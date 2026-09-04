@@ -1,18 +1,329 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-04T09:56:05.446916+00:00",
+    "last_updated": "2026-09-04T13:59:54.885703+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 99,
-      "forex": 13,
-      "macro": 16,
-      "crypto": 50,
+      "forex": 15,
+      "crypto": 46,
       "equities": 41,
-      "commodities": 13
+      "general": 102,
+      "macro": 18,
+      "commodities": 12
     }
   },
   "articles": [
+    {
+      "headline": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+      "description": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-04T13:34:30+00:00",
+      "article_url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "forex",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Token buybacks are booming. But are they good for crypto projects?",
+      "description": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-04T13:30:00+00:00",
+      "article_url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "SoundHound AI Completes Acquisition of LivePerson, Creating a World-Leading Omnichannel Conversational AI Powerhouse",
+      "description": "SoundHound AI announced the successful completion of its acquisition of LivePerson, Inc., and the appointment of John Collins as the combined company’s CFO",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T13:26:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356596/0/en/soundhound-ai-completes-acquisition-of-liveperson-creating-a-world-leading-omnichannel-conversational-ai-powerhouse.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
+      "description": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
+      "source": "CNBC",
+      "publication_date": "2026-09-04T13:09:26+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Here are our top 10 things to watch in the stock market Friday",
+      "description": "Bond yields jumped and stocks dipped after a strong August jobs report.",
+      "source": "CNBC",
+      "publication_date": "2026-09-04T13:07:29+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/04/here-are-our-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "asset_tags": [
+        "equities",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+      "description": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
+      "source": "CNBC",
+      "publication_date": "2026-09-04T12:40:43+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+      "asset_tags": [
+        "forex",
+        "macro"
+      ]
+    },
+    {
+      "headline": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-04T12:31:47+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Canada Employment change for August -41,7K vs 15.0K estimate",
+      "description": "<ul><li>Prior month employment change: 75.1K</li></ul><p>Details for the month of August: </p><ul><li>Employment change:-41.7K vs +15.0K expected; prior +75.1K</li><li>Unemployment rate:6.4% vs 6.4% expected; prior 6.4%</li><li>Full-time employment change:-35.9K vs prior +38.6K</li><li>Part-time emp",
+      "source": "Forexlive",
+      "publication_date": "2026-09-04T12:30:14+00:00",
+      "article_url": "https://investinglive.com/news/canada-employment-change-for-august-41-7k-vs-15-0k-estimate/",
+      "asset_tags": [
+        "forex",
+        "equities",
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Bending Spoons completes the acquisition of Airtable",
+      "description": "MILAN--(BUSINESS WIRE)--Bending Spoons completes the acquisition of Airtable.",
+      "source": "BusinessWire",
+      "publication_date": "2026-09-04T12:30:00+00:00",
+      "article_url": "http://www.businesswire.com/news/home/20260904994587/en/Bending-Spoons-completes-the-acquisition-of-Airtable/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T12:21:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356545/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T12:19:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356544/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T12:16:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356542/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - CAPRICORN ENERGY PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T12:04:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356535/0/en/dimensional-fund-advisors-ltd-form-8-3-capricorn-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "The big business of personal protection: How private security became a $50 billion industry",
+      "description": "Private security spending and guard employment have climbed as companies and communities respond to high-profile attacks, even as violent crime falls.",
+      "source": "CNBC",
+      "publication_date": "2026-09-04T11:57:48+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - Ordinary Shares",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T11:52:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356514/0/en/dimensional-fund-advisors-ltd-form-8-3-dcc-energy-plc-ordinary-shares.html",
+      "asset_tags": [
+        "equities",
+        "commodities"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T11:51:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356513/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+      "description": "FORM 8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T11:49:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356512/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+      "description": "Kalshi’s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-04T11:32:28+00:00",
+      "article_url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "We checked 6 years of bitcoin data. The NFP report isn't big price mover",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-04T11:29:05+00:00",
+      "article_url": "https://www.coindesk.com/daybook-us/2026/09/04/we-checked-6-years-of-bitcoin-data-the-nfp-report-isn-t-big-price-mover",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Trezor says data breach affects another 67K US customers",
+      "description": "Trezor said an additional 67,000 US users were affected by its shipping provider’s data breach, opening the path to potential phishing attacks and social engineering scams.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-04T11:19:19+00:00",
+      "article_url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - Picton Property Income Limited",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T11:15:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356498/0/en/form-8-3-picton-property-income-limited.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Form 8.3 - LondonMetric Property Plc & Schroder European Real Estate Investment Trust PLC",
+      "description": "8.3",
+      "source": "GlobalNewswire",
+      "publication_date": "2026-09-04T11:12:00+00:00",
+      "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356497/0/en/form-8-3-londonmetric-property-plc-schroder-european-real-estate-investment-trust-plc.html",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "The wealth of the world's billionaires reached $15.1 trillion last year, per a new report",
+      "description": "The global billionaire count hit a record of 3,795 people last year, with the biggest wealth gains for the richest of the rich, per a recent Altrata report.",
+      "source": "CNBC",
+      "publication_date": "2026-09-04T11:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "South Korean regulators introduce tokenized securities roadmap",
+      "description": "South Korea’s financial regulator introduced a three-phase roadmap for the issuance of tokenized assets, as the country prepares to adopt its first tokenized securities framework in February 2027.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-04T10:42:10+00:00",
+      "article_url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-04T10:40:14+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-04T09:57:01+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/04/bitcoin-clears-usd81-000-as-privacy-coins-lead-a-broad-crypto-rally",
+      "asset_tags": [
+        "equities",
+        "crypto"
+      ]
+    },
+    {
+      "headline": "AMC chief criticizes Robinhood’s tokenized stock plan",
+      "description": "AMC’s CEO criticized Robinhood’s tokenized stock offerings for being unregulated in the US and said he will request an investigation from an external securities counsel.",
+      "source": "Cointelegraph",
+      "publication_date": "2026-09-04T09:56:52+00:00",
+      "article_url": "https://cointelegraph.com/news/amc-ceo-criticizes-robinhoods-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "asset_tags": [
+        "equities"
+      ]
+    },
+    {
+      "headline": "Air Tanzania to resume flights to Russia on September 7 after temporary halt - Reuters",
+      "description": "Air Tanzania to resume flights to Russia on September 7 after temporary halt Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-04T09:53:53+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWVSWXZZcTdRTVlSaFlBRDJBcUFmZmY5T002SC1zMzNvMDhOS2FDZVhvTVF3clRlNlVlcHgwV29ER2g4bnJhV2tJZXNuTzd0ZVVEXzN4UEhfTXlXUkpQeVk5S0NhRnJFQmlpRDA5SzFHdl9FV3VHaUtkdTJnVFROMDVSWWxpN21YRkFLVjBZeXlKaWVQZW9iWk5rMUdvUjRRRVJqdjVNajhPRFYxdUl0dlNGMGVIdG8?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "IMF confirms El Salvador’s bitcoin growth was funded by private donations, not public money",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-04T09:47:15+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/04/imf-confirms-el-salvador-s-bitcoin-growth-was-funded-by-private-donations-not-public-money",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "South Korea targets February 2027 rollout for full tokenized securities market",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-04T09:41:31+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
       "description": "FORM 8.3",
@@ -21,17 +332,6 @@
       "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356430/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Eurozone retail sales fall in July as consumer spending softens",
-      "description": "<ul><li>Full report <a href=\"https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-04092026-ap\" rel=\"follow\">here</a></li></ul><p class=\"isSelectedEnd\">Retail sales in the Eurozone declined in July, pointing to softer consumer demand. The volume of retail trade fell by 0.6% m/m in July, ",
-      "source": "Forexlive",
-      "publication_date": "2026-09-04T09:19:48+00:00",
-      "article_url": "https://investinglive.com/news/eurozone-retail-sales-fall-in-july-as-consumer-spending-softens/",
-      "asset_tags": [
-        "forex",
-        "macro"
       ]
     },
     {
@@ -155,6 +455,16 @@
       ]
     },
     {
+      "headline": "Gulf shipping traffic via Hormuz keeps below 10-day average, data shows - Reuters",
+      "description": "Gulf shipping traffic via Hormuz keeps below 10-day average, data shows Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-04T06:09:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmJxV2JuVVpNSWV4QTRZZktncFBvaUQtcXZVaDZHdkJfV1JkZFhoeU0ybFRIU19qYmZKUkt1VXZZaFlaR2FKY2dxZFN0U2NkRjZYZWt1dlh2N21aN092aEpVdmZ2MmlvMVNDeThDZ1p4aHJpR0x6NV9MREtJb3dFeXY3ZktVbTFJZVZXNzd1ZkFaTWg0TWtQM1dzRlVVeHlUcTYtSFA3UEFPTEQ4ckc0TFRTcEUtQUpzTUFRWWVHd09ZUQ?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
       "description": "",
       "source": "CoinDesk",
@@ -216,19 +526,8 @@
       ]
     },
     {
-      "headline": "Energy Vault fait avancer le projet de système de stockage d’énergie par batterie (BESS) de Stoney Creek vers la phase de production ; ce projet offrira une puissance de 125 MW et une capacité de 1 GWh, après le franchissement d’une étape ...",
-      "description": "WESTLAKE VILLAGE, Californie--(BUSINESS WIRE)-- Energy Vault fait avancer le projet de système de stockage d’énergie par batterie (BESS) de Stoney Creek vers la phase de production ; ce projet offrira une puissance de 125 MW et une capacité de 1 GWh, après le franchissement d’une étape décisive avec",
-      "source": "BusinessWire",
-      "publication_date": "2026-09-04T02:15:00+00:00",
-      "article_url": "http://www.businesswire.com/news/home/20260902969804/fr/?feedref=JjAwJuNHiystnCoBq_hl-Rc4vIAVcHHkbDcwJimU8QtrtlakeQ9hNboBqTAWIjTge3KWq9s9jif-UkBjBsFRyYAbRTSLTc1mgvhPlnaBA55M-oupQnbXnhKsYk8RmHF_kAy2gZikaX3QWV6xOvgFlA==",
-      "asset_tags": [
-        "equities",
-        "commodities"
-      ]
-    },
-    {
-      "headline": "Oil prices set for weekly gain as US-Iran hostilities intensify - Reuters",
-      "description": "Oil prices set for weekly gain as US-Iran hostilities intensify Reuters",
+      "headline": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high - Reuters",
+      "description": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high Reuters",
       "source": "Reuters",
       "publication_date": "2026-09-04T01:28:00+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
@@ -375,6 +674,16 @@
       "article_url": "https://cointelegraph.com/news/paxos-usdg-goes-live-mantle-network-joins-global-dollar-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "forex"
+      ]
+    },
+    {
+      "headline": "PODCAST: UPDATE: Gloria Steinem, Iran's economy and the Pentagon's testosterone pullback - Reuters",
+      "description": "PODCAST: UPDATE: Gloria Steinem, Iran's economy and the Pentagon's testosterone pullback Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T19:21:51+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekU0N1hPQ2VTdzFCQ1lEd0szT1RSd0pDRkktUWN1Y0IxaGJRWkVHeDlKYXJScHBHMDk4SUJvY2ltMnJmZEItdlNhcHVhS0x5WXhsVkMyZ3lJMGFGV29LQi0zQ2pOWkMxbVh6TjRaNnNQWThkMTliamhrTER1aWF3NG9UV2tGZ0pKU3dqRVQwc1FDdFBCV2dIdVJ3bDVMMGhRMnExUTk2MA?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -652,26 +961,6 @@
       ]
     },
     {
-      "headline": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-03T13:13:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355994/0/en/form-8-3-advanced-medical-solutions-group-plc-octopus-investments.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Gooch & Housego plc - Octopus Investments",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-03T13:11:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355993/0/en/form-8-3-gooch-housego-plc-octopus-investments.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Opti9 Technologies Acquires Hut 8’s Canadian Managed Cloud Business, Further Expanding Its Canadian Cloud Platform",
       "description": "Acquisition builds on Opti9’s presence in Canada, expanding its cloud presence and geographic reach for customers and channel partners across the country.",
       "source": "GlobalNewswire",
@@ -749,16 +1038,6 @@
       "article_url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "equities"
-      ]
-    },
-    {
-      "headline": "Form 8.3 - Picton Property Income Limited",
-      "description": "8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-03T12:35:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355932/0/en/form-8-3-picton-property-income-limited.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -967,6 +1246,26 @@
       ]
     },
     {
+      "headline": "Air India closes in on $1.1 billion financial aid from owners",
+      "description": "Air India nears $1.1 billion in conditional financial aid from Tata Sons and Singapore Airlines to overcome recent challenges.",
+      "source": "Bloomberg",
+      "publication_date": "2026-09-03T10:05:03+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/air-india-closes-in-on-1-1-billion-financial-aid-from-owners",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "Banks commit ₹24,000 crore to Aditya Birla Group for Shell renewables acquisition",
+      "description": "Aditya Birla Group has received ₹24,000 crore in bank commitments for a ₹14,000 crore loan to acquire Shell’s renewable energy assets in India.",
+      "source": "Bloomberg",
+      "publication_date": "2026-09-03T10:04:06+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/billionaire-birla-unit-s-buyout-loan-draws-2-5-billion-in-bids",
+      "asset_tags": [
+        "commodities"
+      ]
+    },
+    {
       "headline": "Form-8.3 APTITUDE SOFTWARE GROUP PLC - 02 09 2026 - (CGAML)",
       "description": "FORM 8.3",
       "source": "GlobalNewswire",
@@ -1038,41 +1337,11 @@
       ]
     },
     {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - ROTORK PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-03T09:06:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355694/0/en/dimensional-fund-advisors-ltd-form-8-3-rotork-plc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
       "headline": "Yorkton Equity amends Yorkton Management acquisition terms, lowers share issue price to $0.10",
       "description": "",
       "source": "SeekingAlpha",
       "publication_date": "2026-09-03T09:04:03+00:00",
       "article_url": "https://seekingalpha.com/news/4639843-yorkton-equity-amends-yorkton-management-acquisition-terms-lowers-share-issue-price-to-010?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-03T09:04:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355693/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Dimensional Fund Advisors Ltd. : Form 8.3 - MITIE GROUP PLC - Ordinary Shares",
-      "description": "FORM 8.3",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-03T09:02:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3355692/0/en/dimensional-fund-advisors-ltd-form-8-3-mitie-group-plc-ordinary-shares.html",
       "asset_tags": [
         "equities"
       ]
@@ -1506,18 +1775,6 @@
       ]
     },
     {
-      "headline": "Shell completes acquisition of ARC Resources",
-      "description": "Calgary, September 2, 2026 − Shell plc has completed the previously announced agreement (the “Arrangement Agreement”) to acquire ARC Resources Ltd. (“ARC”) (TSX: ARX), an energy company focused in British Columbia and Alberta, Canada, following receipt of all required shareholder, court and regulato",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-02T21:00:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355547/0/en/shell-completes-acquisition-of-arc-resources.html",
-      "asset_tags": [
-        "forex",
-        "equities",
-        "commodities"
-      ]
-    },
-    {
       "headline": "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
       "description": "The NBA also fined the Los Angeles Clippers $30 million and said the team will forfeit five first-round picks, one in each year in drafts starting in 2029.",
       "source": "CNBC",
@@ -1549,16 +1806,6 @@
       ]
     },
     {
-      "headline": "NWPX Infrastructure acquires Serpentix Conveyor",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-09-02T20:29:08+00:00",
-      "article_url": "https://seekingalpha.com/news/4639728-nwpx-infrastructure-acquires-serpentix-conveyor?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
       "description": "Broadcom gave a disappointing revenue forecast for the current quarter.",
       "source": "CNBC",
@@ -1574,36 +1821,6 @@
       "source": "Reuters",
       "publication_date": "2026-09-02T20:24:20+00:00",
       "article_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRkVWlBVVJQeFBDbXB5UzFkd05qc05KVXhja1h2cC1aMUZxOTRGQTY4a0ZHeWpiSzl0UE50MjRTTjFVREhMUGJhd29Ka21tTTlISE9yd3pSSHFESEtVOTBzb2c0dEVFakx5eEJLamxsMUJxZ0NOSTBpNll2a2Z5eVBncmR6S3MtSW1ITE9hN01KbUljNlcwNlB3aw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Apogee Enterprises to acquire GroGlass for up to €62.5M",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-09-02T20:23:59+00:00",
-      "article_url": "https://seekingalpha.com/news/4639711-apogee-enterprises-to-acquire-groglass-for-up-to-625m?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "C-IV Capital Partners Completes Acquisition of Greystone’s Special Servicing Business",
-      "description": "C-IV Asset Management completed its acquisition of Greystone's commercial real estate special servicing business, which closed on September 1, 2026.",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-02T20:22:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355526/30865/en/c-iv-capital-partners-completes-acquisition-of-greystone-s-special-servicing-business.html",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "CDW to acquire Lovelytics for $525M to epand data & AI services",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-09-02T20:13:57+00:00",
-      "article_url": "https://seekingalpha.com/news/4639698-cdw-to-acquire-lovelytics-for-525m-to-epand-data-ai-services?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
       "asset_tags": [
         "general"
       ]
@@ -1637,36 +1854,6 @@
       "asset_tags": [
         "commodities",
         "macro"
-      ]
-    },
-    {
-      "headline": "Activist Elliott builds stake in Deutsche Telekom - Bloomberg",
-      "description": "",
-      "source": "SeekingAlpha",
-      "publication_date": "2026-09-02T19:54:22+00:00",
-      "article_url": "https://seekingalpha.com/news/4639662-activist-elliott-builds-stake-in-deutsche-telekom-bloomberg?utm_source=feed_news_m_a&utm_medium=referral&feed_item_type=news",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Decisions of the Board of Directors of Oma Savings Bank Plc on the treatment of share-based incentive plans in connection with S-Bank Plc's public tender offer",
-      "description": "NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, IN OR INTO AUSTRALIA, CANADA, HONG KONG, JAPAN, NEW ZEALAND OR SOUTH AFRICA OR IN ANY OTHER JURISDICTION IN WHICH THE TENDER OFFER WOULD BE PROHIBITED BY APPLICABLE LAW. FOR FURTHER INFORMATION, PLEASE SEE SEC",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-02T19:45:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355466/0/en/decisions-of-the-board-of-directors-of-oma-savings-bank-plc-on-the-treatment-of-share-based-incentive-plans-in-connection-with-s-bank-plc-s-public-tender-offer.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Oma Säästöpankki Oyj:n hallituksen päätökset osakeperusteisten kannustinjärjestelmien kohtelusta S-Pankki Oyj:n julkisen ostotarjouksen yhteydessä",
-      "description": "EI JULKISTETTAVAKSI TAI LEVITETTÄVÄKSI, KOKONAAN TAI OSITTAIN, SUORAAN TAI VÄLILLISESTI, AUSTRALIASSA, KANADASSA, HONGKONGISSA, JAPANISSA, UUDESSA-SEELANNISSA TAI ETELÄ-AFRIKASSA TAI NÄIHIN MAIHIN TAI MILLÄÄN MUULLA ALUEELLA TAI MILLEKÄÄN MUULLE ALUEELLE, JOSSA OSTOTARJOUS OLISI SOVELTUVAN LAIN VAST",
-      "source": "GlobalNewswire",
-      "publication_date": "2026-09-02T19:45:00+00:00",
-      "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355466/0/fi/oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-hallituksen-p%C3%A4%C3%A4t%C3%B6kset-osakeperusteisten-kannustinj%C3%A4rjestelmien-kohtelusta-s-pankki-oyj-n-julkisen-ostotarjouksen-yhteydess%C3%A4.html",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -1856,191 +2043,6 @@
       "source": "Cointelegraph",
       "publication_date": "2026-09-02T13:30:00+00:00",
       "article_url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "US eyes airlines, digital assets as Iran-related targets, Bessent says - Reuters",
-      "description": "US eyes airlines, digital assets as Iran-related targets, Bessent says Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T13:18:17+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUlHdHVEMktlRk5WZDlIT0FGWU9sa056b1M4SEFCeXgwTUxWUWNKOUhMdXBKbV92cEc4UHJCMVhxZFB5Zi1pQlRwTDNBbVc1OXU4X3RIUWs1YVlxUXNjQTdZdDBEWFdpaTd3VG04X09OM0pNYXZ5c0VWdGljZGMwcU9yOXVXRnlrMzFrRDlmTTlVX19ielVvZ0lteXZlOE10b3hlckZvSTEwWXlpbWhn?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-02T13:14:47+00:00",
-      "article_url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors - Reuters",
-      "description": "Saudi Arabia says Iran attacked vessel in Hormuz, killing two sailors Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T13:12:13+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdW5sTXJ3VXZwZE1vZ2RUZ19pNnFoX3ZHc2EyYUI0Y3V0Z09Wc21IMkNNVHlrTXR5eTdOZkNYeGJ3VHhBWlhxeVBjemxGQWZzS0EwN2MxWC1GOWMySnFEM2hkY0V4VVRIcjgxbEdQSHpLcVhIa3Y4QU1Jd3dSWWt3RlE4RnBWRlR6S0c1RWkwVHJ4UlcxWE5oX3hRSVJ3U1RtaHdDeUZaTHBfXzN5OGdfX3dlZGtTYXFySjZ4M1NqRQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Hashkey joins DTCC working group as first Asian crypto service provider",
-      "description": "Hashkey joined the DTCC’s working group on tokenization innovation as the first Asian crypto service provider to join with over 100 financial institutions, including Goldman Sachs and JPMorgan.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-02T13:11:25+00:00",
-      "article_url": "https://cointelegraph.com/news/hashkey-dtcc-first-asian-crypto-service-provider?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "commodities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Uber to cut 3,300 jobs in company overhaul to reduce management layers",
-      "description": "The cuts will reduce the number of managers in the company by 20 per cent, with some being moved to the role of an individual contributor",
-      "source": "Bloomberg",
-      "publication_date": "2026-09-02T13:11:16+00:00",
-      "article_url": "https://www.bloomberg.com/news/articles/2026-09-02/uber-to-cut-3-300-jobs-in-company-overhaul-to-reduce-management-layers",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Gulf shares slide after US and Iran exchange strikes - Reuters",
-      "description": "Gulf shares slide after US and Iran exchange strikes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T13:09:27+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEt1N3pMR3ZhSTdjUUhLcTdBaXg5YW9Nam03d0lSc3RrbXd3dlZTYUZsUE9fU1ZwOWZ4d2UxWjFXZFYwX0tVbngwU3J1VVc0RUlTN2czNEdXNnhlRER5UFdfb3RtYV9HXzk4bHhHbVptTi1rOXlLWWRyNFJTQjdmSnNwS3l4TEIzODRGdTRna1hNSnpqV08tLXJUeHYzVVlXcGpF?oc=5",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence - Reuters",
-      "description": "India draws a bumper $136 billion in forex inflows, bolstering rupee defence Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T13:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb05GRzZpQ2VFMXEyVTVCdzFLd2NtYVBqYUNldVo3WXhybzRZTXctUFEwSkxzWF9TcmE1d3hmM2JNMnkycndvLXJreW1XZkE1elp4QU5Sc25tbERmMVhaMktXUlNWQkQzMkF1VVl0YmFtQUo4c2hqZGhFX21HdFlmR3NsMVJwanZSaG12M3MxaUVvLUxyOGlzbE8tWjRQM0VVYjliWFR0ams?oc=5",
-      "asset_tags": [
-        "forex"
-      ]
-    },
-    {
-      "headline": "The token supercycle: everything of value is becoming programmable",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-02T13:00:00+00:00",
-      "article_url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-      "description": "Dell might've delivered the best quarter of the year.",
-      "source": "CNBC",
-      "publication_date": "2026-09-02T12:51:28+00:00",
-      "article_url": "https://www.cnbc.com/2026/09/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "After 286 days at sea, US aircraft carrier visits Thailand for 'well-deserved' R&R - Reuters",
-      "description": "After 286 days at sea, US aircraft carrier visits Thailand for 'well-deserved' R&R Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T12:49:26+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMkhRUy16MlQ0NVBUYU4tZFlXU2U0dlVFQ1dlLTZyVnowTGprbFdzMmlMWWtKdWdwdmxlRXptSXZQMFNUQzE0VzNBRkpDZ2xFVUNVRTRxLWZhVGhuOHRYV1VMRTRPbVEybW5aMlFITDBkUVllS2V5a3RxbnpGUUFXQkRFdFJzbWZIUUxpZzBlbUlHbXQtbGl1NFBjNVRGUzNpd2ZGQkVlQl9Pbk44YUtIRV9ZNHBJUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "XRP and bitcoin may be forming the 'Bart Simpson pattern' as prices pull back",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-02T12:13:26+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Apple shares are doing something they haven't done in 20 years. Here’s what’s happening",
-      "description": "Apple stock hasn't been this inversely correlated to its tech peers since 2005.",
-      "source": "CNBC",
-      "publication_date": "2026-09-02T12:10:05+00:00",
-      "article_url": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html",
-      "asset_tags": [
-        "equities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Japan’s Remixpoint dumps altcoins, leaves 1,506 BTC as sole crypto bet",
-      "description": "Remixpoint sold $5.5 million in ETH, SOL, XRP and DOGE, booking a $736,000 net gain as it narrowed its crypto strategy to focus on Bitcoin.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-02T12:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/remixpoint-dumps-altcoins-1506-btc-sole-crypto-bet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Thai businessmen sue Tether for freezing $42M in $61M pig butchering case",
-      "description": "The plaintiffs didn’t dispute their involvement in the pig butchering scam, but claimed that Tether did not have the authority to freeze the $42 million at the time.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-02T12:00:00+00:00",
-      "article_url": "https://cointelegraph.com/news/thai-sue-tether-freezing-61m-pig-butchering-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-02T11:45:16+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-02T11:14:58+00:00",
-      "article_url": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
-      "asset_tags": [
-        "equities",
-        "commodities",
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-02T11:03:46+00:00",
-      "article_url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-02T10:50:38+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
       "asset_tags": [
         "crypto"
       ]
