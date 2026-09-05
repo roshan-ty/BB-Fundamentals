@@ -1,18 +1,39 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-05T03:45:28.255441+00:00",
+    "last_updated": "2026-09-05T07:53:34.598883+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "macro": 19,
+      "crypto": 48,
+      "macro": 20,
       "forex": 14,
-      "equities": 38,
+      "equities": 36,
       "commodities": 13,
-      "crypto": 47,
       "general": 103
     }
   },
   "articles": [
+    {
+      "headline": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-05T05:30:45+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+      "asset_tags": [
+        "crypto",
+        "macro"
+      ]
+    },
+    {
+      "headline": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-05T05:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Ameribrands Acquires Randal Retail Group, Expanding National Design, Manufacturing and Installation Capabilities",
       "description": "BALL GROUND, Ga.--(BUSINESS WIRE)--Ameribrands, a diversified platform of specialized businesses serving the restaurant, retail, hospitality, entertainment, education and facilities sectors, recently announced the acquisition of Randal Retail Group, a leading provider of retail design, fixture manuf",
@@ -46,16 +67,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "Oil ends week higher on renewed US-Iran strikes, diesel hits record - Reuters",
-      "description": "Oil ends week higher on renewed US-Iran strikes, diesel hits record Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-04T20:30:21+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -779,6 +790,16 @@
       ]
     },
     {
+      "headline": "Nepal floods ruin merchants, traders ahead of crucial festival season",
+      "description": "Nepal's floods devastate traders and merchants, threatening the crucial festival season and impacting the economy ahead of major celebrations.",
+      "source": "Bloomberg",
+      "publication_date": "2026-09-04T06:31:31+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-04/nepal-floods-ruin-merchants-traders-ahead-of-crucial-festival-season",
+      "asset_tags": [
+        "macro"
+      ]
+    },
+    {
       "headline": "El Salvador’s post-review Bitcoin accumulation used no public funds: IMF",
       "description": "The IMF attributed Bitcoin added since June 2025 to private donations, addressing questions raised after El Salvador reported a $100 million acquisition.",
       "source": "Cointelegraph",
@@ -840,6 +861,16 @@
       ]
     },
     {
+      "headline": "Tata Chemicals expelled from century-old Kenya soda-ash operation by President Ruto",
+      "description": "Kenyan President William Ruto says Tata Chemicals has been exporting soda ash instead of processing the mineral locally to make glass and chemicals",
+      "source": "Bloomberg",
+      "publication_date": "2026-09-04T04:21:22+00:00",
+      "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/kenya-s-ruto-seeks-new-investors-after-ousting-tata-from-magadi",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "U.S. banking agency gives blockchain bank OpenReserve initial OK to operate",
       "description": "",
       "source": "CoinDesk",
@@ -867,6 +898,16 @@
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/sugar-slides-from-17-month-high-as-indian-import-prospects-ease",
       "asset_tags": [
         "equities"
+      ]
+    },
+    {
+      "headline": "Oil ends week higher on renewed US-Iran strikes, diesel hits record - Reuters",
+      "description": "Oil ends week higher on renewed US-Iran strikes, diesel hits record Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-04T01:28:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -968,6 +1009,16 @@
       "article_url": "https://cointelegraph.com/news/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "Iran buries victims of reported US wedding attack, fires on Kuwait - Reuters",
+      "description": "Iran buries victims of reported US wedding attack, fires on Kuwait Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T20:58:53+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -1536,16 +1587,6 @@
       ]
     },
     {
-      "headline": "Iran buries victims of reported US wedding attack, fires on Kuwait - Reuters",
-      "description": "Iran buries victims of reported US wedding attack, fires on Kuwait Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T11:26:34+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZmJEcTdhQU9kcW41Z2J6enVZU2NHQ253eVV1VDJKOXBSTTJfbGhfVi1wbTQ0U1gzRllLb2xUUV9LRGRZaWpvaUlSWWRwQTdBaXdNY2x1Z3pxU1U1WjJSdzdKWGR6a2FLSXN6dnBPQ3NhM1hwUkxOZlIyd0dDX0ZycjdVSlpEUFN5N1NQbWR2UW1oRHNBU3BTZENPbGotQVFOSmdfUUFJNERYbEZTVzU3WDlrUQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "FX has stopped reading bond yields the old way. Bitcoin should too.",
       "description": "",
       "source": "CoinDesk",
@@ -2004,47 +2045,6 @@
       "article_url": "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Coinbase launches regulated crypto derivatives in Canada",
-      "description": "Coinbase is offering eligible Canadian traders perpetual and dated futures with up to 10x leverage as major US trading platforms expand their crypto presence in Canada.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-02T20:55:55+00:00",
-      "article_url": "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto",
-        "macro"
-      ]
-    },
-    {
-      "headline": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections - Reuters",
-      "description": "Trump aides seek 'quiet' in Iran war but say attacks may intensify after November elections Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-02T20:54:25+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "J&J's run to record highs hasn't reached the finish line yet. Here are the key drivers",
-      "description": "Jim Cramer agrees with UBS: The rally in Johnson & Johnson shares still has room to run.",
-      "source": "CNBC",
-      "publication_date": "2026-09-02T20:53:08+00:00",
-      "article_url": "https://www.cnbc.com/2026/09/02/jjs-run-to-record-highs-hasnt-reached-the-finish-line-yet-here-are-the-key-drivers.html",
-      "asset_tags": [
-        "equities"
-      ]
-    },
-    {
-      "headline": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
-      "description": "Broadcom gave a disappointing revenue forecast for the current quarter.",
-      "source": "CNBC",
-      "publication_date": "2026-09-02T20:27:45+00:00",
-      "article_url": "https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
-      "asset_tags": [
-        "equities"
       ]
     }
   ]
