@@ -1,18 +1,38 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-05T11:45:09.654429+00:00",
+    "last_updated": "2026-09-05T14:01:57.530067+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "crypto": 47,
       "general": 106,
-      "macro": 19,
+      "crypto": 48,
+      "macro": 18,
       "forex": 13,
-      "equities": 33,
+      "equities": 32,
       "commodities": 13
     }
   },
   "articles": [
+    {
+      "headline": "Icons Dolly Parton and Gloria Steinem never officially retired—why that's a choice for some and requirement for others",
+      "description": "The idea of never retiring sounds awful to some, but inspiring to others who want to pursue their passions long after they've left full-time work.",
+      "source": "CNBC",
+      "publication_date": "2026-09-05T13:00:01+00:00",
+      "article_url": "https://www.cnbc.com/2026/09/05/dolly-parton-gloria-steinem-never-retired.html",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-05T12:00:00+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
     {
       "headline": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
       "description": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
@@ -2021,27 +2041,6 @@
       "article_url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
       "asset_tags": [
         "crypto"
-      ]
-    },
-    {
-      "headline": "COMMENTARY: A remote shale gas basin in Australia answers Hormuz security fears - Reuters",
-      "description": "COMMENTARY: A remote shale gas basin in Australia answers Hormuz security fears Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T02:06:08+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN0txaTVkd3g4N1JRTUtEdWkwdUJOS3Y0cVZLMG1oRTlHT3ppQ0lsTExaNmgtcTA2dUE0d0U1MExpSWhMR2xBVFFqbHFRNzZaRi15TFVHZ0h1cDhVejd1SDJGUDJsVlRuMHB6VlFCSWJTaG5pOVZnNjQ4V2EzMV9BNEpYVjlLMG5HajF2VUpwNUU3SHdzOUE3M0l2UzBTUFpsUVVmZUVaZUZMUmJLNHVjSXZoaGg1Mnd4UWVqY01rRkxaLVlBNTNERVNKcw?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets - Reuters",
-      "description": "Bond yields fall, stocks rally as Fed's Waller comments curb rate hike bets Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T02:02:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
-      "asset_tags": [
-        "equities",
-        "macro"
       ]
     }
   ]
