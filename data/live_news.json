@@ -1,18 +1,48 @@
 {
   "meta": {
     "source": "NewsData.io, Finnhub",
-    "last_updated": "2026-09-05T16:51:16.122019+00:00",
+    "last_updated": "2026-09-05T18:54:51.653615+00:00",
     "total_articles": 200,
     "breakdown_by_asset_tag": {
-      "general": 106,
+      "crypto": 46,
+      "forex": 15,
+      "general": 107,
       "commodities": 14,
-      "crypto": 47,
-      "macro": 18,
-      "forex": 14,
+      "macro": 17,
       "equities": 31
     }
   },
   "articles": [
+    {
+      "headline": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-05T18:05:11+00:00",
+      "article_url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "asset_tags": [
+        "crypto"
+      ]
+    },
+    {
+      "headline": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "description": "",
+      "source": "CoinDesk",
+      "publication_date": "2026-09-05T16:43:13+00:00",
+      "article_url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "asset_tags": [
+        "forex"
+      ]
+    },
+    {
+      "headline": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says - Reuters",
+      "description": "Fuel tanker explosion after traffic accident kills 10 in Western Iran, state media says Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-05T16:19:53+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORW1OZWlZUzItUmdsYlhnaXMzU2djTWZBVERaNG4zbzhvZTcxaWtPaGJWamowRDgwTTZRX3Ftekl0bDgxMkJEdTZJbmVzei1ya245RGdiUEx4cHltelZzVTdZVlVhVUEza0dNZ0hqbFR1cTNYMHllLTAwRGdxVVVOazdEb1poa3lyTld2V0ZxR0VHZUNONVJlWFlGaXhKU0ZkamxkZ1N4Vkt4N0YzVmhDM3RYWnlmeE9FbVZzeWFZT0pLaFlwalpnQUVrRDk?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
     {
       "headline": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters",
       "description": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says Reuters",
@@ -51,6 +81,16 @@
       "article_url": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
       "asset_tags": [
         "crypto"
+      ]
+    },
+    {
+      "headline": "US ambassador to Israel says there is no plan to force Palestinians out of Gaza - Reuters",
+      "description": "US ambassador to Israel says there is no plan to force Palestinians out of Gaza Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-05T11:11:43+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTVYNkUxR29PRkZoM2ZrMGF0b0toaDNSbWthcG85cjNrZUpnZVMzUHpZRUpaMmpqNFBPSTRNUy16d2VyRUE5V1ExOUVuUDFWSFBzUW94bDY2U25yaGpiWWxWUjBsV0VIei1kZkdEMUw0S3VxVTAwZzcxVm1iU1NSeWotYm9KOTFWU3ZmSWFrekFiZHVfSEFpTUN0b2ttLVZNZTJQeHUwSGFvN2hwLWNiRWRGdG1oQjdrLU1jcXdwb0lqdw?oc=5",
+      "asset_tags": [
+        "general"
       ]
     },
     {
@@ -105,16 +145,6 @@
       ]
     },
     {
-      "headline": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition - Reuters",
-      "description": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-04T21:52:11+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWJyTEVVNzlNV2lCVktTZkk3dHZpYUFndlRkdTVXMzlnR0hEMXZYVnN5U3V5dC1JMEpWVDMwZng4YjhUc3pfOVpiNWNwdDRwbHY1TFhMLWZFZFh3YlF2SVEwYnJjNGkzTlpGR0hsRkwyMkQ4QVRSdmV4Ykxtd0xZamtOYkNNUV90TzhWdnF5ejhGRGhxSHgtcmp0SGdFVkhUa2owblM0QnN0aDRpeXlnRlBHUDdqZnE5TmRjd2FuR1dyVE5qY3VsNFJHWQ?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
       "headline": "Israel says it strikes southern Lebanon after Hezbollah drone launch - Reuters",
       "description": "Israel says it strikes southern Lebanon after Hezbollah drone launch Reuters",
       "source": "Reuters",
@@ -147,16 +177,6 @@
       "asset_tags": [
         "crypto",
         "macro"
-      ]
-    },
-    {
-      "headline": "EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports - Reuters",
-      "description": "EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-04T20:24:56+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjdmUFN3Ymp3TUZ5dnBMQnpFQzV4dGNNTlF1RWVnY0VScUZwU2RXZXh2LWQ1aElYUHdaTFFFNVp1VG5JN0xYdGdrZVhCQ1RDT0I4b0JUeXp1b29EYjcyMGt4bFlxdmdzUWN5ay1DaW5EX2NDQ2F5U3hHREZvUFEwVGdqNFI4Qzg3NDN5WmQxaGFZUl9HU2hwTGd0Qi1pWFE1YjRybjRWVnE2d0dJNEJNMGtZYjBFUmZUSkJpYVBrRlFQYnhoS0tYWnI1Xy1NbWVB?oc=5",
-      "asset_tags": [
-        "general"
       ]
     },
     {
@@ -729,6 +749,16 @@
       ]
     },
     {
+      "headline": "EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports - Reuters",
+      "description": "EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-04T10:02:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjdmUFN3Ymp3TUZ5dnBMQnpFQzV4dGNNTlF1RWVnY0VScUZwU2RXZXh2LWQ1aElYUHdaTFFFNVp1VG5JN0xYdGdrZVhCQ1RDT0I4b0JUeXp1b29EYjcyMGt4bFlxdmdzUWN5ay1DaW5EX2NDQ2F5U3hHREZvUFEwVGdqNFI4Qzg3NDN5WmQxaGFZUl9HU2hwTGd0Qi1pWFE1YjRybjRWVnE2d0dJNEJNMGtZYjBFUmZUSkJpYVBrRlFQYnhoS0tYWnI1Xy1NbWVB?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
       "description": "",
       "source": "CoinDesk",
@@ -1047,6 +1077,16 @@
       "source": "Bloomberg",
       "publication_date": "2026-09-03T23:58:10+00:00",
       "article_url": "https://www.bloomberg.com/news/articles/2026-09-03/vw-board-gives-ceo-blume-unanimous-backing-to-overhaul-carmaker",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
+      "headline": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition - Reuters",
+      "description": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T23:57:00+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWJyTEVVNzlNV2lCVktTZkk3dHZpYUFndlRkdTVXMzlnR0hEMXZYVnN5U3V5dC1JMEpWVDMwZng4YjhUc3pfOVpiNWNwdDRwbHY1TFhMLWZFZFh3YlF2SVEwYnJjNGkzTlpGR0hsRkwyMkQ4QVRSdmV4Ykxtd0xZamtOYkNNUV90TzhWdnF5ejhGRGhxSHgtcmp0SGdFVkhUa2owblM0QnN0aDRpeXlnRlBHUDdqZnE5TmRjd2FuR1dyVE5qY3VsNFJHWQ?oc=5",
       "asset_tags": [
         "general"
       ]
@@ -1781,6 +1821,16 @@
       ]
     },
     {
+      "headline": "Car hits pro-government gathering in Iran, killing four - Reuters",
+      "description": "Car hits pro-government gathering in Iran, killing four Reuters",
+      "source": "Reuters",
+      "publication_date": "2026-09-03T10:20:12+00:00",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWtDREdVczNZUUFoWGNtLURtUHE5bEdvbTJWWUpubFRfa1g4NWJMNFV6Z2Z6YXl4eFc2Q1FYeW5lN2R5MXhQNzJ5cENDS3BHLVNKRGxSNThtVWk5dlFadHBXSWppeXJpb25ZUG5TdGFIQzF1UUJyNFhJd1V2empxRDhZR1psNzQ4MFQ4NDJoWEk0cnVaMmtfNmhzN3NOcGZpelRLSXM4R2g?oc=5",
+      "asset_tags": [
+        "general"
+      ]
+    },
+    {
       "headline": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
       "description": "Standard Chartered said it is the first major global bank to offer institutional access to spot Bitcoin and Ether trading in the UAE region.",
       "source": "Cointelegraph",
@@ -1991,56 +2041,6 @@
       "article_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkVyYmYyTmp1NmFGaE5fZFBWcnZ5NnRaQ09sendHVW8tb1NUQWhNTEFXQ3J4U0MwdW5vYmZOT3VUdkI4X2pLQ3p2Zl9BSmdNaUVDX1I1X0VJekp6YzN3MEZ0Ujl2OTF0allpNzE3SnVMV0FMNE1tWmtRVld2dl9HMjFVMldXWkI1OHRGQ2FMWG95bHdYQS1JVFBCN0lhRjhfRjVDT3NMV1BlS0VsTVo3TncwMnI2elk?oc=5",
       "asset_tags": [
         "general"
-      ]
-    },
-    {
-      "headline": "Gaza seed bank helps farmers cultivate the little land they have left - Reuters",
-      "description": "Gaza seed bank helps farmers cultivate the little land they have left Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T06:03:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUl9TZU5Sc0FfNWNtVDZ1U1dOdjlSc3A0MmxBVkk0RUc1dmdTZFNiOE03eUswcGJHMm8zSVprUzk0c3VHMVVwS1VLUWtuOFcyY0ZQdjAwNjExbkZCSjk5TEI3YmFkUDZjNThqSHduOVVfaWlCYzlsTURVaFVYLV9UMmlvdVBjQnNOM2xUTFBJdGxUM0xJM2RyN1dDaTd0eUp1NHEyZXRkdXFBSVk3LURPZEJZSkk1VFp0SERF?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "COMMENTARY: Why oil importers are learning to live with longer trade routes - Reuters",
-      "description": "COMMENTARY: Why oil importers are learning to live with longer trade routes Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T06:00:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2VYUzlsTHFvZVRGVm5SWkRmaEFWR3ktQ1JGeUR4U01Za1Q3dGVadkpxakxJbVhEZF9Cel9ubDRQSGsyNE0xRUl0c3R3Yk5lM2RUSkVWdjZUNEJOXzYta0VMaVFxQUZHVXZta2Nma1lLcmw3QjR6d3hiMnVfY0U0UVdRMWdlX1VWbkoyU2pLZnVqMVpEdkc0Wkd3VVhHYTlwTko3dWV4WUVFM0RGQUVzX0c1SElOVnJhellGWG1sNWtHSlpGZXVvNA?oc=5",
-      "asset_tags": [
-        "macro"
-      ]
-    },
-    {
-      "headline": "India's services growth picks up in August but stays near four-year low, PMI shows - Reuters",
-      "description": "India's services growth picks up in August but stays near four-year low, PMI shows Reuters",
-      "source": "Reuters",
-      "publication_date": "2026-09-03T05:06:00+00:00",
-      "article_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRF9tUFZTZkxnX3NpRmtxUlBhNW9YN1R6Rkp4WE5Ednh5REJXRVdBMUFVZWQ4WGk1N25YQ0hIemlxSkg1U2FqNzB3VnpxVGdORGs1Rk94RXRERFJSZFVGbHlaY2xidm9CMnFGSGpUV3VqV3Nnb09teUw5a3JvOTVLWHlCWWVvRlNOZWNoYV8xWjgwRXNSTHh6bHZUc0o3WU1xMFBJZXFsOFcwX3ZUUmU0c2h0d2ZSMVZ3X1FrNjB3?oc=5",
-      "asset_tags": [
-        "general"
-      ]
-    },
-    {
-      "headline": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
-      "description": "",
-      "source": "CoinDesk",
-      "publication_date": "2026-09-03T04:58:05+00:00",
-      "article_url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
-      "asset_tags": [
-        "crypto"
-      ]
-    },
-    {
-      "headline": "Hyperscale Data ends Michigan BTC mining as holdings fall 79%",
-      "description": "Hyperscale Data’s Bitcoin holdings have fallen about 79% since late July to 215 BTC as it redirects capital toward its Michigan AI data center.",
-      "source": "Cointelegraph",
-      "publication_date": "2026-09-03T04:57:55+00:00",
-      "article_url": "https://cointelegraph.com/news/hyperscale-data-ends-michigan-bitcoin-mining-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "asset_tags": [
-        "crypto"
       ]
     }
   ]
